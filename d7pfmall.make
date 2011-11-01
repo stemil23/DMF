@@ -584,8 +584,6 @@ projects[tao][version] = 3.0-beta4
 projects[tao][type] = "theme"
 projects[zen][version] = 3.1
 projects[zen][type] = "theme"
-projects[blueprint][version] = 2.1
-projects[blueprint][type] = "theme"
 
   
   
