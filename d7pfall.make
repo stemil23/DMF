@@ -55,7 +55,7 @@ projects[pressflow][type] = "core"
 projects[pressflow][download][type] = "git"
 projects[pressflow][download][url] = "git://github.com/pressflow/7.git"
 
-projects[] = drupal
+; projects[] = drupal
 
 ; Projects
 ; --------
