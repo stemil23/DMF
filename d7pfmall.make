@@ -165,8 +165,6 @@ projects[backup_migrate][version] = 2.2
 projects[backup_migrate][type] = "module"
 projects[better_formats][version] = 1.x-dev
 projects[better_formats][type] = "module"
-projects[blueprint][version] = 2.x-dev
-projects[blueprint][type] = "module"
 projects[boxes][version] = 1.0-beta6
 projects[boxes][type] = "module"
 projects[captcha][version] = 1.0-alpha3
@@ -411,9 +409,9 @@ projects[stringoverrides][version] = 1.8
 projects[stringoverrides][type] = "module"
 projects[strongarm][version] = 2.0-beta3
 projects[strongarm][type] = "module"
-projects[term_reference_tree][version] = 1.0-beta7
+projects[term_reference_tree][version] = 1.6
 projects[term_reference_tree][type] = "module"
-projects[token][version] = 1.6
+projects[token][version] = 1.0-beta7
 projects[token][type] = "module"
 projects[transliteration][version] = 3.0
 projects[transliteration][type] = "module"
@@ -586,6 +584,8 @@ projects[tao][version] = 3.0-beta4
 projects[tao][type] = "theme"
 projects[zen][version] = 3.1
 projects[zen][type] = "theme"
+projects[blueprint][version] = 2.1
+projects[blueprint][type] = "theme"
 
   
   
