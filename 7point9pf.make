@@ -1,4 +1,3 @@
-
 ; Generated makefile from http://drushmake.me
 ; Permanent URL: http://drushmake.me/file.php?token=5564cbd6480e
 ; ----------------
@@ -452,14 +451,14 @@ projects[imagefield_crop][version] = 1.0
 projects[imagefield_crop][subdir] = "contrib"
 projects[imagefield_crop][type] = "module"
 
-projects[imagefield_focus][version] = 1.0
-projects[imagefield_focus][subdir] = "contrib"
-projects[imagefield_focus][type] = "module"
+; projects[imagefield_focus][version] = 1.0
+; projects[imagefield_focus][subdir] = "contrib"
+; projects[imagefield_focus][type] = "module"
 
 ; CONTENT EDITING MODULES ********
-projects[wysiwyg][version] = 2.1
-projects[wysiwyg][subdir] = "contrib"
-projects[wysiwyg][type] = "module"
+; projects[wysiwyg][version] = 2.1
+; projects[wysiwyg][subdir] = "contrib"
+; projects[wysiwyg][type] = "module"
 
 projects[ckeditor][version] = 1.2
 projects[ckeditor][subdir] = "contrib"
@@ -513,6 +512,7 @@ projects[addressfield][type] = "module"
 ; THEMES ********
 projects[adaptivetheme][version] = "2.1"
 projects[adaptivetheme][type] = "theme"
+projects[omega_tools][subdir] = "themes"
 
 ; LIBRARIES ********
 
