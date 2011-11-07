@@ -229,9 +229,9 @@ projects[redirect][version] = 1.x-dev
 projects[redirect][type] = "module"
 projects[globalredirect][version] = 1.3
 projects[globalredirect][type] = "module"
-projects[google_analytics][version] = 1.x-dev
+projects[google_analytics][version] = "1.x-dev"
 projects[google_analytics][type] = "module"
-projects[google_plusone][version] = 1.x-dev
+projects[google_plusone][version] = "1.x-dev"
 projects[google_plusone][type] = "module"
 
 projects[google_fonts][version] = 2.3
@@ -243,7 +243,7 @@ projects[google_webfont_loader_api][type] = "module"
 projects[fontyourface][version] = 1.6
 projects[fontyourface][type] = "module"
 
-projects[gmap][version] = 1.x-dev
+projects[gmap][version] = "1.x-dev"
 projects[gmap][type] = "module"
 
 projects[homebox][version] = 2.0-beta6
@@ -255,14 +255,14 @@ projects[httpbl][type] = "module"
 projects[honeypot][version] = 1.7
 projects[honeypot][type] = "module"
 
-projects[html5_base][version] = 2.x-dev
+projects[html5_base][version] = "2.x-dev"
 projects[html5_base][type] = "module"
 
 projects[hierarchical_select][version] = 3.0-alpha5
 projects[hierarchical_select][type] = "module"
 
 
-projects[imagecrop][version] = 1.x-dev
+projects[imagecrop][version] = "1.x-dev"
 projects[imagecrop][type] = "module"
 projects[imagefield_crop][version] = 1.0
 projects[imagefield_crop][type] = "module"
@@ -273,8 +273,8 @@ projects[image_resize_filter][type] = "module"
 projects[imageeditor][version] = 1.4
 projects[imageeditor][type] = "module"
 
-; projects[imagemarker][version] = 1.x-dev
-; projects[imagemarker][type] = "module"
+projects[imagemarker][version] = "1.x-dev"
+projects[imagemarker][type] = "module"
 
 projects[imagecache_actions][version] = 1.x-dev
 projects[imagecache_actions][type] = "module"
@@ -573,8 +573,8 @@ projects[nitobe][version] = "2.0-beta1"
 projects[nitobe][type] = "theme"
 projects[omega][version] = "3.0"
 projects[omega][type] = "theme"
-projects[rubik][version] = 4.0-beta6
-projects[rubik][type] = "theme"
+; projects[rubik][version] = 4.0-beta6
+; projects[rubik][type] = "theme"
 ; projects[sky][version] = "2.2"
 ; projects[sky][type] = "theme"
 ; projects[tao][version] = "3.0-beta4"
