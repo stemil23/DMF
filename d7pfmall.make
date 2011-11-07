@@ -234,7 +234,7 @@ projects[google_analytics][type] = "module"
 projects[google_plusone][version] = 1.x-dev
 projects[google_plusone][type] = "module"
 
-projects[google_fonts][version] = 1.x-dev
+projects[google_fonts][version] = 2.3
 projects[google_fonts][type] = "module"
 
 projects[google_webfont_loader_api][version] = 1.7
