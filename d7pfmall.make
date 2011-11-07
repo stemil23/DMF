@@ -303,8 +303,8 @@ projects[libraries][type] = "module"
 projects[lexicon][version] = 1.8
 projects[lexicon][type] = "module"
 
-projects[location][version] = 3.x-dev
-projects[location][type] = "module"
+; projects[location][version] = 3.x-dev
+; projects[location][type] = "module"
 projects[logintoboggan][version] = 1.2
 projects[logintoboggan][type] = "module"
 projects[login_destination][version] = 1.0
@@ -317,13 +317,13 @@ projects[mediaelement][version] = 1.1
 projects[mediaelement][type] = "module"
 projects[menu_block][version] = 2.x-dev
 projects[menu_block][type] = "module"
-projects[menu_breadcrumb][version] = 1.3
-projects[menu_breadcrumb][type] = "module"
+; projects[menu_breadcrumb][version] = 1.3
+; projects[menu_breadcrumb][type] = "module"
 projects[menu_attributes][version] = 1.x-dev
 projects[menu_attributes][type] = "module"
 
-projects[messaging][version] = 1.0-alpha1
-projects[messaging][type] = "module"
+; projects[messaging][version] = 1.0-alpha1
+; projects[messaging][type] = "module"
 
 projects[metatag][version] = 1.0-alpha3
 projects[metatag][type] = "module"
@@ -579,8 +579,8 @@ projects[sky][version] = 2.2
 projects[sky][type] = "theme"
 projects[tao][version] = 3.0-beta4
 projects[tao][type] = "theme"
-projects[zen][version] = 3.1
-projects[zen][type] = "theme"
+; projects[zen][version] = 3.1
+; projects[zen][type] = "theme"
 
   
   
