@@ -90,7 +90,7 @@ projects[panels][version] = 3.x-dev
 
 projects[features][subdir] = "contrib"
 projects[features][type] = "module"
-projects[features][version] = 1.x-dev
+projects[features][version] = 1.0-beta4
 
 projects[finder] = 1.3
 projects[finder][subdir] = "contrib"
@@ -291,7 +291,7 @@ projects[commerce][version] = 1.0
 projects[commerce][subdir] = "contrib"
 projects[commerce][type] = "module"
 
-projects[commerce_file][version] = 1.0-beta1
+projects[commerce_file][version] = 1.0-beta2
 projects[commerce_file][subdir] = "contrib"
 projects[commerce_file][type] = "module"
 
@@ -299,7 +299,7 @@ projects[commerce_paypal][version] = 1.x-dev
 projects[commerce_paypal][subdir] = "contrib"
 projects[commerce_paypal][type] = "module"
 
-projects[commerce_coupon][version] = 1.0-beta2
+projects[commerce_coupon][version] = 1.0-beta3
 projects[commerce_coupon][subdir] = "contrib"
 projects[commerce_coupon][type] = "module"
 
@@ -332,6 +332,10 @@ projects[fontyourface][type] = "module"
 projects[colorbox][version] = 1.1
 projects[colorbox][subdir] = "contrib"
 projects[colorbox][type] = "module"
+
+projects[context][version] = 3.0-beta2
+projects[context][subdir] = "contrib"
+projects[context][type] = "module"
 
 
 ; TAXONOMY RELATED MODULES ********
@@ -397,6 +401,10 @@ projects[admin_menu][version] = 3.x-dev
 projects[admin_menu][subdir] = "contrib"
 projects[admin_menu][type] = "module"
 
+projects[context_admin][version] = 1.0-rc5
+projects[context_admin][subdir] = "contrib"
+projects[context_admin][type] = "module"
+
 projects[admin_notes][version] = 1.0-beta1
 projects[admin_notes][subdir] = "contrib"
 projects[admin_notes][type] = "module"
@@ -444,6 +452,10 @@ projects[imagefield_crop][version] = 1.0
 projects[imagefield_crop][subdir] = "contrib"
 projects[imagefield_crop][type] = "module"
 
+projects[imagefield_focus][version] = 1.0
+projects[imagefield_focus][subdir] = "contrib"
+projects[imagefield_focus][type] = "module"
+
 ; CONTENT EDITING MODULES ********
 projects[wysiwyg][version] = 2.1
 projects[wysiwyg][subdir] = "contrib"
@@ -460,6 +472,36 @@ projects[ckeditor_link][type] = "module"
 projects[kcfinder][version] = 1.84
 projects[kcfinder][subdir] = "contrib"
 projects[kcfinder][type] = "module"
+
+
+; STEWART **********
+
+projects[content_access][version] = 1.2-beta1
+projects[content_access][subdir] = "contrib"
+projects[content_access][type] = "module"
+
+projects[clock][version] = 1.2
+projects[clock][subdir] = "contrib"
+projects[clock][type] = "module"
+
+projects[feeds][version] = 2.0-alpha4
+projects[feeds][subdir] = "contrib"
+projects[feeds][type] = "module"
+
+projects[field_group][version] = 1.0
+projects[field_group][subdir] = "contrib"
+projects[field_group][type] = "module"
+
+projects[nodereference_url][version] = 1.12
+projects[nodereference_url][subdir] = "contrib"
+projects[nodereference_url][type] = "module"
+
+; MAPPING AND GEOLOCATION **********
+projects[addressfield][version] = 1.0-beta2
+projects[addressfield][subdir] = "contrib"
+projects[addressfield][type] = "module"
+
+
 
 
 ; THEME ADMIN MODULES ********
