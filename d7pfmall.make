@@ -273,8 +273,8 @@ projects[image_resize_filter][type] = "module"
 projects[imageeditor][version] = 1.4
 projects[imageeditor][type] = "module"
 
-projects[imagemarker][version] = 1.x-dev
-projects[imagemarker][type] = "module"
+; projects[imagemarker][version] = 1.x-dev
+; projects[imagemarker][type] = "module"
 
 projects[imagecache_actions][version] = 1.x-dev
 projects[imagecache_actions][type] = "module"
@@ -575,8 +575,8 @@ projects[omega][version] = 3.0
 projects[omega][type] = "theme"
 projects[rubik][version] = 4.0-beta6
 projects[rubik][type] = "theme"
-projects[sky][version] = 2.2
-projects[sky][type] = "theme"
+; projects[sky][version] = 2.2
+; projects[sky][type] = "theme"
 ; projects[tao][version] = 3.0-beta4
 ; projects[tao][type] = "theme"
 ; projects[zen][version] = 3.1
