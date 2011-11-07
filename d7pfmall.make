@@ -261,10 +261,7 @@ projects[html5_base][type] = "module"
 projects[hierarchical_select][version] = 3.0-alpha5
 projects[hierarchical_select][type] = "module"
 
-projects[image][version] = 1.x-dev
-projects[image][type] = "module"
-projects[imageapi][version] = 1.x-dev
-projects[imageapi][type] = "module"
+
 projects[imagecrop][version] = 1.x-dev
 projects[imagecrop][type] = "module"
 projects[imagefield_crop][version] = 1.0
