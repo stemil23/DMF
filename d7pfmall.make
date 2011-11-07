@@ -302,17 +302,14 @@ projects[libraries][version] = 1.0
 projects[libraries][type] = "module"
 projects[lexicon][version] = 1.8
 projects[lexicon][type] = "module"
-
 projects[location][version] = "3.x-dev"
 projects[location][type] = "module"
-projects[logintoboggan][version] = 1.2
+projects[logintoboggan][version] = "1.2"
 projects[logintoboggan][type] = "module"
-projects[login_destination][version] = 1.0
+projects[login_destination][version] = "1.0"
 projects[login_destination][type] = "module"
-
 projects[masquerade][version] = "1.0-rc4"
 projects[masquerade][type] = "module"
-
 projects[mediaelement][version] = "1.1"
 projects[mediaelement][type] = "module"
 projects[menu_block][version] = "2.x-dev"
@@ -321,17 +318,12 @@ projects[menu_breadcrumb][version] = 1.3
 projects[menu_breadcrumb][type] = "module"
 projects[menu_attributes][version] = "1.x-dev"
 projects[menu_attributes][type] = "module"
-
 projects[messaging][version] = "1.0-alpha1"
 projects[messaging][type] = "module"
-
 projects[metatag][version] = "1.0-alpha3"
 projects[metatag][type] = "module"
-
 projects[mimemail][version] = 1.x-dev
 projects[mimemail][type] = "module"
-projects[mix_and_match][version] = "1.x-dev"
-projects[mix_and_match][type] = "module"
 projects[modernizr][version] = 1.0
 projects[modernizr][type] = "module"
 projects[module_builder][version] = "2.x-dev"
@@ -346,13 +338,13 @@ projects[node_clone][version] = "1.0-beta1"
 projects[node_clone][type] = "module"
 projects[notifications][version] = 1.0-alpha1
 projects[notifications][type] = "module"
-projects[omega_tools][version] = 3.0-rc3
+projects[omega_tools][version] = "3.0-rc3"
 projects[omega_tools][type] = "module"
 projects[om_maximenu][version] = 1.21
 projects[om_maximenu][type] = "module"
 projects[om_tools][version] = 2.12
 projects[om_tools][type] = "module"
-projects[openlayers][version] = 2.0-alpha2
+projects[openlayers][version] = "2.0-alpha2"
 projects[openlayers][type] = "module"
 projects[themekey][version] = "1.5"
 projects[themekey][type] = "module"
@@ -565,6 +557,8 @@ projects[nitobe][version] = "2.0-beta1"
 projects[nitobe][type] = "theme"
 projects[omega][version] = "3.0"
 projects[omega][type] = "theme"
+projects[mix_and_match][version] = "1.0"
+projects[mix_and_match][type] = "theme"
 ; projects[rubik][version] = 4.0-beta6
 ; projects[rubik][type] = "theme"
 ; projects[sky][version] = "2.2"
