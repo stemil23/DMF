@@ -486,7 +486,7 @@ projects[imagepicker][type] = "module"
 projects[filtersie][version] = 1.0-beta2
 projects[filtersie][type] = "module"
 
-projects[follow][version] = 1.0-beta2
+projects[follow][version] = 1.0-alpha1
 projects[follow][type] = "module"
 
 projects[fblikebutton][version] = 1.2
