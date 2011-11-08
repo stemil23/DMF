@@ -365,6 +365,9 @@ projects[openlayers][type] = "module"
 projects[geofield][version] = 1.0-beta1
 projects[geofield][type] = "module"
 
+projects[geocoder][version] = 1.x-dev
+projects[geocoder][type] = "module"
+
 projects[themekey][version] = 1.5
 projects[themekey][type] = "module"
 
@@ -384,6 +387,8 @@ projects[quicktabs][version] = 3.0
 projects[quicktabs][type] = "module"
 projects[realname][version] = 1.0-rc2
 projects[realname][type] = "module"
+projects[realname_registration][version] = 2.0-rc2
+projects[realname_registration][type] = "module"
 projects[responsive_images][version] = 1.0-beta3
 projects[responsive_images][type] = "module"
 projects[rootcandy][version] = 1.x-dev
@@ -481,8 +486,16 @@ projects[imagepicker][type] = "module"
 projects[filtersie][version] = 1.0-beta2
 projects[filtersie][type] = "module"
 
+projects[follow][version] = 1.0-beta2
+projects[follow][type] = "module"
+
+projects[fblikebutton][version] = 1.2
+projects[fblikebutton][type] = "module"
+
 projects[media][version] = 1.0-rc2
 projects[media][type] = "module"
+projects[media_browser_plus][version] = 1.0-beta3
+projects[media_browser_plus][type] = "module"
 projects[media_youtube][version] = 1.x-dev
 projects[media_youtube][type] = "module"
 projects[media_gallery][version] = 1.0-beta7
