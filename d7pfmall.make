@@ -362,6 +362,9 @@ projects[om_tools][type] = "module"
 projects[openlayers][version] = 2.0-alpha2
 projects[openlayers][type] = "module"
 
+projects[geofield][version] = 1.0-beta1
+projects[geofield][type] = "module"
+
 projects[themekey][version] = 1.5
 projects[themekey][type] = "module"
 
@@ -637,4 +640,10 @@ libraries[plupload][download][type] = "get"
 libraries[plupload][download][url] = "https://github.com/downloads/moxiecode/plupload/plupload_1_4_3_2.zip"
 libraries[plupload][directory_name] = "plupload"
 libraries[plupload][destination] = "libraries"
+
+; geoPHP
+libraries[geophp][download][type] = "git"
+libraries[geophp][download][url] = "https://github.com/phayes/geoPHP.git"
+libraries[geophp][directory_name] = "geoPHP"
+libraries[geophp][destination] = "libraries"
 
