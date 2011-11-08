@@ -579,7 +579,7 @@ projects[sky][version] = "2.2"
 projects[sky][type] = "theme"
 projects[tao][version] = "3.0-beta4"
 projects[tao][type] = "theme"
-projects[zen][version] = "3.1""
+projects[zen][version] = "3.1"
 projects[zen][type] = "theme"
 
   
