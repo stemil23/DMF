@@ -595,15 +595,19 @@ projects[zen][type] = "theme"
 ; ---------
 libraries[html5bp][download][type] = "file"
 libraries[html5bp][download][url] = "http://github.com/paulirish/html5-boilerplate/zipball/v1.0stripped"
+
 libraries[jquery][download][type] = "file"
 libraries[jquery][download][url] = "https://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.min.js"
+
 libraries[jquery_ui][download][type] = "get"
 libraries[jquery_ui][download][url] = "http://jquery-ui.googlecode.com/files/jquery-ui-1.7.3.zip"
 libraries[jquery_ui][directory_name] = "jquery.ui"
-libraries[jquery_ui][destination] = "modules/contrib/jquery_ui"
+libraries[jquery_ui][destination] = "modules/jquery_ui"
+
 libraries[zend_gdata][download][type] = "get"
 libraries[zend_gdata][download][url]= "http://framework.zend.com/releases/ZendGdata-1.10.6/ZendGdata-1.10.6.tar.gz"
 libraries[zend_gdata][destination] = "libraries"
+
 ; CKEditor
 libraries[ckeditor][download][type]= "get"
 libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.4/ckeditor_3.4.zip"
@@ -617,14 +621,20 @@ libraries[colorbox][directory_name] = "colorbox"
 libraries[colorbox][destination] = "libraries"
 
 ; Jcrop
-libraries[jcrop][download][type]= "get"
-libraries[jcrop][download][url] = "https://github.com/tapmodo/Jcrop/zipball/v0.9.9"
-libraries[jcrop][directory_name] = "jcrop"
+libraries[jcrop][download][type]= "git"
+libraries[jcrop][download][url] = "https://github.com/tapmodo/Jcrop.git"
+libraries[jcrop][directory_name] = "Jcrop"
 libraries[jcrop][destination] = "libraries"
 
 ; Json2
-libraries[json2][download][type]= "get"
-libraries[json2][download][url] = "https://raw.github.com/douglascrockford/JSON-js/master/json2.js"
+libraries[json2][download][type] = "git"
+libraries[json2][download][url] = "https://github.com/douglascrockford/JSON-js.git"
 libraries[json2][directory_name] = "json2"
 libraries[json2][destination] = "libraries"
+
+; Plupload
+libraries[plupload][download][type] = "get"
+libraries[plupload][download][url] = "https://github.com/downloads/moxiecode/plupload/plupload_1_4_3_2.zip"
+libraries[plupload][directory_name] = "plupload"
+libraries[plupload][destination] = "libraries"
 
