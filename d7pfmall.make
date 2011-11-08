@@ -8,7 +8,7 @@
 ; Core version
 ; ------------
 ; Each makefile should begin by declaring the core version of Drupal that all
-; projects should be compatible with.
+projects should be compatible with.
   
 core = 7.x
   
@@ -50,8 +50,8 @@ projects[commerce_file][version] = 1.0-beta2
 projects[commerce_file][type] = "module"
 
 
-; projects[contemplate][version] = 1.0-rc3
-; projects[contemplate][type] = "module"
+projects[contemplate][version] = 1.0-rc3
+projects[contemplate][type] = "module"
 
 projects[addressfield][version] = 1.0-beta2
 projects[addressfield][type] = "module"
@@ -290,56 +290,56 @@ projects[job_scheduler][type] = "module"
 projects[jquery_ui][version] = 1.x-dev
 projects[jquery_ui][type] = "module"
 
-; projects[jquery_twitter_search][version] = 1.0
-; projects[jquery_twitter_search][type] = "module"
+projects[jquery_twitter_search][version] = 1.0
+projects[jquery_twitter_search][type] = "module"
 
 projects[jquerymobile_ui][version] = 1.0-beta1
 projects[jquerymobile_ui][type] = "module"
 
-; projects[legal][version] = 1.2
-; projects[legal][type] = "module"
+projects[legal][version] = 1.2
+projects[legal][type] = "module"
 projects[libraries][version] = 1.0
 projects[libraries][type] = "module"
 projects[lexicon][version] = 1.8
 projects[lexicon][type] = "module"
 
-; projects[location][version] = 3.x-dev
-; projects[location][type] = "module"
+projects[location][version] = 3.x-dev
+projects[location][type] = "module"
 projects[logintoboggan][version] = 1.2
 projects[logintoboggan][type] = "module"
 projects[login_destination][version] = 1.0
 projects[login_destination][type] = "module"
 
-; projects[masquerade][version] = 1.0-rc4
-; projects[masquerade][type] = "module"
+projects[masquerade][version] = 1.0-rc4
+projects[masquerade][type] = "module"
 
-; projects[mediaelement][version] = 1.1
-; projects[mediaelement][type] = "module"
-; projects[menu_block][version] = 2.x-dev
-; projects[menu_block][type] = "module"
-; projects[menu_breadcrumb][version] = 1.3
-; projects[menu_breadcrumb][type] = "module"
-; projects[menu_attributes][version] = 1.x-dev
-; projects[menu_attributes][type] = "module"
+projects[mediaelement][version] = 1.1
+projects[mediaelement][type] = "module"
+projects[menu_block][version] = 2.x-dev
+projects[menu_block][type] = "module"
+projects[menu_breadcrumb][version] = 1.3
+projects[menu_breadcrumb][type] = "module"
+projects[menu_attributes][version] = 1.x-dev
+projects[menu_attributes][type] = "module"
 
-; projects[messaging][version] = 1.0-alpha1
-; projects[messaging][type] = "module"
+projects[messaging][version] = 1.0-alpha1
+projects[messaging][type] = "module"
 
-; projects[metatag][version] = 1.0-alpha3
-; projects[metatag][type] = "module"
+projects[metatag][version] = 1.0-alpha3
+projects[metatag][type] = "module"
 
 projects[mimemail][version] = 1.x-dev
 projects[mimemail][type] = "module"
-; projects[mix_and_match][version] = 1.x-dev
-; projects[mix_and_match][type] = "module"
+projects[mix_and_match][version] = 1.x-dev
+projects[mix_and_match][type] = "module"
 projects[modernizr][version] = 1.0
 projects[modernizr][type] = "module"
-; projects[module_builder][version] = 2.x-dev
-; projects[module_builder][type] = "module"
-; projects[mollom][version] = 1.1
-; projects[mollom][type] = "module"
-; projects[newswire][version] = 1.x-dev
-; projects[newswire][type] = "module"
+projects[module_builder][version] = 2.x-dev
+projects[module_builder][type] = "module"
+projects[mollom][version] = 1.1
+projects[mollom][type] = "module"
+projects[newswire][version] = 1.x-dev
+projects[newswire][type] = "module"
 projects[nice_menus][version] = 2.0
 projects[nice_menus][type] = "module"
 projects[node_clone][version] = 1.0-beta1
@@ -573,14 +573,14 @@ projects[nitobe][version] = "2.0-beta1"
 projects[nitobe][type] = "theme"
 projects[omega][version] = "3.0"
 projects[omega][type] = "theme"
-; projects[rubik][version] = 4.0-beta6
-; projects[rubik][type] = "theme"
-; projects[sky][version] = "2.2"
-; projects[sky][type] = "theme"
-; projects[tao][version] = "3.0-beta4"
-; projects[tao][type] = "theme"
-; projects[zen][version] = "3.1""
-; projects[zen][type] = "theme"
+projects[rubik][version] = 4.0-beta6
+projects[rubik][type] = "theme"
+projects[sky][version] = "2.2"
+projects[sky][type] = "theme"
+projects[tao][version] = "3.0-beta4"
+projects[tao][type] = "theme"
+projects[zen][version] = "3.1""
+projects[zen][type] = "theme"
 
   
   
