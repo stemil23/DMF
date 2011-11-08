@@ -7,7 +7,7 @@
 ; Core version
 ; ------------
 ; Each makefile should begin by declaring the core version of Drupal that all
-projects should be compatible with.
+; projects should be compatible with.
   
 core = 7.x
   
