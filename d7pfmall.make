@@ -82,7 +82,7 @@ projects[content_taxonomy][version] = 1.0-beta1
 projects[content_taxonomy][type] = "module"
 projects[email][version] = 1.0
 projects[email][type] = "module"
-projects[field_group][version] = 1.0
+projects[field_group][version] = 1.1
 projects[field_group][type] = "module"
 projects[field_redirection][version] = 2.3
 projects[field_redirection][type] = "module"
@@ -480,7 +480,7 @@ projects[filtersie][type] = "module"
 
 projects[media][version] = 1.0-rc2
 projects[media][type] = "module"
-projects[media_youtube][version] = 1.0-alpha5
+projects[media_youtube][version] = 1.x-dev
 projects[media_youtube][type] = "module"
 projects[media_gallery][version] = 1.0-beta7
 projects[media_gallery][type] = "module"
