@@ -1,4 +1,3 @@
-
 ; Generated makefile from http://drushmake.me
 ; Permanent URL: http://drushmake.me/file.php?token=5564cbd6480e
 ; ----------------
@@ -25,9 +24,8 @@ api = 2
 ; a core project. This is usually Drupal core, but you can also specify
 ; alternative core projects like Pressflow. Note that makefiles included with
 ; install profiles *should not* include a core project.
-  
-; Use Pressflow instead of Drupal core:
 
+; Use Pressflow instead of Drupal core:
 projects[pressflow][type] = "core"
 projects[pressflow][download][type] = "git"
 projects[pressflow][download][url] = "git://github.com/pressflow/7.git"
@@ -245,7 +243,7 @@ projects[google_webfont_loader_api][type] = "module"
 projects[fontyourface][version] = 1.6
 projects[fontyourface][type] = "module"
 
-projects[gmap][version] = "1.x-dev"
+projects[gmap][version] = 1.x-dev
 projects[gmap][type] = "module"
 
 projects[homebox][version] = 2.0-beta6
