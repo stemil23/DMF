@@ -113,7 +113,7 @@ projects[i18n][version] = 1.1
 projects[i18n][type] = "module"
 projects[nodequeue][version] = 2.0-beta1
 projects[nodequeue][type] = "module"
-projects[og][version] = 1.1
+projects[og][version] = 1.3
 projects[og][type] = "module"
 projects[og_role_field][version] = 1.0
 projects[og_role_field][type] = "module"
@@ -224,7 +224,7 @@ projects[filefield_sources][type] = "module"
 
 projects[flag][version] = 2.0-beta6
 projects[flag][type] = "module"
-projects[front][version] = 2.0
+projects[front][version] = 2.1
 projects[front][type] = "module"
 projects[fusion][version] = 1.0-alpha2
 projects[fusion][type] = "module"
@@ -423,7 +423,7 @@ projects[panels][version] = 3.x-dev
 projects[panels][type] = "module"
 projects[panels_extra_layouts][version] = 1.5
 projects[panels_extra_layouts][type] = "module"
-projects[panels_breadcrumbs][version] = 1.1
+projects[panels_breadcrumbs][version] = 1.2
 projects[panels_breadcrumbs][type] = "module"
 projects[print][version] = 1.0-beta1
 projects[print][type] = "module"
@@ -597,7 +597,34 @@ libraries[html5bp][download][type] = "file"
 libraries[html5bp][download][url] = "http://github.com/paulirish/html5-boilerplate/zipball/v1.0stripped"
 libraries[jquery][download][type] = "file"
 libraries[jquery][download][url] = "https://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.min.js"
-libraries[jqueryui][download][type] = "file"
-libraries[jqueryui][download][url] = "https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.12/jquery-ui.min.js"
+libraries[jquery_ui][download][type] = "get"
+libraries[jquery_ui][download][url] = "http://jquery-ui.googlecode.com/files/jquery-ui-1.7.3.zip"
+libraries[jquery_ui][directory_name] = "jquery.ui"
+libraries[jquery_ui][destination] = "modules/contrib/jquery_ui"
+libraries[zend_gdata][download][type] = "get"
+libraries[zend_gdata][download][url]= "http://framework.zend.com/releases/ZendGdata-1.10.6/ZendGdata-1.10.6.tar.gz"
+libraries[zend_gdata][destination] = "libraries"
+; CKEditor
+libraries[ckeditor][download][type]= "get"
+libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.4/ckeditor_3.4.zip"
+libraries[ckeditor][directory_name] = "ckeditor"
+libraries[ckeditor][destination] = "libraries"
 
+; Colorbox
+libraries[colorbox][download][type]= "get"
+libraries[colorbox][download][url] = "http://jacklmoore.com/colorbox/colorbox.zip"
+libraries[colorbox][directory_name] = "colorbox"
+libraries[colorbox][destination] = "libraries"
+
+; Jcrop
+libraries[jcrop][download][type]= "get"
+libraries[jcrop][download][url] = "https://github.com/tapmodo/Jcrop/zipball/v0.9.9"
+libraries[jcrop][directory_name] = "jcrop"
+libraries[jcrop][destination] = "libraries"
+
+; Json2
+libraries[json2][download][type]= "get"
+libraries[json2][download][url] = "https://raw.github.com/douglascrockford/JSON-js/master/json2.js"
+libraries[json2][directory_name] = "json2"
+libraries[json2][destination] = "libraries"
 
