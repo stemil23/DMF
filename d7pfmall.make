@@ -84,6 +84,11 @@ projects[email][version] = 1.0
 projects[email][type] = "module"
 projects[field_group][version] = 1.0
 projects[field_group][type] = "module"
+projects[field_redirection][version] = 2.3
+projects[field_redirection][type] = "module"
+projects[robotstxt][version] = 1.0
+projects[robotstxt][type] = "module"
+
 projects[link][version] = 1.0-beta1
 projects[link][type] = "module"
 projects[nodereference_url][version] = 1.12
@@ -446,6 +451,8 @@ projects[taxonomy_menu][type] = "module"
 projects[taxonomy_access][version] = 1.x-dev
 projects[taxonomy_access][type] = "module"
 
+projects[jstimer][version] = 1.2
+projects[jstimer][type] = "module"
 
 projects[themekey][version] = 1.5
 projects[themekey][type] = "module"
