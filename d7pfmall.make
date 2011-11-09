@@ -89,7 +89,7 @@ projects[field_redirection][type] = "module"
 projects[robotstxt][version] = 1.0
 projects[robotstxt][type] = "module"
 
-projects[link][version] = 1.0-beta1
+projects[link][version] = 1.0
 projects[link][type] = "module"
 projects[nodereference_url][version] = 1.12
 projects[nodereference_url][type] = "module"
@@ -101,7 +101,7 @@ projects[privatemsg][version] = 1.2
 projects[privatemsg][type] = "module"
 projects[html5_tools][version] = 1.1
 projects[html5_tools][type] = "module"
-projects[imce][version] = 1.4
+projects[imce][version] = 1.5
 projects[imce][type] = "module"
 
 projects[imce_crop][version] = 1.0
@@ -548,7 +548,7 @@ projects[mailchimp][type] = "module"
 
 projects[autocomplete_deluxe][version] = 1.0-beta5
 projects[autocomplete_deluxe][type] = "module"
-projects[ckeditor][version] = 1.3
+projects[ckeditor][version] = 1.4
 projects[ckeditor][type] = "module"
 projects[ckeditor_link][version] = 2.1
 projects[ckeditor_link][type] = "module"
@@ -559,7 +559,7 @@ projects[extlink][type] = "module"
 projects[imce_wysiwyg][version] = 1.0
 projects[imce_wysiwyg][type] = "module"
 
-projects[jcarousel][version] = 2.4-alpha3
+projects[jcarousel][version] = 2.5
 projects[jcarousel][type] = "module"
 
 projects[jquery_plugin][version] = 1.0
@@ -576,7 +576,7 @@ projects[unique_field][version] = 1.0-rc1
 projects[unique_field][type] = "module"
 projects[views][version] = 3.x-dev
 projects[views][type] = "module"
-projects[views_bulk_operations][version] = 3.0-beta2
+projects[views_bulk_operations][version] = 3.0-beta3
 projects[views_bulk_operations][type] = "module"
 projects[views_boxes][version] = 1.0-beta6
 projects[views_boxes][type] = "module"
@@ -690,5 +690,5 @@ libraries[geophp][destination] = "libraries"
 libraries[modernizr][download][type] = "get"
 libraries[modernizr][download][url] = "http://www.modernizr.com/downloads/modernizr-latest.js"
 libraries[modernizr][download][target_name] = "modernizr.min.js"
-libraries[geophp][directory_name] = "modernizr"
+libraries[modernizr][directory_name] = "modernizr"
 libraries[modernizr][destination] = "libraries"
