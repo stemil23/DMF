@@ -37,7 +37,7 @@ projects[pressflow][download][url] = "git://github.com/pressflow/7.git"
 
 projects[content_access][version] = 1.2-beta1
 projects[content_access][type] = "module"
-projects[admin][version] = 2.0-beta3
+projects[admin][version] = 2.x-dev
 projects[admin][type] = "module"
 projects[admin_menu][version] = 3.0-rc1
 projects[admin_menu][type] = "module"
@@ -57,7 +57,7 @@ projects[addressfield][version] = 1.0-beta2
 projects[addressfield][type] = "module"
 
 
-projects[ctools][version] = 1.0-rc1
+projects[ctools][version] = 1.x-dev
 projects[ctools][type] = "module"
 projects[context][version] = 3.0-beta2
 projects[context][type] = "module"
@@ -72,7 +72,7 @@ projects[date][version] = 2.0-alpha4
 projects[date][type] = "module"
 projects[devel][version] = 1.2
 projects[devel][type] = "module"
-projects[ds][version] = 1.3
+projects[ds][version] = 1.4
 projects[ds][type] = "module"
 projects[features][version] = 1.0-beta4
 projects[features][type] = "module"
@@ -93,6 +93,8 @@ projects[link][version] = 1.0-beta1
 projects[link][type] = "module"
 projects[nodereference_url][version] = 1.12
 projects[nodereference_url][type] = "module"
+projects[viewreference][version] = 3.1
+projects[viewreference][type] = "module"
 projects[references][version] = 2.0-beta3
 projects[references][type] = "module"
 projects[privatemsg][version] = 1.2
@@ -354,12 +356,15 @@ projects[notifications][type] = "module"
 
 projects[omega_tools][version] = 3.0-rc3
 projects[omega_tools][type] = "module"
-projects[om_maximenu][version] = 1.21
+projects[om_maximenu][version] = 1.30
 projects[om_maximenu][type] = "module"
 projects[om_tools][version] = 2.12
 projects[om_tools][type] = "module"
 
-projects[openlayers][version] = 2.0-alpha2
+projects[galleria][version] = 1.0-beta2
+projects[galleria][type] = "module"
+
+projects[openlayers][version] = 2.x-dev
 projects[openlayers][type] = "module"
 
 projects[geofield][version] = 1.0-beta1
@@ -373,9 +378,6 @@ projects[themekey][type] = "module"
 
 projects[pathauto][version] = 1.0
 projects[pathauto][type] = "module"
-
-projects[poormanscron][version] = 2.x-dev
-projects[poormanscron][type] = "module"
 
 projects[profile2][version] = 1.1
 projects[profile2][type] = "module"
@@ -405,7 +407,7 @@ projects[securepages][version] = 1.x-dev
 projects[securepages][type] = "module"
 projects[simplenews][version] = 1.0-alpha1
 projects[simplenews][type] = "module"
-projects[site_map][version] = 1.x-dev
+projects[site_map][version] = 1.0
 projects[site_map][type] = "module"
 projects[shorten][version] = 1.x-dev
 projects[shorten][type] = "module"
@@ -427,6 +429,8 @@ projects[transliteration][version] = 3.0
 projects[transliteration][type] = "module"
 projects[views_slideshow][version] = 3.0-alpha1
 projects[views_slideshow][type] = "module"
+projects[views_slideshow_slider][version] = 3.x-dev
+projects[views_slideshow_slider][type] = "module"
 projects[panels][version] = 3.x-dev
 projects[panels][type] = "module"
 projects[panels_extra_layouts][version] = 1.5
@@ -439,6 +443,9 @@ projects[rules][version] = 2.0
 projects[rules][type] = "module"
 projects[page_title][version] = 2.5
 projects[page_title][type] = "module"
+
+projects[tweet][version] = 4.4
+projects[tweet][type] = "module"
 
 projects[styles][version] = 2.x-dev
 projects[styles][type] = "module"
@@ -660,3 +667,9 @@ libraries[geophp][download][url] = "https://github.com/phayes/geoPHP.git"
 libraries[geophp][directory_name] = "geoPHP"
 libraries[geophp][destination] = "libraries"
 
+; Modernizr
+libraries[modernizr][download][type] = "get"
+libraries[modernizr][download][url] = "http://www.modernizr.com/downloads/modernizr-latest.js"
+libraries[modernizr][download][target_name] = "modernizr.min.js"
+libraries[geophp][directory_name] = "modernizr"
+libraries[modernizr][destination] = "libraries"
