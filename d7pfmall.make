@@ -403,7 +403,7 @@ projects[schema][type] = "module"
 
 projects[core_library][version] = 2.x-dev
 projects[core_library][type] = "module"
-projects[boost][version] = 2.x-dev
+projects[boost][version] = 1.x-dev
 projects[boost][type] = "module"
 projects[cdn][version] = 2.x-dev
 projects[cdn][type] = "module"
