@@ -401,10 +401,29 @@ projects[scheduler][type] = "module"
 projects[schema][version] = 1.x-dev
 projects[schema][type] = "module"
 
+projects[core_library][version] = 2.x-dev
+projects[core_library][type] = "module"
+projects[boost][version] = 2.x-dev
+projects[boost][type] = "module"
+projects[cdn][version] = 2.x-dev
+projects[cdn][type] = "module"
+projects[apc][version] = 1.x-dev
+projects[apc][type] = "module"
+
+projects[nodehierarchy][version] = 2.x-dev
+projects[nodehierarchy][type] = "module"
+
+
+projects[httprl][version] = 1.2
+projects[httprl][type] = "module"
+projects[fpa][version] = 2.x-dev
+projects[fpa][type] = "module"
 projects[search404][version] = 1.1
 projects[search404][type] = "module"
 projects[securepages][version] = 1.x-dev
 projects[securepages][type] = "module"
+projects[seckit][version] = 1.3
+projects[seckit][type] = "module"
 projects[simplenews][version] = 1.0-alpha1
 projects[simplenews][type] = "module"
 projects[site_map][version] = 1.0
