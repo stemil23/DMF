@@ -312,7 +312,7 @@ projects[lexicon][type] = "module"
 
 projects[location][version] = 3.x-dev
 projects[location][type] = "module"
-projects[logintoboggan][version] = 1.2
+projects[logintoboggan][version] = 1.3
 projects[logintoboggan][type] = "module"
 projects[login_destination][version] = 1.0
 projects[login_destination][type] = "module"
@@ -550,7 +550,7 @@ projects[mailchimp][type] = "module"
 
 projects[autocomplete_deluxe][version] = 1.0-beta5
 projects[autocomplete_deluxe][type] = "module"
-projects[ckeditor][version] = 1.4
+projects[ckeditor][version] = 1.6
 projects[ckeditor][type] = "module"
 projects[ckeditor_link][version] = 2.1
 projects[ckeditor_link][type] = "module"
@@ -702,3 +702,9 @@ libraries[modernizr][download][url] = "http://www.modernizr.com/downloads/modern
 libraries[modernizr][download][target_name] = "modernizr.min.js"
 libraries[modernizr][directory_name] = "modernizr"
 libraries[modernizr][destination] = "libraries"
+
+;qTip
+libraries[qtip][download][type] = "git"
+libraries[qtip][download][url] = "https://github.com/Craga89/qTip2.git"
+libraries[qtip][directory_name] = "qtip"
+libraries[qtip][destination] = "libraries"
