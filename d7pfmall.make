@@ -575,6 +575,9 @@ projects[jquery_update][version] = 2.x-dev
 projects[jquery_update][type] = "module"
 projects[poshy_tip][version] = 1.0-beta1
 projects[poshy_tip][type] = "module"
+projects[qtip][version] = 1.5
+projects[qtip][type] = "module"
+
 projects[wysiwyg][version] = 2.1
 projects[wysiwyg][type] = "module"
 
@@ -704,14 +707,20 @@ libraries[geophp][destination] = "libraries"
 libraries[modernizr][download][type] = "get"
 libraries[modernizr][download][url] = "http://www.modernizr.com/downloads/modernizr-latest.js"
 libraries[modernizr][download][target_name] = "modernizr.min.js"
-libraries[modernizr][directory_name] = "modernizr"
-libraries[modernizr][destination] = "libraries"
+; libraries[modernizr][directory_name] = "modernizr"
+libraries[modernizr][destination] = "modules/modernizr"
 
 ;qTip
 libraries[qtip][download][type] = "git"
 libraries[qtip][download][url] = "https://github.com/Craga89/qTip2.git"
-libraries[qtip][directory_name] = "qtip"
-libraries[qtip][destination] = "libraries"
+libraries[qtip][directory_name] = "library"
+libraries[qtip][destination] = "modules/qtip"
+
+;PoshyTip
+libraries[poshytip][download][type] = "get"
+libraries[poshytip][download][url] = "http://vadikom.com/files/?file=poshytip/poshytip-1.1.zip"
+libraries[poshytip][directory_name] = "poshy_tip"
+libraries[poshytip][destination] = "libraries"
 
 ;HeadJS
 libraries[headjs][download][type] = "git"
