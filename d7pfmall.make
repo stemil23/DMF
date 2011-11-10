@@ -713,8 +713,8 @@ libraries[modernizr][destination] = "modules/modernizr"
 ;qTip
 libraries[qtip][download][type] = "git"
 libraries[qtip][download][url] = "https://github.com/Craga89/qTip2.git"
-libraries[qtip][directory_name] = "library"
-libraries[qtip][destination] = "modules/qtip"
+libraries[qtip][directory_name] = "qtip"
+libraries[qtip][destination] = "libraries"
 
 ;PoshyTip
 libraries[poshytip][download][type] = "get"
