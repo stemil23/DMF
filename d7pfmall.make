@@ -708,3 +708,10 @@ libraries[qtip][download][type] = "git"
 libraries[qtip][download][url] = "https://github.com/Craga89/qTip2.git"
 libraries[qtip][directory_name] = "qtip"
 libraries[qtip][destination] = "libraries"
+
+;HeadJS
+libraries[headjs][download][type] = "git"
+libraries[headjs][download][url] = "https://github.com/headjs/headjs.git"
+libraries[headjs][directory_name] = "headjs"
+libraries[headjs][destination] = "libraries"
+
