@@ -133,6 +133,10 @@ projects[arrange_fields][type] = "module"
 projects[better_formats][version] = 1.x-dev
 projects[better_formats][type] = "module"
 
+projects[mailsystem][version] = 2.30
+projects[mailsystem][type] = "module"
+
+
 projects[colorbox][version] = 1.2
 projects[colorbox][type] = "module"
 
