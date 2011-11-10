@@ -703,12 +703,12 @@ libraries[geophp][download][url] = "https://github.com/phayes/geoPHP.git"
 libraries[geophp][directory_name] = "geoPHP"
 libraries[geophp][destination] = "libraries"
 
-; Modernizr
-libraries[modernizr][download][type] = "get"
-libraries[modernizr][download][url] = "http://www.modernizr.com/downloads/modernizr-latest.js"
-libraries[modernizr][download][target_name] = "modernizr.min.js"
+; Modernizr - prob create custom build and gork on my github if decide required
+; libraries[modernizr][download][type] = "get"
+; libraries[modernizr][download][url] = "http://www.modernizr.com/downloads/modernizr-latest.js"
+; libraries[modernizr][download][target_name] = "modernizr.min.js"
 ; libraries[modernizr][directory_name] = "modernizr"
-libraries[modernizr][destination] = "modules/modernizr"
+; libraries[modernizr][destination] = "modules/modernizr"
 
 ;qTip
 libraries[qtip][download][type] = "git"
@@ -724,7 +724,8 @@ libraries[poshytip][destination] = "libraries"
 
 ;HeadJS
 libraries[headjs][download][type] = "git"
-libraries[headjs][download][url] = "https://github.com/headjs/headjs.git"
+libraries[headjs][download][url] = "https://raw.github.com/headjs/headjs/master/dist/head.min.js"
+libraries[headjs][download][url] = "https://raw.github.com/headjs/headjs/master/dist/head.load.min.js"
 libraries[headjs][directory_name] = "headjs"
 libraries[headjs][destination] = "libraries"
 
