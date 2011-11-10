@@ -722,15 +722,7 @@ libraries[poshytip][download][url] = "http://vadikom.com/files/?file=poshytip/po
 libraries[poshytip][directory_name] = "poshy_tip"
 libraries[poshytip][destination] = "libraries"
 
-;HeadJS1
-libraries[headjs][download][type] = "git"
-libraries[headjs][download][url] = "https://raw.github.com/headjs/headjs/master/dist/head.min.js"
-libraries[headjs][directory_name] = "headjs"
-libraries[headjs][destination] = "libraries"
-
-;HeadJS2
-libraries[headjs2][download][type] = "git"
-libraries[headjs2][download][url] = "https://raw.github.com/headjs/headjs/master/dist/head.load.min.js"
-libraries[headjs2][directory_name] = "headjs"
-libraries[headjs2][destination] = "libraries"
-
+;HeadJS
+libraries[headjs][download][type] = git
+libraries[headjs][download][url] = https://github.com/headjs/headjs.git
+libraries[headjs][download][tag] = v0.9
