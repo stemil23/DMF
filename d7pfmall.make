@@ -411,6 +411,8 @@ projects[cdn][version] = 2.x-dev
 projects[cdn][type] = "module"
 projects[apc][version] = 1.x-dev
 projects[apc][type] = "module"
+projects[headjs][version] = 1.x-dev
+projects[headjs][type] = "module"
 
 projects[nodehierarchy][version] = 2.x-dev
 projects[nodehierarchy][type] = "module"
