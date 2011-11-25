@@ -285,6 +285,9 @@ projects[imageeditor][type] = "module"
 projects[imagemarker][version] = "1.x-dev"
 projects[imagemarker][type] = "module"
 
+projects[imageapi_optimize][version] = "1.x-dev"
+projects[imageapi_optimize][type] = "module"
+
 projects[imagecache_actions][version] = 1.x-dev
 projects[imagecache_actions][type] = "module"
 projects[imagecache_profiles][version] = 1.0
