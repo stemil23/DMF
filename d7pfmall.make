@@ -30,7 +30,59 @@ projects[pressflow][type] = "core"
 projects[pressflow][download][type] = "git"
 projects[pressflow][download][url] = "git://github.com/pressflow/7.git"
 
-  
+projects[galleria][version] = 1.0-beta2
+projects[galleria][type] = "module"
+
+projects[openlayers][version] = 2.x-dev
+projects[openlayers][type] = "module"
+
+projects[geofield][version] = 1.0-beta2
+projects[geofield][type] = "module"
+
+projects[geocoder][version] = 1.x-dev
+projects[geocoder][type] = "module"
+
+projects[themekey][version] = 1.5
+projects[themekey][type] = "module"
+
+projects[pathauto][version] = 1.0
+projects[pathauto][type] = "module"
+
+projects[profile2][version] = 1.1
+projects[profile2][type] = "module"
+
+projects[publishcontent][version] = 1.0
+projects[publishcontent][type] = "module"
+
+projects[quicktabs][version] = 3.0
+projects[quicktabs][type] = "module"
+projects[realname][version] = 1.0-rc2
+projects[realname][type] = "module"
+projects[realname_registration][version] = 2.0-rc2
+projects[realname_registration][type] = "module"
+projects[responsive_images][version] = 1.0-beta3
+projects[responsive_images][type] = "module"
+projects[rootcandy][version] = 1.x-dev
+projects[rootcandy][type] = "module"
+projects[scheduler][version] = 1.0
+projects[scheduler][type] = "module"
+
+projects[schema][version] = 1.x-dev
+projects[schema][type] = "module"
+
+projects[core_library][version] = 1.0-beta10
+projects[core_library][type] = "module"
+projects[boost][version] = 1.x-dev
+projects[boost][type] = "module"
+projects[cdn][version] = 2.x-dev
+projects[cdn][type] = "module"
+; projects[apc][version] = 1.x-dev
+; projects[apc][type] = "module"
+; projects[headjs][version] = 1.x-dev
+; projects[headjs][type] = "module"
+
+projects[nodehierarchy][version] = 2.x-dev
+projects[nodehierarchy][type] = "module"
 
 projects[httprl][version] = 1.2
 projects[httprl][type] = "module"
