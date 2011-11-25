@@ -42,6 +42,9 @@ projects[admin][type] = "module"
 projects[admin_menu][version] = 3.0-rc1
 projects[admin_menu][type] = "module"
 
+projects[fit_text][version] = 1.0
+projects[fit_text][type] = "module"
+
 projects[commerce][version] = 1.0
 projects[commerce][type] = "module"
 projects[commerce_coupon][version] = 1.0-beta3
@@ -146,7 +149,7 @@ projects[easy_social][type] = "module"
 projects[content_page][version] = 1.3
 projects[content_page][type] = "module"
 
-projects[css_injector][version] = 1.6
+projects[css_injector][version] = 1.7
 projects[css_injector][type] = "module"
 
 
@@ -270,6 +273,10 @@ projects[html5_base][type] = "module"
 projects[hierarchical_select][version] = 3.0-alpha5
 projects[hierarchical_select][type] = "module"
 
+projects[droptor][version] = "3.x-dev"
+projects[droptor][type] = "module"
+
+
 
 projects[imagecrop][version] = "1.x-dev"
 projects[imagecrop][type] = "module"
@@ -372,7 +379,7 @@ projects[galleria][type] = "module"
 projects[openlayers][version] = 2.x-dev
 projects[openlayers][type] = "module"
 
-projects[geofield][version] = 1.0-beta1
+projects[geofield][version] = 1.0-beta2
 projects[geofield][type] = "module"
 
 projects[geocoder][version] = 1.x-dev
