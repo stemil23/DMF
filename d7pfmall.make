@@ -30,6 +30,349 @@ projects[pressflow][type] = "core"
 projects[pressflow][download][type] = "git"
 projects[pressflow][download][url] = "git://github.com/pressflow/7.git"
 
+  
+  
+; Modules
+; --------
+
+projects[content_access][version] = 1.2-beta1
+projects[content_access][type] = "module"
+projects[admin][version] = 2.x-dev
+projects[admin][type] = "module"
+projects[admin_menu][version] = 3.0-rc1
+projects[admin_menu][type] = "module"
+
+projects[fit_text][version] = 1.0
+projects[fit_text][type] = "module"
+
+projects[commerce][version] = 1.0
+projects[commerce][type] = "module"
+projects[commerce_coupon][version] = 1.0-beta3
+projects[commerce_coupon][type] = "module"
+projects[commerce_file][version] = 1.0-beta2
+projects[commerce_file][type] = "module"
+
+
+projects[contemplate][version] = 1.0-rc3
+projects[contemplate][type] = "module"
+
+projects[addressfield][version] = 1.0-beta2
+projects[addressfield][type] = "module"
+
+
+projects[ctools][version] = 1.x-dev
+projects[ctools][type] = "module"
+projects[context][version] = 3.0-beta2
+projects[context][type] = "module"
+projects[context_admin][version] = 1.0-rc5
+projects[context_admin][type] = "module"
+projects[calendar][version] = 3.0-alpha1
+projects[calendar][type] = "module"
+
+projects[clock][version] = 1.2
+projects[clock][type] = "module"
+projects[date][version] = 2.0-alpha4
+projects[date][type] = "module"
+projects[devel][version] = 1.2
+projects[devel][type] = "module"
+projects[ds][version] = 1.4
+projects[ds][type] = "module"
+projects[features][version] = 1.0-beta4
+projects[features][type] = "module"
+projects[feeds][version] = 2.0-alpha4
+projects[feeds][type] = "module"
+projects[content_taxonomy][version] = 1.0-beta1
+projects[content_taxonomy][type] = "module"
+projects[email][version] = 1.0
+projects[email][type] = "module"
+projects[field_group][version] = 1.1
+projects[field_group][type] = "module"
+projects[field_redirection][version] = 2.3
+projects[field_redirection][type] = "module"
+projects[robotstxt][version] = 1.0
+projects[robotstxt][type] = "module"
+
+projects[link][version] = 1.0
+projects[link][type] = "module"
+projects[nodereference_url][version] = 1.12
+projects[nodereference_url][type] = "module"
+projects[viewreference][version] = 3.1
+projects[viewreference][type] = "module"
+projects[references][version] = 2.0-beta3
+projects[references][type] = "module"
+projects[privatemsg][version] = 1.2
+projects[privatemsg][type] = "module"
+projects[html5_tools][version] = 1.1
+projects[html5_tools][type] = "module"
+projects[imce][version] = 1.5
+projects[imce][type] = "module"
+
+projects[imce_crop][version] = 1.0
+projects[imce_crop][type] = "module"
+
+projects[imce_mkdir][version] = 1.0
+projects[imce_mkdir][type] = "module"
+
+
+projects[i18n][version] = 1.1
+projects[i18n][type] = "module"
+projects[nodequeue][version] = 2.0-beta1
+projects[nodequeue][type] = "module"
+projects[og][version] = 1.3
+projects[og][type] = "module"
+projects[og_role_field][version] = 1.0
+projects[og_role_field][type] = "module"
+
+
+projects[me][version] = 1.0
+projects[me][type] = "module"
+
+projects[advanced_forum][version] = 2.0-beta2
+projects[advanced_forum][type] = "module"
+
+projects[arrange_fields][version] = 1.5
+projects[arrange_fields][type] = "module"
+
+projects[better_formats][version] = 1.x-dev
+projects[better_formats][type] = "module"
+
+projects[mailsystem][version] = 2.30
+projects[mailsystem][type] = "module"
+
+
+projects[colorbox][version] = 1.2
+projects[colorbox][type] = "module"
+
+projects[easy_social][version] = 1.0-beta5
+projects[easy_social][type] = "module"
+
+projects[content_page][version] = 1.3
+projects[content_page][type] = "module"
+
+projects[css_injector][version] = 1.7
+projects[css_injector][type] = "module"
+
+
+projects[chosen][version] = 1.0
+projects[chosen][type] = "module"
+projects[chain_menu_access][version] = 1.0
+projects[chain_menu_access][type] = "module"
+
+
+projects[acl][version] = 1.0-rc1
+projects[acl][type] = "module"
+projects[acquia_marina][version] = 1.0-rc3
+projects[acquia_marina][type] = "module"
+projects[addtoany][version] = 3.1
+projects[addtoany][type] = "module"
+projects[advanced_help][version] = 1.0-beta1
+projects[advanced_help][type] = "module"
+projects[analytic][version] = 1.x-dev
+projects[analytic][type] = "module"
+projects[author_pane][version] = 2.0-alpha1
+projects[author_pane][type] = "module"
+projects[auto_nodetitle][version] = 1.0
+projects[auto_nodetitle][type] = "module"
+projects[backup_migrate][version] = 2.2
+projects[backup_migrate][type] = "module"
+projects[better_formats][version] = 1.x-dev
+projects[better_formats][type] = "module"
+projects[boxes][version] = 1.0-beta6
+projects[boxes][type] = "module"
+projects[captcha][version] = 1.0-alpha3
+projects[captcha][type] = "module"
+projects[cck][version] = 2.x-dev
+projects[cck][type] = "module"
+projects[comment_notify][version] = 1.0
+projects[comment_notify][type] = "module"
+projects[computed_field][version] = 1.x-dev
+projects[computed_field][type] = "module"
+projects[custom_breadcrumbs][version] = 1.0-alpha1
+projects[custom_breadcrumbs][type] = "module"
+
+projects[custom_formatters][version] = 2.x-dev
+projects[custom_formatters][type] = "module"
+
+projects[delta][version] = 3.0-beta8
+projects[delta][type] = "module"
+
+projects[dhtml_menu][version] = 1.0-beta1
+projects[dhtml_menu][type] = "module"
+projects[diff][version] = 2.0
+projects[diff][type] = "module"
+
+projects[domain][version] = 2.15
+projects[domain][type] = "module"
+
+projects[dynamic_background][version] = 1.7
+projects[dynamic_background][type] = "module"
+
+projects[entity][version] = 1.0-beta11
+projects[entity][type] = "module"
+
+projects[entity_autocomplete][version] = 1.0-beta1
+projects[entity_autocomplete][type] = "module"
+
+projects[entitycache][version] = 1.1
+projects[entitycache][type] = "module"
+projects[elements][version] = 1.2
+projects[elements][type] = "module"
+projects[faq][version] = 1.0-rc1
+projects[faq][type] = "module"
+
+projects[fp][version] = 1.1
+projects[fp][type] = "module"
+projects[faq][version] = 1.0-rc1
+projects[faq][type] = "module"
+projects[filefield_paths][version] = 1.0-beta1
+projects[filefield_paths][type] = "module"
+projects[filefield_sources][version] = 1.4
+projects[filefield_sources][type] = "module"
+
+projects[flag][version] = 2.0-beta6
+projects[flag][type] = "module"
+projects[front][version] = 2.1
+projects[front][type] = "module"
+projects[fusion][version] = 1.0-alpha2
+projects[fusion][type] = "module"
+projects[getid3][version] = 1.0
+projects[getid3][type] = "module"
+projects[redirect][version] = 1.x-dev
+projects[redirect][type] = "module"
+projects[globalredirect][version] = 1.3
+projects[globalredirect][type] = "module"
+projects[google_analytics][version] = "1.x-dev"
+projects[google_analytics][type] = "module"
+projects[google_plusone][version] = "1.x-dev"
+projects[google_plusone][type] = "module"
+
+projects[google_fonts][version] = 2.3
+projects[google_fonts][type] = "module"
+
+projects[google_webfont_loader_api][version] = 1.7
+projects[google_webfont_loader_api][type] = "module"
+
+projects[fontyourface][version] = 1.6
+projects[fontyourface][type] = "module"
+
+projects[gmap][version] = 1.x-dev
+projects[gmap][type] = "module"
+
+projects[homebox][version] = 2.0-beta6
+projects[homebox][type] = "module"
+
+projects[httpbl][version] = 1.0-rc4
+projects[httpbl][type] = "module"
+
+projects[honeypot][version] = 1.8
+projects[honeypot][type] = "module"
+
+projects[html5_base][version] = "2.x-dev"
+projects[html5_base][type] = "module"
+
+projects[hierarchical_select][version] = 3.0-alpha5
+projects[hierarchical_select][type] = "module"
+
+projects[droptor][version] = "3.x-dev"
+projects[droptor][type] = "module"
+
+
+
+projects[imagecrop][version] = "1.x-dev"
+projects[imagecrop][type] = "module"
+projects[imagefield_crop][version] = 1.0
+projects[imagefield_crop][type] = "module"
+
+projects[image_resize_filter][version] = 1.13
+projects[image_resize_filter][type] = "module"
+
+projects[imageeditor][version] = 1.4
+projects[imageeditor][type] = "module"
+
+projects[imagemarker][version] = "1.x-dev"
+projects[imagemarker][type] = "module"
+
+projects[imageapi_optimize][version] = "1.x-dev"
+projects[imageapi_optimize][type] = "module"
+
+projects[imagecache_actions][version] = 1.x-dev
+projects[imagecache_actions][type] = "module"
+projects[imagecache_profiles][version] = 1.0
+projects[imagecache_profiles][type] = "module"
+projects[insert][version] = 1.1
+projects[insert][type] = "module"
+projects[invite][version] = 2.x-dev
+projects[invite][type] = "module"
+projects[job_scheduler][version] = 2.0-alpha2
+projects[job_scheduler][type] = "module"
+
+projects[jquery_ui][version] = 1.x-dev
+projects[jquery_ui][type] = "module"
+
+projects[jquery_twitter_search][version] = 1.0
+projects[jquery_twitter_search][type] = "module"
+
+projects[jquerymobile_ui][version] = 1.0-beta1
+projects[jquerymobile_ui][type] = "module"
+
+projects[legal][version] = 1.2
+projects[legal][type] = "module"
+projects[libraries][version] = 1.0
+projects[libraries][type] = "module"
+projects[lexicon][version] = 1.8
+projects[lexicon][type] = "module"
+
+projects[location][version] = 3.x-dev
+projects[location][type] = "module"
+projects[logintoboggan][version] = 1.3
+projects[logintoboggan][type] = "module"
+projects[login_destination][version] = 1.0
+projects[login_destination][type] = "module"
+
+projects[masquerade][version] = 1.0-rc4
+projects[masquerade][type] = "module"
+
+projects[mediaelement][version] = 1.1
+projects[mediaelement][type] = "module"
+projects[menu_block][version] = 2.x-dev
+projects[menu_block][type] = "module"
+projects[menu_breadcrumb][version] = 1.3
+projects[menu_breadcrumb][type] = "module"
+projects[menu_attributes][version] = 1.x-dev
+projects[menu_attributes][type] = "module"
+
+projects[messaging][version] = 1.0-alpha1
+projects[messaging][type] = "module"
+
+projects[metatag][version] = 1.0-alpha3
+projects[metatag][type] = "module"
+
+projects[mimemail][version] = 1.x-dev
+projects[mimemail][type] = "module"
+projects[mix_and_match][version] = 1.x-dev
+projects[mix_and_match][type] = "module"
+projects[modernizr][version] = 1.0
+projects[modernizr][type] = "module"
+projects[module_builder][version] = 2.x-dev
+projects[module_builder][type] = "module"
+projects[mollom][version] = 1.1
+projects[mollom][type] = "module"
+projects[newswire][version] = 1.x-dev
+projects[newswire][type] = "module"
+projects[nice_menus][version] = 2.0
+projects[nice_menus][type] = "module"
+projects[node_clone][version] = 1.0-beta1
+projects[node_clone][type] = "module"
+projects[notifications][version] = 1.0-alpha1
+projects[notifications][type] = "module"
+
+projects[omega_tools][version] = 3.0-rc3
+projects[omega_tools][type] = "module"
+projects[om_maximenu][version] = 1.30
+projects[om_maximenu][type] = "module"
+projects[om_tools][version] = 2.12
+projects[om_tools][type] = "module"
+
 projects[galleria][version] = 1.0-beta2
 projects[galleria][type] = "module"
 
@@ -70,19 +413,20 @@ projects[scheduler][type] = "module"
 projects[schema][version] = 1.x-dev
 projects[schema][type] = "module"
 
-projects[core_library][version] = 1.0-beta10
+projects[core_library][version] = 2.x-dev
 projects[core_library][type] = "module"
 projects[boost][version] = 1.x-dev
 projects[boost][type] = "module"
 projects[cdn][version] = 2.x-dev
 projects[cdn][type] = "module"
-; projects[apc][version] = 1.x-dev
-; projects[apc][type] = "module"
-; projects[headjs][version] = 1.x-dev
-; projects[headjs][type] = "module"
+projects[apc][version] = 1.x-dev
+projects[apc][type] = "module"
+projects[headjs][version] = 1.x-dev
+projects[headjs][type] = "module"
 
 projects[nodehierarchy][version] = 2.x-dev
 projects[nodehierarchy][type] = "module"
+
 
 projects[httprl][version] = 1.2
 projects[httprl][type] = "module"
@@ -313,6 +657,7 @@ projects[tao][version] = "3.0-beta4"
 projects[tao][type] = "theme"
 projects[zen][version] = "3.1"
 projects[zen][type] = "theme"
+
   
   
 ; Libraries
@@ -382,12 +727,12 @@ libraries[qtip][directory_name] = "qtip"
 libraries[qtip][destination] = "libraries"
 
 ;PoshyTip
-libraries[poshytip][download][type] = "get"
-libraries[poshytip][download][url] = "http://vadikom.com/files/?file=poshytip/poshytip-1.1.zip"
-libraries[poshytip][directory_name] = "poshy_tip"
-libraries[poshytip][destination] = "libraries"
+; libraries[poshytip][download][type] = "get"
+; libraries[poshytip][download][url] = "http://vadikom.com/files/?file=poshytip/poshytip-1.1.zip"
+; libraries[poshytip][directory_name] = "poshy_tip"
+; libraries[poshytip][destination] = "libraries"
 
 ;HeadJS
-libraries[headjs][download][type] = git
-libraries[headjs][download][url] = https://github.com/headjs/headjs.git
-libraries[headjs][download][tag] = v0.9
+; libraries[headjs][download][type] = git
+; libraries[headjs][download][url] = https://github.com/headjs/headjs.git
+; libraries[headjs][download][tag] = v0.9
