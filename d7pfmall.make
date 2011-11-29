@@ -161,8 +161,7 @@ projects[chain_menu_access][type] = "module"
 
 projects[acl][version] = 1.0
 projects[acl][type] = "module"
-projects[acquia_marina][version] = 1.0-rc3
-projects[acquia_marina][type] = "module"
+
 projects[addtoany][version] = 3.1
 projects[addtoany][type] = "module"
 projects[advanced_help][version] = 1.0
@@ -351,8 +350,8 @@ projects[mimemail][version] = 1.x-dev
 projects[mimemail][type] = "module"
 projects[mix_and_match][version] = 1.x-dev
 projects[mix_and_match][type] = "module"
-projects[modernizr][version] = 1.0
-projects[modernizr][type] = "module"
+; projects[modernizr][version] = 1.0
+; projects[modernizr][type] = "module"
 projects[module_builder][version] = 2.x-dev
 projects[module_builder][type] = "module"
 projects[mollom][version] = 1.1
@@ -407,8 +406,7 @@ projects[realname_registration][version] = 2.0-rc2
 projects[realname_registration][type] = "module"
 projects[responsive_images][version] = 1.0-beta3
 projects[responsive_images][type] = "module"
-projects[rootcandy][version] = 1.x-dev
-projects[rootcandy][type] = "module"
+ 
 projects[scheduler][version] = 1.0
 projects[scheduler][type] = "module"
 
@@ -422,8 +420,6 @@ projects[core_library][type] = "module"
 ; projects[cdn][version] = 2.x-dev
 ; projects[cdn][type] = "module"
 
-; projects[apc][version] = 1.x-dev
-; projects[apc][type] = "module"
 ; projects[headjs][version] = 1.x-dev
 ; projects[headjs][type] = "module"
 
@@ -660,6 +656,9 @@ projects[tao][version] = "3.0-beta4"
 projects[tao][type] = "theme"
 projects[zen][version] = "3.1"
 projects[zen][type] = "theme"
+projects[acquia_marina][version] = 1.0-rc3
+projects[acquia_marina][type] = "theme"
+
 
 projects[mobile_jquery][version] = "1.1-beta1"
 projects[mobile_jquery][type] = "theme"
