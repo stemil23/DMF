@@ -42,8 +42,8 @@ projects[admin][type] = "module"
 projects[admin_menu][version] = 3.0-rc1
 projects[admin_menu][type] = "module"
 
-;projects[fit_text][version] = 1.0
-; projects[fit_text][type] = "module"
+projects[fit_text][version] = 1.0
+projects[fit_text][type] = "module"
 
 projects[commerce][version] = 1.0
 projects[commerce][type] = "module"
@@ -58,6 +58,9 @@ projects[commerce][type] = "module"
 
 projects[addressfield][version] = 1.0-beta2
 projects[addressfield][type] = "module"
+
+projects[dart][version] = 2.4
+projects[dart][type] = "module"
 
 
 projects[ctools][version] = 1.x-dev
@@ -79,8 +82,8 @@ projects[ds][version] = 1.4
 projects[ds][type] = "module"
 projects[features][version] = 1.0-beta4
 projects[features][type] = "module"
-; projects[feeds][version] = 2.0-alpha4
-; projects[feeds][type] = "module"
+projects[feeds][version] = 2.0-alpha4
+projects[feeds][type] = "module"
 projects[content_taxonomy][version] = 1.0-beta1
 projects[content_taxonomy][type] = "module"
 projects[email][version] = 1.0
@@ -96,14 +99,14 @@ projects[link][version] = 1.0
 projects[link][type] = "module"
 projects[nodereference_url][version] = 1.12
 projects[nodereference_url][type] = "module"
-; projects[viewreference][version] = 3.1
-; projects[viewreference][type] = "module"
-; projects[references][version] = 2.0-beta3
-; projects[references][type] = "module"
-; projects[privatemsg][version] = 1.2
-; projects[privatemsg][type] = "module"
-; projects[html5_tools][version] = 1.1
-; projects[html5_tools][type] = "module"
+projects[viewreference][version] = 3.1
+projects[viewreference][type] = "module"
+projects[references][version] = 2.0-beta3
+projects[references][type] = "module"
+projects[privatemsg][version] = 1.2
+projects[privatemsg][type] = "module"
+projects[html5_tools][version] = 1.1
+projects[html5_tools][type] = "module"
 projects[imce][version] = 1.5
 projects[imce][type] = "module"
 
@@ -118,10 +121,10 @@ projects[i18n][version] = 1.2
 projects[i18n][type] = "module"
 projects[nodequeue][version] = 2.0-beta1
 projects[nodequeue][type] = "module"
-; projects[og][version] = 1.3
-; projects[og][type] = "module"
-; projects[og_role_field][version] = 1.0
-; projects[og_role_field][type] = "module"
+projects[og][version] = 1.3
+projects[og][type] = "module"
+projects[og_role_field][version] = 1.0
+projects[og_role_field][type] = "module"
 
 
 ; projects[me][version] = 1.0
@@ -130,14 +133,14 @@ projects[nodequeue][type] = "module"
 ; projects[advanced_forum][version] = 2.0-beta2
 ; projects[advanced_forum][type] = "module"
 
-; projects[arrange_fields][version] = 1.5
-; projects[arrange_fields][type] = "module"
+projects[arrange_fields][version] = 1.5
+projects[arrange_fields][type] = "module"
 
 ; projects[better_formats][version] = 1.x-dev
 ; projects[better_formats][type] = "module"
 
-; projects[mailsystem][version] = 2.30
-; projects[mailsystem][type] = "module"
+projects[mailsystem][version] = 2.30
+projects[mailsystem][type] = "module"
 
 
 projects[colorbox][version] = 1.2
@@ -199,8 +202,8 @@ projects[dhtml_menu][type] = "module"
 projects[diff][version] = 2.0
 projects[diff][type] = "module"
 
-; projects[domain][version] = 2.16
-; projects[domain][type] = "module"
+projects[domain][version] = 2.16
+projects[domain][type] = "module"
 
 projects[dynamic_background][version] = 1.8
 projects[dynamic_background][type] = "module"
@@ -312,6 +315,9 @@ projects[jquery_twitter_search][type] = "module"
 projects[jquerymobile_ui][version] = 1.0-beta1
 projects[jquerymobile_ui][type] = "module"
 
+projects[views_jqm][version] = 1.0
+projects[views_jqm][type] = "module"
+
 projects[legal][version] = 1.2
 projects[legal][type] = "module"
 projects[libraries][version] = 1.0
@@ -343,6 +349,8 @@ projects[messaging][type] = "module"
 
 projects[metatag][version] = 1.0-alpha3
 projects[metatag][type] = "module"
+projects[tagging][version] = 3.1
+projects[tagging][type] = "module"
 
 projects[mimemail][version] = 1.x-dev
 projects[mimemail][type] = "module"
@@ -393,6 +401,9 @@ projects[pathauto][type] = "module"
 projects[profile2][version] = 1.1
 projects[profile2][type] = "module"
 
+projects[profile2_regpath][version] = 1.0-beta2
+projects[profile2_regpath][type] = "module"
+
 projects[publishcontent][version] = 1.0
 projects[publishcontent][type] = "module"
 
@@ -408,8 +419,8 @@ projects[responsive_images][type] = "module"
 projects[scheduler][version] = 1.0
 projects[scheduler][type] = "module"
 
-; projects[schema][version] = 1.x-dev
-; projects[schema][type] = "module"
+projects[schema][version] = 1.x-dev
+projects[schema][type] = "module"
 
 projects[core_library][version] = 1.0-beta10
 projects[core_library][type] = "module"
