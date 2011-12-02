@@ -202,8 +202,8 @@ projects[dhtml_menu][type] = "module"
 ; projects[diff][version] = 2.0
 ; projects[diff][type] = "module"
 
-; projects[domain][version] = 2.16
-; projects[domain][type] = "module"
+projects[domain][version] = 2.16
+projects[domain][type] = "module"
 
 ; projects[dynamic_background][version] = 1.8
 ; projects[dynamic_background][type] = "module"
@@ -677,8 +677,8 @@ projects[rubik][version] = 4.0-beta6
 projects[rubik][type] = "theme"
 ; projects[sky][version] = "2.2"
 ; projects[sky][type] = "theme"
-; projects[tao][version] = "3.0-beta4"
-; projects[tao][type] = "theme"
+projects[tao][version] = "3.0-beta4"
+projects[tao][type] = "theme"
 projects[zen][version] = "3.1"
 projects[zen][type] = "theme"
 projects[acquia_marina][version] = 1.0-rc3
