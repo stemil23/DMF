@@ -51,7 +51,7 @@ projects[commerce_coupon][version] = 1.0-beta3
 projects[commerce_coupon][type] = "module"
 projects[commerce_file][version] = 1.0-beta2
 projects[commerce_file][type] = "module"
-projects[commerce_bpc][version] = 1.0-beta2
+projects[commerce_bpc][version] = 1.0-rc2
 projects[commerce_bpc][type] = "module"
 
 
@@ -247,7 +247,7 @@ projects[front][type] = "module"
 
 ; projects[getid3][version] = 1.0
 ; projects[getid3][type] = "module"
-projects[redirect][version] = 1.x-dev
+projects[redirect][version] = 1.0-beta4
 projects[redirect][type] = "module"
 projects[globalredirect][version] = 1.3
 projects[globalredirect][type] = "module"
