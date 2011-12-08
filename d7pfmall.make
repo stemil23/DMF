@@ -346,11 +346,14 @@ projects[logintoboggan][type] = "module"
 projects[login_destination][version] = 1.0
 projects[login_destination][type] = "module"
 
-projects[user_details][version] = 1.3
+projects[user_details][version] = 1.4
 projects[user_details][type] = "module"
 
 projects[masquerade][version] = 1.0-rc4
 projects[masquerade][type] = "module"
+
+projects[hansel][version] = 1.3
+projects[hansel][type] = "module"
 
 projects[mediaelement][version] = 1.1
 projects[mediaelement][type] = "module"
@@ -486,6 +489,9 @@ projects[strongarm][version] = 2.0-beta4
 projects[strongarm][type] = "module"
 projects[term_reference_tree][version] = 1.6
 projects[term_reference_tree][type] = "module"
+projects[submenutree][version] = 2.1
+projects[submenutree][type] = "module"
+
 projects[token][version] = 1.0-beta7
 projects[token][type] = "module"
 projects[transliteration][version] = 3.0
@@ -638,7 +644,7 @@ projects[views_puc][type] = "module"
 
 projects[variable][version] = 1.1
 projects[variable][type] = "module"
-projects[rate][version] = 1.2
+projects[rate][version] = 1.3
 projects[rate][type] = "module"
 projects[fivestar][version] = 2.0-alpha1
 projects[fivestar][type] = "module"
