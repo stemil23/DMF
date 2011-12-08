@@ -166,6 +166,11 @@ projects[chosen][type] = "module"
 projects[chain_menu_access][version] = 1.0
 projects[chain_menu_access][type] = "module"
 
+projects[purl][version] = 1.0-beta1
+projects[purl][type] = "module"
+
+projects[spaces][version] = 3.x-dev
+projects[spaces][type] = "module"
 
 projects[acl][version] = 1.0
 projects[acl][type] = "module"
