@@ -100,6 +100,10 @@ projects[field_group][type] = "module"
 ; projects[robotstxt][version] = 1.0
 ; projects[robotstxt][type] = "module"
 
+
+; projects[textile][version] = 2.0-rc11
+; projects[textile][type] = "module"
+
 projects[link][version] = 1.0
 projects[link][type] = "module"
 projects[nodereference_url][version] = 1.12
@@ -153,6 +157,12 @@ projects[colorbox][type] = "module"
 
 projects[easy_social][version] = 1.0-beta5
 projects[easy_social][type] = "module"
+
+projects[socialmedia][version] = 1.0-beta2
+projects[socialmedia][type] = "module"
+
+projects[widgets][version] = 1.0-beta2
+projects[widgets][type] = "module"
 
 ; projects[content_page][version] = 1.3
 ; projects[content_page][type] = "module"
@@ -212,7 +222,7 @@ projects[dhtml_menu][type] = "module"
 ; projects[diff][version] = 2.0
 ; projects[diff][type] = "module"
 
-projects[domain][version] = 2.16
+projects[domain][version] = 2.17
 projects[domain][type] = "module"
 
 projects[dynamic_background][version] = 1.8
@@ -346,7 +356,7 @@ projects[logintoboggan][type] = "module"
 projects[login_destination][version] = 1.0
 projects[login_destination][type] = "module"
 
-projects[user_details][version] = 1.4
+projects[user_details][version] = 1.5
 projects[user_details][type] = "module"
 
 projects[masquerade][version] = 1.0-rc4
@@ -394,7 +404,7 @@ projects[notifications][type] = "module"
 projects[omega_tools][version] = 3.0-rc3
 projects[omega_tools][type] = "module"
 
-projects[om_maximenu][version] = 1.36
+projects[om_maximenu][version] = 1.40
 projects[om_maximenu][type] = "module"
 projects[om_tools][version] = 2.12
 projects[om_tools][type] = "module"
@@ -595,7 +605,7 @@ projects[plupload][version] = 1.x-dev
 projects[plupload][type] = "module"
 
 
-projects[mailchimp][version] = 2.3
+projects[mailchimp][version] = 2.4
 projects[mailchimp][type] = "module"
 
 
@@ -650,7 +660,7 @@ projects[fivestar][version] = 2.0-alpha1
 projects[fivestar][type] = "module"
 projects[votingapi][version] = 2.4
 projects[votingapi][type] = "module"
-projects[webform][version] = 3.13
+projects[webform][version] = 3.15
 projects[webform][type] = "module"
 projects[webform_validation][version] = 1.1
 projects[webform_validation][type] = "module"
@@ -672,9 +682,9 @@ projects[pixture_reloaded][version] = 2.2
 projects[pixture_reloaded][type] = "theme"
 projects[corolla][version] = 2.2
 projects[corolla][type] = "theme"
-projects[sky][version] = 2.2
+projects[sky][version] = 2.3
 projects[sky][type] = "theme"
-projects[at-commerce][version] = 2.0-beta2
+projects[at-commerce][version] = 2.0-rc1
 projects[at-commerce][type] = "theme"
 projects[basic][version] = 2.0-rc3
 projects[basic][type] = "theme"
