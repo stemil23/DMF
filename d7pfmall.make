@@ -287,7 +287,7 @@ projects[fontyourface][type] = "module"
 projects[homebox][version] = 2.0-beta6
 projects[homebox][type] = "module"
 
-projects[httpbl][version] = 1.3
+projects[httpbl][version] = 1.0-rc4
 projects[httpbl][type] = "module"
 
 projects[honeypot][version] = 1.8
@@ -757,7 +757,7 @@ projects[fusion][version] = 1.0-alpha2
 projects[fusion][type] = "theme"
 ; projects[html5_base][version] = "2.x-dev"
 ; projects[html5_base][type] = "theme"
-projects[mobile_jquery][version] = "1.1-beta1"
+projects[mobile_jquery][version] = 1.1-beta1
 projects[mobile_jquery][type] = "theme"
 
   
