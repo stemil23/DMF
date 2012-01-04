@@ -466,15 +466,15 @@ projects[radioactivity][type] = "module"
 projects[schema][version] = 1.x-dev
 projects[schema][type] = "module"
 
-projects[core_library][version] = 1.0-beta10
+projects[core_library][version] = 1.0-beta11
 projects[core_library][type] = "module"
 projects[boost][version] = 1.x-dev
 projects[boost][type] = "module"
 ; projects[cdn][version] = 2.x-dev
 ; projects[cdn][type] = "module"
 
-; projects[headjs][version] = 1.x-dev
-; projects[headjs][type] = "module"
+projects[headjs][version] = 1.x-dev
+projects[headjs][type] = "module"
 
 projects[nodehierarchy][version] = 2.x-dev
 projects[nodehierarchy][type] = "module"
@@ -491,14 +491,14 @@ projects[securepages][type] = "module"
 projects[security_review][version] = 1.0
 projects[security_review][type] = "module"
 
-; projects[seckit][version] = 1.3
-; projects[seckit][type] = "module"
+projects[seckit][version] = 1.3
+projects[seckit][type] = "module"
 projects[simplenews][version] = 1.0-alpha1
 projects[simplenews][type] = "module"
 projects[site_map][version] = 1.0
 projects[site_map][type] = "module"
-; projects[shorten][version] = 1.x-dev
-; projects[shorten][type] = "module"
+projects[shorten][version] = 1.x-dev
+projects[shorten][type] = "module"
 projects[site_verify][version] = 1.x-dev
 projects[site_verify][type] = "module"
 ; projects[skinr][version] = 2.x-dev
