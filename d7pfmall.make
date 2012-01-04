@@ -158,7 +158,7 @@ projects[mailsystem][type] = "module"
 projects[colorbox][version] = 1.2
 projects[colorbox][type] = "module"
 
-projects[easy_social][version] = 1.0-beta5
+projects[easy_social][version] = 2.1
 projects[easy_social][type] = "module"
 
 projects[socialmedia][version] = 1.0-beta5
@@ -225,7 +225,7 @@ projects[dhtml_menu][type] = "module"
 ; projects[diff][version] = 2.0
 ; projects[diff][type] = "module"
 
-projects[domain][version] = 2.17
+projects[domain][version] = 3.2
 projects[domain][type] = "module"
 
 projects[dynamic_background][version] = 1.8
@@ -437,7 +437,7 @@ projects[themekey][type] = "module"
 projects[pathauto][version] = 1.0
 projects[pathauto][type] = "module"
 
-projects[profile2][version] = 1.1
+projects[profile2][version] = 1.2
 projects[profile2][type] = "module"
 
 projects[profile2_regpath][version] = 1.0
@@ -511,7 +511,7 @@ projects[strongarm][version] = 2.0-beta5
 projects[strongarm][type] = "module"
 projects[term_reference_tree][version] = 1.6
 projects[term_reference_tree][type] = "module"
-projects[submenutree][version] = 2.1
+projects[submenutree][version] = 2.3
 projects[submenutree][type] = "module"
 
 projects[token][version] = 1.0-beta7
