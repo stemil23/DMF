@@ -232,6 +232,8 @@ projects[dhtml_menu][type] = "module"
 
 projects[domain][version] = 3.3
 projects[domain][type] = "module"
+projects[domain_blocks][version] = 3.x-dev
+projects[domain_blocks][type] = "module"
 
 projects[dynamic_background][version] = 1.8
 projects[dynamic_background][type] = "module"
@@ -541,7 +543,7 @@ projects[views_slideshow_slider][version] = 3.x-dev
 projects[views_slideshow_slider][type] = "module"
 projects[views_slideshow_xtra][version] = 3.0
 projects[views_slideshow_xtra][type] = "module"
-projects[panels][version] = 3.x-dev
+projects[panels][version] = 3.0
 projects[panels][type] = "module"
 projects[panels_extra_layouts][version] = 1.5
 projects[panels_extra_layouts][type] = "module"
@@ -587,7 +589,7 @@ projects[taxonomy_menu][type] = "module"
 projects[taxonomy_access][version] = 1.x-dev
 projects[taxonomy_access][type] = "module"
 
-projects[jstimer][version] = 1.2
+projects[jstimer][version] = 1.3
 projects[jstimer][type] = "module"
 
 projects[themekey][version] = 1.5
