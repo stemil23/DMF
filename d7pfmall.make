@@ -68,6 +68,8 @@ projects[commerce_price_savings_formatter][type] = "module"
 
 projects[addressfield][version] = 1.0-beta2
 projects[addressfield][type] = "module"
+projects[location_taxonomize][version] = 2.3
+projects[location_taxonomize][type] = "module"
 
 ; projects[dart][version] = 2.4
 ; projects[dart][type] = "module"
@@ -153,7 +155,7 @@ projects[me][type] = "module"
 projects[advanced_forum][version] = 2.0-rc1
 projects[advanced_forum][type] = "module"
 
-projects[arrange_fields][version] = 1.6
+projects[arrange_fields][version] = 1.7
 projects[arrange_fields][type] = "module"
 
 projects[better_formats][version] = 1.x-dev
@@ -209,7 +211,7 @@ projects[backup_migrate][version] = 2.2
 projects[backup_migrate][type] = "module"
 
 
-projects[boxes][version] = 1.0-beta6
+projects[boxes][version] = 1.0-beta7
 projects[boxes][type] = "module"
 projects[captcha][version] = 1.0-beta2
 projects[captcha][type] = "module"
@@ -459,7 +461,7 @@ projects[pathauto][type] = "module"
 projects[profile2][version] = 1.2
 projects[profile2][type] = "module"
 
-projects[profile2_regpath][version] = 1.3
+projects[profile2_regpath][version] = 1.5
 projects[profile2_regpath][type] = "module"
 projects[reg_with_pic][version] = 1.0
 projects[reg_with_pic][type] = "module"
@@ -482,7 +484,7 @@ projects[adaptive_image][type] = "module"
 projects[scheduler][version] = 1.0
 projects[scheduler][type] = "module"
 
-projects[radioactivity][version] = 2.0
+projects[radioactivity][version] = 2.2
 projects[radioactivity][type] = "module"
 
 projects[schema][version] = 1.x-dev
@@ -638,7 +640,7 @@ projects[media_youtube][version] = 1.x-dev
 projects[media_youtube][type] = "module"
 projects[media_gallery][version] = 1.0-beta7
 projects[media_gallery][type] = "module"
-projects[media-nivo-slider][version] = 1.1
+projects[media-nivo-slider][version] = 1.2
 projects[media-nivo-slider][type] = "module"
 projects[media-nivo-slider][version] = 1.1
 projects[media-nivo-slider][type] = "module"
@@ -652,7 +654,7 @@ projects[nivo_slider][version] = 1.1
 projects[nivo_slider][type] = "module"
 
 
-projects[menu_minipanels][version] = 1.0-rc2
+projects[menu_minipanels][version] = 1.0-rc3
 projects[menu_minipanels][type] = "module"
 
 projects[menu_force][version] = 1.1
@@ -720,7 +722,7 @@ projects[views_boxes][version] = 1.0-beta6
 projects[views_boxes][type] = "module"
 projects[views_puc][version] = 3.0
 projects[views_puc][type] = "module"
-projects[global_filter][version] = 1.0
+projects[global_filter][version] = 1.1
 projects[global_filter][type] = "module"
 
 projects[slidebox][version] = 1.2
