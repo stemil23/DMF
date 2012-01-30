@@ -690,7 +690,7 @@ projects[tables][type] = "module"
 
 projects[imce_wysiwyg][version] = 1.0
 projects[imce_wysiwyg][type] = "module"
-projects[elfinder][version] = 0.07
+projects[elfinder][version] = 0.7
 projects[elfinder][type] = "module"
 
 projects[jcarousel][version] = 2.6
@@ -813,8 +813,8 @@ projects[fusion][version] = 1.0-alpha2
 projects[fusion][type] = "theme"
 ; projects[html5_base][version] = "2.x-dev"
 ; projects[html5_base][type] = "theme"
-projects[mobile_jquery][version] = 1.1-beta1
-projects[mobile_jquery][type] = "theme"
+; projects[mobile_jquery][version] = 1.1-beta1
+; projects[mobile_jquery][type] = "theme"
 
   
   
