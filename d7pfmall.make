@@ -95,7 +95,7 @@ projects[devel][version] = 1.x-dev
 projects[devel][type] = "module"
 projects[ds][version] = 1.4
 projects[ds][type] = "module"
-projects[features][version] = 1.0-beta5
+projects[features][version] = 1.0-beta6
 projects[features][type] = "module"
 projects[feeds][version] = 2.0-alpha4
 projects[feeds][type] = "module"
@@ -161,7 +161,7 @@ projects[arrange_fields][type] = "module"
 projects[better_formats][version] = 1.x-dev
 projects[better_formats][type] = "module"
 
-projects[mailsystem][version] = 2.30
+projects[mailsystem][version] = 2.31
 projects[mailsystem][type] = "module"
 
 
@@ -543,7 +543,8 @@ projects[submenutree][type] = "module"
 projects[superfish][version] = 1.8
 projects[superfish][type] = "module"
 
-projects[token][version] = 1.0-beta7
+projects[token][version] = 1.0-beta7 
+; projects[token][version] = 1.x-dev
 projects[token][type] = "module"
 projects[transliteration][version] = 3.0
 projects[transliteration][type] = "module"
