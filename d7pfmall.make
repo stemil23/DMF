@@ -89,7 +89,7 @@ projects[calendar][type] = "module"
 
 ; projects[clock][version] = 1.2
 ; projects[clock][type] = "module"
-projects[date][version] = 2.0-rc1
+projects[date][version] = 2.0-rc2
 projects[date][type] = "module"
 projects[devel][version] = 1.x-dev
 projects[devel][type] = "module"
@@ -182,6 +182,8 @@ projects[widgets][type] = "module"
 
 projects[css_injector][version] = 1.7
 projects[css_injector][type] = "module"
+projects[browserclass][version] = 1.4
+projects[browserclass][type] = "module"
 
 
 projects[chosen][version] = 1.0
@@ -364,6 +366,8 @@ projects[mobile_tools][type] = "module"
 
 projects[views_jqm][version] = 1.0
 projects[views_jqm][type] = "module"
+projects[views_supertable][version] = 1.1
+projects[views_supertable][type] = "module"
 
 projects[legal][version] = 1.2
 projects[legal][type] = "module"
@@ -543,7 +547,7 @@ projects[submenutree][type] = "module"
 projects[superfish][version] = 1.8
 projects[superfish][type] = "module"
 
-projects[token][version] = 1.0-beta7 
+projects[token][version] = 1.0-rc1
 ; projects[token][version] = 1.x-dev
 projects[token][type] = "module"
 projects[transliteration][version] = 3.0
@@ -704,6 +708,8 @@ projects[jquery_update][version] = 2.x-dev
 projects[jquery_update][type] = "module"
 ; projects[poshy_tip][version] = 1.0-beta1
 ; projects[poshy_tip][type] = "module"
+; projects[beautytips][version] = 2.0-beta1
+; projects[beautytips][type] = "module"
 ; projects[qtip][version] = 1.5
 ; projects[qtip][type] = "module"
 
@@ -726,7 +732,7 @@ projects[views_puc][type] = "module"
 projects[global_filter][version] = 1.1
 projects[global_filter][type] = "module"
 
-projects[slidebox][version] = 1.2
+projects[slidebox][version] = 1.3
 projects[slidebox][type] = "module"
 
 
@@ -885,11 +891,11 @@ libraries[geophp][directory_name] = "geoPHP"
 libraries[geophp][destination] = "libraries"
 
 ; Modernizr - prob create custom build and gork on my github if decide required
-; libraries[modernizr][download][type] = "get"
-; libraries[modernizr][download][url] = "http://www.modernizr.com/downloads/modernizr-latest.js"
-; libraries[modernizr][download][target_name] = "modernizr.min.js"
-; libraries[modernizr][directory_name] = "modernizr"
-; libraries[modernizr][destination] = "modules/modernizr"
+libraries[modernizr][download][type] = "get"
+libraries[modernizr][download][url] = "http://www.modernizr.com/downloads/modernizr-latest.js"
+libraries[modernizr][download][target_name] = "modernizr.min.js"
+libraries[modernizr][directory_name] = "modernizr"
+libraries[modernizr][destination] = "modules/modernizr"
 
 ;jQuery Cycle Plugin
 libraries[jquerycycle][download][type] = "git"
