@@ -139,7 +139,7 @@ projects[imce_mkdir][version] = 1.0
 projects[imce_mkdir][type] = "module"
 
 
-projects[i18n][version] = 1.3
+projects[i18n][version] = 1.4
 projects[i18n][type] = "module"
 projects[nodequeue][version] = 2.0-beta1
 projects[nodequeue][type] = "module"
@@ -221,7 +221,9 @@ projects[cck][version] = 2.x-dev
 projects[cck][type] = "module"
 projects[comment_notify][version] = 1.0
 projects[comment_notify][type] = "module"
-projects[computed_field][version] = 1.x-dev
+projects[message_notify][version] = 1.0
+projects[message_notify][type] = "module"
+projects[computed_field][version] = 1.0-beta1
 projects[computed_field][type] = "module"
 projects[custom_breadcrumbs][version] = 1.0-alpha1
 projects[custom_breadcrumbs][type] = "module"
@@ -398,7 +400,7 @@ projects[hansel][type] = "module"
 
 projects[mediaelement][version] = 1.1
 projects[mediaelement][type] = "module"
-projects[menu_block][version] = 2.x-dev
+projects[menu_block][version] = 2.3
 projects[menu_block][type] = "module"
 projects[menu_breadcrumb][version] = 1.3
 projects[menu_breadcrumb][type] = "module"
@@ -412,6 +414,8 @@ projects[metatag][version] = 1.0-alpha4
 projects[metatag][type] = "module"
 projects[tagging][version] = 3.3
 projects[tagging][type] = "module"
+projects[schemaorg][version] = 1.0-beta1
+projects[schemaorg][type] = "module"
 
 projects[mimemail][version] = 1.x-dev
 projects[mimemail][type] = "module"
@@ -450,7 +454,7 @@ projects[openlayers][type] = "module"
 projects[wms][version] = 1.0
 projects[wms][type] = "module"
 
-projects[geofield][version] = 1.0-beta2
+projects[geofield][version] = 1.0-rc1
 projects[geofield][type] = "module"
 
 projects[geocoder][version] = 1.x-dev
@@ -465,7 +469,7 @@ projects[pathauto][type] = "module"
 projects[profile2][version] = 1.2
 projects[profile2][type] = "module"
 
-projects[profile2_regpath][version] = 1.5
+projects[profile2_regpath][version] = 1.6
 projects[profile2_regpath][type] = "module"
 projects[reg_with_pic][version] = 1.0
 projects[reg_with_pic][type] = "module"
@@ -508,7 +512,7 @@ projects[nodehierarchy][version] = 2.x-dev
 projects[nodehierarchy][type] = "module"
 
 
-projects[httprl][version] = 1.2
+projects[httprl][version] = 1.4
 projects[httprl][type] = "module"
 projects[fpa][version] = 2.x-dev
 projects[fpa][type] = "module"
@@ -558,6 +562,10 @@ projects[views_slideshow_slider][version] = 3.x-dev
 projects[views_slideshow_slider][type] = "module"
 projects[views_slideshow_xtra][version] = 3.0
 projects[views_slideshow_xtra][type] = "module"
+
+projects[field_slideshow][version] = 1.6
+projects[field_slideshow][type] = "module"
+
 projects[panels][version] = 3.0
 projects[panels][type] = "module"
 projects[panels_extra_layouts][version] = 1.5
@@ -615,6 +623,8 @@ projects[typogrify][type] = "module"
 
 ; projects[video_filter][version] = 3.0-beta2
 ; projects[video_filter][type] = "module"
+; projects[video_embed_field_overlay][version] = 1.3
+; projects[video_embed_field_overlay][type] = "module"
 
 projects[epsacrop][version] = 2.2
 projects[epsacrop][type] = "module"
