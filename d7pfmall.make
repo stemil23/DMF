@@ -57,7 +57,7 @@ projects[commerce_coupon][version] = 1.0-beta4
 projects[commerce_coupon][type] = "module"
 projects[commerce_file][version] = 1.0-beta2
 projects[commerce_file][type] = "module"
-projects[commerce_bpc][version] = 1.0-rc4
+projects[commerce_bpc][version] = 1.0-rc5
 projects[commerce_bpc][type] = "module"
 projects[commerce_price_savings_formatter][version] = 1.1
 projects[commerce_price_savings_formatter][type] = "module"
@@ -171,10 +171,10 @@ projects[colorbox][type] = "module"
 projects[easy_social][version] = 2.5
 projects[easy_social][type] = "module"
 
-projects[socialmedia][version] = 1.0-beta8
+projects[socialmedia][version] = 1.0-beta9
 projects[socialmedia][type] = "module"
 
-projects[widgets][version] = 1.0-beta3
+projects[widgets][version] = 1.0-beta5
 projects[widgets][type] = "module"
 
 ; projects[content_page][version] = 1.3
@@ -219,6 +219,9 @@ projects[captcha][version] = 1.0-beta2
 projects[captcha][type] = "module"
 projects[cck][version] = 2.x-dev
 projects[cck][type] = "module"
+projects[content_type_extras][version] = 1.7
+projects[content_type_extras][type] = "module"
+
 projects[comment_notify][version] = 1.0
 projects[comment_notify][type] = "module"
 projects[message_notify][version] = 1.0
@@ -253,7 +256,7 @@ projects[entity][type] = "module"
 projects[entity_autocomplete][version] = 1.0-beta1
 projects[entity_autocomplete][type] = "module"
 
-projects[entityreference][version] = 1.0-beta3
+projects[entityreference][version] = 1.0-beta4
 projects[entityreference][type] = "module"
 
 projects[entitycache][version] = 1.1
@@ -507,6 +510,8 @@ projects[cdn][type] = "module"
 
 projects[headjs][version] = 1.x-dev
 projects[headjs][type] = "module"
+projects[labjs][version] = 1.3
+projects[labjs][type] = "module"
 
 projects[nodehierarchy][version] = 2.x-dev
 projects[nodehierarchy][type] = "module"
@@ -651,6 +656,8 @@ projects[media][version] = 1.0-rc3
 projects[media][type] = "module"
 projects[media_browser_plus][version] = 1.0-beta3
 projects[media_browser_plus][type] = "module"
+projects[media_colorbox][version] = 1.0-rc1
+projects[media_colorbox][type] = "module"
 projects[media_youtube][version] = 1.x-dev
 projects[media_youtube][type] = "module"
 projects[media_gallery][version] = 1.0-beta7
@@ -733,9 +740,9 @@ projects[unique_field][version] = 1.0-rc1
 projects[unique_field][type] = "module"
 projects[views][version] = 3.1
 projects[views][type] = "module"
-projects[views_bulk_operations][version] = 3.0-beta3
+projects[views_bulk_operations][version] = 3.0-rc1
 projects[views_bulk_operations][type] = "module"
-projects[views_boxes][version] = 1.0-beta6
+projects[views_boxes][version] = 1.0-beta8
 projects[views_boxes][type] = "module"
 projects[views_puc][version] = 3.0
 projects[views_puc][type] = "module"
