@@ -246,7 +246,7 @@ projects[domain][version] = 3.3
 projects[domain][type] = "module"
 projects[domain_blocks][version] = 3.0-alpha1
 projects[domain_blocks][type] = "module"
-projects[domain_menu_access][version] = 3.x-dev
+projects[domain_menu_access][version] = 1.2
 projects[domain_menu_access][type] = "module"
 
 
