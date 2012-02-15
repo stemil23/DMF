@@ -680,8 +680,8 @@ projects[soundcloudfield][type] = "module"
 projects[soundcloud_filter][version] = 2.1
 projects[soundcloud_filter][type] = "module"
 
-projects[nivo_slider][version] = 1.1
-projects[nivo_slider][type] = "module"
+; projects[nivo_slider][version] = 1.1
+; projects[nivo_slider][type] = "module"
 
 
 projects[menu_minipanels][version] = 1.0-rc3
@@ -848,7 +848,15 @@ projects[fusion][type] = "theme"
 ; projects[mobile_jquery][version] = 1.1-beta1
 ; projects[mobile_jquery][type] = "theme"
 
-  
+projects[nivo_slider][subdir] = "custom"
+projects[nivo_slider][type] = "module"
+projects[nivo_slider][download][type] = "git"
+projects[nivo_slider][download][url]="git@github.com:stemil23/nivo_slider.git"
+
+projects[geocode][subdir] = "custom"
+projects[geocode][type] = "module"
+projects[geocode][download][type] = "git"
+projects[geocode][download][url]="git@github.com:stemil23/geocode.git"
   
 ; Libraries
 ; ---------
