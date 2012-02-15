@@ -464,8 +464,8 @@ projects[openlayers][type] = "module"
 projects[geofield][version] = 1.0-rc1
 projects[geofield][type] = "module"
 
-projects[geocoder][version] = 1.x-dev
-projects[geocoder][type] = "module"
+; projects[geocoder][version] = 1.x-dev
+; projects[geocoder][type] = "module"
 
 projects[themekey][version] = 2.0
 projects[themekey][type] = "module"
