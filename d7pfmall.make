@@ -851,12 +851,12 @@ projects[fusion][type] = "theme"
 projects[nivo_slider][subdir] = "custom"
 projects[nivo_slider][type] = "module"
 projects[nivo_slider][download][type] = "git"
-projects[nivo_slider][download][url]="git@github.com:stemil23/nivo_slider.git"
+projects[nivo_slider][download][url]="git://github.com/stemil23/nivo_slider.git"
 
 projects[geocode][subdir] = "custom"
 projects[geocode][type] = "module"
 projects[geocode][download][type] = "git"
-projects[geocode][download][url]="git@github.com:stemil23/geocode.git"
+projects[geocode][download][url]="git://github.com/stemil23/geocode.git"
   
 ; Libraries
 ; ---------
