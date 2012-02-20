@@ -370,7 +370,7 @@ projects[jquerymobile_ui][version] = 1.x-dev
 projects[jquerymobile_ui][type] = "module"
 
 projects[ga_jquerymobile][version] = 1.0
-projects[ga_jquery<strong>mobile</strong>][type] = "module"
+projects[ga_jquerymobile][type] = "module"
 
 projects[mobile_tools][version] = 2.x-dev
 projects[mobile_tools][type] = "module"
