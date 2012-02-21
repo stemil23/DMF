@@ -166,7 +166,7 @@ projects[mailsystem][type] = "module"
 projects[colorbox][version] = 1.2
 projects[colorbox][type] = "module"
 
-projects[easy_social][version] = 2.5
+projects[easy_social][version] = 2.8
 projects[easy_social][type] = "module"
 
 projects[socialmedia][version] = 1.0-beta9
@@ -299,7 +299,7 @@ projects[google_analytics][type] = "module"
 projects[google_webfont_loader_api][version] = 1.9
 projects[google_webfont_loader_api][type] = "module"
 
-projects[fontyourface][version] = 2.0
+projects[fontyourface][version] = 2.1
 projects[fontyourface][type] = "module"
 
 projects[homebox][version] = 2.0-beta6
@@ -583,7 +583,7 @@ projects[token][version] = 1.0-rc1
 projects[token][type] = "module"
 projects[transliteration][version] = 3.0
 projects[transliteration][type] = "module"
-projects[views_slideshow][version] = 3.0
+projects[views_slideshow][version] = 3.1
 projects[views_slideshow][type] = "module"
 projects[views_slideshow_slider][version] = 3.x-dev
 projects[views_slideshow_slider][type] = "module"
@@ -650,6 +650,8 @@ projects[typogrify][type] = "module"
 
 projects[video_filter][version] = 3.0-beta2
 projects[video_filter][type] = "module"
+projects[video_embed_field][version] = 2.0-beta4
+projects[video_embed_field][type] = "module"
 projects[video_embed_field_overlay][version] = 1.3
 projects[video_embed_field_overlay][type] = "module"
 
@@ -716,7 +718,7 @@ projects[plupload][type] = "module"
 projects[mailchimp][version] = 2.4
 projects[mailchimp][type] = "module"
 
-projects[user_alert][version] = 1.5
+projects[user_alert][version] = 1.6
 projects[user_alert][type] = "module"
 
 
@@ -757,6 +759,8 @@ projects[jquery_update][type] = "module"
 projects[wysiwyg][version] = 2.1
 projects[wysiwyg][type] = "module"
 
+projects[blockcache_alter][version] = 1.0
+projects[blockcache_alter][type] = "module"
 projects[ajaxblocks][version] = 1.2
 projects[ajaxblocks][type] = "module"
 projects[peekaboo][version] = 2.0-rc1
@@ -764,8 +768,9 @@ projects[peekaboo][type] = "module"
 
 projects[unique_field][version] = 1.0-rc1
 projects[unique_field][type] = "module"
-projects[views][version] = 3.1
+projects[views][version] = 3.1 
 projects[views][type] = "module"
+
 projects[views_bulk_operations][version] = 3.0-rc1
 projects[views_bulk_operations][type] = "module"
 projects[views_boxes][version] = 1.0-beta8
