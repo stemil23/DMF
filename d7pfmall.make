@@ -819,13 +819,10 @@ projects[xmlsitemap][type] = "module"
 
 projects[workbench][version] = 1.1
 projects[workbench][type] = "module"
-
-projects[workbench][version] = 1.1
-projects[workbench][type] = "module"
 projects[workbench_access][version] = 1.0
 projects[workbench_access][type] = "module"
-projects[workbench_moderation][version] = 1.1
-projects[workbench_moderation] = "module"
+; projects[workbench_moderation][version] = 1.1
+; projects[workbench_moderation] = "module"
 projects[workbench_media][version] = 1.0
 projects[workbench_media][type] = "module"
 projects[workbench_files][version] = 1.0
@@ -909,12 +906,12 @@ projects[nivo_slider][type] = "module"
 projects[nivo_slider][download][type] = "git"
 projects[nivo_slider][download][url]="https://stemil23@github.com/stemil23/nivo_slider.git"
 
-; projects[geocode][subdir] = "custom"
-; projects[geocode][type] = "module"
-; projects[geocode][download][type] = "git"
-; projects[geocode][download][url]="https://stemil23@github.com/stemil23/geocode.git"
+projects[geocode][subdir] = "custom"
+projects[geocode][type] = "module"
+projects[geocode][download][type] = "git"
+projects[geocode][download][url]="https://stemil23@github.com/stemil23/geocode.git"
 
-projects[geocode][download][url] = "git://github.com/stemil23/geocode.git"
+; projects[geocode][download][url] = "git://github.com/stemil23/geocode.git"
   
 ; Libraries
 ; ---------
