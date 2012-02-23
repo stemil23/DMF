@@ -221,6 +221,9 @@ projects[cck][type] = "module"
 projects[content_type_extras][version] = 1.7
 projects[content_type_extras][type] = "module"
 
+projects[edit_content_type_tab][version] = 1.0
+projects[edit_content_type_tab][type] = "module"
+
 projects[comment_notify][version] = 1.0
 projects[comment_notify][type] = "module"
 projects[message_notify][version] = 1.0
@@ -374,7 +377,7 @@ projects[ga_jquerymobile][type] = "module"
 
 projects[mobile_tools][version] = 2.x-dev
 projects[mobile_tools][type] = "module"
-projects[browscap][version] = 1.0
+projects[browscap][version] = 1.1
 projects[browscap][type] = "module"
 
 projects[views_jqm][version] = 1.0
@@ -424,6 +427,8 @@ projects[mediaelement][version] = 1.2
 projects[mediaelement][type] = "module"
 projects[menu_block][version] = 2.3
 projects[menu_block][type] = "module"
+projects[menu_position][version] = 1.1
+projects[menu_position][type] = "module"
 projects[menu_breadcrumb][version] = 1.3
 projects[menu_breadcrumb][type] = "module"
 projects[menu_attributes][version] = 1.x-dev
@@ -682,7 +687,7 @@ projects[media_browser_plus][version] = 1.0-beta3
 projects[media_browser_plus][type] = "module"
 projects[media_colorbox][version] = 1.0-rc1
 projects[media_colorbox][type] = "module"
-projects[media_youtube][version] = 1.0-beta1
+projects[media_youtube][version] = 1.0-beta2
 projects[media_youtube][type] = "module"
 projects[media_gallery][version] = 1.0-beta7
 projects[media_gallery][type] = "module"
@@ -768,7 +773,7 @@ projects[peekaboo][type] = "module"
 
 projects[unique_field][version] = 1.0-rc1
 projects[unique_field][type] = "module"
-projects[views][version] = 3.1 
+projects[views][version] = 3.3
 projects[views][type] = "module"
 
 projects[views_bulk_operations][version] = 3.0-rc1
@@ -790,12 +795,18 @@ projects[rate][version] = 1.3
 projects[rate][type] = "module"
 projects[fivestar][version] = 2.0-alpha1
 projects[fivestar][type] = "module"
+
 projects[votingapi][version] = 2.4
 projects[votingapi][type] = "module"
+
 projects[webform][version] = 3.15
 projects[webform][type] = "module"
 projects[webform_validation][version] = 1.1
 projects[webform_validation][type] = "module"
+projects[clientside_validation][version] = 1.26
+projects[clientside_validation][type] = "module"
+projects[webform_conditional_confirmation][version] = 1.0-rc1
+projects[webform_conditional_confirmation][type] = "module"
 projects[multiform][version] = 1.0
 projects[multiform][type] = "module"
 projects[select_or_other][version] = 2.8
@@ -814,7 +825,7 @@ projects[workbench][type] = "module"
 projects[workbench_access][version] = 1.0
 projects[workbench_access][type] = "module"
 projects[workbench_moderation][version] = 1.1
-projects[workbench_moderation][type] = "module"
+projects[workbench_moderatiovalidationpe] = "module"
 projects[workbench_media][version] = 1.0
 projects[workbench_media][type] = "module"
 projects[workbench_files][version] = 1.0
