@@ -80,15 +80,18 @@ projects[context][version] = 3.0-beta2
 projects[context][type] = "module"
 ; projects[context_admin][version] = 1.1
 ; projects[context_admin][type] = "module"
-projects[calendar][version] = 3.0-alpha2
+projects[calendar][version] = 3.0
 projects[calendar][type] = "module"
 
 ; projects[clock][version] = 1.2
 ; projects[clock][type] = "module"
-projects[date][version] = 2.1
+projects[date][version] = 2.2
 projects[date][type] = "module"
 projects[devel][version] = 1.x-dev
 projects[devel][type] = "module"
+projects[prod_check][version] = 1.3
+projects[prod_check][type] = "module"
+
 projects[ds][version] = 1.5
 projects[ds][type] = "module"
 projects[features][version] = 1.0-beta6
@@ -101,6 +104,8 @@ projects[email][version] = 1.0
 projects[email][type] = "module"
 projects[field_group][version] = 1.1
 projects[field_group][type] = "module"
+projects[fieldgroup_menu][version] = 1.0-alpha1
+projects[fieldgroup_menu][type] = "module"
 projects[field_permissions][version] = 1.0-beta2
 projects[field_permissions][type] = "module"
 projects[field_hidden][version] = 1.1
@@ -119,6 +124,8 @@ projects[link][version] = 1.0
 projects[link][type] = "module"
 projects[nodereference_url][version] = 1.12
 projects[nodereference_url][type] = "module"
+projects[node_embed][version] = 1.0-rc1
+projects[node_embed][type] = "module"
 projects[viewreference][version] = 3.2
 projects[viewreference][type] = "module"
 projects[references][version] = 2.0
@@ -153,7 +160,7 @@ projects[me][type] = "module"
 projects[advanced_forum][version] = 2.0-rc1
 projects[advanced_forum][type] = "module"
 
-projects[arrange_fields][version] = 1.7
+projects[arrange_fields][version] = 1.8
 projects[arrange_fields][type] = "module"
 
 projects[better_formats][version] = 1.x-dev
@@ -206,7 +213,7 @@ projects[author_pane][version] = 2.0-alpha2
 projects[author_pane][type] = "module"
 projects[auto_nodetitle][version] = 1.0
 projects[auto_nodetitle][type] = "module"
-projects[exclude_node_title][version] = 1.4
+projects[exclude_node_title][version] = 1.5
 projects[exclude_node_title][type] = "module"
 projects[backup_migrate][version] = 2.2
 projects[backup_migrate][type] = "module"
@@ -226,6 +233,8 @@ projects[edit_content_type_tab][type] = "module"
 
 projects[comment_notify][version] = 1.0
 projects[comment_notify][type] = "module"
+projects[bestreply][version] = 1.2
+projects[bestreply][type] = "module"
 projects[message_notify][version] = 1.0
 projects[message_notify][type] = "module"
 projects[computed_field][version] = 1.0-beta1
@@ -377,7 +386,7 @@ projects[ga_jquerymobile][type] = "module"
 
 projects[mobile_tools][version] = 2.x-dev
 projects[mobile_tools][type] = "module"
-projects[browscap][version] = 1.1
+projects[browscap][version] = 1.2
 projects[browscap][type] = "module"
 
 projects[views_jqm][version] = 1.0
@@ -414,7 +423,7 @@ projects[logintoboggan][type] = "module"
 projects[login_destination][version] = 1.0
 projects[login_destination][type] = "module"
 
-projects[user_details][version] = 1.5
+projects[user_details][version] = 2.0
 projects[user_details][type] = "module"
 
 projects[masquerade][version] = 1.0-rc4
@@ -456,7 +465,7 @@ projects[mollom][version] = 1.1
 projects[mollom][type] = "module"
 projects[newswire][version] = 1.x-dev
 projects[newswire][type] = "module"
-projects[nice_menus][version] = 2.0
+projects[nice_menus][version] = 2.1
 projects[nice_menus][type] = "module"
 projects[node_clone][version] = 1.0-beta1
 projects[node_clone][type] = "module"
@@ -485,8 +494,8 @@ projects[openlayers][type] = "module"
 projects[geofield][version] = 1.0-rc1
 projects[geofield][type] = "module"
 
-; projects[geocoder][version] = 1.x-dev
-; projects[geocoder][type] = "module"
+projects[geocoder][version] = 1.x-dev
+projects[geocoder][type] = "module"
 
 projects[themekey][version] = 2.0
 projects[themekey][type] = "module"
@@ -516,13 +525,13 @@ projects[realname_registration][version] = 2.0-rc2
 projects[realname_registration][type] = "module"
 ; projects[responsive_images][version] = 1.0-beta3
 ; projects[responsive_images][type] = "module"
-projects[adaptive_image][version] = 1.3
+projects[adaptive_image][version] = 1.4
 projects[adaptive_image][type] = "module" 
  
 projects[scheduler][version] = 1.0
 projects[scheduler][type] = "module"
 
-projects[radioactivity][version] = 2.2
+projects[radioactivity][version] = 2.3
 projects[radioactivity][type] = "module"
 
 projects[schema][version] = 1.x-dev
@@ -535,6 +544,10 @@ projects[boost][type] = "module"
 projects[cdn][version] = 2.3
 projects[cdn][type] = "module"
 
+projects[storage_api][version] = 1.2
+projects[storage_api][type] = "module"
+
+
 projects[headjs][version] = 1.x-dev
 projects[headjs][type] = "module"
 projects[labjs][version] = 1.3
@@ -544,7 +557,7 @@ projects[nodehierarchy][version] = 2.x-dev
 projects[nodehierarchy][type] = "module"
 
 
-projects[httprl][version] = 1.4
+projects[httprl][version] = 1.5
 projects[httprl][type] = "module"
 projects[fpa][version] = 2.x-dev
 projects[fpa][type] = "module"
@@ -554,10 +567,12 @@ projects[securepages][version] = 1.x-dev
 projects[securepages][type] = "module"
 projects[security_review][version] = 1.0
 projects[security_review][type] = "module"
+projects[encrypt_submissions][version] = 1.1
+projects[encrypt_submissions][type] = "module"
 
 projects[seckit][version] = 1.3
 projects[seckit][type] = "module"
-projects[simplenews][version] = 1.0-beta1
+projects[simplenews][version] = 1.0-beta2
 projects[simplenews][type] = "module"
 projects[site_map][version] = 1.0
 projects[site_map][type] = "module"
@@ -616,7 +631,11 @@ projects[tweet][type] = "module"
 
 projects[styles][version] = 2.x-dev
 projects[styles][type] = "module"
+projects[style_usage][version] = 1.0
+projects[style_usage][type] = "module"
 
+projects[back_to_top][version] = 1.2
+projects[back_to_top][type] = "module"
 projects[linkit][version] = 2.1
 projects[linkit][type] = "module"
 
@@ -766,7 +785,7 @@ projects[wysiwyg][type] = "module"
 
 projects[blockcache_alter][version] = 1.0
 projects[blockcache_alter][type] = "module"
-projects[ajaxblocks][version] = 1.2
+projects[ajaxblocks][version] = 1.3
 projects[ajaxblocks][type] = "module"
 projects[peekaboo][version] = 2.0-rc1
 projects[peekaboo][type] = "module"
@@ -796,7 +815,7 @@ projects[rate][type] = "module"
 projects[fivestar][version] = 2.0-alpha1
 projects[fivestar][type] = "module"
 
-projects[votingapi][version] = 2.4
+projects[votingapi][version] = 2.5
 projects[votingapi][type] = "module"
 
 projects[webform][version] = 3.15
@@ -862,7 +881,7 @@ projects[nitobe][version] = "2.0-beta1"
 projects[nitobe][type] = "theme"
 projects[omega][version] = "3.1"
 projects[omega][type] = "theme"
-projects[rubik][version] = 4.0-beta7
+projects[rubik][version] = 4.0-beta8
 projects[rubik][type] = "theme"
 ; projects[sky][version] = "2.2"
 ; projects[sky][type] = "theme"
