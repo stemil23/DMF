@@ -889,7 +889,7 @@ projects[workbench_files][type] = "module"
 ; --------
 projects[arctica][version] = 1.1
 projects[arctica][type] = "theme"
-projects[andromeda][version] = 1.1
+projects[andromeda][version] = 2.x-dev
 projects[andromeda][type] = "theme"
 projects[touchpro][version] = 1.2
 projects[touchpro][type] = "theme"
@@ -964,10 +964,10 @@ projects[fusion][type] = "theme"
 ; projects[nivo_slider][download][url]="https://stemil23@github.com/stemil23/nivo_slider.git"
 
 
-projects[geocode][subdir] = "custom"
-projects[geocode][type] = "module"
-projects[geocode][download][type] = "git"
-projects[geocode][download][url]="https://stemil23@github.com/stemil23/geocode.git"
+; projects[geocode][subdir] = "custom"
+; projects[geocode][type] = "module"
+; projects[geocode][download][type] = "git"
+; projects[geocode][download][url]="https://stemil23@github.com/stemil23/geocode.git"
 
 ; projects[geocode][download][url] = "git://github.com/stemil23/geocode.git"
   
