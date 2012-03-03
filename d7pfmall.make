@@ -612,7 +612,7 @@ projects[term_reference_tree][type] = "module"
 projects[submenutree][version] = 2.3
 projects[submenutree][type] = "module"
 
-projects[superfish][version] = 1.8
+projects[superfish][version] = 1.9-beta4
 projects[superfish][type] = "module"
 
 projects[token][version] = 1.0-rc1
@@ -958,10 +958,10 @@ projects[fusion][type] = "theme"
 ; projects[mobile_jquery][version] = 1.1-beta1
 ; projects[mobile_jquery][type] = "theme"
 
-projects[nivo_slider][subdir] = "custom"
-projects[nivo_slider][type] = "module"
-projects[nivo_slider][download][type] = "git"
-projects[nivo_slider][download][url]="https://stemil23@github.com/stemil23/nivo_slider.git"
+; projects[nivo_slider][subdir] = "custom"
+; projects[nivo_slider][type] = "module"
+; projects[nivo_slider][download][type] = "git"
+; projects[nivo_slider][download][url]="https://stemil23@github.com/stemil23/nivo_slider.git"
 
 
 projects[geocode][subdir] = "custom"
@@ -1048,6 +1048,12 @@ libraries[jquerycycle][download][type] = "git"
 libraries[jquerycycle][download][url] = "https://github.com/malsup/cycle.git"
 libraries[jquerycycle][directory_name] = "jquery.cycle"
 libraries[jquerycycle][destination] = "libraries"
+
+;Superfish
+libraries[superfish][download][type] = "git"
+libraries[superfish][download][url] = "https://github.com/mehrpadin/Superfish-for-Drupal.git"
+libraries[superfish][directory_name] = "superfish"
+libraries[superfish][destination] = "libraries"
 
 
 ;jQuery Cycle Plugin
