@@ -963,7 +963,7 @@ projects[journalcrunch][type] = "theme"
 
 projects[zen][version] = "3.1"
 projects[zen][type] = "theme"
-projects[zentropy][version] = 2.0-beta6
+projects[zentropy][version] = 2.0-beta9
 projects[zentropy][type] = "theme"
 projects[acquia_marina][version] = 2.0-beta1
 projects[acquia_marina][type] = "theme"
