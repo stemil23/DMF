@@ -399,6 +399,9 @@ projects[views_jqm][version] = 1.0
 projects[views_jqm][type] = "module"
 projects[views_supertable][version] = 1.1
 projects[views_supertable][type] = "module"
+projects[highcharts][version] = 1.0-alpha2
+projects[highcharts][type] = "module"
+
 
 projects[legal][version] = 1.2
 projects[legal][type] = "module"
@@ -639,9 +642,14 @@ projects[views_slideshow_galleria][type] = "module"
 
 projects[field_slideshow][version] = 1.6
 projects[field_slideshow][type] = "module"
+projects[galerie][version] = 1.3
+projects[galerie][type] = "module"
 
 projects[andromeda_slideshow][version] = 1.x-dev
 projects[andromeda_slideshow][type] = "module"
+projects[andromeda_slideshow_full_slider][version] = 1.0 
+projects[andromeda_slideshow_full_slider][type] = "module"
+
 projects[andromeda_slideshow_full_slider][version] = 1.0 
 projects[andromeda_slideshow_full_slider][type] = "module"
 
