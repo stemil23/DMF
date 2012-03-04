@@ -411,14 +411,16 @@ projects[location][version] = 3.x-dev
 projects[location][type] = "module"
 projects[gmap][version] = 1.x-dev
 projects[gmap][type] = "module"
+projects[ip_geoloc][version] = 1.5
+projects[ip_geoloc][type] = "module"
 
 
 projects[addressfield][version] = 1.0-beta2
 projects[addressfield][type] = "module"
 projects[location_taxonomize][version] = 2.3
 projects[location_taxonomize][type] = "module"
-projects[ip_geoloc][version] = 1.4
-projects[ip_geoloc][type] = "module"
+projects[getlocations][version] = 1.0
+projects[getlocations][type] = "module"
 
 
 
@@ -443,12 +445,15 @@ projects[hansel][type] = "module"
 
 projects[mediaelement][version] = 1.2
 projects[mediaelement][type] = "module"
-projects[html5_media][version] = 1.0-beta4
+projects[html5_media][version] = 1.0-beta6
 projects[html5_media][type] = "module"
 
 
 projects[menu_block][version] = 2.3
 projects[menu_block][type] = "module"
+
+projects[accordion_menu][version] = 1.0
+projects[accordion_menu][type] = "module"
 projects[menu_position][version] = 1.1
 projects[menu_position][type] = "module"
 projects[menu_breadcrumb][version] = 1.3
@@ -508,11 +513,14 @@ projects[openlayers][type] = "module"
 ; projects[wms][version] = 1.0
 ; projects[wms][type] = "module"
 
-projects[geofield][version] = 1.0-rc1
+projects[geofield][version] = 1.0
 projects[geofield][type] = "module"
 
 projects[geocoder][version] = 1.0-beta1
 projects[geocoder][type] = "module"
+
+projects[geophp][version] = 1.0
+projects[geophp][type] = "module"
 
 projects[themekey][version] = 2.0
 projects[themekey][type] = "module"
@@ -641,7 +649,7 @@ projects[panels][version] = 3.0
 projects[panels][type] = "module"
 projects[panels_extra_layouts][version] = 1.5
 projects[panels_extra_layouts][type] = "module"
-projects[panels_breadcrumbs][version] = 1.5
+projects[panels_breadcrumbs][version] = 1.6
 projects[panels_breadcrumbs][type] = "module"
 projects[print][version] = 1.0-beta1
 projects[print][type] = "module"
@@ -820,9 +828,12 @@ projects[peekaboo][type] = "module"
 
 projects[unique_field][version] = 1.0-rc1
 projects[unique_field][type] = "module"
+
 projects[views][version] = 3.3
 projects[views][type] = "module"
 
+projects[views_rss][version] = 2.0-rc1
+projects[views_rss][type] = "module"
 projects[views_bulk_operations][version] = 3.0-rc1
 projects[views_bulk_operations][type] = "module"
 projects[views_boxes][version] = 1.0-beta8
@@ -833,6 +844,9 @@ projects[global_filter][version] = 1.2
 projects[global_filter][type] = "module"
 projects[vntf][version] = 1.0-beta6
 projects[vntf][type] = "module"
+
+projects[weight][version] = 2.0-beta3
+projects[weight][type] = "module"
 
 projects[slidebox][version] = 1.3
 projects[slidebox][type] = "module"
@@ -927,6 +941,8 @@ projects[tao][version] = "3.0-beta4"
 projects[tao][type] = "theme"
 projects[cube][version] = 1.1
 projects[cube][type] = "theme"
+projects[corporateclean][version] = 1.4  
+projects[corporateclean][type] = "theme"
 
 projects[blacksea][version] = 1.1
 projects[blacksea][type] = "theme"
@@ -962,14 +978,6 @@ projects[fusion][type] = "theme"
 ; projects[nivo_slider][type] = "module"
 ; projects[nivo_slider][download][type] = "git"
 ; projects[nivo_slider][download][url]="https://stemil23@github.com/stemil23/nivo_slider.git"
-
-
-; projects[geocode][subdir] = "custom"
-; projects[geocode][type] = "module"
-; projects[geocode][download][type] = "git"
-; projects[geocode][download][url]="https://stemil23@github.com/stemil23/geocode.git"
-
-; projects[geocode][download][url] = "git://github.com/stemil23/geocode.git"
   
 ; Libraries
 ; ---------
@@ -1031,10 +1039,10 @@ libraries[openlayers][directory_name] = "openlayers"
 libraries[openlayers][destination] = "libraries"
 
 ; geoPHP
-libraries[geophp][download][type] = "git"
-libraries[geophp][download][url] = "https://github.com/phayes/geoPHP.git"
-libraries[geophp][directory_name] = "geoPHP"
-libraries[geophp][destination] = "libraries"
+; libraries[geophp][download][type] = "git"
+; libraries[geophp][download][url] = "https://github.com/phayes/geoPHP.git"
+; libraries[geophp][directory_name] = "geoPHP"
+; libraries[geophp][destination] = "libraries"
 
 ; Modernizr - prob create custom build and gork on my github if decide required
 libraries[modernizr][download][type] = "get"
