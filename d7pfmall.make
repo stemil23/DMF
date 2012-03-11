@@ -329,7 +329,7 @@ projects[google_analytics][type] = "module"
 projects[google_webfont_loader_api][version] = 1.9
 projects[google_webfont_loader_api][type] = "module"
 
-projects[fontyourface][version] = 2.1
+projects[fontyourface][version] = 2.2
 projects[fontyourface][type] = "module"
 
 projects[homebox][version] = 2.0-beta6
@@ -617,6 +617,8 @@ projects[httprl][type] = "module"
 projects[fpa][version] = 2.x-dev
 projects[fpa][type] = "module"
 
+projects[fast_404][version] = 1.3
+projects[fast_404][type] = "module"
 projects[search404][version] = 1.1
 projects[search404][type] = "module"
 projects[search_autocomplete][version] = 2.3
