@@ -306,6 +306,9 @@ projects[filefield_paths][version] = 1.0-beta3
 projects[filefield_paths][type] = "module"
 projects[filefield_sources][version] = 1.4
 projects[filefield_sources][type] = "module"
+projects[filefield_role_limit][version] = 1.0
+projects[filefield_role_limit][type] = "module"
+
 
 projects[flag][version] = 2.0-beta6
 projects[flag][type] = "module"
@@ -599,7 +602,7 @@ projects[storage_api][version] = 1.2
 projects[storage_api][type] = "module"
 
 ; The new and improved JS loader is scriptjs
-projects[scriptjs][version] = 1.0-beta1
+projects[scriptjs][version] = 1.0-beta4
 projects[scriptjs][type] = "module"
 
 ; The older depreciated JS loader scripts
@@ -736,6 +739,8 @@ projects[taxonomy_menu][version] = 1.2
 projects[taxonomy_menu][type] = "module"
 projects[taxonomy_access][version] = 1.x-dev
 projects[taxonomy_access][type] = "module"
+projects[taxonomy_menu_trails][version] = 2.0
+projects[taxonomy_menu_trails][type] = "module"
 
 projects[jstimer][version] = 1.3
 projects[jstimer][type] = "module"
@@ -811,7 +816,7 @@ projects[menu_force][type] = "module"
 projects[better_exposed_filters][version] = 3.0-beta1
 projects[better_exposed_filters][type] = "module"
 
-projects[plupload][version] = 1.0-beta4
+projects[plupload][version] = 1.0-rc1
 projects[plupload][type] = "module"
 
 
@@ -882,6 +887,11 @@ projects[views_boxes][version] = 1.0-beta8
 projects[views_boxes][type] = "module"
 projects[views_puc][version] = 3.0
 projects[views_puc][type] = "module"
+projects[views_table_highlighter][version] = 1.0
+projects[views_table_highlighter][type] = "module"
+projects[menu_views][version] = 1.3
+projects[menu_views][type] = "module"
+
 projects[views_accordion][version] = 1.x-dev
 projects[views_accordion][type] = "module"
 projects[global_filter][version] = 1.2
@@ -1076,7 +1086,7 @@ libraries[json2][destination] = "libraries"
 
 ; Plupload
 libraries[plupload][download][type] = "get"
-libraries[plupload][download][url] = "https://github.com/downloads/moxiecode/plupload/plupload_1_4_3_2.zip"
+libraries[plupload][download][url] = "https://github.com/downloads/moxiecode/plupload/plupload_1_5_2.zip"
 libraries[plupload][directory_name] = "plupload"
 libraries[plupload][destination] = "libraries"
 
