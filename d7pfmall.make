@@ -73,6 +73,8 @@ projects[commerce_stock][type] = "module"
 
 projects[ultimate_cron][version] = 1.6
 projects[ultimate_cron][type] = "module"
+projects[elysia_cron][version] = 2.1
+projects[elysia_cron][type] = "module"
 
 
 projects[ctools][version] = 1.x-dev
@@ -236,7 +238,7 @@ projects[backup_migrate][type] = "module"
 projects[boxes][version] = 1.0-beta7
 projects[boxes][type] = "module"
 
-projects[borealis][version] = 1.0-beta6
+projects[borealis][version] = 1.0-beta7
 projects[borealis][type] = "module"
 
 
@@ -345,7 +347,7 @@ projects[honeypot][version] = 1.9
 projects[honeypot][type] = "module"
 projects[captcha][version] = 1.0-beta2
 projects[captcha][type] = "module"
-projects[antispam][version] = 1.2
+projects[antispam][version] = 1.4
 projects[antispam][type] = "module"
 
 
@@ -406,6 +408,9 @@ projects[jquery_twitter_search][version] = 1.0
 projects[jquery_twitter_search][type] = "module"
 projects[twitter_pull][version] = 1.0-rc1
 projects[twitter_pull][type] = "module"
+projects[twitter_db][version] = 1.0-rc1
+projects[twitter_db][type] = "module"
+
 
 projects[jquerymobile_ui][version] = 1.x-dev
 projects[jquerymobile_ui][type] = "module"
@@ -424,6 +429,9 @@ projects[views_supertable][version] = 1.1
 projects[views_supertable][type] = "module"
 projects[highcharts][version] = 1.0-alpha3
 projects[highcharts][type] = "module"
+
+projects[chart][version] = 1.1
+projects[chart][type] = "module"
 
 
 projects[legal][version] = 1.2
@@ -457,7 +465,7 @@ projects[logintoboggan][type] = "module"
 projects[login_destination][version] = 1.0
 projects[login_destination][type] = "module"
 
-projects[user_details][version] = 2.2
+projects[user_details][version] = 2.3
 projects[user_details][type] = "module"
 projects[user_relationships][version] = 1.0-alpha4
 projects[user_relationships][type] = "module"
@@ -478,6 +486,8 @@ projects[html5_media][type] = "module"
 
 projects[menu_block][version] = 2.3
 projects[menu_block][type] = "module"
+projects[jquerymenu][version] = 1.0
+projects[jquerymenu][type] = "module"
 
 projects[accordion_menu][version] = 1.0
 projects[accordion_menu][type] = "module"
@@ -778,6 +788,10 @@ projects[follow][type] = "module"
 
 projects[fblikebutton][version] = 1.2
 projects[fblikebutton][type] = "module"
+projects[fboauth][version] = 1.4
+projects[fboauth][type] = "module"
+projects[facebook_rules][version] = 1.0
+projects[facebook_rules][type] = "module"
 
 projects[media][version] = 1.0-rc3
 projects[media][type] = "module"
@@ -785,7 +799,7 @@ projects[media_browser_plus][version] = 1.0-beta3
 projects[media_browser_plus][type] = "module"
 projects[media_colorbox][version] = 1.0-rc1
 projects[media_colorbox][type] = "module"
-projects[media_youtube][version] = 1.0-beta2
+projects[media_youtube][version] = 1.0-beta3
 projects[media_youtube][type] = "module"
 projects[media_gallery][version] = 1.0-beta7
 projects[media_gallery][type] = "module"
@@ -889,6 +903,8 @@ projects[views_puc][version] = 3.0
 projects[views_puc][type] = "module"
 projects[views_table_highlighter][version] = 1.0
 projects[views_table_highlighter][type] = "module"
+projects[datatables][version] = 1.1
+projects[datatables][type] = "module"
 projects[menu_views][version] = 1.3
 projects[menu_views][type] = "module"
 
@@ -915,6 +931,8 @@ projects[rate][version] = 1.3
 projects[rate][type] = "module"
 projects[fivestar][version] = 2.0-alpha1
 projects[fivestar][type] = "module"
+projects[fivestar_smiley][version] = 1.0
+projects[fivestar_smiley][type] = "module"
 
 projects[votingapi][version] = 2.6
 projects[votingapi][type] = "module"
