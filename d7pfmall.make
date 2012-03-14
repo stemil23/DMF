@@ -152,7 +152,7 @@ projects[imce_mkdir][type] = "module"
 
 projects[i18n][version] = 1.4
 projects[i18n][type] = "module"
-projects[languageicons][version] = 1.0-rc1
+projects[languageicons][version] = 1.0
 projects[languageicons][type] = "module"
 
 projects[nodequeue][version] = 2.0-beta1
@@ -247,8 +247,11 @@ projects[cck][type] = "module"
 projects[content_type_extras][version] = 1.7
 projects[content_type_extras][type] = "module"
 
-projects[edit_content_type_tab][version] = 1.0
-projects[edit_content_type_tab][type] = "module"
+projects[content_type_extras][version] = 1.7
+projects[content_type_extras][type] = "module"
+
+projects[toc_filter][version] = 1.0-beta1
+projects[toc_filter][type] = "module"
 
 projects[comment_notify][version] = 1.0
 projects[comment_notify][type] = "module"
@@ -451,6 +454,8 @@ projects[ip_geoloc][type] = "module"
 
 projects[addressfield][version] = 1.0-beta2
 projects[addressfield][type] = "module"
+projects[addressfield_staticmap][version] = 1.0-beta1
+projects[addressfield_staticmap][type] = "module"
 projects[location_taxonomize][version] = 2.3
 projects[location_taxonomize][type] = "module"
 projects[getlocations][version] = 1.0
@@ -465,7 +470,7 @@ projects[logintoboggan][type] = "module"
 projects[login_destination][version] = 1.0
 projects[login_destination][type] = "module"
 
-projects[user_details][version] = 2.3
+projects[user_details][version] = 2.5
 projects[user_details][type] = "module"
 projects[user_relationships][version] = 1.0-alpha4
 projects[user_relationships][type] = "module"
@@ -486,7 +491,7 @@ projects[html5_media][type] = "module"
 
 projects[menu_block][version] = 2.3
 projects[menu_block][type] = "module"
-projects[jquerymenu][version] = 1.0
+projects[jquerymenu][version] = 2.0-alpha1
 projects[jquerymenu][type] = "module"
 
 projects[accordion_menu][version] = 1.0
@@ -556,7 +561,7 @@ projects[geofield][type] = "module"
 projects[geocoder][version] = 1.0-beta1
 projects[geocoder][type] = "module"
 
-projects[geophp][version] = 1.0
+projects[geophp][version] = 1.1
 projects[geophp][type] = "module"
 
 projects[themekey][version] = 2.0
@@ -630,12 +635,17 @@ projects[httprl][type] = "module"
 projects[fpa][version] = 2.x-dev
 projects[fpa][type] = "module"
 
-projects[fast_404][version] = 1.3
-projects[fast_404][type] = "module"
+
 projects[search404][version] = 1.1
 projects[search404][type] = "module"
+projects[search_config][version] = 1.0
+projects[search_config][type] = "module"
 projects[search_autocomplete][version] = 2.3
 projects[search_autocomplete][type] = "module"
+
+projects[fast_404][version] = 1.3
+projects[fast_404][type] = "module"
+
 
 projects[securepages][version] = 1.x-dev
 projects[securepages][type] = "module"
@@ -807,7 +817,7 @@ projects[media-nivo-slider][version] = 1.2
 projects[media-nivo-slider][type] = "module"
 projects[media-nivo-slider][version] = 1.1
 projects[media-nivo-slider][type] = "module"
-projects[remote_stream_wrapper][version] = 1.0-beta2
+projects[remote_stream_wrapper][version] = 1.0-beta4
 projects[remote_stream_wrapper][type] = "module"
 projects[media_crop][version] = 1.2
 projects[media_crop][type] = "module"
@@ -845,7 +855,7 @@ projects[user_alert][type] = "module"
 
 projects[autocomplete_deluxe][version] = 1.0-beta5
 projects[autocomplete_deluxe][type] = "module"
-projects[ckeditor][version] = 1.6
+projects[ckeditor][version] = 1.7
 projects[ckeditor][type] = "module"
 projects[ckeditor_link][version] = 2.2
 projects[ckeditor_link][type] = "module"
@@ -918,7 +928,7 @@ projects[vntf][type] = "module"
 projects[weight][version] = 2.0-beta3
 projects[weight][type] = "module"
 
-projects[slidebox][version] = 1.3
+projects[slidebox][version] = 1.4
 projects[slidebox][type] = "module"
 
 
@@ -939,12 +949,18 @@ projects[votingapi][type] = "module"
 
 projects[webform][version] = 3.17
 projects[webform][type] = "module"
+projects[webform_template][version] = 1.1
+projects[webform_template][type] = "module"
 projects[webform_validation][version] = 1.1
 projects[webform_validation][type] = "module"
 projects[clientside_validation][version] = 1.26
 projects[clientside_validation][type] = "module"
 projects[webform_conditional_confirmation][version] = 1.0
 projects[webform_conditional_confirmation][type] = "module"
+
+projects[field_validation][version] = 1.0-beta5
+projects[field_validation][type] = "module"
+
 projects[multiform][version] = 1.0
 projects[multiform][type] = "module"
 projects[select_or_other][version] = 2.8
