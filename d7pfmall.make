@@ -1040,7 +1040,7 @@ projects[blacksea][version] = 1.1
 projects[blacksea][type] = "theme"
 projects[profolio][version] = 1.0
 projects[profolio][type] = "theme"
-projects[business][version] = 1.1
+projects[business][version] = 1.2
 projects[business][type] = "theme"
 projects[alloy][version] = 1.0
 projects[alloy][type] = "theme"
@@ -1055,7 +1055,7 @@ projects[journalcrunch][type] = "theme"
 
 projects[zen][version] = "3.1"
 projects[zen][type] = "theme"
-projects[zentropy][version] = 2.0-beta9
+projects[zentropy][version] = 2.0-beta11
 projects[zentropy][type] = "theme"
 projects[acquia_marina][version] = 2.0-beta1
 projects[acquia_marina][type] = "theme"
