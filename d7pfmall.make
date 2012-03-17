@@ -42,6 +42,8 @@ projects[content_access][version] = 1.2-beta1
 projects[content_access][type] = "module"
 projects[admin][version] = 2.x-dev
 projects[admin][type] = "module"
+projects[wm][version] = 1.5
+projects[wm][type] = "module"
 projects[admin_menu][version] = 3.0-rc1
 projects[admin_menu][type] = "module"
 
@@ -132,7 +134,7 @@ projects[nodereference_url][version] = 1.12
 projects[nodereference_url][type] = "module"
 projects[node_embed][version] = 1.0-rc1
 projects[node_embed][type] = "module"
-projects[viewreference][version] = 3.2
+projects[viewreference][version] = 3.3
 projects[viewreference][type] = "module"
 projects[references][version] = 2.0
 projects[references][type] = "module"
@@ -238,7 +240,7 @@ projects[backup_migrate][type] = "module"
 projects[boxes][version] = 1.0-beta7
 projects[boxes][type] = "module"
 
-projects[borealis][version] = 1.0-beta7
+projects[borealis][version] = 1.0-beta8
 projects[borealis][type] = "module"
 
 
@@ -285,6 +287,9 @@ projects[domain_menu_access][type] = "module"
 
 projects[dynamic_background][version] = 1.9
 projects[dynamic_background][type] = "module"
+projects[bg_image][version] = 1.0-beta3
+projects[bg_image][type] = "module"
+
 
 projects[entity][version] = 1.0-rc1
 projects[entity][type] = "module"
@@ -537,7 +542,7 @@ projects[notifications][type] = "module"
 projects[omega_tools][version] = 3.0-rc4
 projects[omega_tools][type] = "module"
 
-projects[monster_menus][version] = 1.3
+projects[monster_menus][version] = 1.4
 projects[monster_menus][type] = "module"
 projects[om_maximenu][version] = 1.43
 projects[om_maximenu][type] = "module"
@@ -696,6 +701,8 @@ projects[views_slideshow_xtra][version] = 3.0
 projects[views_slideshow_xtra][type] = "module"
 projects[views_slideshow_galleria][version] = 3.0-alpha3
 projects[views_slideshow_galleria][type] = "module"
+projects[views_jqfx][version] = 1.0-alpha1
+projects[views_jqfx][type] = "module"
 
 projects[field_slideshow][version] = 1.6
 projects[field_slideshow][type] = "module"
@@ -718,7 +725,7 @@ projects[panels_breadcrumbs][version] = 1.6
 projects[panels_breadcrumbs][type] = "module"
 projects[print][version] = 1.0-beta1
 projects[print][type] = "module"
-projects[rules][version] = 2.0
+projects[rules][version] = 2.1
 projects[rules][type] = "module"
 projects[page_title][version] = 2.5
 projects[page_title][type] = "module"
@@ -800,8 +807,11 @@ projects[fblikebutton][version] = 1.2
 projects[fblikebutton][type] = "module"
 projects[fboauth][version] = 1.4
 projects[fboauth][type] = "module"
-projects[facebook_rules][version] = 1.0
+projects[facebook_rules][version] = 1.1
 projects[facebook_rules][type] = "module"
+
+projects[BookMadeSimple][version] = 3.4
+projects[BookMadeSimple][type] = "module"
 
 projects[media][version] = 1.0-rc3
 projects[media][type] = "module"
@@ -855,7 +865,7 @@ projects[user_alert][type] = "module"
 
 projects[autocomplete_deluxe][version] = 1.0-beta5
 projects[autocomplete_deluxe][type] = "module"
-projects[ckeditor][version] = 1.7
+projects[ckeditor][version] = 1.8
 projects[ckeditor][type] = "module"
 projects[ckeditor_link][version] = 2.2
 projects[ckeditor_link][type] = "module"
@@ -911,7 +921,7 @@ projects[views_boxes][version] = 1.0-beta8
 projects[views_boxes][type] = "module"
 projects[views_puc][version] = 3.0
 projects[views_puc][type] = "module"
-projects[views_table_highlighter][version] = 1.0
+projects[views_table_highlighter][version] = 1.1
 projects[views_table_highlighter][type] = "module"
 projects[datatables][version] = 1.1
 projects[datatables][type] = "module"
@@ -957,9 +967,13 @@ projects[clientside_validation][version] = 1.26
 projects[clientside_validation][type] = "module"
 projects[webform_conditional_confirmation][version] = 1.0
 projects[webform_conditional_confirmation][type] = "module"
+projects[webform_html_textarea][version] = 1.3
+projects[webform_html_textarea][type] = "module"
 
 projects[field_validation][version] = 1.0-beta5
 projects[field_validation][type] = "module"
+projects[double_field][version] = 1.1
+projects[double_field][type] = "module"
 
 projects[multiform][version] = 1.0
 projects[multiform][type] = "module"
@@ -978,12 +992,14 @@ projects[workbench][version] = 1.1
 projects[workbench][type] = "module"
 projects[workbench_access][version] = 1.0
 projects[workbench_access][type] = "module"
-; projects[workbench_moderation][version] = 1.1
-; projects[workbench_moderation] = "module"
+projects[workbench_moderation][version] = 1.1
+projects[workbench_moderation] = "module"
 projects[workbench_media][version] = 1.0
 projects[workbench_media][type] = "module"
 projects[workbench_files][version] = 1.0
 projects[workbench_files][type] = "module"
+projects[workbench_profile][version] = 1.1
+projects[workbench_profile][type] = "module"
 
   
 
