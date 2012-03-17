@@ -706,7 +706,7 @@ projects[views_jqfx][type] = "module"
 
 projects[field_slideshow][version] = 1.6
 projects[field_slideshow][type] = "module"
-projects[galerie][version] = 1.3
+projects[galerie][version] = 1.4
 projects[galerie][type] = "module"
 
 projects[andromeda_slideshow][version] = 1.x-dev
@@ -984,7 +984,6 @@ projects[single_page_website][version] = 2.0-beta4
 projects[single_page_website][type] = "module"
 
 
-
 projects[xmlsitemap][version] = 2.0-rc1
 projects[xmlsitemap][type] = "module"
 
@@ -992,10 +991,8 @@ projects[workbench][version] = 1.1
 projects[workbench][type] = "module"
 projects[workbench_access][version] = 1.0
 projects[workbench_access][type] = "module"
-
-projects[workbench_moderation][version] = 1.1
-projects[workbench_moderation] = "module"
-
+; projects[workbench_moderation][version] = 1.1
+; projects[workbench_moderation] = "module"
 projects[workbench_media][version] = 1.0
 projects[workbench_media][type] = "module"
 projects[workbench_files][version] = 1.0
@@ -1078,7 +1075,7 @@ projects[zentropy][type] = "theme"
 projects[acquia_marina][version] = 2.0-beta1
 projects[acquia_marina][type] = "theme"
 
-projects[fusion][version] = 2.0-beta1
+projects[fusion][version] = 7.x-2.x-dev
 projects[fusion][type] = "theme"
 
 ; projects[html5_base][version] = "2.x-dev"
