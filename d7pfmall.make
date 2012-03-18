@@ -1003,8 +1003,8 @@ projects[workbench_files][version] = 1.0
 projects[workbench_files][type] = "module"
 projects[workbench_profile][version] = 1.1
 projects[workbench_profile][type] = "module"
-projects[workbench_moderation][version] = 1.1
-projects[workbench_moderation] = "module"
+; projects[workbench_moderation][version] = 1.1
+; projects[workbench_moderation] = "module"
   
 
 ; Themes
@@ -1080,8 +1080,8 @@ projects[zentropy][type] = "theme"
 projects[acquia_marina][version] = 2.0-beta1
 projects[acquia_marina][type] = "theme"
 
-projects[fusion][version] = 7.x-2.x-dev
-projects[fusion][type] = "theme"
+; projects[fusion][version] = 7.x-2.x-dev
+; projects[fusion][type] = "theme"
 
 ; projects[html5_base][version] = "2.x-dev"
 ; projects[html5_base][type] = "theme"
