@@ -673,6 +673,8 @@ projects[site_verify][version] = 1.x-dev
 projects[site_verify][type] = "module"
 projects[skinr][version] = 2.0-alpha1
 projects[skinr][type] = "module"
+projects[fusion_accelerator][version] = 2.0-alpha2
+projects[fusion_accelerator][type] = "module"
 projects[nitro][version] = 1.0
 projects[nitro][type] = "module"
 projects[smtp][version] = 1.0-beta1
@@ -995,15 +997,14 @@ projects[workbench][version] = 1.1
 projects[workbench][type] = "module"
 projects[workbench_access][version] = 1.0
 projects[workbench_access][type] = "module"
-; projects[workbench_moderation][version] = 1.1
-; projects[workbench_moderation] = "module"
 projects[workbench_media][version] = 1.0
 projects[workbench_media][type] = "module"
 projects[workbench_files][version] = 1.0
 projects[workbench_files][type] = "module"
 projects[workbench_profile][version] = 1.1
 projects[workbench_profile][type] = "module"
-
+projects[workbench_moderation][version] = 1.1
+projects[workbench_moderation] = "module"
   
 
 ; Themes
@@ -1079,8 +1080,8 @@ projects[zentropy][type] = "theme"
 projects[acquia_marina][version] = 2.0-beta1
 projects[acquia_marina][type] = "theme"
 
-; projects[fusion][version] = 7.x-2.x-dev
-; projects[fusion][type] = "theme"
+projects[fusion][version] = 7.x-2.x-dev
+projects[fusion][type] = "theme"
 
 ; projects[html5_base][version] = "2.x-dev"
 ; projects[html5_base][type] = "theme"
