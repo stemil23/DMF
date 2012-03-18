@@ -50,7 +50,7 @@ projects[admin_menu][type] = "module"
 projects[fit_text][version] = 1.0
 projects[fit_text][type] = "module"
 
-projects[options_element][version] = 1.5
+projects[options_element][version] = 1.7
 projects[options_element][type] = "module"
 
 projects[commerce][version] = 1.2
@@ -79,7 +79,7 @@ projects[elysia_cron][version] = 2.1
 projects[elysia_cron][type] = "module"
 
 
-projects[ctools][version] = 1.x-dev
+projects[ctools][version] = 1.0-rc2
 projects[ctools][type] = "module"
 projects[context][version] = 3.0-beta2
 projects[context][type] = "module"
@@ -99,7 +99,7 @@ projects[prod_check][type] = "module"
 
 projects[ds][version] = 1.5
 projects[ds][type] = "module"
-projects[features][version] = 1.0-beta6
+projects[features][version] = 1.0-rc1
 projects[features][type] = "module"
 projects[feeds][version] = 2.0-alpha4
 projects[feeds][type] = "module"
@@ -316,7 +316,7 @@ projects[filefield_paths][version] = 1.0-beta3
 projects[filefield_paths][type] = "module"
 projects[filefield_sources][version] = 1.4
 projects[filefield_sources][type] = "module"
-projects[filefield_role_limit][version] = 1.0
+projects[filefield_role_limit][version] = 1.1
 projects[filefield_role_limit][type] = "module"
 
 
@@ -351,7 +351,7 @@ projects[homebox][type] = "module"
 projects[httpbl][version] = 1.0-rc4
 projects[httpbl][type] = "module"
 
-projects[honeypot][version] = 1.9
+projects[honeypot][version] = 1.10
 projects[honeypot][type] = "module"
 projects[captcha][version] = 1.0-beta2
 projects[captcha][type] = "module"
@@ -451,6 +451,8 @@ projects[lexicon][type] = "module"
 
 projects[location][version] = 3.x-dev
 projects[location][type] = "module"
+projects[locationmap][version] = 2.0
+projects[locationmap][type] = "module"
 projects[gmap][version] = 1.x-dev
 projects[gmap][type] = "module"
 projects[ip_geoloc][version] = 1.5
@@ -717,7 +719,7 @@ projects[andromeda_slideshow_full_slider][type] = "module"
 projects[andromeda_slideshow_full_slider][version] = 1.0 
 projects[andromeda_slideshow_full_slider][type] = "module"
 
-projects[panels][version] = 3.0
+projects[panels][version] = 3.1
 projects[panels][type] = "module"
 projects[panels_extra_layouts][version] = 1.5
 projects[panels_extra_layouts][type] = "module"
@@ -979,6 +981,8 @@ projects[multiform][version] = 1.0
 projects[multiform][type] = "module"
 projects[select_or_other][version] = 2.8
 projects[select_or_other][type] = "module"
+projects[improved_multi_select][version] = 1.1
+projects[improved_multi_select][type] = "module"
 
 projects[single_page_website][version] = 2.0-beta4
 projects[single_page_website][type] = "module"
@@ -1075,8 +1079,8 @@ projects[zentropy][type] = "theme"
 projects[acquia_marina][version] = 2.0-beta1
 projects[acquia_marina][type] = "theme"
 
-projects[fusion][version] = 7.x-2.x-dev
-projects[fusion][type] = "theme"
+; projects[fusion][version] = 7.x-2.x-dev
+; projects[fusion][type] = "theme"
 
 ; projects[html5_base][version] = "2.x-dev"
 ; projects[html5_base][type] = "theme"
