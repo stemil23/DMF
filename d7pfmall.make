@@ -67,6 +67,8 @@ projects[commerce_price_savings_formatter][version] = 1.1
 projects[commerce_price_savings_formatter][type] = "module"
 projects[commerce_stock][version] = 1.0-rc2
 projects[commerce_stock][type] = "module"
+projects[commerce_product_bundle][version] = 1.0-alpha6
+projects[commerce_product_bundle][type] = "module"
 
 ; projects[contemplate][version] = 1.0-rc3
 ; projects[contemplate][type] = "module"
@@ -369,7 +371,7 @@ projects[drd][type] = "module"
 projects[drd_server][version] = 2.0-rc2
 projects[drd_server][type] = "module"
 
-projects[flexslider][version] = 1.x-dev
+projects[flexslider][version] = 1.0-beta2
 projects[flexslider][type] = "module"
 
 projects[filefield_nginx_progress][version] = 1.x-dev
@@ -434,7 +436,7 @@ projects[views_jqm][version] = 1.0
 projects[views_jqm][type] = "module"
 projects[views_supertable][version] = 1.1
 projects[views_supertable][type] = "module"
-projects[highcharts][version] = 1.0-alpha5
+projects[highcharts][version] = 1.0-alpha6
 projects[highcharts][type] = "module"
 
 projects[chart][version] = 1.1
@@ -691,9 +693,9 @@ projects[smtp][version] = 1.0-beta1
 projects[smtp][type] = "module"
 ; projects[stringoverrides][version] = 1.8
 ; projects[stringoverrides][type] = "module"
-projects[strongarm][version] = 2.0-beta5
+projects[strongarm][version] = 2.0-rc1
 projects[strongarm][type] = "module"
-projects[term_reference_tree][version] = 1.8
+projects[term_reference_tree][version] = 1.9
 projects[term_reference_tree][type] = "module"
 projects[submenutree][version] = 2.3
 projects[submenutree][type] = "module"
@@ -711,7 +713,7 @@ projects[views_slideshow][version] = 3.x-dev
 projects[views_slideshow][type] = "module"
 projects[views_slideshow_slider][version] = 3.x-dev
 projects[views_slideshow_slider][type] = "module"
-projects[views_slideshow_xtra][version] = 3.4
+projects[views_slideshow_xtra][version] = 3.5
 projects[views_slideshow_xtra][type] = "module"
 projects[views_slideshow_galleria][version] = 3.0-alpha3
 projects[views_slideshow_galleria][type] = "module"
@@ -996,6 +998,8 @@ projects[webform_html_textarea][version] = 1.3
 projects[webform_html_textarea][type] = "module"
 projects[webform_patched][version] = 3.17
 projects[webform_patched][type] = "module"
+projects[webform_phone][version] = 1.2
+projects[webform_phone][type] = "module"
 
 projects[field_validation][version] = 1.0-beta5
 projects[field_validation][type] = "module"
