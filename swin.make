@@ -901,15 +901,6 @@ projects[cube][type] = "theme"
 projects[zen][version] = "3.1"
 projects[zen][type] = "theme"
 
-; projects[html5_base][version] = "2.x-dev"
-; projects[html5_base][type] = "theme"
-; projects[mobile_jquery][version] = 1.1-beta1
-; projects[mobile_jquery][type] = "theme"
-
-; projects[nivo_slider][subdir] = "custom"
-; projects[nivo_slider][type] = "module"
-; projects[nivo_slider][download][type] = "git"
-; projects[nivo_slider][download][url]="https://stemil23@github.com/stemil23/nivo_slider.git"
   
 ; Libraries
 ; ---------
@@ -934,19 +925,11 @@ libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEd
 libraries[ckeditor][directory_name] = "ckeditor"
 libraries[ckeditor][destination] = "libraries"
 
-
-
 ; Colorbox
 libraries[colorbox][download][type]= "get"
 libraries[colorbox][download][url] = "http://jacklmoore.com/colorbox/colorbox.zip"
 libraries[colorbox][directory_name] = "colorbox"
 libraries[colorbox][destination] = "libraries"
-
-; NivoSlider
-libraries[nivoslider][download][type]= "git"
-libraries[nivoslider][download][url] = "https://github.com/gilbitron/Nivo-Slider.git"
-libraries[nivoslider][directory_name] = "nivo-slider"
-libraries[nivoslider][destination] = "libraries"
 
 ; Jcrop
 libraries[jcrop][download][type]= "git"
@@ -965,24 +948,6 @@ libraries[plupload][download][type] = "get"
 libraries[plupload][download][url] = "https://github.com/downloads/moxiecode/plupload/plupload_1_5_2.zip"
 libraries[plupload][directory_name] = "plupload"
 libraries[plupload][destination] = "libraries"
-
-; TinyMCE
-; libraries[tinymce][download][type] = "git"
-; libraries[tinymce][download][url] = "https://github.com/tinymce/tinymce.git"
-; libraries[tinymce][directory_name] = "tinymce"
-; libraries[tinymce][destination] = "libraries"
-
-; Openlayers
-libraries[openlayers][download][type] = "get"
-libraries[openlayers][download][url] = "http://openlayers.org/download/OpenLayers-2.11.tar.gz"
-libraries[openlayers][directory_name] = "openlayers"
-libraries[openlayers][destination] = "libraries"
-
-; geoPHP
-; libraries[geophp][download][type] = "git"
-; libraries[geophp][download][url] = "https://github.com/phayes/geoPHP.git"
-; libraries[geophp][directory_name] = "geoPHP"
-; libraries[geophp][destination] = "libraries"
 
 ; Modernizr - prob create custom build and gork on my github if decide required
 libraries[modernizr][download][type] = "get"
@@ -1010,25 +975,4 @@ libraries[jquerycycle][download][url] = "https://github.com/malsup/cycle.git"
 libraries[jquerycycle][directory_name] = "jquery.cycle"
 libraries[jquerycycle][destination] = "libraries"
 
-;qTip
-libraries[qtip][download][type] = "git"
-libraries[qtip][download][url] = "https://github.com/Craga89/qTip2.git"
-libraries[qtip][directory_name] = "qtip"
-libraries[qtip][destination] = "libraries"
 
-;PlusSlider
-libraries[pluslider][download][type] = "git"
-libraries[pluslider][download][url] = "https://github.com/JamyGolden/PlusSlider.git"
-libraries[pluslider][directory_name] = "plusslider"
-libraries[pluslider][destination] = "libraries"
-
-;PoshyTip
-; libraries[poshytip][download][type] = "get"
-; libraries[poshytip][download][url] = "http://vadikom.com/files/?file=poshytip/poshytip-1.1.zip"
-; libraries[poshytip][directory_name] = "poshy_tip"
-; libraries[poshytip][destination] = "libraries"
-
-;HeadJS - too flakey, as is LABjs
-; libraries[headjs][download][type] = git
-; libraries[headjs][download][url] = https://github.com/headjs/headjs.git
-; libraries[headjs][download][tag] = v0.96
