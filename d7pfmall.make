@@ -346,6 +346,9 @@ projects[google_webfont_loader_api][type] = "module"
 projects[fontyourface][version] = 2.2
 projects[fontyourface][type] = "module"
 
+projects[cufon][version] = 2.1
+projects[cufon][type] = "module"
+
 projects[homebox][version] = 2.0-beta6
 projects[homebox][type] = "module"
 
@@ -521,7 +524,7 @@ projects[special_menu_items][type] = "module"
 projects[messaging][version] = 1.0-alpha2
 projects[messaging][type] = "module"
 
-; projects[metatag][version] = 1.0-alpha4
+projects[metatag][version] = 1.0-alpha5
 ; projects[metatag][version] = 1.x-dev
 projects[metatag][type] = "module"
 projects[tagging][version] = 3.3
@@ -656,6 +659,8 @@ projects[httprl][type] = "module"
 projects[fpa][version] = 2.x-dev
 projects[fpa][type] = "module"
 
+projects[domain_301_redirect][version] = 1.0
+projects[domain_301_redirect][type] = "module"
 
 projects[search404][version] = 1.1
 projects[search404][type] = "module"
@@ -758,7 +763,7 @@ projects[style_usage][type] = "module"
 
 projects[back_to_top][version] = 1.2
 projects[back_to_top][type] = "module"
-projects[linkit][version] = 2.1
+projects[linkit][version] = 2.2
 projects[linkit][type] = "module"
 
 projects[pathologic][version] = 1.4
@@ -797,6 +802,8 @@ projects[jstimer][type] = "module"
 
 projects[themekey][version] = 1.5
 projects[themekey][type] = "module"
+projects[role_theme_switcher][version] = 1.1
+projects[role_theme_switcher][type] = "module"
 
 projects[typogrify][version] = 1.0-rc2
 projects[typogrify][type] = "module"

@@ -276,6 +276,9 @@ projects[google_webfont_loader_api][type] = "module"
 projects[fontyourface][version] = 2.2
 projects[fontyourface][type] = "module"
 
+projects[cufon][version] = 2.1
+projects[cufon][type] = "module"
+
 projects[homebox][version] = 2.0-beta6
 projects[homebox][type] = "module"
 
@@ -401,7 +404,7 @@ projects[special_menu_items][type] = "module"
 projects[messaging][version] = 1.0-alpha2
 projects[messaging][type] = "module"
 
-projects[metatag][version] = 1.x-dev
+projects[metatag][version] = 1.0-alpha5
 projects[metatag][type] = "module"
 projects[tagging][version] = 3.3
 projects[tagging][type] = "module"
@@ -893,8 +896,10 @@ projects[workbench_profile][type] = "module"
 
 projects[adaptivetheme][version] = 2.2
 projects[adaptivetheme][type] = "theme"
+
 projects[rubik][version] = 4.0-beta8
 projects[rubik][type] = "theme"
+
 projects[cube][version] = 1.1
 projects[cube][type] = "theme"
 
@@ -974,5 +979,13 @@ libraries[jquerycycle][download][type] = "git"
 libraries[jquerycycle][download][url] = "https://github.com/malsup/cycle.git"
 libraries[jquerycycle][directory_name] = "jquery.cycle"
 libraries[jquerycycle][destination] = "libraries"
+
+
+;jCufon-Yui.js
+libraries[cufon][download][type] = "file"
+libraries[cufon][download][url] = "http://cufon.shoqolate.com/js/cufon-yui.js?v=1.09i"
+libraries[cufon][directory_name] = "cufon"
+libraries[cufon][file_name] = "cufon-yui.js"
+libraries[cufon][destination] = "libraries"
 
 
