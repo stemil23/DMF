@@ -474,7 +474,7 @@ projects[locationmap][version] = 2.1
 projects[locationmap][type] = "module"
 projects[gmap][version] = 1.x-dev
 projects[gmap][type] = "module"
-projects[ip_geoloc][version] = 1.6
+projects[ip_geoloc][version] = 1.7
 projects[ip_geoloc][type] = "module"
 
 
@@ -992,7 +992,7 @@ projects[views_tree][type] = "module"
 
 projects[views_accordion][version] = 1.x-dev
 projects[views_accordion][type] = "module"
-projects[global_filter][version] = 1.2
+projects[global_filter][version] = 1.3
 projects[global_filter][type] = "module"
 projects[vntf][version] = 1.0-beta6
 projects[vntf][type] = "module"
