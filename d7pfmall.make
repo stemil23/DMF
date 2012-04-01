@@ -96,7 +96,7 @@ projects[calendar][type] = "module"
 
 ; projects[clock][version] = 1.2
 ; projects[clock][type] = "module"
-projects[date][version] = 2.2
+projects[date][version] = 2.3
 projects[date][type] = "module"
 projects[date_popup_authored][version] = 1.1
 projects[date_popup_authored][type] = "module"
@@ -216,8 +216,14 @@ projects[widgets][type] = "module"
 ; projects[content_page][version] = 1.3
 ; projects[content_page][type] = "module"
 
-projects[css_injector][version] = 1.7
+projects[normalize][version] = 1.3
+projects[normalize][type] = "module"
+projects[css_injector][version] = 2.1
 projects[css_injector][type] = "module"
+projects[live_css][version] = 1.7
+projects[live_css][type] = "module"
+projects[less][version] = 2.4
+projects[less][type] = "module"
 projects[browserclass][version] = 1.4
 projects[browserclass][type] = "module"
 
@@ -1053,6 +1059,10 @@ projects[select_with_style][type] = "module"
 projects[single_page_website][version] = 2.0-beta4
 projects[single_page_website][type] = "module"
 
+projects[workflow][version] = 1.0
+projects[workflow][type] = "module"
+projects[revisioning][version] = 1.4
+projects[revisioning][type] = "module"
 
 projects[xmlsitemap][version] = 2.0-rc1
 projects[xmlsitemap][type] = "module"
@@ -1139,7 +1149,7 @@ projects[journalcrunch][type] = "theme"
 
 projects[zen][version] = "3.1"
 projects[zen][type] = "theme"
-projects[zentropy][version] = 2.0-beta11
+projects[zentropy][version] = 2.0-rc1
 projects[zentropy][type] = "theme"
 projects[acquia_marina][version] = 2.0-beta1
 projects[acquia_marina][type] = "theme"
