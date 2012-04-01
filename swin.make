@@ -58,7 +58,7 @@ projects[elysia_cron][version] = 2.1
 projects[elysia_cron][type] = "module"
 
 
-projects[ctools][version] = 1.0-rc2
+projects[ctools][version] = 1.0
 projects[ctools][type] = "module"
 projects[context][version] = 3.0-beta2
 projects[context][type] = "module"
@@ -203,6 +203,8 @@ projects[cck][version] = 2.x-dev
 projects[cck][type] = "module"
 projects[content_type_extras][version] = 1.7
 projects[content_type_extras][type] = "module"
+projects[edit_content_type_tab][version] = 1.1
+projects[edit_content_type_tab][type] = "module"
 
 projects[toc_filter][version] = 1.0-beta1
 projects[toc_filter][type] = "module"
@@ -691,7 +693,7 @@ projects[filtersie][type] = "module"
 projects[follow][version] = 1.0-alpha1
 projects[follow][type] = "module"
 
-projects[fblikebutton][version] = 1.2
+projects[fblikebutton][version] = 2.0
 projects[fblikebutton][type] = "module"
 projects[fboauth][version] = 1.4
 projects[fboauth][type] = "module"
@@ -833,7 +835,7 @@ projects[variable][type] = "module"
 
 projects[rate][version] = 1.3
 projects[rate][type] = "module"
-projects[fivestar][version] = 2.0-alpha1
+projects[fivestar][version] = 2.0-alpha2
 projects[fivestar][type] = "module"
 projects[fivestar_smiley][version] = 1.0
 projects[fivestar_smiley][type] = "module"
