@@ -670,6 +670,9 @@ projects[cdn][version] = 2.4
 projects[cdn][type] = "module"
 projects[expire][version] = 1.0-alpha2
 projects[expire][type] = "module"
+projects[purge][version] = 1.5-rc1
+projects[purge][type] = "module"
+
 
 projects[storage_api][version] = 1.2
 projects[storage_api][type] = "module"
