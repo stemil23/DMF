@@ -71,6 +71,8 @@ projects[commerce_stock][version] = 1.0-rc2
 projects[commerce_stock][type] = "module"
 projects[commerce_product_bundle][version] = 1.0-alpha6
 projects[commerce_product_bundle][type] = "module"
+projects[commerce_rec][version] = 1.0
+projects[commerce_rec][type] = "module"
 
 ; projects[contemplate][version] = 1.0-rc3
 ; projects[contemplate][type] = "module"
@@ -218,7 +220,7 @@ projects[widgets][type] = "module"
 
 projects[normalize][version] = 1.3
 projects[normalize][type] = "module"
-projects[css_injector][version] = 2.1
+projects[css_injector][version] = 1.7
 projects[css_injector][type] = "module"
 projects[live_css][version] = 1.7
 projects[live_css][type] = "module"
@@ -272,7 +274,7 @@ projects[content_type_extras][type] = "module"
 
 projects[toc_filter][version] = 1.0-beta1
 projects[toc_filter][type] = "module"
-projects[drupal_ipsum][version] = 1.4
+projects[drupal_ipsum][version] = 1.5
 projects[drupal_ipsum][type] = "module"
 
 projects[comment_notify][version] = 1.0
@@ -426,6 +428,8 @@ projects[imagecache_profiles][version] = 1.0
 projects[imagecache_profiles][type] = "module"
 projects[image_style_quality][version] = 1.1
 projects[image_style_quality][type] = "module"
+projects[imagecache_external][version] = 2.0-beta1
+projects[imagecache_external][type] = "module"
 
 projects[insert][version] = 1.1
 projects[insert][type] = "module"
@@ -601,7 +605,7 @@ projects[geofield][type] = "module"
 projects[geocoder][version] = 1.0
 projects[geocoder][type] = "module"
 
-projects[geophp][version] = 1.1
+projects[geophp][version] = 1.3
 projects[geophp][type] = "module"
 
 projects[themekey][version] = 2.0
@@ -664,8 +668,8 @@ projects[boost][type] = "module"
 ; projects[boost_expire][type] = "module"
 projects[cdn][version] = 2.4
 projects[cdn][type] = "module"
-; projects[expire][version] = 1.0-alpha2
-; projects[expire][type] = "module"
+projects[expire][version] = 1.0-alpha2
+projects[expire][type] = "module"
 
 projects[storage_api][version] = 1.2
 projects[storage_api][type] = "module"
@@ -1154,8 +1158,8 @@ projects[zentropy][type] = "theme"
 projects[acquia_marina][version] = 2.0-beta1
 projects[acquia_marina][type] = "theme"
 
-projects[fusion][version] = 2.0-beta2
-projects[fusion][type] = "theme"
+; projects[fusion][version] = 2.0-beta2
+; projects[fusion][type] = "theme"
 
 ; projects[html5_base][version] = "2.x-dev"
 ; projects[html5_base][type] = "theme"
