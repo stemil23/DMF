@@ -73,6 +73,8 @@ projects[commerce_product_bundle][version] = 1.0-alpha6
 projects[commerce_product_bundle][type] = "module"
 projects[commerce_rec][version] = 1.0
 projects[commerce_rec][type] = "module"
+projects[commerce_addressbook][version] = 2.0-rc1
+projects[commerce_addressbook][type] = "module"
 
 ; projects[contemplate][version] = 1.0-rc3
 ; projects[contemplate][type] = "module"
@@ -133,6 +135,9 @@ projects[field_permissions][version] = 1.0-beta2
 projects[field_permissions][type] = "module"
 projects[field_hidden][version] = 1.1
 projects[field_hidden][type] = "module"
+
+projects[fpa][version] = 2.0
+projects[fpa][type] = "module"
 
 ; projects[field_redirection][version] = 2.3
 ; projects[field_redirection][type] = "module"
@@ -397,7 +402,7 @@ projects[drd][type] = "module"
 projects[drd_server][version] = 2.0-rc2
 projects[drd_server][type] = "module"
 
-projects[flexslider][version] = 1.0-rc1
+projects[flexslider][version] = 1.0-rc2
 projects[flexslider][type] = "module"
 
 projects[filefield_nginx_progress][version] = 1.x-dev
@@ -660,7 +665,7 @@ projects[radioactivity][type] = "module"
 projects[schema][version] = 1.x-dev
 projects[schema][type] = "module"
 
-projects[core_library][version] = 1.0-beta11
+projects[core_library][version] = 2.0-beta2
 projects[core_library][type] = "module"
 projects[boost][version] = 1.x-dev
 projects[boost][type] = "module"
@@ -830,6 +835,12 @@ projects[taxonomy_access][version] = 1.x-dev
 projects[taxonomy_access][type] = "module"
 projects[taxonomy_menu_trails][version] = 2.0
 projects[taxonomy_menu_trails][type] = "module"
+
+projects[taxonomy_edge][version] = 1.1
+projects[taxonomy_edge][type] = "module"
+projects[vars][version] = 2.0-alpha10
+projects[vars][type] = "module"
+
 projects[private_taxonomy][version] = 1.0
 projects[private_taxonomy][type] = "module"
 projects[term_permissions][version] = 1.0-beta1
@@ -1010,7 +1021,7 @@ projects[global_filter][type] = "module"
 projects[vntf][version] = 1.0-beta6
 projects[vntf][type] = "module"
 
-projects[weight][version] = 2.0-beta3
+projects[weight][version] = 2.0-rc1
 projects[weight][type] = "module"
 
 projects[slidebox][version] = 1.4
@@ -1141,7 +1152,7 @@ projects[blacksea][version] = 1.1
 projects[blacksea][type] = "theme"
 projects[profolio][version] = 1.0
 projects[profolio][type] = "theme"
-projects[business][version] = 1.4
+projects[business][version] = 1.5
 projects[business][type] = "theme"
 projects[alloy][version] = 1.0
 projects[alloy][type] = "theme"
@@ -1156,7 +1167,7 @@ projects[journalcrunch][type] = "theme"
 
 projects[zen][version] = "3.1"
 projects[zen][type] = "theme"
-projects[zentropy][version] = 2.0-rc1
+projects[zentropy][version] = 2.0-rc2
 projects[zentropy][type] = "theme"
 projects[acquia_marina][version] = 2.0-beta1
 projects[acquia_marina][type] = "theme"
