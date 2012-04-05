@@ -75,6 +75,9 @@ projects[commerce_rec][version] = 1.0
 projects[commerce_rec][type] = "module"
 projects[commerce_addressbook][version] = 2.0-rc1
 projects[commerce_addressbook][type] = "module"
+projects[commerce_registration][version] = 2.0-alpha5
+projects[commerce_registration][type] = "module"
+
 
 ; projects[contemplate][version] = 1.0-rc3
 ; projects[contemplate][type] = "module"
@@ -450,7 +453,7 @@ projects[jquery_twitter_search][version] = 1.0
 projects[jquery_twitter_search][type] = "module"
 projects[twitter_pull][version] = 1.0-rc1
 projects[twitter_pull][type] = "module"
-projects[twitter_db][version] = 1.0-rc1
+projects[twitter_db][version] = 1.0-rc2
 projects[twitter_db][type] = "module"
 
 
@@ -603,6 +606,12 @@ projects[openlayers][type] = "module"
 ; ABANDONED PROJECT
 ; projects[wms][version] = 1.0
 ; projects[wms][type] = "module"
+
+projects[weather][version] = 1.2
+projects[weather][type] = "module"
+projects[smart_ip][version] = 1.5
+projects[smart_ip][type] = "module"
+
 
 projects[geofield][version] = 1.0
 projects[geofield][type] = "module"
@@ -788,7 +797,7 @@ projects[panels_extra_layouts][version] = 1.5
 projects[panels_extra_layouts][type] = "module"
 projects[panels_breadcrumbs][version] = 1.6
 projects[panels_breadcrumbs][type] = "module"
-projects[print][version] = 1.0-beta2
+projects[print][version] = 1.0
 projects[print][type] = "module"
 projects[rules][version] = 2.1
 projects[rules][type] = "module"
@@ -821,7 +830,7 @@ projects[service_links][type] = "module"
 projects[recaptcha][version] = 1.7
 projects[recaptcha][type] = "module"
 
-projects[rpx][version] = 2.1
+projects[rpx][version] = 2.2
 projects[rpx][type] = "module"
 
 projects[nagios][version] = 1.2
@@ -1060,7 +1069,7 @@ projects[webform_patched][type] = "module"
 projects[webform_phone][version] = 1.2
 projects[webform_phone][type] = "module"
 
-projects[field_validation][version] = 1.0-beta5
+projects[field_validation][version] = 1.0-beta6
 projects[field_validation][type] = "module"
 projects[double_field][version] = 1.1
 projects[double_field][type] = "module"
@@ -1154,6 +1163,8 @@ projects[profolio][version] = 1.0
 projects[profolio][type] = "theme"
 projects[business][version] = 1.5
 projects[business][type] = "theme"
+projects[busy][version] = 1.5
+projects[busy][type] = "theme"
 projects[alloy][version] = 1.0
 projects[alloy][type] = "theme"
 projects[groundwork][version] = 1.2
