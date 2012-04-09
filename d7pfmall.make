@@ -67,6 +67,8 @@ projects[commerce_bpc][version] = 1.0-rc5
 projects[commerce_bpc][type] = "module"
 projects[commerce_price_savings_formatter][version] = 1.1
 projects[commerce_price_savings_formatter][type] = "module"
+projects[commerce_extra_price_formatters][version] = 1.1
+projects[commerce_extra_price_formatters][type] = "module"
 projects[commerce_stock][version] = 1.0-rc2
 projects[commerce_stock][type] = "module"
 projects[commerce_product_bundle][version] = 1.0-alpha6
@@ -109,6 +111,8 @@ projects[date_popup_authored][version] = 1.1
 projects[date_popup_authored][type] = "module"
 projects[opening_hours][version] = 1.0-beta2
 projects[opening_hours][type] = "module"
+projects[tipsy][version] = 1.0-rc1
+projects[tipsy][type] = "module"
 
 
 projects[devel][version] = 1.x-dev
@@ -204,7 +208,7 @@ projects[better_formats][type] = "module"
 
 projects[mailsystem][version] = 2.33
 projects[mailsystem][type] = "module"
-projects[htmlmail][version] = 2.64
+projects[htmlmail][version] = 2.65
 projects[htmlmail][type] = "module"
 
 
@@ -533,6 +537,8 @@ projects[mediaelement][version] = 1.2
 projects[mediaelement][type] = "module"
 projects[html5_media][version] = 1.0
 projects[html5_media][type] = "module"
+projects[mediafront][version] = 2.x-dev
+projects[mediafront][type] = "module"
 
 projects[block_titlelink][version] = 1.2
 projects[block_titlelink][type] = "module"
@@ -622,11 +628,16 @@ projects[geocoder][type] = "module"
 projects[geophp][version] = 1.3
 projects[geophp][type] = "module"
 
+projects[geophp][version] = 1.3
+projects[geophp][type] = "module"
+
 projects[themekey][version] = 2.0
 projects[themekey][type] = "module"
 
 projects[pathauto][version] = 1.0
 projects[pathauto][type] = "module"
+projects[trailing_slash][version] = 1.0-rc4
+projects[trailing_slash][type] = "module"
 
 projects[profile2][version] = 1.2
 projects[profile2][type] = "module"
@@ -634,6 +645,9 @@ projects[profile2_privacy][version] = 1.2
 projects[profile2_privacy][type] = "module"
 projects[profile2_regpath][version] = 1.6
 projects[profile2_regpath][type] = "module"
+projects[profile_sync_email][version] = 1.3
+projects[profile_sync_email][type] = "module"
+
 
 projects[profile2_apachesolr][version] = 1.2
 projects[profile2_apachesolr][type] = "module"
@@ -724,6 +738,8 @@ projects[fast_404][version] = 1.3
 projects[fast_404][type] = "module"
 
 
+projects[remember_me][version] = 1.0
+projects[remember_me][type] = "module"
 projects[securepages][version] = 1.x-dev
 projects[securepages][type] = "module"
 projects[security_review][version] = 1.0
@@ -761,7 +777,7 @@ projects[submenutree][type] = "module"
 projects[superfish][version] = 1.9-beta4
 projects[superfish][type] = "module"
 
-projects[token][version] = 1.0-rc1
+projects[token][version] = 1.0
 ; projects[token][version] = 1.x-dev
 projects[token][type] = "module"
 projects[transliteration][version] = 3.0
@@ -842,7 +858,7 @@ projects[taxonomy_menu][version] = 1.2
 projects[taxonomy_menu][type] = "module"
 projects[taxonomy_access][version] = 1.x-dev
 projects[taxonomy_access][type] = "module"
-projects[taxonomy_menu_trails][version] = 2.0
+projects[taxonomy_menu_trails][version] = 2.1
 projects[taxonomy_menu_trails][type] = "module"
 
 projects[taxonomy_edge][version] = 1.1
@@ -930,7 +946,7 @@ projects[nivo_slider][version] = 1.3
 projects[nivo_slider][type] = "module"
 
 
-projects[menu_minipanels][version] = 1.0-rc4
+projects[menu_minipanels][version] = 1.0-rc5
 projects[menu_minipanels][type] = "module"
 
 projects[menu_force][version] = 1.2
