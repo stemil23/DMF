@@ -77,7 +77,7 @@ projects[commerce_rec][version] = 1.0
 projects[commerce_rec][type] = "module"
 projects[commerce_addressbook][version] = 2.0-rc1
 projects[commerce_addressbook][type] = "module"
-projects[commerce_registration][version] = 2.0-alpha5
+projects[commerce_registration][version] = 2.0-alpha7
 projects[commerce_registration][type] = "module"
 
 
@@ -123,7 +123,7 @@ projects[prod_check][type] = "module"
 
 projects[ds][version] = 1.5
 projects[ds][type] = "module"
-projects[features][version] = 1.0-rc1
+projects[features][version] = 1.0-rc2
 projects[features][type] = "module"
 projects[feeds][version] = 2.0-alpha4
 projects[feeds][type] = "module"
@@ -165,6 +165,11 @@ projects[viewreference][version] = 3.3
 projects[viewreference][type] = "module"
 projects[references][version] = 2.0
 projects[references][type] = "module"
+
+
+
+projects[cnr][version] = 4.22
+projects[cnr][type] = "module"
 projects[privatemsg][version] = 1.2
 projects[privatemsg][type] = "module"
 ; projects[html5_tools][version] = 1.1
@@ -202,17 +207,22 @@ projects[advanced_forum][type] = "module"
 
 projects[arrange_fields][version] = 1.8
 projects[arrange_fields][type] = "module"
+projects[conditional_fields][version] = 3.x-dev
+projects[conditional_fields][type] = "module"
+projects[field_collection][version] = 1.0-beta4
+projects[field_collection][type] = "module"
+
 
 projects[better_formats][version] = 1.x-dev
 projects[better_formats][type] = "module"
 
-projects[mailsystem][version] = 2.33
+projects[mailsystem][version] = 2.34
 projects[mailsystem][type] = "module"
 projects[htmlmail][version] = 2.65
 projects[htmlmail][type] = "module"
 
 
-projects[colorbox][version] = 1.2
+projects[colorbox][version] = 1.3
 projects[colorbox][type] = "module"
 
 projects[easy_social][version] = 2.8
@@ -220,7 +230,7 @@ projects[easy_social][type] = "module"
 projects[jasm][version] = 1.2
 projects[jasm][type] = "module"
 
-projects[socialmedia][version] = 1.0-beta9
+projects[socialmedia][version] = 1.0-beta10
 projects[socialmedia][type] = "module"
 
 
@@ -234,9 +244,9 @@ projects[normalize][version] = 1.3
 projects[normalize][type] = "module"
 projects[css_injector][version] = 1.7
 projects[css_injector][type] = "module"
-projects[live_css][version] = 1.7
+projects[live_css][version] = 2.4
 projects[live_css][type] = "module"
-projects[less][version] = 2.4
+projects[less][version] = 2.5
 projects[less][type] = "module"
 projects[browserclass][version] = 1.4
 projects[browserclass][type] = "module"
@@ -333,6 +343,11 @@ projects[entityreference][version] = 1.0-rc1
 projects[entityreference][type] = "module"
 projects[entitycache][version] = 1.1
 projects[entitycache][type] = "module"
+projects[entityreference_prepopulate][version] = 1.0
+projects[entityreference_prepopulate][type] = "module"
+projects[entityreference_view_widget][version] = 1.x-dev
+projects[entityreference_view_widget][type] = "module"
+
 
 
 projects[elements][version] = 1.2
@@ -394,6 +409,8 @@ projects[honeypot][version] = 1.11
 projects[honeypot][type] = "module"
 projects[captcha][version] = 1.0-beta2
 projects[captcha][type] = "module"
+projects[captcha_after][version] = 1.x-dev
+projects[captcha_after][type] = "module"
 projects[antispam][version] = 1.4
 projects[antispam][type] = "module"
 
@@ -427,6 +444,9 @@ projects[image_resize_filter][type] = "module"
 
 projects[imageeditor][version] = 1.8
 projects[imageeditor][type] = "module"
+
+projects[beforeafter][version] = 1.0
+projects[beforeafter][type] = "module"
 
 projects[imagemarker][version] = "1.x-dev"
 projects[imagemarker][type] = "module"
@@ -502,7 +522,7 @@ projects[ip_geoloc][type] = "module"
 
 projects[addressfield][version] = 1.0-beta2
 projects[addressfield][type] = "module"
-projects[addressfield_staticmap][version] = 1.0-beta2
+projects[addressfield_staticmap][version] = 1.0-beta3
 projects[addressfield_staticmap][type] = "module"
 projects[location_taxonomize][version] = 2.3
 projects[location_taxonomize][type] = "module"
@@ -648,6 +668,9 @@ projects[profile2_regpath][type] = "module"
 projects[profile_sync_email][version] = 1.3
 projects[profile_sync_email][type] = "module"
 
+projects[email_confirm][version] = 1.0
+projects[email_confirm][type] = "module"
+
 
 projects[profile2_apachesolr][version] = 1.2
 projects[profile2_apachesolr][type] = "module"
@@ -729,7 +752,7 @@ projects[domain_301_redirect][type] = "module"
 
 projects[search404][version] = 1.1
 projects[search404][type] = "module"
-projects[search_config][version] = 1.0
+projects[search_config][version] = 1.x-dev
 projects[search_config][type] = "module"
 projects[search_autocomplete][version] = 2.3
 projects[search_autocomplete][type] = "module"
@@ -912,7 +935,7 @@ projects[fblikebutton][version] = 2.0
 projects[fblikebutton][type] = "module"
 projects[fboauth][version] = 1.4
 projects[fboauth][type] = "module"
-projects[facebook_rules][version] = 1.2
+projects[facebook_rules][version] = 1.3
 projects[facebook_rules][type] = "module"
 
 projects[BookMadeSimple][version] = 3.5
@@ -942,7 +965,7 @@ projects[soundcloudfield][type] = "module"
 projects[soundcloud_filter][version] = 2.2
 projects[soundcloud_filter][type] = "module"
 
-projects[nivo_slider][version] = 1.3
+projects[nivo_slider][version] = 1.4
 projects[nivo_slider][type] = "module"
 
 
@@ -1084,8 +1107,10 @@ projects[webform_patched][version] = 3.17
 projects[webform_patched][type] = "module"
 projects[webform_phone][version] = 1.2
 projects[webform_phone][type] = "module"
+projects[webform_tokens][version] = 1.0
+projects[webform_tokens][type] = "module"
 
-projects[field_validation][version] = 1.0-beta6
+projects[field_validation][version] = 1.0-rc1
 projects[field_validation][type] = "module"
 projects[double_field][version] = 1.1
 projects[double_field][type] = "module"
@@ -1194,7 +1219,7 @@ projects[journalcrunch][type] = "theme"
 
 projects[zen][version] = "3.1"
 projects[zen][type] = "theme"
-projects[zentropy][version] = 2.0-rc2
+projects[zentropy][version] = 2.0-rc5
 projects[zentropy][type] = "theme"
 projects[acquia_marina][version] = 2.0-beta1
 projects[acquia_marina][type] = "theme"
@@ -1328,6 +1353,13 @@ libraries[pluslider][destination] = "libraries"
 ; libraries[poshytip][download][url] = "http://vadikom.com/files/?file=poshytip/poshytip-1.1.zip"
 ; libraries[poshytip][directory_name] = "poshy_tip"
 ; libraries[poshytip][destination] = "libraries"
+
+
+; BefireAfter
+; libraries[beforeafter][download][type] = "get"
+; libraries[beforeafter][download][url] = "http://www.catchmyfame.com/jquery/beforeafter.zip"
+; libraries[beforeafter][directory_name] = "beforeafter"
+; libraries[beforeafter][destination] = "libraries"
 
 ;HeadJS - too flakey, as is LABjs
 ; libraries[headjs][download][type] = git
