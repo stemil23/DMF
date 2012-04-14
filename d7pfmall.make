@@ -473,6 +473,9 @@ projects[job_scheduler][type] = "module"
 ; projects[jquery_ui][version] = 1.x-dev
 ; projects[jquery_ui][type] = "module"
 
+; projects[jquerymobile][version] = 2.x-dev
+; projects[jquerymobile][type] = "module"
+
 projects[jquery_twitter_search][version] = 1.0
 projects[jquery_twitter_search][type] = "module"
 projects[twitter_pull][version] = 1.0-rc1
@@ -1151,6 +1154,11 @@ projects[workbench_profile][type] = "module"
 
 ; Themes
 ; --------
+
+
+projects[mobile_jquery][version] = 1.x-dev
+projects[mobile_jquery][type] = "theme"
+
 projects[arctica][version] = 1.1
 projects[arctica][type] = "theme"
 projects[andromeda][version] = 2.x-dev
