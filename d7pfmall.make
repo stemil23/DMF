@@ -1041,7 +1041,7 @@ projects[jquery_update][type] = "module"
 projects[popup][version] = 1.0
 projects[popup][type] = "module"
 
-projects[wysiwyg][version] = 1.0
+projects[wysiwyg][version] = 2.1
 projects[wysiwyg][type] = "module"
 
 projects[ua_cache_bypass][version] = 1.0
