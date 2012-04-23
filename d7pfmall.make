@@ -79,6 +79,8 @@ projects[commerce_addressbook][version] = 2.0-rc1
 projects[commerce_addressbook][type] = "module"
 projects[commerce_registration][version] = 2.0-alpha7
 projects[commerce_registration][type] = "module"
+projects[commerce_reorder][version] = 1.1
+projects[commerce_reorder][type] = "module"
 
 
 ; projects[contemplate][version] = 1.0-rc3
@@ -100,13 +102,15 @@ projects[context][version] = 3.0-beta2
 projects[context][type] = "module"
 ; projects[context_admin][version] = 1.1
 ; projects[context_admin][type] = "module"
-projects[calendar][version] = 3.0
+projects[calendar][version] = 3.2
 projects[calendar][type] = "module"
 
 ; projects[clock][version] = 1.2
 ; projects[clock][type] = "module"
-projects[date][version] = 2.3
+projects[date][version] = 2.5
 projects[date][type] = "module"
+projects[date_ical][version] = 1.1
+projects[date_ical][type] = "module"
 projects[date_popup_authored][version] = 1.1
 projects[date_popup_authored][type] = "module"
 projects[opening_hours][version] = 1.0-beta2
@@ -143,7 +147,7 @@ projects[field_permissions][type] = "module"
 projects[field_hidden][version] = 1.1
 projects[field_hidden][type] = "module"
 
-projects[fpa][version] = 2.0
+projects[fpa][version] = 2.2
 projects[fpa][type] = "module"
 
 ; projects[field_redirection][version] = 2.3
@@ -192,7 +196,7 @@ projects[imce_tools][version] = 1.0
 projects[imce_tools][type] = "module"
 
 
-projects[i18n][version] = 1.4
+projects[i18n][version] = 1.5
 projects[i18n][type] = "module"
 projects[languageicons][version] = 1.0
 projects[languageicons][type] = "module"
@@ -341,7 +345,7 @@ projects[bg_image][version] = 1.0-beta3
 projects[bg_image][type] = "module"
 
 
-projects[entity][version] = 1.0-rc1
+projects[entity][version] = 1.0-rc2
 projects[entity][type] = "module"
 projects[entity_autocomplete][version] = 1.0-beta1
 projects[entity_autocomplete][type] = "module"
@@ -482,8 +486,8 @@ projects[job_scheduler][type] = "module"
 ; projects[jquery_ui][version] = 1.x-dev
 ; projects[jquery_ui][type] = "module"
 
-; projects[jquerymobile][version] = 2.x-dev
-; projects[jquerymobile][type] = "module"
+projects[jquerymobile][version] = 2.0-beta1
+projects[jquerymobile][type] = "module"
 
 projects[jquery_twitter_search][version] = 1.0
 projects[jquery_twitter_search][type] = "module"
@@ -538,7 +542,7 @@ projects[addressfield_staticmap][version] = 1.0-beta4
 projects[addressfield_staticmap][type] = "module"
 projects[location_taxonomize][version] = 2.3
 projects[location_taxonomize][type] = "module"
-projects[getlocations][version] = 1.0
+projects[getlocations][version] = 1.x-dev
 projects[getlocations][type] = "module"
 
 
@@ -731,7 +735,7 @@ projects[boost][type] = "module"
 ; projects[boost_expire][type] = "module"
 projects[cdn][version] = 2.4
 projects[cdn][type] = "module"
-projects[expire][version] = 1.0-alpha2
+projects[expire][version] = 1.0-alpha3
 projects[expire][type] = "module"
 projects[purge][version] = 1.5-rc1
 projects[purge][type] = "module"
@@ -754,12 +758,12 @@ projects[nodehierarchy][version] = 2.x-dev
 projects[nodehierarchy][type] = "module"
 
 
-projects[httprl][version] = 1.5
+projects[httprl][version] = 1.6
 projects[httprl][type] = "module"
 projects[fpa][version] = 2.x-dev
 projects[fpa][type] = "module"
 
-projects[domain_301_redirect][version] = 1.0
+projects[domain_301_redirect][version] = 1.1
 projects[domain_301_redirect][type] = "module"
 
 projects[search404][version] = 1.1
@@ -792,7 +796,7 @@ projects[shorten][version] = 1.x-dev
 projects[shorten][type] = "module"
 projects[site_verify][version] = 1.x-dev
 projects[site_verify][type] = "module"
-projects[skinr][version] = 2.0-alpha1
+projects[skinr][version] = 2.0-beta1
 projects[skinr][type] = "module"
 projects[fusion_accelerator][version] = 2.0-beta1
 projects[fusion_accelerator][type] = "module"
@@ -893,7 +897,7 @@ projects[taxonomy_menu][version] = 1.2
 projects[taxonomy_menu][type] = "module"
 projects[taxonomy_access][version] = 1.x-dev
 projects[taxonomy_access][type] = "module"
-projects[taxonomy_menu_trails][version] = 2.1
+projects[taxonomy_menu_trails][version] = 2.2
 projects[taxonomy_menu_trails][type] = "module"
 
 projects[taxonomy_edge][version] = 1.1
@@ -1009,7 +1013,7 @@ projects[user_alert][type] = "module"
 
 projects[autocomplete_deluxe][version] = 1.0-beta5
 projects[autocomplete_deluxe][type] = "module"
-projects[ckeditor][version] = 1.8
+projects[ckeditor][version] = 1.9
 projects[ckeditor][type] = "module"
 projects[ckeditor_link][version] = 2.2
 projects[ckeditor_link][type] = "module"
@@ -1077,6 +1081,12 @@ projects[menu_views][type] = "module"
 projects[views_tree][version] = 2.0
 projects[views_tree][type] = "module"
 
+projects[views_fluid_grid][version] = 3.0
+projects[views_fluid_grid][type] = "module"
+
+
+projects[views_isotope][version] = 1.0-beta1
+projects[views_isotope][type] = "module"
 projects[views_accordion][version] = 1.x-dev
 projects[views_accordion][type] = "module"
 projects[global_filter][version] = 1.4
@@ -1084,7 +1094,7 @@ projects[global_filter][type] = "module"
 projects[vntf][version] = 1.0-beta6
 projects[vntf][type] = "module"
 
-projects[weight][version] = 2.0-rc1
+projects[weight][version] = 2.0-rc2
 projects[weight][type] = "module"
 
 projects[slidebox][version] = 1.4
@@ -1168,12 +1178,12 @@ projects[workbench_profile][type] = "module"
 ; --------
 
 
-projects[mobile_jquery][version] = 1.x-dev
+projects[mobile_jquery][version] = 2.0-beta1
 projects[mobile_jquery][type] = "theme"
 
 projects[arctica][version] = 1.3
 projects[arctica][type] = "theme"
-projects[arti][version] = 1.1
+projects[arti][version] = 1.3
 projects[arti][type] = "theme"
 projects[tundra][version] = 1.3
 projects[tundra][type] = "theme"
@@ -1213,6 +1223,8 @@ projects[sasson][version] = 2.0
 projects[sasson][type] = "theme"
 projects[rubik][version] = 4.0-beta8
 projects[rubik][type] = "theme"
+projects[fubik][version] = 1.12
+projects[fubik][type] = "theme"
 ; projects[sky][version] = "2.2"
 ; projects[sky][type] = "theme"
 projects[tao][version] = "3.0-beta4"
@@ -1253,8 +1265,6 @@ projects[acquia_marina][type] = "theme"
 
 ; projects[html5_base][version] = "2.x-dev"
 ; projects[html5_base][type] = "theme"
-; projects[mobile_jquery][version] = 1.1-beta1
-; projects[mobile_jquery][type] = "theme"
 
 ; projects[nivo_slider][subdir] = "custom"
 ; projects[nivo_slider][type] = "module"
@@ -1280,7 +1290,8 @@ libraries[zend_gdata][destination] = "libraries"
 
 ; CKEditor
 libraries[ckeditor][download][type]= "get"
-libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.4/ckeditor_3.4.zip"
+;libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.4/ckeditor_3.4.zip"
+libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor%20for%20Drupal/CKEditor%203.6.2-3%20for%20Drupal/ckeditor_3.6.2-3_for_drupal_7.zip"
 libraries[ckeditor][directory_name] = "ckeditor"
 libraries[ckeditor][destination] = "libraries"
 
@@ -1371,6 +1382,13 @@ libraries[pluslider][download][type] = "git"
 libraries[pluslider][download][url] = "https://github.com/JamyGolden/PlusSlider.git"
 libraries[pluslider][directory_name] = "plusslider"
 libraries[pluslider][destination] = "libraries"
+
+;Isotope
+libraries[isotope][download][type] = "git"
+libraries[isotope][download][url] = "https://github.com/desandro/isotope.git"
+libraries[isotope][directory_name] = "isotope"
+libraries[isotope][destination] = "libraries"
+
 
 ;PoshyTip
 ; libraries[poshytip][download][type] = "get"
