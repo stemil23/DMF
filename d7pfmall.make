@@ -88,6 +88,12 @@ projects[commerce_reorder][version] = 1.x-dev
 projects[commerce_reorder][type] = "module"
 projects[commerce_paypal][version] = 1.x-dev
 projects[commerce_paypal][type] = "module"
+projects[commerce_product_attributes][version] = 1.x-dev
+projects[commerce_product_attributes][type] = "module"
+projects[recommender][version] = 4.0-alpha14
+projects[recommender][type] = "module"
+projects[async_command][version] = 2.0-alpha10
+projects[async_command][type] = "module"
 
 
 ; projects[contemplate][version] = 1.0-rc3
@@ -267,6 +273,8 @@ projects[css_injector][version] = 1.7
 projects[css_injector][type] = "module"
 projects[live_css][version] = 2.4
 projects[live_css][type] = "module"
+projects[css_emimage][version] = 1.x-dev
+projects[css_emimage][type] = "module"
 projects[less][version] = 2.5
 projects[less][type] = "module"
 projects[browserclass][version] = 1.4
@@ -514,6 +522,8 @@ projects[twitter_pull][version] = 1.0-rc1
 projects[twitter_pull][type] = "module"
 projects[twitter_db][version] = 1.0-rc2
 projects[twitter_db][type] = "module"
+projects[twitter][version] = 3.x-dev
+projects[twitter][type] = "module"
 
 
 projects[jquerymobile_ui][version] = 1.x-dev
@@ -859,6 +869,10 @@ projects[views_jqfx][version] = 1.0-alpha1
 projects[views_jqfx][type] = "module"
 projects[views_arg_parent_term][version] = 1.1
 projects[views_arg_parent_term][type] = "module"
+projects[views_field_view][version] = 1.x-dev
+projects[views_field_view][type] = "module"
+projects[views_content_cache][version] = 3.x-dev
+projects[views_content_cache][type] = "module"
 
 projects[field_slideshow][version] = 1.6
 projects[field_slideshow][type] = "module"
@@ -937,6 +951,9 @@ projects[private_taxonomy][type] = "module"
 projects[term_permissions][version] = 1.0-beta1
 projects[term_permissions][type] = "module"
 
+projects[config_perms][version] = 2.x-dev
+projects[config_perms][type] = "module"
+
 
 projects[jstimer][version] = 1.3
 projects[jstimer][type] = "module"
@@ -982,6 +999,8 @@ projects[facebook_rules][type] = "module"
 
 projects[oauth][version] = 3.x-dev
 projects[oauth][type] = "module"
+projects[oauthconnector][version] = 1.x-dev	
+projects[oauthconnector][type] = "module"
 projects[fboauth][version] = 1.4
 projects[fboauth][type] = "module"
 projects[linkedin][version] = 1.x-dev
