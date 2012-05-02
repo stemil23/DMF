@@ -60,19 +60,19 @@ projects[itoggle][type] = "module"
 projects[options_element][version] = 1.7
 projects[options_element][type] = "module"
 
-projects[commerce][version] = 1.2
+projects[commerce][version] = 1.x-dev
 projects[commerce][type] = "module"
-projects[commerce_coupon][version] = 1.0-beta4
+projects[commerce_coupon][version] = 1.x-dev
 projects[commerce_coupon][type] = "module"
 projects[commerce_file][version] = 1.0-beta3
 projects[commerce_file][type] = "module"
-projects[commerce_bpc][version] = 1.0-rc5
+projects[commerce_bpc][version] = 2.x-dev
 projects[commerce_bpc][type] = "module"
 projects[commerce_price_savings_formatter][version] = 1.1
 projects[commerce_price_savings_formatter][type] = "module"
 projects[commerce_extra_price_formatters][version] = 1.1
 projects[commerce_extra_price_formatters][type] = "module"
-projects[commerce_stock][version] = 1.0-rc2
+projects[commerce_stock][version] = 2.x-dev
 projects[commerce_stock][type] = "module"
 projects[commerce_product_bundle][version] = 1.0-alpha6
 projects[commerce_product_bundle][type] = "module"
@@ -84,7 +84,7 @@ projects[commerce_addressbook][version] = 2.0-rc1
 projects[commerce_addressbook][type] = "module"
 projects[commerce_registration][version] = 2.0-alpha7
 projects[commerce_registration][type] = "module"
-projects[commerce_reorder][version] = 1.1
+projects[commerce_reorder][version] = 1.x-dev
 projects[commerce_reorder][type] = "module"
 projects[commerce_paypal][version] = 1.x-dev
 projects[commerce_paypal][type] = "module"
@@ -214,7 +214,7 @@ projects[languageicons][type] = "module"
 
 projects[nodequeue][version] = 2.0-beta1
 projects[nodequeue][type] = "module"
-projects[og][version] = 1.3
+projects[og][version] = 1.4
 projects[og][type] = "module"
 projects[og_role_field][version] = 1.0
 projects[og_role_field][type] = "module"
@@ -303,7 +303,7 @@ projects[backup_migrate][version] = 2.2
 projects[backup_migrate][type] = "module"
 
 
-projects[boxes][version] = 1.0-beta8
+projects[boxes][version] = 1.0
 projects[boxes][type] = "module"
 
 projects[borealis][version] = 1.0-beta8
@@ -334,6 +334,9 @@ projects[custom_breadcrumbs][type] = "module"
 projects[custom_formatters][version] = 2.x-dev
 projects[custom_formatters][type] = "module"
 
+projects[smart_trim][version] = 1.1
+projects[smart_trim][type] = "module"
+
 projects[delta][version] = 3.0-beta9
 projects[delta][type] = "module"
 
@@ -356,7 +359,7 @@ projects[bg_image][version] = 1.0-beta3
 projects[bg_image][type] = "module"
 
 
-projects[entity][version] = 1.0-rc2
+projects[entity][version] = 1.x-dev
 projects[entity][type] = "module"
 projects[entity_autocomplete][version] = 1.0-beta1
 projects[entity_autocomplete][type] = "module"
@@ -693,6 +696,10 @@ projects[trailing_slash][type] = "module"
 
 projects[profile2][version] = 1.2
 projects[profile2][type] = "module"
+
+; projects[achievements][version] = 1.5
+; projects[achievements][type] = "module"
+
 projects[pcp][version] = 1.3
 projects[pcp][type] = "module"
 projects[profile2_privacy][version] = 1.2
@@ -969,10 +976,15 @@ projects[follow][type] = "module"
 
 projects[fblikebutton][version] = 2.0
 projects[fblikebutton][type] = "module"
-projects[fboauth][version] = 1.4
-projects[fboauth][type] = "module"
 projects[facebook_rules][version] = 1.3
 projects[facebook_rules][type] = "module"
+
+
+projects[fboauth][version] = 1.4
+projects[fboauth][type] = "module"
+projects[linkedin][version] = 1.x-dev
+projects[linkedin][type] = "module"
+
 
 projects[BookMadeSimple][version] = 3.5
 projects[BookMadeSimple][type] = "module"
@@ -1179,7 +1191,7 @@ projects[improved_multi_select][type] = "module"
 projects[select_with_style][version] = 1.1
 projects[select_with_style][type] = "module"
 
-projects[single_page_website][version] = 2.0-beta4
+projects[single_page_website][version] = 2.x-dev
 projects[single_page_website][type] = "module"
 
 projects[workflow][version] = 1.0
@@ -1291,6 +1303,10 @@ projects[zentropy][version] = 2.0-rc5
 projects[zentropy][type] = "theme"
 projects[acquia_marina][version] = 2.0-beta1
 projects[acquia_marina][type] = "theme"
+
+projects[havasu][version] = 1.0
+projects[havasu][type] = "theme"
+
 
 ; projects[fusion][version] = 2.0-beta2
 ; projects[fusion][type] = "theme"
