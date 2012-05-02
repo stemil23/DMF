@@ -980,11 +980,16 @@ projects[facebook_rules][version] = 1.3
 projects[facebook_rules][type] = "module"
 
 
+projects[oauth][version] = 3.x-dev
+projects[oauth][type] = "module"
 projects[fboauth][version] = 1.4
 projects[fboauth][type] = "module"
 projects[linkedin][version] = 1.x-dev
 projects[linkedin][type] = "module"
-
+projects[connector][version] = 1.x-dev
+projects[connector][type] = "module"
+projects[http_client][version] = 2.x-dev	
+projects[http_client][type] = "module"
 
 projects[BookMadeSimple][version] = 3.5
 projects[BookMadeSimple][type] = "module"
