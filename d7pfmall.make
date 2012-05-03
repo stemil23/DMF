@@ -9,7 +9,7 @@
 ; Each makefile should begin by declaring the core version of Drupal that all
 ; projects should be compatible with.
   
-core = 7.x
+core = 7.14
   
 ; API version
 ; ------------
@@ -30,7 +30,7 @@ api = 2
 ; projects[pressflow][download][type] = "git"
 ; projects[pressflow][download][url] = "git://github.com/pressflow/7.git"
 
-projects[drupal][version] = 7.14
+; projects[drupal][version] = 7.14
 projects[drupal][type] = "core"
 projects[drupal][download][type] = "git"
 projects[drupal][download][url] = "git://git.drupal.org/project/drupal.git"
@@ -592,6 +592,8 @@ projects[user_details][version] = 2.5
 projects[user_details][type] = "module"
 projects[user_relationships][version] = 1.0-alpha4
 projects[user_relationships][type] = "module"
+projects[user_relationship_limits][version] = 1.0-beta2
+projects[user_relationship_limits][type] = "module"
 projects[relation][version] = 1.0-rc2
 projects[relation][type] = "module"
 
