@@ -26,9 +26,14 @@ api = 2
 ; install profiles *should not* include a core project.
 
 ; Use Pressflow instead of Drupal core:
-projects[pressflow][type] = "core"
-projects[pressflow][download][type] = "git"
-projects[pressflow][download][url] = "git://github.com/pressflow/7.git"
+; projects[pressflow][type] = "core"
+; projects[pressflow][download][type] = "git"
+; projects[pressflow][download][url] = "git://github.com/pressflow/7.git"
+
+projects[drupal][version] = 7.14
+projects[drupal][type] = "core"
+projects[drupal][download][type] = "git"
+projects[drupal][download][url] = "git://git.drupal.org/project/drupal.git"
 
   
   
@@ -807,6 +812,9 @@ projects[search_config][version] = 1.x-dev
 projects[search_config][type] = "module"
 projects[search_autocomplete][version] = 2.3
 projects[search_autocomplete][type] = "module"
+
+projects[seo_checker][version] = 1.5
+projects[seo_checker][type] = "module"
 
 projects[fast_404][version] = 1.3
 projects[fast_404][type] = "module"
