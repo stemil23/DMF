@@ -441,7 +441,7 @@ projects[adsense][type] = "module"
 ; projects[google_fonts][version] = 2.3
 ; projects[google_fonts][type] = "module"
 
-projects[google_webfont_loader_api][version] = 1.9
+projects[google_webfont_loader_api][version] = 1.10
 projects[google_webfont_loader_api][type] = "module"
 
 projects[fontyourface][version] = 2.2
@@ -460,7 +460,7 @@ projects[honeypot][version] = 1.11
 projects[honeypot][type] = "module"
 projects[captcha][version] = 1.0-beta2
 projects[captcha][type] = "module"
-projects[captcha_after][version] = 1.x-dev
+projects[captcha_after][version] = 1.1
 projects[captcha_after][type] = "module"
 projects[antispam][version] = 1.4
 projects[antispam][type] = "module"
@@ -920,7 +920,7 @@ projects[print][version] = 1.0
 projects[print][type] = "module"
 projects[rules][version] = 2.1
 projects[rules][type] = "module"
-projects[page_title][version] = 2.6
+projects[page_title][version] = 2.7
 projects[page_title][type] = "module"
 
 projects[tweet][version] = 4.4
