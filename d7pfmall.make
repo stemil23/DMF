@@ -271,6 +271,9 @@ projects[jasm][type] = "module"
 projects[socialmedia][version] = 1.0-beta11
 projects[socialmedia][type] = "module"
 
+projects[tumblr_connect][version] = 1.6
+projects[tumblr_connect][type] = "module"
+
 
 projects[widgets][version] = 1.x-dev
 projects[widgets][type] = "module"
@@ -336,7 +339,7 @@ projects[content_type_extras][type] = "module"
 
 projects[toc_filter][version] = 1.0-beta1
 projects[toc_filter][type] = "module"
-projects[drupal_ipsum][version] = 1.5
+projects[drupal_ipsum][version] = 1.6
 projects[drupal_ipsum][type] = "module"
 
 projects[comment_notify][version] = 1.0
@@ -687,7 +690,7 @@ projects[om_maximenu][type] = "module"
 projects[om_tools][version] = 2.13
 projects[om_tools][type] = "module"
 
-projects[galleria][version] = 1.0-beta2
+projects[galleria][version] = 1.0-beta3
 projects[galleria][type] = "module"
 
 
@@ -1124,8 +1127,8 @@ projects[jquery_update][version] = 2.x-dev
 projects[jquery_update][type] = "module"
 ; projects[poshy_tip][version] = 1.0-beta1
 ; projects[poshy_tip][type] = "module"
-projects[beautytips][version] = 2.0-beta2
-projects[beautytips][type] = "module"
+; projects[beautytips][version] = 2.0-beta2
+; projects[beautytips][type] = "module"
 ; projects[qtip][version] = 1.5
 ; projects[qtip][type] = "module"
 projects[popup][version] = 1.0
