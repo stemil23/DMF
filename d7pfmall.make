@@ -149,7 +149,7 @@ projects[ds][version] = 1.5
 projects[ds][type] = "module"
 projects[features][version] = 1.0-rc2
 projects[features][type] = "module"
-projects[feeds][version] = 2.0-alpha4
+projects[feeds][version] = 2.x-dev
 projects[feeds][type] = "module"
 projects[feed_import][version] = 2.6
 projects[feed_import][type] = "module"
@@ -277,6 +277,8 @@ projects[socialmedia][type] = "module"
 
 projects[tumblr_connect][version] = 1.6
 projects[tumblr_connect][type] = "module"
+projects[simplehtmldom][version] = 1.12
+projects[simplehtmldom][type] = "module"
 
 
 projects[widgets][version] = 1.x-dev
@@ -341,7 +343,7 @@ projects[cck][type] = "module"
 projects[content_type_extras][version] = 1.7
 projects[content_type_extras][type] = "module"
 
-projects[toc_filter][version] = 1.0-beta1
+projects[toc_filter][version] = 1.0
 projects[toc_filter][type] = "module"
 projects[drupal_ipsum][version] = 1.6
 projects[drupal_ipsum][type] = "module"
@@ -350,6 +352,8 @@ projects[comment_notify][version] = 1.0
 projects[comment_notify][type] = "module"
 projects[bestreply][version] = 1.2
 projects[bestreply][type] = "module"
+projects[message][version] = 1.x-dev
+projects[message][type] = "module"
 projects[message_notify][version] = 1.0
 projects[message_notify][type] = "module"
 projects[computed_field][version] = 1.0-beta1
@@ -407,7 +411,7 @@ projects[entityreference_view_widget][type] = "module"
 
 projects[elements][version] = 1.2
 projects[elements][type] = "module"
-projects[faq][version] = 1.0-rc1
+projects[faq][version] = 1.0-rc2
 projects[faq][type] = "module"
 
 projects[faqfield][version] = 1.0
@@ -768,11 +772,11 @@ projects[mostpopular][type] = "module"
 
 projects[quicktabs][version] = 3.4
 projects[quicktabs][type] = "module"
-projects[realname][version] = 1.0-rc2
+projects[realname][version] = 1.0
 projects[realname][type] = "module"
 projects[realname_registration][version] = 2.0-rc2
 projects[realname_registration][type] = "module"
-projects[ajax_register][version] = 4.0-rc2
+projects[ajax_register][version] = 4.0-rc4
 projects[ajax_register][type] = "module"
 
 
@@ -1242,6 +1246,9 @@ projects[webform_phone][version] = 1.2
 projects[webform_phone][type] = "module"
 projects[webform_tokens][version] = 1.1
 projects[webform_tokens][type] = "module"
+projects[phone][version] = 1.x-dev
+projects[phone][type] = "module"
+
 
 projects[field_validation][version] = 2.0-beta2
 projects[field_validation][type] = "module"
@@ -1253,7 +1260,7 @@ projects[om_crew_connect][type] = "module"
 
 projects[multiform][version] = 1.0
 projects[multiform][type] = "module"
-projects[select_or_other][version] = 2.8
+projects[select_or_other][version] = 2.10
 projects[select_or_other][type] = "module"
 projects[improved_multi_select][version] = 1.1
 projects[improved_multi_select][type] = "module"
@@ -1277,14 +1284,14 @@ projects[workbench][version] = 1.1
 projects[workbench][type] = "module"
 projects[workbench_access][version] = 1.0
 projects[workbench_access][type] = "module"
-projects[workbench_media][version] = 1.0
+projects[workbench_media][version] = 1.x-dev
 projects[workbench_media][type] = "module"
 projects[workbench_files][version] = 1.0
 projects[workbench_files][type] = "module"
 projects[workbench_profile][version] = 1.1
 projects[workbench_profile][type] = "module"
-; projects[workbench_moderation][version] = 1.1
-; projects[workbench_moderation] = "module"
+projects[workbench_moderation][version] = 1.x-dev
+projects[workbench_moderation] = "module"
   
 
 ; Themes
@@ -1410,7 +1417,7 @@ libraries[zend_gdata][destination] = "libraries"
 ; CKEditor
 libraries[ckeditor][download][type]= "get"
 ;libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.4/ckeditor_3.4.zip"
-libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor%20for%20Drupal/CKEditor%203.6.2-3%20for%20Drupal/ckeditor_3.6.2-3_for_drupal_7.zip"
+libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor%20for%20Drupal/CKEditor%203.6.3%20for%20Drupal/ckeditor_3.6.3_for_drupal_7.zip"
 libraries[ckeditor][directory_name] = "ckeditor"
 libraries[ckeditor][destination] = "libraries"
 
@@ -1421,6 +1428,14 @@ libraries[colorbox][download][type]= "get"
 libraries[colorbox][download][url] = "http://jacklmoore.com/colorbox/colorbox.zip"
 libraries[colorbox][directory_name] = "colorbox"
 libraries[colorbox][destination] = "libraries"
+
+
+; BadBehaviour
+libraries[badbehavior][download][type]= "get"
+libraries[badbehavior][download][url] = "http://downloads.wordpress.org/plugin/bad-behavior.2.2.5.zip"
+libraries[badbehavior][directory_name] = "badbehavior"
+libraries[badbehavior][destination] = "libraries"
+
 
 ; NivoSlider
 libraries[nivoslider][download][type]= "git"
@@ -1526,7 +1541,7 @@ libraries[glmarkers][destination] = "libraries"
 ; libraries[poshytip][destination] = "libraries"
 
 
-; BefireAfter
+; BeforeAfter
 ; libraries[beforeafter][download][type] = "get"
 ; libraries[beforeafter][download][url] = "http://www.catchmyfame.com/jquery/beforeafter.zip"
 ; libraries[beforeafter][directory_name] = "beforeafter"
