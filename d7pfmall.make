@@ -235,7 +235,8 @@ projects[og][version] = 1.4
 projects[og][type] = "module"
 projects[og_role_field][version] = 1.0
 projects[og_role_field][type] = "module"
-
+projects[og_extras][version] = 1.1
+projects[og_extras][type] = "module"
 
 projects[me][version] = 1.0
 projects[me][type] = "module"
@@ -406,7 +407,8 @@ projects[entityreference_prepopulate][version] = 1.0
 projects[entityreference_prepopulate][type] = "module"
 projects[entityreference_view_widget][version] = 1.x-dev
 projects[entityreference_view_widget][type] = "module"
-
+projects[eva][version] = 1.x-dev
+projects[eva][type] = "module"
 
 
 projects[elements][version] = 1.2
