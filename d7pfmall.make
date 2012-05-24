@@ -262,6 +262,8 @@ projects[field_slideshow][version] = 1.6
 projects[field_slideshow][type] = "module"
 
 
+
+
 projects[better_formats][version] = 1.x-dev
 projects[better_formats][type] = "module"
 
@@ -783,6 +785,9 @@ projects[publishcontent][type] = "module"
 
 projects[mostpopular][version] = 1.1
 projects[mostpopular][type] = "module"
+
+projects[field_slideshow][version] = 1.6
+projects[field_slideshow][type] = "module"
 
 projects[quicktabs][version] = 3.4
 projects[quicktabs][type] = "module"
@@ -1306,7 +1311,7 @@ projects[workbench_files][version] = 1.0
 projects[workbench_files][type] = "module"
 projects[workbench_profile][version] = 1.1
 projects[workbench_profile][type] = "module"
-projects[workbench_moderation][version] = 1.x-dev
+projects[workbench_moderation][version] = 1.2
 projects[workbench_moderation] = "module"
   
 
@@ -1398,7 +1403,7 @@ projects[zentropy][type] = "theme"
 projects[acquia_marina][version] = 2.0-beta1
 projects[acquia_marina][type] = "theme"
 
-projects[havasu][version] = 1.0
+projects[havasu][version] = 1.02
 projects[havasu][type] = "theme"
 
 
