@@ -1403,8 +1403,8 @@ projects[zentropy][type] = "theme"
 projects[acquia_marina][version] = 2.0-beta1
 projects[acquia_marina][type] = "theme"
 
-projects[havasu][version] = 1.02
-projects[havasu][type] = "theme"
+; projects[havasu][version] = 1.02
+; projects[havasu][type] = "theme"
 
 
 ; projects[fusion][version] = 2.0-beta2
