@@ -1390,7 +1390,7 @@ projects[cube][type] = "theme"
 ; projects[rootcandy][type] = "theme"
 projects[corporateclean][version] = 1.5
 projects[corporateclean][type] = "theme"
-projects[skeletontheme][version] = 1.5
+projects[skeletontheme][version] = 1.0
 projects[skeletontheme][type] = "theme"
 
 projects[blacksea][version] = 1.1
