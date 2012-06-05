@@ -103,6 +103,8 @@ projects[async_command][version] = 2.0-alpha10
 projects[async_command][type] = "module"
 projects[nap][version] = 1.0-rc2
 projects[nap][type] = "module"
+projects[commerce_compass][version] = 1.0-alpha3
+projects[commerce_compass][type] = "module"
 
 
 
@@ -122,7 +124,7 @@ projects[elysia_cron][version] = 2.1
 projects[elysia_cron][type] = "module"
 
 
-projects[ctools][version] = 1.0
+projects[ctools][version] = 1.x-dev
 projects[ctools][type] = "module"
 projects[context][version] = 3.0-beta3
 projects[context][type] = "module"
@@ -265,7 +267,9 @@ projects[field_collection][version] = 1.0-beta4
 projects[field_collection][type] = "module"
 projects[field_collection_views][version] = 1.0-beta2
 projects[field_collection_views][type] = "module"
-projects[field_slideshow][version] = 1.6
+projects[field_collection_table][version] = 1.x-dev
+projects[field_collection_table][type] = "module"
+projects[field_slideshow][version] = 1.x-dev
 projects[field_slideshow][type] = "module"
 
 
@@ -379,7 +383,7 @@ projects[computed_field][type] = "module"
 projects[custom_breadcrumbs][version] = 2.x-dev
 projects[custom_breadcrumbs][type] = "module"
 
-projects[easy_breadcrumb][version] = 1.9
+projects[easy_breadcrumb][version] = 1.10
 projects[easy_breadcrumb][type] = "module"
 
 projects[custom_formatters][version] = 2.x-dev
@@ -396,7 +400,7 @@ projects[dhtml_menu][type] = "module"
 ; projects[diff][version] = 2.0
 ; projects[diff][type] = "module"
 
-projects[domain][version] = 3.x-dev
+projects[domain][version] = 3.4
 projects[domain][type] = "module"
 projects[domain_blocks][version] = 3.0-alpha1
 projects[domain_blocks][type] = "module"
@@ -416,7 +420,7 @@ projects[entity][version] = 1.x-dev
 projects[entity][type] = "module"
 projects[entity_autocomplete][version] = 1.0-beta1
 projects[entity_autocomplete][type] = "module"
-projects[entityreference][version] = 1.0-rc1
+projects[entityreference][version] = 1.0-rc3
 projects[entityreference][type] = "module"
 projects[entitycache][version] = 1.1
 projects[entitycache][type] = "module"
@@ -474,7 +478,7 @@ projects[adsense][type] = "module"
 projects[google_webfont_loader_api][version] = 1.10
 projects[google_webfont_loader_api][type] = "module"
 
-projects[fontyourface][version] = 2.2
+projects[fontyourface][version] = 2.x-dev
 projects[fontyourface][type] = "module"
 
 projects[cufon][version] = 2.1
@@ -570,7 +574,7 @@ projects[twitter_pull][version] = 1.0-rc1
 projects[twitter_pull][type] = "module"
 projects[twitter_db][version] = 1.0-rc2
 projects[twitter_db][type] = "module"
-projects[twitter][version] = 3.x-dev
+projects[twitter][version] = 3.0
 projects[twitter][type] = "module"
 
 
@@ -589,6 +593,8 @@ projects[views_jqm][version] = 1.0
 projects[views_jqm][type] = "module"
 projects[views_supertable][version] = 1.1
 projects[views_supertable][type] = "module"
+projects[views_dataviz][version] = 1.0-alpha3
+projects[views_dataviz][type] = "module"
 projects[highcharts][version] = 1.0-alpha6
 projects[highcharts][type] = "module"
 
@@ -613,13 +619,13 @@ projects[ip_geoloc][version] = 1.8
 projects[ip_geoloc][type] = "module"
 
 
-projects[addressfield][version] = 1.0-beta2
+projects[addressfield][version] = 1.0-beta3
 projects[addressfield][type] = "module"
 projects[addressfield_staticmap][version] = 1.0-beta4
 projects[addressfield_staticmap][type] = "module"
 projects[addressfield_tokens][version] = 1.1
 projects[addressfield_tokens][type] = "module"
-projects[location_taxonomize][version] = 2.3
+projects[location_taxonomize][version] = 2.4
 projects[location_taxonomize][type] = "module"
 projects[getlocations][version] = 1.1
 projects[getlocations][type] = "module"
@@ -671,7 +677,7 @@ projects[menu_position][version] = 1.1
 projects[menu_position][type] = "module"
 projects[menu_breadcrumb][version] = 1.3
 projects[menu_breadcrumb][type] = "module"
-projects[menu_attributes][version] = 1.x-dev
+projects[menu_attributes][version] = 1.0-rc2
 projects[menu_attributes][type] = "module"
 projects[jump_menu][version] = 1.3
 projects[jump_menu][type] = "module"
@@ -759,7 +765,7 @@ projects[themekey][type] = "module"
 
 projects[pathauto][version] = 1.1
 projects[pathauto][type] = "module"
-projects[trailing_slash][version] = 1.0-rc4
+projects[trailing_slash][version] = 1.0-rc5
 projects[trailing_slash][type] = "module"
 
 projects[profile2][version] = 1.2
@@ -805,7 +811,7 @@ projects[realname][version] = 1.0
 projects[realname][type] = "module"
 projects[realname_registration][version] = 2.0-rc2
 projects[realname_registration][type] = "module"
-projects[ajax_register][version] = 4.0-rc5
+projects[ajax_register][version] = 4.0-rc7
 projects[ajax_register][type] = "module"
 
 projects[resp_img][version] = 1.2
@@ -899,7 +905,7 @@ projects[site_verify][version] = 1.x-dev
 projects[site_verify][type] = "module"
 projects[skinr][version] = 2.0-beta1
 projects[skinr][type] = "module"
-projects[fusion_accelerator][version] = 2.0-beta1
+projects[fusion_accelerator][version] = 2.x-dev
 projects[fusion_accelerator][type] = "module"
 projects[nitro][version] = 1.0
 projects[nitro][type] = "module"
@@ -920,7 +926,7 @@ projects[superfish][type] = "module"
 projects[token][version] = 1.1
 ; projects[token][version] = 1.x-dev
 projects[token][type] = "module"
-projects[transliteration][version] = 3.0
+projects[transliteration][version] = 3.1
 projects[transliteration][type] = "module"
 
 projects[views_slideshow][version] = 3.x-dev
@@ -1111,7 +1117,7 @@ projects[soundcloudfield][type] = "module"
 projects[soundcloud_filter][version] = 2.2
 projects[soundcloud_filter][type] = "module"
 
-projects[nivo_slider][version] = 1.4
+projects[nivo_slider][version] = 1.x-dev
 projects[nivo_slider][type] = "module"
 
 
@@ -1162,6 +1168,10 @@ projects[tables][type] = "module"
 
 projects[imce_wysiwyg][version] = 1.0
 projects[imce_wysiwyg][type] = "module"
+
+projects[finder][version] = 2.0-beta1
+projects[finder][type] = "module"
+
 projects[elfinder][version] = 0.7
 projects[elfinder][type] = "module"
 
@@ -1223,6 +1233,8 @@ projects[menu_views][version] = 1.3
 projects[menu_views][type] = "module"
 projects[views_tree][version] = 2.0
 projects[views_tree][type] = "module"
+projects[draggableviews][version] = 2.0
+projects[draggableviews][type] = "module"
 
 projects[views_fluid_grid][version] = 3.0
 projects[views_fluid_grid][type] = "module"
@@ -1363,8 +1375,8 @@ projects[genesis][version] = 1.1
 projects[genesis][type] = "theme"
 projects[marinelli][version] = 3.0-beta11
 projects[marinelli][type] = "theme"
-projects[mothership][version] = 2.6
-projects[mothership][type] = "theme"
+; projects[mothership][version] = 2.6
+; projects[mothership][type] = "theme"
 ; projects[ninesixty][version] = 1.0
 ; projects[ninesixty][type] = "theme"
 projects[nitobe][version] = "2.0-beta1"
@@ -1374,15 +1386,15 @@ projects[omega][type] = "theme"
 projects[cm_theme][version] = 1.0-alpha1
 projects[cm_theme][type] = "theme"
 
-projects[sasson][version] = 2.1
+projects[sasson][version] = 2.2
 projects[sasson][type] = "theme"
 projects[rubik][version] = 4.0-beta8
 projects[rubik][type] = "theme"
-projects[fubik][version] = 1.14
+projects[fubik][version] = 1.17
 projects[fubik][type] = "theme"
 ; projects[sky][version] = "2.2"
 ; projects[sky][type] = "theme"
-projects[tao][version] = "3.0-beta4"
+projects[tao][version] = 3.x-dev
 projects[tao][type] = "theme"
 projects[cube][version] = 1.3
 projects[cube][type] = "theme"
@@ -1416,14 +1428,14 @@ projects[zen][version] = 5.0
 projects[zen][type] = "theme"
 projects[zentropy][version] = 2.0-rc5
 projects[zentropy][type] = "theme"
-; projects[acquia_marina][version] = 2.0-beta1
+; projects[acquia_marina][version] = 2.x-dev
 ; projects[acquia_marina][type] = "theme"
 
 ; projects[havasu][version] = 1.02
 ; projects[havasu][type] = "theme"
 
 
-; projects[fusion][version] = 2.0-beta2
+; projects[fusion][version] = 2.x-dev
 ; projects[fusion][type] = "theme"
 
 ; projects[html5_base][version] = "2.x-dev"
@@ -1565,6 +1577,12 @@ libraries[itoggle][download][type] = "get"
 libraries[itoggle][download][url] = "http://labs.engageinteractive.co.uk/itoggle/engage.itoggle.zip"
 libraries[itoggle][directory_name] = "itoggle"
 libraries[itoggle][destination] = "libraries"
+
+; FlexSlider
+libraries[flexslider][download][type] = "git"
+libraries[flexslider][download][url] = "https://github.com/woothemes/FlexSlider.git"
+libraries[flexslider][directory_name] = "flexslider"
+libraries[flexslider][destination] = "libraries"
 
 ;getLocationsMarkers
 libraries[glmarkers][download][type] = "get"
