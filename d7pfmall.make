@@ -149,7 +149,7 @@ projects[tipsy][version] = 1.0-rc1
 projects[tipsy][type] = "module"
 
 
-projects[devel][version] = 1.x-dev
+projects[devel][version] = 1.3
 projects[devel][type] = "module"
 
 projects[prod_check][version] = 1.3
@@ -237,7 +237,7 @@ projects[i18n][version] = 1.5
 projects[i18n][type] = "module"
 projects[languageicons][version] = 1.0
 projects[languageicons][type] = "module"
-projects[lang_dropdown][version] = 1.3
+projects[lang_dropdown][version] = 1.5
 projects[lang_dropdown][type] = "module"
 projects[countryicons][version] = 1.0-beta1
 projects[countryicons][type] = "module"
@@ -349,7 +349,7 @@ projects[auto_nodetitle][version] = 1.0
 projects[auto_nodetitle][type] = "module"
 projects[exclude_node_title][version] = 1.5
 projects[exclude_node_title][type] = "module"
-projects[backup_migrate][version] = 2.3
+projects[backup_migrate][version] = 2.4
 projects[backup_migrate][type] = "module"
 
 
@@ -380,10 +380,21 @@ projects[message_notify][version] = 1.0
 projects[message_notify][type] = "module"
 projects[computed_field][version] = 1.0-beta1
 projects[computed_field][type] = "module"
+
+
+; TO DO!!! SELECT FINAL BREADCRUMB MODULES !!
+
+
+projects[crumbs][version] = 1.3
+projects[crumbs][type] = "module"
+
 projects[custom_breadcrumbs][version] = 2.x-dev
 projects[custom_breadcrumbs][type] = "module"
 
-projects[easy_breadcrumb][version] = 1.10
+projects[path_breadcrumbs][version] = 2.0-beta11
+projects[path_breadcrumbs][type] = "module"
+
+projects[easy_breadcrumb][version] = 1.11
 projects[easy_breadcrumb][type] = "module"
 
 projects[custom_formatters][version] = 2.x-dev
@@ -392,7 +403,7 @@ projects[custom_formatters][type] = "module"
 projects[smart_trim][version] = 1.1
 projects[smart_trim][type] = "module"
 
-projects[delta][version] = 3.0-beta9
+projects[delta][version] = 3.0-beta10
 projects[delta][type] = "module"
 
 projects[dhtml_menu][version] = 1.0-beta1
@@ -494,6 +505,8 @@ projects[honeypot][version] = 1.11
 projects[honeypot][type] = "module"
 projects[captcha][version] = 1.0-beta2
 projects[captcha][type] = "module"
+projects[captcha-free][version] = 1.2
+projects[captcha-free][type] = "module"
 projects[captcha_after][version] = 1.1
 projects[captcha_after][type] = "module"
 projects[antispam][version] = 1.4
@@ -506,7 +519,7 @@ projects[badbehavior][type] = "module"
 projects[hierarchical_select][version] = 3.0-alpha5
 projects[hierarchical_select][type] = "module"
 
-projects[droptor][version] = "3.x-dev"
+projects[droptor][version] = 3.0-beta1
 projects[droptor][type] = "module"
 projects[drd][version] = 2.0-rc1
 projects[drd][type] = "module"
@@ -574,7 +587,7 @@ projects[twitter_pull][version] = 1.0-rc1
 projects[twitter_pull][type] = "module"
 projects[twitter_db][version] = 1.0-rc2
 projects[twitter_db][type] = "module"
-projects[twitter][version] = 3.0
+projects[twitter][version] = 3.x-dev
 projects[twitter][type] = "module"
 
 
@@ -606,15 +619,15 @@ projects[legal][version] = 1.2
 projects[legal][type] = "module"
 projects[libraries][version] = 1.0
 projects[libraries][type] = "module"
-projects[lexicon][version] = 1.9
+projects[lexicon][version] = 1.10
 projects[lexicon][type] = "module"
 
-projects[location][version] = 3.x-dev
-projects[location][type] = "module"
+; projects[location][version] = 3.x-dev
+; projects[location][type] = "module"
 projects[locationmap][version] = 2.1
 projects[locationmap][type] = "module"
-projects[gmap][version] = 1.x-dev
-projects[gmap][type] = "module"
+; projects[gmap][version] = 1.x-dev
+; projects[gmap][type] = "module"
 projects[ip_geoloc][version] = 1.8
 projects[ip_geoloc][type] = "module"
 
@@ -679,10 +692,14 @@ projects[menu_breadcrumb][version] = 1.3
 projects[menu_breadcrumb][type] = "module"
 projects[menu_attributes][version] = 1.0-rc2
 projects[menu_attributes][type] = "module"
-projects[jump_menu][version] = 1.3
+projects[jump_menu][version] = 1.4
 projects[jump_menu][type] = "module"
 projects[special_menu_items][version] = 1.x-dev
 projects[special_menu_items][type] = "module"
+projects[menu_badges][version] = 1.0
+projects[menu_badges][type] = "module"
+projects[link_badges][version] = 1.0
+projects[link_badges][type] = "module"
 
 
 projects[messaging][version] = 1.0-alpha2
@@ -748,7 +765,7 @@ projects[weather][type] = "module"
 projects[smart_ip][version] = 1.5
 projects[smart_ip][type] = "module"
 
-projects[geofield][version] = 1.0
+projects[geofield][version] = 1.1
 projects[geofield][type] = "module"
 
 projects[geocoder][version] = 1.1
@@ -811,7 +828,7 @@ projects[realname][version] = 1.0
 projects[realname][type] = "module"
 projects[realname_registration][version] = 2.0-rc2
 projects[realname_registration][type] = "module"
-projects[ajax_register][version] = 4.0-rc7
+projects[ajax_register][version] = 4.0-rc8
 projects[ajax_register][type] = "module"
 
 projects[resp_img][version] = 1.2
@@ -895,7 +912,7 @@ projects[encrypt_submissions][type] = "module"
 
 projects[seckit][version] = 1.3
 projects[seckit][type] = "module"
-projects[simplenews][version] = 1.0-beta2
+projects[simplenews][version] = 1.0-rc1
 projects[simplenews][type] = "module"
 projects[site_map][version] = 1.x-dev
 projects[site_map][type] = "module"
@@ -1090,7 +1107,7 @@ projects[connector][type] = "module"
 projects[http_client][version] = 2.x-dev	
 projects[http_client][type] = "module"
 
-projects[BookMadeSimple][version] = 3.5
+projects[BookMadeSimple][version] = 3.6
 projects[BookMadeSimple][type] = "module"
 
 projects[media][version] = 1.1
@@ -1142,7 +1159,7 @@ projects[plupload][type] = "module"
 projects[mailchimp][version] = 2.5
 projects[mailchimp][type] = "module"
 
-projects[user_alert][version] = 1.7
+projects[user_alert][version] = 1.8
 projects[user_alert][type] = "module"
 
 
@@ -1278,7 +1295,7 @@ projects[webform_template][version] = 1.1
 projects[webform_template][type] = "module"
 projects[webform_validation][version] = 1.1
 projects[webform_validation][type] = "module"
-projects[clientside_validation][version] = 1.31
+projects[clientside_validation][version] = 1.32
 projects[clientside_validation][type] = "module"
 projects[webform_conditional_confirmation][version] = 1.0
 projects[webform_conditional_confirmation][type] = "module"
@@ -1375,7 +1392,7 @@ projects[genesis][version] = 1.1
 projects[genesis][type] = "theme"
 projects[marinelli][version] = 3.0-beta11
 projects[marinelli][type] = "theme"
-; projects[mothership][version] = 2.6
+; projects[mothership][version] = 2.7
 ; projects[mothership][type] = "theme"
 ; projects[ninesixty][version] = 1.0
 ; projects[ninesixty][type] = "theme"
