@@ -291,7 +291,7 @@ projects[honeypot][version] = 1.11
 projects[honeypot][type] = "module"
 projects[captcha][version] = 1.x-dev
 projects[captcha][type] = "module"
-projects[captcha_after][version] = 1.0-beta2
+projects[captcha_after][version] = 1.x-dev
 projects[captcha_after][type] = "module"
 projects[antispam][version] = 1.4
 projects[antispam][type] = "module"
@@ -907,8 +907,8 @@ projects[rubik][type] = "theme"
 projects[cube][version] = 1.1
 projects[cube][type] = "theme"
 
-projects[zen][version] = "3.1"
-projects[zen][type] = "theme"
+; projects[zen][version] = "3.1"
+; projects[zen][type] = "theme"
 
   
 ; Libraries
