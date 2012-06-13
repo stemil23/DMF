@@ -179,6 +179,8 @@ projects[fieldgroup_menu][version] = 1.0-alpha1
 projects[fieldgroup_menu][type] = "module"
 projects[field_permissions][version] = 1.0-beta2
 projects[field_permissions][type] = "module"
+projects[user_role_field][version] = 1.0
+projects[user_role_field][type] = "module"
 projects[field_hidden][version] = 1.1
 projects[field_hidden][type] = "module"
 
@@ -370,8 +372,10 @@ projects[toc_filter][type] = "module"
 projects[drupal_ipsum][version] = 1.6
 projects[drupal_ipsum][type] = "module"
 
-projects[comment_notify][version] = 1.0
+projects[comment_notify][version] = 1.1
 projects[comment_notify][type] = "module"
+projects[queue_mail][version] = 1.0
+projects[queue_mail][type] = "module"
 projects[bestreply][version] = 1.2
 projects[bestreply][type] = "module"
 projects[message][version] = 1.x-dev
@@ -842,7 +846,7 @@ projects[adaptive_image][type] = "module"
 projects[scheduler][version] = 1.0
 projects[scheduler][type] = "module"
 
-projects[radioactivity][version] = 2.5
+projects[radioactivity][version] = 2.6
 projects[radioactivity][type] = "module"
 
 projects[schema][version] = 1.x-dev
@@ -1104,6 +1108,8 @@ projects[linkedin][version] = 1.x-dev
 projects[linkedin][type] = "module"
 projects[connector][version] = 1.x-dev
 projects[connector][type] = "module"
+projects[fbconnect][version] = 2.x-dev
+projects[fbconnect][type] = "module"
 projects[http_client][version] = 2.x-dev	
 projects[http_client][type] = "module"
 
@@ -1392,8 +1398,8 @@ projects[genesis][version] = 1.1
 projects[genesis][type] = "theme"
 projects[marinelli][version] = 3.0-beta11
 projects[marinelli][type] = "theme"
-; projects[mothership][version] = 2.7
-; projects[mothership][type] = "theme"
+projects[mothership][version] = 2.7
+projects[mothership][type] = "theme"
 ; projects[ninesixty][version] = 1.0
 ; projects[ninesixty][type] = "theme"
 projects[nitobe][version] = "2.0-beta1"
