@@ -85,6 +85,10 @@ projects[email][version] = 1.0
 projects[email][type] = "module"
 projects[field_group][version] = 1.x-dev
 projects[field_group][type] = "module"
+
+projects[field_collection][version] = 1.x-dev
+projects[field_collection][type] = "module"
+
 projects[fieldgroup_menu][version] = 1.0-alpha1
 projects[fieldgroup_menu][type] = "module"
 projects[field_permissions][version] = 1.0-beta2
@@ -264,7 +268,7 @@ projects[redirect][version] = 1.0-beta4
 projects[redirect][type] = "module"
 projects[globalredirect][version] = 1.4
 projects[globalredirect][type] = "module"
-projects[google_analytics][version] = "1.2"
+projects[google_analytics][version] = 1.x-dev
 projects[google_analytics][type] = "module"
 ; projects[google_plusone][version] = "1.x-dev"
 ; projects[google_plusone][type] = "module"
@@ -463,7 +467,7 @@ projects[geocoder][type] = "module"
 projects[geophp][version] = 1.1
 projects[geophp][type] = "module"
 
-projects[themekey][version] = 2.0
+projects[themekey][version] = 2.x-dev
 projects[themekey][type] = "module"
 
 projects[pathauto][version] = 1.1
