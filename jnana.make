@@ -331,8 +331,8 @@ projects[entity][version] = 1.x-dev
 projects[entity][type] = "module"
 projects[entity_autocomplete][version] = 1.0-beta1
 projects[entity_autocomplete][type] = "module"
-projects[Inline_entity_form][version] = 1.x-dev
-projects[Inline_entity_form][type] = "module"
+projects[inline_entity_form][version] = 1.x-dev
+projects[inline_entity_form][type] = "module"
 projects[entityreference][version] = 1.0-rc3
 projects[entityreference][type] = "module"
 projects[entitycache][version] = 1.1
@@ -1145,8 +1145,6 @@ projects[fubik][version] = 1.17
 projects[fubik][type] = "theme"
 projects[tao][version] = 3.x-dev
 projects[tao][type] = "theme"
-projects[cube][version] = 1.3
-projects[cube][type] = "theme"
 
 
 
