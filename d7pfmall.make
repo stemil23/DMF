@@ -105,6 +105,16 @@ projects[nap][version] = 1.0-rc2
 projects[nap][type] = "module"
 projects[commerce_compass][version] = 1.0-alpha3
 projects[commerce_compass][type] = "module"
+projects[commerce_auction][version] = 1.0-alpha3
+projects[commerce_auction][type] = "module"
+projects[Commerce_autosku][version] = 1.x-dev
+projects[Commerce_autosku][type] = "module"
+
+projects[balance_tracker][version] = 1.x-dev
+projects[balance_tracker][type] = "module"
+
+projects[eck][version] = 2.0-beta1
+projects[eck][type] = "module"
 
 
 
@@ -288,7 +298,7 @@ projects[htmlmail][type] = "module"
 
 projects[colorbox][version] = 1.3
 projects[colorbox][type] = "module"
-projects[colorbox_node][version] = 2.0
+projects[colorbox_node][version] = 2.1
 projects[colorbox_node][type] = "module"
 
 projects[easy_social][version] = 2.8
@@ -395,13 +405,13 @@ projects[crumbs][type] = "module"
 projects[custom_breadcrumbs][version] = 2.x-dev
 projects[custom_breadcrumbs][type] = "module"
 
-projects[path_breadcrumbs][version] = 2.0-beta11
+projects[path_breadcrumbs][version] = 2.0-beta12
 projects[path_breadcrumbs][type] = "module"
 
 projects[easy_breadcrumb][version] = 1.11
 projects[easy_breadcrumb][type] = "module"
 
-projects[custom_formatters][version] = 2.x-dev
+projects[custom_formatters][version] = 2.1
 projects[custom_formatters][type] = "module"
 
 projects[smart_trim][version] = 1.1
@@ -435,6 +445,8 @@ projects[entity][version] = 1.x-dev
 projects[entity][type] = "module"
 projects[entity_autocomplete][version] = 1.0-beta1
 projects[entity_autocomplete][type] = "module"
+projects[Inline_entity_form][version] = 1.x-dev
+projects[Inline_entity_form][type] = "module"
 projects[entityreference][version] = 1.0-rc3
 projects[entityreference][type] = "module"
 projects[entitycache][version] = 1.1
@@ -475,7 +487,7 @@ projects[front][type] = "module"
 ; projects[getid3][type] = "module"
 projects[redirect][version] = 1.0-beta4
 projects[redirect][type] = "module"
-projects[globalredirect][version] = 1.4
+projects[globalredirect][version] = 1.5
 projects[globalredirect][type] = "module"
 projects[google_analytics][version] = "1.x-dev"
 projects[google_analytics][type] = "module"
@@ -515,7 +527,7 @@ projects[captcha_after][version] = 1.1
 projects[captcha_after][type] = "module"
 projects[antispam][version] = 1.4
 projects[antispam][type] = "module"
-projects[badbehavior][version] = 2.226
+projects[badbehavior][version] = 2.227
 projects[badbehavior][type] = "module"
 
 
@@ -546,7 +558,7 @@ projects[imagefield_crop][type] = "module"
 projects[image_resize_filter][version] = 1.13
 projects[image_resize_filter][type] = "module"
 
-projects[imageeditor][version] = 1.8
+projects[imageeditor][version] = 1.9
 projects[imageeditor][type] = "module"
 
 projects[beforeafter][version] = 1.0
@@ -746,7 +758,7 @@ projects[omega_tools][type] = "module"
 projects[cm_slideshow][version] = 1.x-dev
 projects[cm_slideshow][type] = "module"
 
-projects[monster_menus][version] = 1.6
+projects[monster_menus][version] = 1.7
 projects[monster_menus][type] = "module"
 projects[om_maximenu][version] = 1.43
 projects[om_maximenu][type] = "module"
@@ -832,7 +844,7 @@ projects[realname][version] = 1.0
 projects[realname][type] = "module"
 projects[realname_registration][version] = 2.0-rc2
 projects[realname_registration][type] = "module"
-projects[ajax_register][version] = 4.0-rc8
+projects[ajax_register][version] = 4.0-rc9
 projects[ajax_register][type] = "module"
 
 projects[resp_img][version] = 1.2
@@ -900,6 +912,8 @@ projects[search_autocomplete][type] = "module"
 
 projects[seo_checker][version] = 1.5
 projects[seo_checker][type] = "module"
+projects[seo_checklist][version] = 3.0-beta1
+projects[seo_checklist][type] = "module"
 
 projects[fast_404][version] = 1.3
 projects[fast_404][type] = "module"
@@ -934,7 +948,7 @@ projects[smtp][version] = 1.0-beta1
 projects[smtp][type] = "module"
 ; projects[stringoverrides][version] = 1.8
 ; projects[stringoverrides][type] = "module"
-projects[strongarm][version] = 2.0-rc1
+projects[strongarm][version] = 2.0
 projects[strongarm][type] = "module"
 projects[term_reference_tree][version] = 1.9
 projects[term_reference_tree][type] = "module"
@@ -1024,6 +1038,16 @@ projects[rpx][type] = "module"
 
 projects[nagios][version] = 1.2
 projects[nagios][type] = "module"
+
+projects[esi][version] = 3.0-alpha1
+projects[esi][type] = "module"
+
+projects[flood_control][version] = 1.x-dev
+projects[flood_control][type] = "module"
+
+projects[speedy][version] = 1.x-dev
+projects[speedy][type] = "module"
+
 
 projects[taxonomy_manager][version] = 1.x-dev
 projects[taxonomy_manager][type] = "module"
@@ -1144,7 +1168,7 @@ projects[nivo_slider][version] = 1.x-dev
 projects[nivo_slider][type] = "module"
 
 
-projects[menu_minipanels][version] = 1.0-rc6
+projects[menu_minipanels][version] = 1.0-rc7
 projects[menu_minipanels][type] = "module"
 
 projects[menu_force][version] = 1.2
@@ -1155,7 +1179,7 @@ projects[path_alias_xt][version] = 1.x-dev
 projects[path_alias_xt][type] = "module"
 
 projects[better_exposed_filters][version] = 3.0-beta1
-projects[better_exposed_filters][type] = "module"
+projects[better_exposed_filters][type] = "module"menu
 
 projects[plupload][version] = 1.0
 projects[plupload][type] = "module"
@@ -1230,7 +1254,7 @@ projects[blockcache_alter][version] = 1.0
 projects[blockcache_alter][type] = "module"
 projects[ajaxblocks][version] = 1.3
 projects[ajaxblocks][type] = "module"
-projects[peekaboo][version] = 2.0-rc1
+projects[peekaboo][version] = 2.0
 projects[peekaboo][type] = "module"
 
 projects[unique_field][version] = 1.0-rc1
@@ -1284,6 +1308,8 @@ projects[slidebox][type] = "module"
 
 projects[variable][version] = 1.2
 projects[variable][type] = "module"
+projects[variable_clean][version] = 1.x-dev
+projects[variable_clean][type] = "module"
 
 projects[rate][version] = 1.3
 projects[rate][type] = "module"
@@ -1294,6 +1320,14 @@ projects[fivestar_smiley][type] = "module"
 
 projects[votingapi][version] = 2.6
 projects[votingapi][type] = "module"
+
+projects[userpoints][version] = 1.x-dev
+projects[userpoints][type] = "module"
+projects[answers][version] = 3.x-dev
+projects[answers][type] = "module"
+projects[best_answer][version] = 3.x-dev
+projects[best_answer][type] = "module"
+
 
 projects[webform][version] = 3.18
 projects[webform][type] = "module"
@@ -1327,7 +1361,7 @@ projects[om_crew_connect][type] = "module"
 
 projects[multiform][version] = 1.0
 projects[multiform][type] = "module"
-projects[select_or_other][version] = 2.10
+projects[select_or_other][version] = 2.11
 projects[select_or_other][type] = "module"
 projects[improved_multi_select][version] = 1.1
 projects[improved_multi_select][type] = "module"
@@ -1380,7 +1414,7 @@ projects[touchpro][version] = 1.3
 projects[touchpro][type] = "theme"
 projects[selecta][version] = 1.1
 projects[selecta][type] = "theme"
-projects[adaptivetheme][version] = 2.2
+projects[adaptivetheme][version] = 2.3
 projects[adaptivetheme][type] = "theme"
 projects[pixture_reloaded][version] = 2.2
 projects[pixture_reloaded][type] = "theme"
