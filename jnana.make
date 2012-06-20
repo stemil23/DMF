@@ -621,8 +621,6 @@ projects[geocoder][type] = "module"
 projects[geophp][version] = 1.4
 projects[geophp][type] = "module"
 
-projects[geophp][version] = 1.3
-projects[geophp][type] = "module"
 
 projects[themekey][version] = 2.2
 projects[themekey][type] = "module"
@@ -930,18 +928,10 @@ projects[media][type] = "module"
 projects[media_colorbox][version] = 1.0-rc1
 projects[media_colorbox][type] = "module"
 
-projects[media-nivo-slider][version] = 2.0
-projects[media-nivo-slider][type] = "module"
-projects[media-nivo-slider][version] = 1.1
-projects[media-nivo-slider][type] = "module"
 projects[remote_stream_wrapper][version] = 1.0-beta4
 projects[remote_stream_wrapper][type] = "module"
 projects[media_crop][version] = 1.4
 projects[media_crop][type] = "module"
-
-
-projects[nivo_slider][version] = 1.x-dev
-projects[nivo_slider][type] = "module"
 
 
 projects[menu_minipanels][version] = 1.0-rc7
