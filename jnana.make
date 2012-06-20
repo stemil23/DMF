@@ -1129,20 +1129,20 @@ projects[xmlsitemap][type] = "module"
 
 projects[adaptivetheme][version] = 2.3
 projects[adaptivetheme][type] = "theme"
-projects[pixture_reloaded][version] = 2.2
-projects[pixture_reloaded][type] = "theme"
+; projects[pixture_reloaded][version] = 2.2
+; projects[pixture_reloaded][type] = "theme"
 projects[corolla][version] = 2.2
 projects[corolla][type] = "theme"
-projects[sky][version] = 2.3
-projects[sky][type] = "theme"
+; projects[sky][version] = 2.3
+; projects[sky][type] = "theme"
 
 projects[omega][version] = "3.1"
 projects[omega][type] = "theme"
 
-projects[rubik][version] = 4.0-beta8
-projects[rubik][type] = "theme"
-projects[fubik][version] = 1.17
-projects[fubik][type] = "theme"
+; projects[rubik][version] = 4.0-beta8
+; projects[rubik][type] = "theme"
+; projects[fubik][version] = 1.17
+; projects[fubik][type] = "theme"
 ; projects[tao][version] = 3.x-dev
 ; projects[tao][type] = "theme"
 
