@@ -1143,8 +1143,8 @@ projects[rubik][version] = 4.0-beta8
 projects[rubik][type] = "theme"
 projects[fubik][version] = 1.17
 projects[fubik][type] = "theme"
-projects[tao][version] = 3.x-dev
-projects[tao][type] = "theme"
+; projects[tao][version] = 3.x-dev
+; projects[tao][type] = "theme"
 
 
 
