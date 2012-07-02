@@ -1507,7 +1507,7 @@ projects[journalcrunch][type] = "theme"
 
 
 
-projects[zen][version] = 5.0
+projects[zen][version] = 5.1
 projects[zen][type] = "theme"
 ; projects[zentropy][version] = 2.0-rc5
 ; projects[zentropy][type] = "theme"
