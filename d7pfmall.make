@@ -1488,10 +1488,10 @@ projects[corporateclean][type] = "theme"
 projects[skeletontheme][version] = 1.0
 projects[skeletontheme][type] = "theme"
 
-projects[blacksea][version] = 1.1
-projects[blacksea][type] = "theme"
-projects[profolio][version] = 1.0
-projects[profolio][type] = "theme"
+; projects[blacksea][version] = 1.1
+; projects[blacksea][type] = "theme"
+; projects[profolio][version] = 1.0
+; projects[profolio][type] = "theme"
 projects[business][version] = 1.6
 projects[business][type] = "theme"
 projects[busy][version] = 1.5
@@ -1529,6 +1529,8 @@ projects[groundwork][type] = "theme"
   
 ; Libraries
 ; ---------
+
+
 libraries[html5bp][download][type] = "file"
 libraries[html5bp][download][url] = "http://github.com/paulirish/html5-boilerplate/zipball/v1.0stripped"
 
@@ -1546,8 +1548,8 @@ libraries[zend_gdata][destination] = "libraries"
 
 ; CKEditor
 libraries[ckeditor][download][type]= "get"
-;libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.4/ckeditor_3.4.zip"
-libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor%20for%20Drupal/CKEditor%203.6.3%20for%20Drupal/ckeditor_3.6.3_for_drupal_7.zip"
+libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.4/ckeditor_3.4.zip"
+; libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor%20for%20Drupal/CKEditor%203.6.3%20for%20Drupal/ckeditor_3.6.3_for_drupal_7.zip"
 libraries[ckeditor][directory_name] = "ckeditor"
 libraries[ckeditor][destination] = "libraries"
 
