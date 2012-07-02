@@ -1509,8 +1509,8 @@ projects[journalcrunch][type] = "theme"
 
 projects[zen][version] = 5.0
 projects[zen][type] = "theme"
-projects[zentropy][version] = 2.0-rc5
-projects[zentropy][type] = "theme"
+; projects[zentropy][version] = 2.0-rc5
+; projects[zentropy][type] = "theme"
 ; projects[acquia_marina][version] = 2.x-dev
 ; projects[acquia_marina][type] = "theme"
 
