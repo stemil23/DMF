@@ -1500,8 +1500,8 @@ projects[alloy][version] = 1.0
 projects[alloy][type] = "theme"
 projects[groundwork][version] = 1.2
 projects[groundwork][type] = "theme"
-projects[mayumi][version] = 1.0
-projects[mayumi][type] = "theme"
+; projects[mayumi][version] = 1.0
+; projects[mayumi][type] = "theme"
 ; projects[journalcrunch][version] = 1.1
 ; projects[journalcrunch][type] = "theme"
 
