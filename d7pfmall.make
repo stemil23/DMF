@@ -73,7 +73,7 @@ projects[commerce_file][version] = 1.0-beta3
 projects[commerce_file][type] = "module"
 projects[commerce_bpc][version] = 2.x-dev
 projects[commerce_bpc][type] = "module"
-projects[commerce_price_savings_formatter][version] = 1.1
+projects[commerce_price_savings_formatter][version] = 1.2
 projects[commerce_price_savings_formatter][type] = "module"
 projects[commerce_extra_price_formatters][version] = 1.1
 projects[commerce_extra_price_formatters][type] = "module"
@@ -87,7 +87,7 @@ projects[commerce_rec][version] = 1.0
 projects[commerce_rec][type] = "module"
 projects[commerce_addressbook][version] = 2.0-rc1
 projects[commerce_addressbook][type] = "module"
-projects[commerce_registration][version] = 2.0-alpha7
+projects[commerce_registration][version] = 2.0-beta2
 projects[commerce_registration][type] = "module"
 projects[commerce_reorder][version] = 1.x-dev
 projects[commerce_reorder][type] = "module"
@@ -101,14 +101,18 @@ projects[recommender][version] = 4.0-alpha14
 projects[recommender][type] = "module"
 projects[async_command][version] = 2.0-alpha10
 projects[async_command][type] = "module"
-projects[nap][version] = 1.0-rc2
+projects[nap][version] = 1.0-rc4
 projects[nap][type] = "module"
 projects[commerce_compass][version] = 1.0-alpha3
 projects[commerce_compass][type] = "module"
 projects[commerce_auction][version] = 1.0-alpha3
 projects[commerce_auction][type] = "module"
-projects[Commerce_autosku][version] = 1.x-dev
-projects[Commerce_autosku][type] = "module"
+projects[commerce_autosku][version] = 1.x-dev
+projects[commerce_autosku][type] = "module"
+projects[commerce_features][version] = 1.0-alpha1
+projects[commerce_features][type] = "module"
+projects[commerce_price_table][version] = 1.1
+projects[commerce_price_table][type] = "module"
 
 projects[balance_tracker][version] = 1.x-dev
 projects[balance_tracker][type] = "module"
@@ -177,7 +181,7 @@ projects[feed_import][type] = "module"
 projects[content_taxonomy][version] = 1.0-beta1
 projects[content_taxonomy][type] = "module"
 
-projects[email][version] = 1.0
+projects[email][version] = 1.1
 projects[email][type] = "module"
 projects[geo_filter][version] = 1.0
 projects[geo_filter][type] = "module"
@@ -229,7 +233,7 @@ projects[node_reference_view_formatter][type] = "module"
 
 projects[cnr][version] = 4.22
 projects[cnr][type] = "module"
-projects[privatemsg][version] = 1.2
+projects[privatemsg][version] = 1.3
 projects[privatemsg][type] = "module"
 projects[html5_tools][version] = 1.2
 projects[html5_tools][type] = "module"
@@ -245,7 +249,7 @@ projects[imce_tools][version] = 1.0
 projects[imce_tools][type] = "module"
 
 
-projects[i18n][version] = 1.5
+projects[i18n][version] = 1.6
 projects[i18n][type] = "module"
 projects[languageicons][version] = 1.0
 projects[languageicons][type] = "module"
@@ -265,7 +269,7 @@ projects[og_role_field][type] = "module"
 projects[og_extras][version] = 1.1
 projects[og_extras][type] = "module"
 
-projects[me][version] = 1.0
+projects[me][version] = 1.1
 projects[me][type] = "module"
 
 projects[advanced_forum][version] = 2.0
@@ -301,6 +305,9 @@ projects[colorbox][type] = "module"
 projects[colorbox_node][version] = 2.1
 projects[colorbox_node][type] = "module"
 
+projects[roadblock][version] = 1.0-rc1
+projects[roadblock][type] = "module"
+
 projects[easy_social][version] = 2.8
 projects[easy_social][type] = "module"
 projects[jasm][version] = 1.2
@@ -308,6 +315,9 @@ projects[jasm][type] = "module"
 
 projects[socialmedia][version] = 1.0-beta11
 projects[socialmedia][type] = "module"
+
+projects[pinit][version] = 1.1
+projects[pinit][type] = "module"
 
 projects[tumblr_connect][version] = 1.6
 projects[tumblr_connect][type] = "module"
@@ -405,7 +415,7 @@ projects[crumbs][type] = "module"
 projects[custom_breadcrumbs][version] = 2.x-dev
 projects[custom_breadcrumbs][type] = "module"
 
-projects[path_breadcrumbs][version] = 2.0-beta12
+projects[path_breadcrumbs][version] = 2.0-beta14
 projects[path_breadcrumbs][type] = "module"
 
 projects[easy_breadcrumb][version] = 1.11
@@ -599,7 +609,7 @@ projects[jquerymobile][type] = "module"
 
 projects[jquery_twitter_search][version] = 1.0
 projects[jquery_twitter_search][type] = "module"
-projects[twitter_pull][version] = 1.0-rc1
+projects[twitter_pull][version] = 1.0-rc2
 projects[twitter_pull][type] = "module"
 projects[twitter_db][version] = 1.0-rc2
 projects[twitter_db][type] = "module"
@@ -644,7 +654,7 @@ projects[locationmap][version] = 2.1
 projects[locationmap][type] = "module"
 ; projects[gmap][version] = 1.x-dev
 ; projects[gmap][type] = "module"
-projects[ip_geoloc][version] = 1.8
+projects[ip_geoloc][version] = 1.11
 projects[ip_geoloc][type] = "module"
 
 
@@ -712,9 +722,9 @@ projects[jump_menu][version] = 1.4
 projects[jump_menu][type] = "module"
 projects[special_menu_items][version] = 1.x-dev
 projects[special_menu_items][type] = "module"
-projects[menu_badges][version] = 1.0
+projects[menu_badges][version] = 1.1
 projects[menu_badges][type] = "module"
-projects[link_badges][version] = 1.0
+projects[link_badges][version] = 1.1
 projects[link_badges][type] = "module"
 
 
@@ -755,7 +765,7 @@ projects[subs][type] = "module"
 projects[omega_tools][version] = 3.0-rc4
 projects[omega_tools][type] = "module"
 
-projects[cm_slideshow][version] = 1.x-dev
+projects[cm_slideshow][version] = 1.0-alpha2
 projects[cm_slideshow][type] = "module"
 
 projects[monster_menus][version] = 1.7
@@ -847,7 +857,7 @@ projects[realname_registration][type] = "module"
 projects[ajax_register][version] = 4.0-rc9
 projects[ajax_register][type] = "module"
 
-projects[resp_img][version] = 1.2
+projects[resp_img][version] = 1.3
 projects[resp_img][type] = "module"
 projects[responsive_images][version] = 1.0-beta3
 projects[responsive_images][type] = "module"
@@ -895,7 +905,7 @@ projects[nodehierarchy][version] = 2.x-dev
 projects[nodehierarchy][type] = "module"
 
 
-projects[httprl][version] = 1.6
+projects[httprl][version] = 1.7
 projects[httprl][type] = "module"
 projects[fpa][version] = 2.x-dev
 projects[fpa][type] = "module"
@@ -1049,9 +1059,9 @@ projects[speedy][version] = 1.x-dev
 projects[speedy][type] = "module"
 
 
-projects[taxonomy_manager][version] = 1.x-dev
+projects[taxonomy_manager][version] = 1.0-beta3
 projects[taxonomy_manager][type] = "module"
-projects[taxonomy_menu][version] = 1.2
+projects[taxonomy_menu][version] = 1.x-dev
 projects[taxonomy_menu][type] = "module"
 projects[taxonomy_access][version] = 1.x-dev
 projects[taxonomy_access][type] = "module"
@@ -1078,7 +1088,7 @@ projects[config_perms][type] = "module"
 projects[jstimer][version] = 1.3
 projects[jstimer][type] = "module"
 
-projects[themekey][version] = 1.5
+projects[themekey][version] = 2.2
 projects[themekey][type] = "module"
 projects[role_theme_switcher][version] = 1.1
 projects[role_theme_switcher][type] = "module"
@@ -1088,7 +1098,7 @@ projects[typogrify][type] = "module"
 
 projects[video_filter][version] = 3.0-beta2
 projects[video_filter][type] = "module"
-projects[video_embed_field][version] = 2.0-beta4
+projects[video_embed_field][version] = 2.0-beta5
 projects[video_embed_field][type] = "module"
 projects[video_embed_field_overlay][version] = 1.3
 projects[video_embed_field_overlay][type] = "module"
@@ -1098,7 +1108,7 @@ projects[domwindow][type] = "module"
 projects[epsacrop][version] = 2.2
 projects[epsacrop][type] = "module"
 
-projects[file_entity][version] = 2.0-unstable5
+projects[file_entity][version] = 2.0-unstable6
 projects[file_entity][type] = "module"
 
 projects[filepicker][version] = 1.4
@@ -1140,7 +1150,7 @@ projects[http_client][type] = "module"
 projects[BookMadeSimple][version] = 3.6
 projects[BookMadeSimple][type] = "module"
 
-projects[media][version] = 1.1
+projects[media][version] = 1.2
 projects[media][type] = "module"
 projects[media_browser_plus][version] = 1.0-beta3
 projects[media_browser_plus][type] = "module"
@@ -1228,7 +1238,7 @@ projects[jcarousel][type] = "module"
 ; projects[jquery_plugin][version] = 1.0
 ; projects[jquery_plugin][type] = "module"
 
-projects[jquery_update][version] = 2.x-dev
+projects[jquery_update][version] = 2.2
 projects[jquery_update][type] = "module"
 ; projects[poshy_tip][version] = 1.0-beta1
 ; projects[poshy_tip][type] = "module"
@@ -1306,7 +1316,7 @@ projects[slidebox][version] = 1.5
 projects[slidebox][type] = "module"
 
 
-projects[variable][version] = 1.2
+projects[variable][version] = 2.0
 projects[variable][type] = "module"
 projects[variable_clean][version] = 1.x-dev
 projects[variable_clean][type] = "module"
@@ -1365,7 +1375,7 @@ projects[select_or_other][version] = 2.11
 projects[select_or_other][type] = "module"
 projects[improved_multi_select][version] = 1.1
 projects[improved_multi_select][type] = "module"
-projects[select_with_style][version] = 1.2
+projects[select_with_style][version] = 1.3
 projects[select_with_style][type] = "module"
 projects[multiselect][version] = 1.9
 projects[multiselect][type] = "module"
@@ -1391,6 +1401,8 @@ projects[workbench_files][version] = 1.0
 projects[workbench_files][type] = "module"
 projects[workbench_profile][version] = 1.1
 projects[workbench_profile][type] = "module"
+projects[scheduler_workbench][version] = 1.0-alpha2
+projects[scheduler_workbench][type] = "module"
 ; projects[workbench_moderation][version] = 1.2
 ; projects[workbench_moderation] = "module"
   
@@ -1424,6 +1436,18 @@ projects[sky][version] = 2.3
 projects[sky][type] = "theme"
 projects[at-commerce][version] = 2.0-rc3
 projects[at-commerce][type] = "theme"
+projects[storefront][version] = 1.2
+projects[storefront][type] = "theme"
+
+projects[nucleus][version] = 1.1-beta3
+projects[nucleus][type] = "theme"
+projects[tb_purity][version] = 1.0-beta1
+projects[tb_purity][type] = "theme"
+projects[tb_sirate][version] = 1.0-beta1
+projects[tb_sirate][type] = "theme"
+projects[tb_blog][version] = 1.0-beta1
+projects[tb_blog][type] = "theme"
+
 projects[basic][version] = 2.0-rc3
 projects[basic][type] = "theme"
 projects[framework][version] = 3.6
@@ -1447,8 +1471,10 @@ projects[sasson][version] = 2.2
 projects[sasson][type] = "theme"
 projects[rubik][version] = 4.0-beta8
 projects[rubik][type] = "theme"
-projects[fubik][version] = 1.17
+projects[fubik][version] = 1.20
 projects[fubik][type] = "theme"
+projects[bh_bootstrap][version] = 2.0
+projects[bh_bootstrap][type] = "theme"
 ; projects[sky][version] = "2.2"
 ; projects[sky][type] = "theme"
 projects[tao][version] = 3.x-dev
@@ -1671,7 +1697,14 @@ libraries[domwindow][directory_name] = "jquery.domwindow"
 libraries[domwindow][destination] = "libraries"
 
 ;twitter-rest-php
-libraries[twitter-rest-php][download][type] = "get"
+libraries[twitter-rest-php][download][type] = "git"
 libraries[twitter-rest-php][download][url] = "https://github.com/downloads/juampy72/twitter-rest-php/twitter.lib.php"
 libraries[twitter-rest-php][directory_name] = "twitter"
 libraries[twitter-rest-php][destination] = "libraries"
+
+;BOOTstrap
+libraries[bootstrap][download][type] = "git"
+libraries[bootstrap][download][url] = "https://github.com/twitter/bootstrap.git"
+libraries[bootstrap][directory_name] = "bootstrap"
+libraries[bootstrap][destination] = "libraries"
+
