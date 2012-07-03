@@ -1402,76 +1402,7 @@ projects[scheduler_workbench][type] = "module"
 ; --------
 
 
-; projects[mobile_jquery][version] = 2.0-beta1
-; projects[mobile_jquery][type] = "theme"
 
-; projects[arctica][version] = 1.3
-; projects[arctica][type] = "theme"
-; projects[arti][version] = 1.3
-; projects[arti][type] = "theme"
-; projects[tundra][version] = 1.3
-; projects[tundra][type] = "theme"
-; projects[andromeda][version] = 2.x-dev
-; projects[andromeda][type] = "theme"
-; projects[touchpro][version] = 1.3
-; projects[touchpro][type] = "theme"
-; projects[selecta][version] = 1.1
-; projects[selecta][type] = "theme"
-projects[adaptivetheme][version] = 2.3
-projects[adaptivetheme][type] = "theme"
-projects[pixture_reloaded][version] = 2.2
-projects[pixture_reloaded][type] = "theme"
-projects[corolla][version] = 2.2
-projects[corolla][type] = "theme"
-; projects[sky][version] = 2.3
-; projects[sky][type] = "theme"
-projects[at-commerce][version] = 2.0-rc3
-projects[at-commerce][type] = "theme"
-projects[storefront][version] = 1.2
-projects[storefront][type] = "theme"
-
-projects[nucleus][version] = 1.1-beta3
-projects[nucleus][type] = "theme"
-projects[tb_purity][version] = 1.0-beta1
-projects[tb_purity][type] = "theme"
-projects[tb_sirate][version] = 1.0-beta1
-projects[tb_sirate][type] = "theme"
-projects[tb_blog][version] = 1.0-beta1
-projects[tb_blog][type] = "theme"
-
-; projects[basic][version] = 2.0-rc3
-; projects[basic][type] = "theme"
-; projects[framework][version] = 3.6
-; projects[framework][type] = "theme"
-; projects[genesis][version] = 1.1
-; projects[genesis][type] = "theme"
-; projects[marinelli][version] = 3.0-beta11
-; projects[marinelli][type] = "theme"
-; projects[mothership][version] = 2.7
-; projects[mothership][type] = "theme"
-; projects[ninesixty][version] = 1.0
-; projects[ninesixty][type] = "theme"
-; projects[nitobe][version] = "2.0-beta1"
-; projects[nitobe][type] = "theme"
-projects[omega][version] = "3.1"
-projects[omega][type] = "theme"
-projects[cm_theme][version] = 1.0-alpha1
-projects[cm_theme][type] = "theme"
-
-; projects[sasson][version] = 2.2
-; projects[sasson][type] = "theme"
-projects[rubik][version] = 4.0-beta8
-projects[rubik][type] = "theme"
-projects[fubik][version] = 1.20
-projects[fubik][type] = "theme"
-projects[bh_bootstrap][version] = 2.0
-projects[bh_bootstrap][type] = "theme"
-; projects[sky][version] = "2.2"
-; projects[sky][type] = "theme"
-projects[tao][version] = 3.x-dev
-projects[tao][type] = "theme"
-projects[cube][version] = 1.3
-projects[cube][type] = "theme"
 ; projects[rootcandy][version] = 1.0-alpha1  
 ; projects[rootcandy][type] = "theme"
 ; projects[corporateclean][version] = 1.5
