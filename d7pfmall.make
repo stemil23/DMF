@@ -960,8 +960,8 @@ projects[submenutree][type] = "module"
 projects[superfish][version] = 1.9-beta4
 projects[superfish][type] = "module"
 
-projects[token][version] = 1.x-dev
-projects[token][type] = "module"
+; projects[token][version] = 1.x-dev
+; projects[token][type] = "module"
 projects[transliteration][version] = 3.1
 projects[transliteration][type] = "module"
 
@@ -1468,8 +1468,8 @@ projects[bh_bootstrap][version] = 2.0
 projects[bh_bootstrap][type] = "theme"
 ; projects[sky][version] = "2.2"
 ; projects[sky][type] = "theme"
-projects[tao][version] = 3.x-dev
-projects[tao][type] = "theme"
+; projects[tao][version] = 3.x-dev
+; projects[tao][type] = "theme"
 ; projects[cube][version] = 1.3
 ; projects[cube][type] = "theme"
 ; projects[rootcandy][version] = 1.0-alpha1  
