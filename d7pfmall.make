@@ -187,8 +187,8 @@ projects[geo_filter][version] = 1.0
 projects[geo_filter][type] = "module"
 
 
-projects[field_group][version] = 1.x-dev
-projects[field_group][type] = "module"
+; projects[field_group][version] = 1.x-dev
+; projects[field_group][type] = "module"
 projects[fieldgroup_menu][version] = 1.0-alpha1
 projects[fieldgroup_menu][type] = "module"
 projects[field_permissions][version] = 1.0-beta2
@@ -412,7 +412,7 @@ projects[crumbs][type] = "module"
 projects[custom_breadcrumbs][version] = 2.x-dev
 projects[custom_breadcrumbs][type] = "module"
 
-projects[path_breadcrumbs][version] = 2.0-beta14
+projects[path_breadcrumbs][version] = 2.0-beta16
 projects[path_breadcrumbs][type] = "module"
 
 projects[easy_breadcrumb][version] = 1.11
@@ -800,7 +800,7 @@ projects[themekey][type] = "module"
 
 projects[pathauto][version] = 1.1
 projects[pathauto][type] = "module"
-projects[trailing_slash][version] = 1.0-rc5
+projects[trailing_slash][version] = 1.0
 projects[trailing_slash][type] = "module"
 
 projects[profile2][version] = 1.2
@@ -1470,8 +1470,8 @@ projects[bh_bootstrap][type] = "theme"
 ; projects[sky][type] = "theme"
 projects[tao][version] = 3.x-dev
 projects[tao][type] = "theme"
-projects[cube][version] = 1.3
-projects[cube][type] = "theme"
+; projects[cube][version] = 1.3
+; projects[cube][type] = "theme"
 ; projects[rootcandy][version] = 1.0-alpha1  
 ; projects[rootcandy][type] = "theme"
 ; projects[corporateclean][version] = 1.5
