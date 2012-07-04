@@ -187,8 +187,8 @@ projects[geo_filter][version] = 1.0
 projects[geo_filter][type] = "module"
 
 
-; projects[field_group][version] = 1.x-dev
-; projects[field_group][type] = "module"
+projects[field_group][version] = 1.x-dev
+projects[field_group][type] = "module"
 projects[fieldgroup_menu][version] = 1.0-alpha1
 projects[fieldgroup_menu][type] = "module"
 projects[field_permissions][version] = 1.0-beta2
@@ -960,8 +960,8 @@ projects[submenutree][type] = "module"
 projects[superfish][version] = 1.9-beta4
 projects[superfish][type] = "module"
 
-; projects[token][version] = 1.x-dev
-; projects[token][type] = "module"
+projects[token][version] = 1.x-dev
+projects[token][type] = "module"
 projects[transliteration][version] = 3.1
 projects[transliteration][type] = "module"
 
@@ -1362,7 +1362,7 @@ projects[om_crew_connect][type] = "module"
 
 projects[multiform][version] = 1.0
 projects[multiform][type] = "module"
-projects[select_or_other][version] = 2.11
+projects[select_or_other][version] = 2.12
 projects[select_or_other][type] = "module"
 projects[improved_multi_select][version] = 1.1
 projects[improved_multi_select][type] = "module"
@@ -1468,10 +1468,10 @@ projects[bh_bootstrap][version] = 2.0
 projects[bh_bootstrap][type] = "theme"
 ; projects[sky][version] = "2.2"
 ; projects[sky][type] = "theme"
-; projects[tao][version] = 3.x-dev
-; projects[tao][type] = "theme"
-; projects[cube][version] = 1.3
-; projects[cube][type] = "theme"
+projects[tao][version] = 3.x-dev
+projects[tao][type] = "theme"
+projects[cube][version] = 1.3
+projects[cube][type] = "theme"
 ; projects[rootcandy][version] = 1.0-alpha1  
 ; projects[rootcandy][type] = "theme"
 ; projects[corporateclean][version] = 1.5
