@@ -40,7 +40,7 @@ projects[pressflow][download][url] = "git://github.com/pressflow/7.git"
 ; Modules
 ; --------
 
-projects[module_filter][version] = 1.0-rc6
+projects[module_filter][version] = 1.7
 projects[module_filter][type] = "module"
 
 projects[javascript_libraries][version] = 1.0-rc6
