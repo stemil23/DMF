@@ -164,6 +164,8 @@ projects[date_ical][version] = 1.1
 projects[date_ical][type] = "module"
 projects[date_popup_authored][version] = 1.1
 projects[date_popup_authored][type] = "module"
+projects[interval][version] = 1.0-rc1
+projects[interval][type] = "module"
 ; projects[opening_hours][version] = 1.x-dev
 ; projects[opening_hours][type] = "module"
 projects[tipsy][version] = 1.0-rc1
@@ -307,7 +309,7 @@ projects[mimemail][type] = "module"
 
 projects[colorbox][version] = 1.3
 projects[colorbox][type] = "module"
-projects[colorbox_node][version] = 2.1
+projects[colorbox_node][version] = 2.2
 projects[colorbox_node][type] = "module"
 
 projects[roadblock][version] = 1.0-rc1
@@ -494,7 +496,7 @@ projects[filefield_role_limit][version] = 1.1
 projects[filefield_role_limit][type] = "module"
 
 
-projects[flag][version] = 2.0-beta6
+projects[flag][version] = 2.0-beta7
 projects[flag][type] = "module"
 projects[front][version] = 2.1
 projects[front][type] = "module"
@@ -660,7 +662,7 @@ projects[locationmap][version] = 2.1
 projects[locationmap][type] = "module"
 ; projects[gmap][version] = 1.x-dev
 ; projects[gmap][type] = "module"
-projects[ip_geoloc][version] = 1.11
+projects[ip_geoloc][version] = 1.13
 projects[ip_geoloc][type] = "module"
 
 
@@ -820,6 +822,8 @@ projects[trailing_slash][type] = "module"
 
 projects[profile2][version] = 1.2
 projects[profile2][type] = "module"
+projects[profileplus][version] = 1.2
+projects[profileplus][type] = "module"
 
 ; projects[achievements][version] = 1.5
 ; projects[achievements][type] = "module"
@@ -1398,6 +1402,8 @@ projects[revisioning][type] = "module"
 
 projects[xmlsitemap][version] = 2.0-rc1
 projects[xmlsitemap][type] = "module"
+projects[google_image_sitemap][version] = 1.1
+projects[google_image_sitemap][type] = "module"
 
 projects[workbench][version] = 1.1
 projects[workbench][type] = "module"
@@ -1409,8 +1415,8 @@ projects[workbench_files][version] = 1.0
 projects[workbench_files][type] = "module"
 projects[workbench_profile][version] = 1.1
 projects[workbench_profile][type] = "module"
-; projects[scheduler_workbench][version] = 1.0-alpha2
-; projects[scheduler_workbench][type] = "module"
+projects[scheduler_workbench][version] = 1.0-alpha3
+projects[scheduler_workbench][type] = "module"
 ; projects[workbench_moderation][version] = 1.2
 ; projects[workbench_moderation] = "module"
   
