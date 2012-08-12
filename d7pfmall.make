@@ -1319,8 +1319,6 @@ projects[views_fluid_grid][type] = "module"
 projects[oembed][version] = 0.1-beta3
 projects[oembed][type] = "module"
 
-
-
 projects[views_isotope][version] = 1.0-beta2
 projects[views_isotope][type] = "module"
 projects[views_infinite_scroll][version] = 1.1
@@ -1389,27 +1387,27 @@ projects[phone][version] = 1.x-dev
 projects[phone][type] = "module"
 
 
-projects[field_validation][version] = 2.0-beta2
-projects[field_validation][type] = "module"
-projects[double_field][version] = 2.0-rc1
-projects[double_field][type] = "module"
+; projects[field_validation][version] = 2.0-beta2
+; projects[field_validation][type] = "module"
+; projects[double_field][version] = 2.0-rc1
+; projects[double_field][type] = "module"
 
-projects[om_crew_connect][version] = 2.0-beta3
-projects[om_crew_connect][type] = "module"
+; projects[om_crew_connect][version] = 2.0-beta3
+; projects[om_crew_connect][type] = "module"
 
-projects[multiform][version] = 1.0
-projects[multiform][type] = "module"
-projects[select_or_other][version] = 2.13
-projects[select_or_other][type] = "module"
-projects[improved_multi_select][version] = 1.1
-projects[improved_multi_select][type] = "module"
-projects[select_with_style][version] = 1.4
-projects[select_with_style][type] = "module"
-projects[multiselect][version] = 1.9
-projects[multiselect][type] = "module"
+; projects[multiform][version] = 1.0
+; projects[multiform][type] = "module"
+; projects[select_or_other][version] = 2.13
+; projects[select_or_other][type] = "module"
+; projects[improved_multi_select][version] = 1.1
+; projects[improved_multi_select][type] = "module"
+; projects[select_with_style][version] = 1.4
+; projects[select_with_style][type] = "module"
+; projects[multiselect][version] = 1.9
+; projects[multiselect][type] = "module"
 
-projects[single_page_website][version] = 2.x-dev
-projects[single_page_website][type] = "module"
+; projects[single_page_website][version] = 2.x-dev
+; projects[single_page_website][type] = "module"
 
 projects[workflow][version] = 1.0
 projects[workflow][type] = "module"
@@ -1418,19 +1416,19 @@ projects[revisioning][type] = "module"
 
 projects[xmlsitemap][version] = 2.0-rc1
 projects[xmlsitemap][type] = "module"
-projects[google_image_sitemap][version] = 1.1
-projects[google_image_sitemap][type] = "module"
+; projects[google_image_sitemap][version] = 1.1
+; projects[google_image_sitemap][type] = "module"
 
-projects[workbench][version] = 1.1
-projects[workbench][type] = "module"
-projects[workbench_access][version] = 1.x-dev
-projects[workbench_access][type] = "module"
-projects[workbench_media][version] = 1.x-dev
-projects[workbench_media][type] = "module"
-projects[workbench_files][version] = 1.0
-projects[workbench_files][type] = "module"
-projects[workbench_profile][version] = 1.1
-projects[workbench_profile][type] = "module"
+; projects[workbench][version] = 1.1
+; projects[workbench][type] = "module"
+; projects[workbench_access][version] = 1.x-dev
+; projects[workbench_access][type] = "module"
+; projects[workbench_media][version] = 1.x-dev
+; projects[workbench_media][type] = "module"
+; projects[workbench_files][version] = 1.0
+; projects[workbench_files][type] = "module"
+; projects[workbench_profile][version] = 1.1
+; projects[workbench_profile][type] = "module"
 ; projects[scheduler_workbench][version] = 1.0-alpha3
 ; projects[scheduler_workbench][type] = "module"
 ; projects[workbench_moderation][version] = 1.2
@@ -1456,16 +1454,16 @@ projects[workbench_profile][type] = "module"
 ; projects[touchpro][type] = "theme"
 ; projects[selecta][version] = 1.1
 ; projects[selecta][type] = "theme"
-projects[adaptivetheme][version] = 3.0
-projects[adaptivetheme][type] = "theme"
-projects[pixture_reloaded][version] = 3.0-rc1
-projects[pixture_reloaded][type] = "theme"
-projects[corolla][version] = 3.0-rc1
-projects[corolla][type] = "theme"
-projects[sky][version] = 3.0-rc1
-projects[sky][type] = "theme"
-projects[at-commerce][version] = 3.0-rc1
-projects[at-commerce][type] = "theme"
+; projects[adaptivetheme][version] = 3.0
+; projects[adaptivetheme][type] = "theme"
+; projects[pixture_reloaded][version] = 3.0-rc1
+; projects[pixture_reloaded][type] = "theme"
+; projects[corolla][version] = 3.0-rc1
+; projects[corolla][type] = "theme"
+; projects[sky][version] = 3.0-rc1
+; projects[sky][type] = "theme"
+; projects[at-commerce][version] = 3.0-rc1
+; projects[at-commerce][type] = "theme"
 ; projects[storefront][version] = 1.2
 ; projects[storefront][type] = "theme"
 
@@ -1492,8 +1490,8 @@ projects[at-commerce][type] = "theme"
 ; projects[ninesixty][type] = "theme"
 ; projects[nitobe][version] = "2.0-beta1"
 ; projects[nitobe][type] = "theme"
-projects[omega][version] = "3.1"
-projects[omega][type] = "theme"
+; projects[omega][version] = "3.1"
+; projects[omega][type] = "theme"
 ; projects[cm_theme][version] = 1.0-alpha1
 ; projects[cm_theme][type] = "theme"
 
