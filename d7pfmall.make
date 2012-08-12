@@ -309,7 +309,7 @@ projects[htmlmail][type] = "module"
 projects[mimemail][version] = 1.x-dev
 projects[mimemail][type] = "module"
 
-projects[mailcheck][version] = 1.x-dev
+projects[mailcheck][version] = 1.0
 projects[mailcheck][type] = "module"
 
 projects[colorbox][version] = 1.3
@@ -1546,7 +1546,7 @@ projects[cube][type] = "theme"
 ; projects[havasu][type] = "theme"
 
 projects[company][version] = 1.02
-projects[companyb][type] = "theme"
+projects[company][type] = "theme"
 
 
 ; projects[fusion][version] = 2.x-dev
