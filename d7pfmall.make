@@ -630,7 +630,7 @@ projects[twitter_pull][version] = 1.0-rc2
 projects[twitter_pull][type] = "module"
 projects[twitter_db][version] = 1.0-rc2
 projects[twitter_db][type] = "module"
-projects[twitter][version] = 3.x-dev
+projects[twitter][version] = 3.2
 projects[twitter][type] = "module"
 
 
@@ -671,7 +671,7 @@ projects[locationmap][version] = 2.1
 projects[locationmap][type] = "module"
 ; projects[gmap][version] = 1.x-dev
 ; projects[gmap][type] = "module"
-projects[ip_geoloc][version] = 1.15
+projects[ip_geoloc][version] = 1.16
 projects[ip_geoloc][type] = "module"
 
 
@@ -754,7 +754,7 @@ projects[link_badges][type] = "module"
 projects[messaging][version] = 1.0-alpha2
 projects[messaging][type] = "module"
 
-projects[metatag][version] = 1.0-alpha6
+projects[metatag][version] = 1.0-alpha8
 projects[metatag][type] = "module"
 projects[tagging][version] = 3.3
 projects[tagging][type] = "module"
@@ -988,7 +988,7 @@ projects[submenutree][type] = "module"
 projects[superfish][version] = 1.9-beta4
 projects[superfish][type] = "module"
 
-projects[token][version] = 1.x-dev
+projects[token][version] = 1.2
 projects[token][type] = "module"
 projects[transliteration][version] = 3.1
 projects[transliteration][type] = "module"
@@ -997,7 +997,7 @@ projects[views_slideshow][version] = 3.x-dev
 projects[views_slideshow][type] = "module"
 projects[views_slideshow_slider][version] = 3.x-dev
 projects[views_slideshow_slider][type] = "module"
-projects[views_slideshow_xtra][version] = 3.6
+projects[views_slideshow_xtra][version] = 3.8
 projects[views_slideshow_xtra][type] = "module"
 projects[views_slideshow_galleria][version] = 3.1
 projects[views_slideshow_galleria][type] = "module"
@@ -1182,9 +1182,7 @@ projects[media_youtube][version] = 1.0-beta3
 projects[media_youtube][type] = "module"
 projects[media_gallery][version] = 1.0-beta8
 projects[media_gallery][type] = "module"
-projects[media-nivo-slider][version] = 2.0
-projects[media-nivo-slider][type] = "module"
-projects[media-nivo-slider][version] = 1.1
+projects[media-nivo-slider][version] = 2.1
 projects[media-nivo-slider][type] = "module"
 projects[remote_stream_wrapper][version] = 1.0-beta4
 projects[remote_stream_wrapper][type] = "module"
@@ -1239,7 +1237,7 @@ projects[ckeditor_link_user][version] = 1.0
 projects[ckeditor_link_user][type] = "module"
 projects[extlink][version] = 1.12
 projects[extlink][type] = "module"
-projects[external-iframe][version] = 2.0-rc1
+projects[external-iframe][version] = 2.0-rc2
 projects[external-iframe][type] = "module"
 projects[tables][version] = 1.4
 projects[tables][type] = "module"
@@ -1318,6 +1316,10 @@ projects[draggableviews][type] = "module"
 projects[views_fluid_grid][version] = 3.0
 projects[views_fluid_grid][type] = "module"
 
+projects[oembed][version] = 0.1-beta3
+projects[oembed][type] = "module"
+
+
 
 projects[views_isotope][version] = 1.0-beta2
 projects[views_isotope][type] = "module"
@@ -1377,7 +1379,7 @@ projects[webform_html_textarea][version] = 1.3
 projects[webform_html_textarea][type] = "module"
 projects[webform_patched][version] = 3.18
 projects[webform_patched][type] = "module"
-projects[webform_phone][version] = 1.2
+projects[webform_phone][version] = 1.6
 projects[webform_phone][type] = "module"
 projects[webform_tokens][version] = 1.1
 projects[webform_tokens][type] = "module"
@@ -1520,7 +1522,7 @@ projects[cube][type] = "theme"
 ; projects[blacksea][type] = "theme"
 ; projects[profolio][version] = 1.0
 ; projects[profolio][type] = "theme"
-; projects[business][version] = 1.7
+; projects[business][version] = 1.8
 ; projects[business][type] = "theme"
 ; projects[busy][version] = 1.5
 ; projects[busy][type] = "theme"
@@ -1542,6 +1544,9 @@ projects[cube][type] = "theme"
 
 ; projects[havasu][version] = 1.02
 ; projects[havasu][type] = "theme"
+
+projects[company][version] = 1.02
+projects[companyb][type] = "theme"
 
 
 ; projects[fusion][version] = 2.x-dev
