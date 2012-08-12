@@ -309,8 +309,8 @@ projects[htmlmail][type] = "module"
 projects[mimemail][version] = 1.x-dev
 projects[mimemail][type] = "module"
 
-projects[mailcheck][version] = 1.0
-projects[mailcheck][type] = "module"
+; projects[mailcheck][version] = 1.0
+; projects[mailcheck][type] = "module"
 
 projects[colorbox][version] = 1.3
 projects[colorbox][type] = "module"
@@ -1503,14 +1503,14 @@ projects[rubik][version] = 4.0-beta8
 projects[rubik][type] = "theme"
 projects[fubik][version] = 1.21
 projects[fubik][type] = "theme"
-projects[bh_bootstrap][version] = 2.0
-projects[bh_bootstrap][type] = "theme"
+; projects[bh_bootstrap][version] = 2.0
+; projects[bh_bootstrap][type] = "theme"
 ; projects[sky][version] = "2.2"
 ; projects[sky][type] = "theme"
 projects[tao][version] = 3.x-dev
 projects[tao][type] = "theme"
-projects[cube][version] = 1.3
-projects[cube][type] = "theme"
+; projects[cube][version] = 1.3
+; projects[cube][type] = "theme"
 ; projects[rootcandy][version] = 1.0-alpha1  
 ; projects[rootcandy][type] = "theme"
 ; projects[corporateclean][version] = 1.5
@@ -1740,6 +1740,3 @@ libraries[bootstrap][download][type] = "git"
 libraries[bootstrap][download][url] = "https://github.com/twitter/bootstrap.git"
 libraries[bootstrap][directory_name] = "bootstrap"
 libraries[bootstrap][destination] = "libraries"
-
-; TO DO
-; mailcheck github js file
