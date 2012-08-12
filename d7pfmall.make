@@ -40,8 +40,8 @@ projects[pressflow][download][url] = "git://github.com/pressflow/7.git"
 ; Modules
 ; --------
 
-projects[module_filter][version] = 1.7
-projects[module_filter][type] = "module"
+; projects[module_filter][version] = 1.7
+; projects[module_filter][type] = "module"
 
 projects[javascript_libraries][version] = 1.0-rc6
 projects[javascript_libraries][type] = "module"
@@ -59,11 +59,11 @@ projects[wm][type] = "module"
 projects[admin_menu][version] = 3.0-rc1
 projects[admin_menu][type] = "module"
 
-projects[fit_text][version] = 1.0
-projects[fit_text][type] = "module"
+; projects[fit_text][version] = 1.0
+; projects[fit_text][type] = "module"
 
-projects[itoggle][version] = 2.2
-projects[itoggle][type] = "module"
+; projects[itoggle][version] = 2.2
+; projects[itoggle][type] = "module"
 
 ; projects[options_element][version] = 1.7
 ; projects[options_element][type] = "module"
@@ -1431,8 +1431,8 @@ projects[workbench_files][version] = 1.0
 projects[workbench_files][type] = "module"
 projects[workbench_profile][version] = 1.1
 projects[workbench_profile][type] = "module"
-projects[scheduler_workbench][version] = 1.0-alpha3
-projects[scheduler_workbench][type] = "module"
+; projects[scheduler_workbench][version] = 1.0-alpha3
+; projects[scheduler_workbench][type] = "module"
 ; projects[workbench_moderation][version] = 1.2
 ; projects[workbench_moderation] = "module"
   
@@ -1466,17 +1466,17 @@ projects[sky][version] = 3.0-rc1
 projects[sky][type] = "theme"
 projects[at-commerce][version] = 3.0-rc1
 projects[at-commerce][type] = "theme"
-projects[storefront][version] = 1.2
-projects[storefront][type] = "theme"
+; projects[storefront][version] = 1.2
+; projects[storefront][type] = "theme"
 
-projects[nucleus][version] = 1.1-beta3
-projects[nucleus][type] = "theme"
-projects[tb_purity][version] = 1.0-beta1
-projects[tb_purity][type] = "theme"
-projects[tb_sirate][version] = 1.0-beta1
-projects[tb_sirate][type] = "theme"
-projects[tb_blog][version] = 1.0-beta1
-projects[tb_blog][type] = "theme"
+; projects[nucleus][version] = 1.1-beta3
+; projects[nucleus][type] = "theme"
+; projects[tb_purity][version] = 1.0-beta1
+; projects[tb_purity][type] = "theme"
+; projects[tb_sirate][version] = 1.0-beta1
+; projects[tb_sirate][type] = "theme"
+; projects[tb_blog][version] = 1.0-beta1
+; projects[tb_blog][type] = "theme"
 
 ; projects[basic][version] = 2.0-rc3
 ; projects[basic][type] = "theme"
@@ -1494,21 +1494,21 @@ projects[tb_blog][type] = "theme"
 ; projects[nitobe][type] = "theme"
 projects[omega][version] = "3.1"
 projects[omega][type] = "theme"
-projects[cm_theme][version] = 1.0-alpha1
-projects[cm_theme][type] = "theme"
+; projects[cm_theme][version] = 1.0-alpha1
+; projects[cm_theme][type] = "theme"
 
 ; projects[sasson][version] = 2.2
 ; projects[sasson][type] = "theme"
-projects[rubik][version] = 4.0-beta8
-projects[rubik][type] = "theme"
-projects[fubik][version] = 1.21
-projects[fubik][type] = "theme"
+; projects[rubik][version] = 4.0-beta8
+; projects[rubik][type] = "theme"
+; projects[fubik][version] = 1.21
+; projects[fubik][type] = "theme"
 ; projects[bh_bootstrap][version] = 2.0
 ; projects[bh_bootstrap][type] = "theme"
 ; projects[sky][version] = "2.2"
 ; projects[sky][type] = "theme"
-projects[tao][version] = 3.x-dev
-projects[tao][type] = "theme"
+; projects[tao][version] = 3.x-dev
+; projects[tao][type] = "theme"
 ; projects[cube][version] = 1.3
 ; projects[cube][type] = "theme"
 ; projects[rootcandy][version] = 1.0-alpha1  
