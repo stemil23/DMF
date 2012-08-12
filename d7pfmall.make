@@ -1545,8 +1545,8 @@ projects[cube][type] = "theme"
 ; projects[havasu][version] = 1.02
 ; projects[havasu][type] = "theme"
 
-projects[company][version] = 1.02
-projects[company][type] = "theme"
+; projects[company][version] = 1.4
+; projects[company][type] = "theme"
 
 
 ; projects[fusion][version] = 2.x-dev
