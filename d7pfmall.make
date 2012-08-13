@@ -149,7 +149,7 @@ projects[nodeownership][type] = "module"
 
 projects[ctools][version] = 1.x-dev
 projects[ctools][type] = "module"
-projects[context][version] = 3.0-beta3
+projects[context][version] = 3.0-beta4
 projects[context][type] = "module"
 ; projects[context_admin][version] = 1.1
 ; projects[context_admin][type] = "module"
