@@ -160,7 +160,7 @@ projects[calendar_tooltips][type] = "module"
 
 ; projects[clock][version] = 1.2
 ; projects[clock][type] = "module"
-projects[date][version] = 2.x-dev
+projects[date][version] = 2.6
 projects[date][type] = "module"
 projects[date_ical][version] = 1.1
 projects[date_ical][type] = "module"
@@ -888,7 +888,7 @@ projects[adaptive_image][type] = "module"
 projects[scheduler][version] = 1.0
 projects[scheduler][type] = "module"
 
-projects[radioactivity][version] = 2.6
+projects[radioactivity][version] = 2.7
 projects[radioactivity][type] = "module"
 
 projects[schema][version] = 1.x-dev
@@ -1077,7 +1077,7 @@ projects[esi][type] = "module"
 projects[flood_control][version] = 1.x-dev
 projects[flood_control][type] = "module"
 
-projects[speedy][version] = 1.x-dev
+projects[speedy][version] = 1.1
 projects[speedy][type] = "module"
 
 
@@ -1180,6 +1180,8 @@ projects[media_colorbox][version] = 1.0-rc1
 projects[media_colorbox][type] = "module"
 projects[media_youtube][version] = 1.0-beta3
 projects[media_youtube][type] = "module"
+projects[media_flickr][version] = 1.0-alpha3
+projects[media_flickr][type] = "module"
 projects[media_gallery][version] = 1.0-beta8
 projects[media_gallery][type] = "module"
 projects[media-nivo-slider][version] = 2.1
@@ -1225,7 +1227,7 @@ projects[user_alert][type] = "module"
 
 ; USER INTERFACE
 
-projects[autocomplete_deluxe][version] = 1.0-beta5
+projects[autocomplete_deluxe][version] = 2.0-beta1
 projects[autocomplete_deluxe][type] = "module"
 projects[ckeditor][version] = 1.9
 projects[ckeditor][type] = "module"
