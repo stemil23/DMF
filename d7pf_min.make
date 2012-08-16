@@ -1724,7 +1724,7 @@ libraries[twitter-rest-php][directory_name] = "twitter"
 libraries[twitter-rest-php][destination] = "libraries"
 
 ;BOOTstrap
-libraries[bootstrap][download][type] = "git"
-libraries[bootstrap][download][url] = "https://github.com/twitter/bootstrap.git"
-libraries[bootstrap][directory_name] = "bootstrap"
-libraries[bootstrap][destination] = "libraries"
+; libraries[bootstrap][download][type] = "git"
+; libraries[bootstrap][download][url] = "https://github.com/twitter/bootstrap.git"
+; libraries[bootstrap][directory_name] = "bootstrap"
+; libraries[bootstrap][destination] = "libraries"
