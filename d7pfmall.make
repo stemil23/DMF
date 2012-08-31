@@ -1177,8 +1177,8 @@ projects[connector][type] = "module"
 projects[http_client][version] = 2.x-dev	
 projects[http_client][type] = "module"
 
-projects[BookMadeSimple][version] = 3.6
-projects[BookMadeSimple][type] = "module"
+; projects[BookMadeSimple][version] = 3.6
+; projects[BookMadeSimple][type] = "module"
 
 projects[media][version] = 1.2
 projects[media][type] = "module"
@@ -1215,14 +1215,14 @@ projects[menu_force][version] = 1.2
 projects[menu_force][type] = "module"
 projects[menu_token][version] = 1.x-dev
 projects[menu_token][type] = "module"
-projects[path_alias_xt][version] = 1.x-dev
-projects[path_alias_xt][type] = "module"
+; projects[path_alias_xt][version] = 1.x-dev
+; projects[path_alias_xt][type] = "module"
 
-projects[better_exposed_filters][version] = 3.0-beta1
+projects[better_exposed_filters][version] = 3.x-dev
 projects[better_exposed_filters][type] = "module"menu
 
-projects[plupload][version] = 1.0
-projects[plupload][type] = "module"
+; projects[plupload][version] = 1.x-dev
+; projects[plupload][type] = "module"
 
 ; projects[mandrill][version] = 1.0-beta1
 ; projects[mandrill][type] = "module"
@@ -1430,7 +1430,7 @@ projects[workflow][type] = "module"
 projects[revisioning][version] = 1.4
 projects[revisioning][type] = "module"
 
-projects[xmlsitemap][version] = 2.0-rc1
+projects[xmlsitemap][version] = 2.x-dev
 projects[xmlsitemap][type] = "module"
 ; projects[google_image_sitemap][version] = 1.1
 ; projects[google_image_sitemap][type] = "module"
@@ -1635,10 +1635,10 @@ libraries[json2][directory_name] = "json2"
 libraries[json2][destination] = "libraries"
 
 ; Plupload
-libraries[plupload][download][type] = "get"
-libraries[plupload][download][url] = "https://github.com/downloads/moxiecode/plupload/plupload_1_5_2.zip"
-libraries[plupload][directory_name] = "plupload"
-libraries[plupload][destination] = "libraries"
+; libraries[plupload][download][type] = "get"
+; libraries[plupload][download][url] = "https://github.com/downloads/moxiecode/plupload/plupload_1_5_2.zip"
+; libraries[plupload][directory_name] = "plupload"
+; libraries[plupload][destination] = "libraries"
 
 ; TinyMCE
 ; libraries[tinymce][download][type] = "git"
