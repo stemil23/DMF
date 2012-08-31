@@ -1147,35 +1147,35 @@ projects[filepicker][type] = "module"
 projects[imagepicker][version] = 1.6
 projects[imagepicker][type] = "module"
 
-projects[imagezoom][version] = 1.2
-projects[imagezoom][type] = "module"
+; projects[imagezoom][version] = 1.2
+; projects[imagezoom][type] = "module"
 
-projects[filtersie][version] = 1.0
-projects[filtersie][type] = "module"
+; projects[filtersie][version] = 1.0
+; projects[filtersie][type] = "module"
 
-projects[follow][version] = 1.0-alpha1
-projects[follow][type] = "module"
+; projects[follow][version] = 1.x-dev
+; projects[follow][type] = "module"
 
-projects[fblikebutton][version] = 2.0
-projects[fblikebutton][type] = "module"
-projects[facebook_rules][version] = 1.3
-projects[facebook_rules][type] = "module"
+; projects[fblikebutton][version] = 2.0
+; projects[fblikebutton][type] = "module"
+; projects[facebook_rules][version] = 1.3
+; projects[facebook_rules][type] = "module"
 
 
-projects[oauth][version] = 3.x-dev
-projects[oauth][type] = "module"
-projects[oauthconnector][version] = 1.x-dev	
-projects[oauthconnector][type] = "module"
-projects[fboauth][version] = 1.5
-projects[fboauth][type] = "module"
-projects[linkedin][version] = 1.x-dev
-projects[linkedin][type] = "module"
-projects[connector][version] = 1.x-dev
-projects[connector][type] = "module"
+; projects[oauth][version] = 3.x-dev
+; projects[oauth][type] = "module"
+; projects[oauthconnector][version] = 1.x-dev	
+; projects[oauthconnector][type] = "module"
+; projects[fboauth][version] = 1.5
+; projects[fboauth][type] = "module"
+; projects[linkedin][version] = 1.x-dev
+; projects[linkedin][type] = "module"
+; projects[connector][version] = 1.x-dev
+; projects[connector][type] = "module"
 ; projects[fbconnect][version] = 2.x-dev
 ; projects[fbconnect][type] = "module"
-projects[http_client][version] = 2.x-dev	
-projects[http_client][type] = "module"
+; projects[http_client][version] = 2.x-dev	
+; projects[http_client][type] = "module"
 
 ; projects[BookMadeSimple][version] = 3.6
 ; projects[BookMadeSimple][type] = "module"
@@ -1715,9 +1715,9 @@ libraries[flexslider][directory_name] = "flexslider"
 libraries[flexslider][destination] = "libraries"
 
 ;getLocationsMarkers
-libraries[glmarkers][download][type] = "get"
-libraries[glmarkers][download][url] = "http://dl.dropbox.com/u/41489105/Drupal/getlocations/getlocations-markers.zip"
-libraries[glmarkers][destination] = "libraries"
+; libraries[glmarkers][download][type] = "get"
+; libraries[glmarkers][download][url] = "http://dl.dropbox.com/u/41489105/Drupal/getlocations/getlocations-markers.zip"
+; libraries[glmarkers][destination] = "libraries"
 
 ;PoshyTip
 ; libraries[poshytip][download][type] = "get"
@@ -1750,7 +1750,7 @@ libraries[twitter-rest-php][directory_name] = "twitter"
 libraries[twitter-rest-php][destination] = "libraries"
 
 ;BOOTstrap
-libraries[bootstrap][download][type] = "git"
-libraries[bootstrap][download][url] = "https://github.com/twitter/bootstrap.git"
-libraries[bootstrap][directory_name] = "bootstrap"
-libraries[bootstrap][destination] = "libraries"
+; libraries[bootstrap][download][type] = "git"
+; libraries[bootstrap][download][url] = "https://github.com/twitter/bootstrap.git"
+; libraries[bootstrap][directory_name] = "bootstrap"
+; libraries[bootstrap][destination] = "libraries"
