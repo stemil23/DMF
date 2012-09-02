@@ -421,7 +421,7 @@ projects[bestreply][version] = 1.2
 projects[bestreply][type] = "module"
 projects[message][version] = 1.x-dev
 projects[message][type] = "module"
-projects[message_notify][version] = 1.0
+projects[message_notify][version] = 2.2
 projects[message_notify][type] = "module"
 projects[computed_field][version] = 1.0-beta1
 projects[computed_field][type] = "module"
@@ -809,6 +809,9 @@ projects[galleria][type] = "module"
 projects[openlayers][version] = 2.0-beta1
 projects[openlayers][type] = "module"
 
+; projects[leaflet_more_maps][version] = 1.0-beta1
+; projects[leaflet_more_maps][type] = "module"
+
 ; ABANDONED PROJECT
 ; projects[wms][version] = 1.0
 ; projects[wms][type] = "module"
@@ -941,7 +944,7 @@ projects[search404][version] = 1.2
 projects[search404][type] = "module"
 projects[search_config][version] = 1.x-dev
 projects[search_config][type] = "module"
-projects[search_autocomplete][version] = 2.3
+projects[search_autocomplete][version] = 3.0-rc2
 projects[search_autocomplete][type] = "module"
 projects[search_api][version] = 1.2
 projects[search_api][type] = "module"
@@ -1099,7 +1102,7 @@ projects[taxonomy_menu_trails][type] = "module"
 projects[active_taxonomy_links][version] = 1.0
 projects[active_taxonomy_links][type] = "module"
 
-projects[taxonomy_edge][version] = 1.1
+projects[taxonomy_edge][version] = 1.3
 projects[taxonomy_edge][type] = "module"
 projects[vars][version] = 2.0-alpha10
 projects[vars][type] = "module"
@@ -1122,6 +1125,9 @@ projects[themekey][version] = 2.3
 projects[themekey][type] = "module"
 projects[role_theme_switcher][version] = 1.1
 projects[role_theme_switcher][type] = "module"
+
+projects[apply_for_role][version] = 1.0-beta9
+projects[apply_for_role][type] = "module"
 
 projects[typogrify][version] = 1.0-rc4
 projects[typogrify][type] = "module"
@@ -1359,7 +1365,7 @@ projects[variable][type] = "module"
 projects[variable_clean][version] = 1.x-dev
 projects[variable_clean][type] = "module"
 
-projects[rate][version] = 1.3
+projects[rate][version] = 1.4
 projects[rate][type] = "module"
 projects[fivestar][version] = 2.0-alpha2
 projects[fivestar][type] = "module"
