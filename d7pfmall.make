@@ -1217,15 +1217,15 @@ projects[nivo_slider][type] = "module"
 projects[menu_minipanels][version] = 1.0-rc8
 projects[menu_minipanels][type] = "module"
 
-projects[menu_force][version] = 1.2
-projects[menu_force][type] = "module"
-projects[menu_token][version] = 1.x-dev
-projects[menu_token][type] = "module"
+; projects[menu_force][version] = 1.2
+; projects[menu_force][type] = "module"
+; projects[menu_token][version] = 1.x-dev
+; projects[menu_token][type] = "module"
 ; projects[path_alias_xt][version] = 1.x-dev
 ; projects[path_alias_xt][type] = "module"
 
-projects[better_exposed_filters][version] = 3.x-dev
-projects[better_exposed_filters][type] = "module"menu
+; projects[better_exposed_filters][version] = 3.x-dev
+; projects[better_exposed_filters][type] = "module"menu
 
 ; projects[plupload][version] = 1.x-dev
 ; projects[plupload][type] = "module"
