@@ -942,17 +942,17 @@ projects[fpa][type] = "module"
 
 projects[search404][version] = 1.2
 projects[search404][type] = "module"
-projects[search_config][version] = 1.x-dev
-projects[search_config][type] = "module"
+; projects[search_config][version] = 1.x-dev
+; projects[search_config][type] = "module"
 projects[search_autocomplete][version] = 3.0-rc2
 projects[search_autocomplete][type] = "module"
-projects[search_api][version] = 1.2
-projects[search_api][type] = "module"
+; projects[search_api][version] = 1.2
+; projects[search_api][type] = "module"
 
-projects[seo_checker][version] = 1.5
-projects[seo_checker][type] = "module"
-projects[seo_checklist][version] = 3.0-beta1
-projects[seo_checklist][type] = "module"
+; projects[seo_checker][version] = 1.5
+; projects[seo_checker][type] = "module"
+; projects[seo_checklist][version] = 3.0-beta1
+; projects[seo_checklist][type] = "module"
 
 projects[fast_404][version] = 1.3
 projects[fast_404][type] = "module"
@@ -964,11 +964,11 @@ projects[securepages][version] = 1.x-dev
 projects[securepages][type] = "module"
 projects[security_review][version] = 1.0
 projects[security_review][type] = "module"
-projects[encrypt_submissions][version] = 1.1
-projects[encrypt_submissions][type] = "module"
+; projects[encrypt_submissions][version] = 1.1
+; projects[encrypt_submissions][type] = "module"
 
-projects[seckit][version] = 1.3
-projects[seckit][type] = "module"
+; projects[seckit][version] = 1.3
+; projects[seckit][type] = "module"
 projects[simplenews][version] = 1.0-rc1
 projects[simplenews][type] = "module"
 projects[site_map][version] = 1.x-dev
@@ -981,8 +981,7 @@ projects[skinr][version] = 2.0-beta1
 projects[skinr][type] = "module"
 ; projects[fusion_accelerator][version] = 2.x-dev
 ; projects[fusion_accelerator][type] = "module"
-projects[nitro][version] = 1.0
-projects[nitro][type] = "module"
+
 projects[smtp][version] = 1.0-beta1
 projects[smtp][type] = "module"
 ; projects[stringoverrides][version] = 1.8
@@ -1030,9 +1029,6 @@ projects[galerie][type] = "module"
 projects[andromeda_slideshow][version] = 1.x-dev
 projects[andromeda_slideshow][type] = "module"
 projects[andromeda_slideshow_full_slider][version] = 1.1
-projects[andromeda_slideshow_full_slider][type] = "module"
-
-projects[andromeda_slideshow_full_slider][version] = 1.0 
 projects[andromeda_slideshow_full_slider][type] = "module"
 
 projects[panels][version] = 3.3
