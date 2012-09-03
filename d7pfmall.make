@@ -65,8 +65,8 @@ projects[admin_menu][type] = "module"
 ; projects[itoggle][version] = 2.3
 ; projects[itoggle][type] = "module"
 
-; projects[options_element][version] = 1.7
-; projects[options_element][type] = "module"
+projects[options_element][version] = 1.7
+projects[options_element][type] = "module"
 
 projects[commerce][version] = 1.x-dev
 projects[commerce][type] = "module"
@@ -565,7 +565,7 @@ projects[badbehavior][type] = "module"
 
 
 
-projects[hierarchical_select][version] = 3.0-alpha5
+projects[hierarchical_select][version] = 3.x-dev
 projects[hierarchical_select][type] = "module"
 
 projects[droptor][version] = 3.0-beta1
