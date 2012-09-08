@@ -65,8 +65,8 @@ projects[admin_menu][type] = "module"
 ; projects[itoggle][version] = 2.3
 ; projects[itoggle][type] = "module"
 
-projects[options_element][version] = 1.7
-projects[options_element][type] = "module"
+; projects[options_element][version] = 1.7
+; projects[options_element][type] = "module"
 
 projects[commerce][version] = 1.x-dev
 projects[commerce][type] = "module"
@@ -1594,9 +1594,9 @@ libraries[jquery_ui][download][url] = "http://jquery-ui.googlecode.com/files/jqu
 libraries[jquery_ui][directory_name] = "jquery.ui"
 libraries[jquery_ui][destination] = "modules/jquery_ui"
 
-libraries[zend_gdata][download][type] = "get"
-libraries[zend_gdata][download][url]= "http://framework.zend.com/releases/ZendGdata-1.10.6/ZendGdata-1.10.6.tar.gz"
-libraries[zend_gdata][destination] = "libraries"
+; libraries[zend_gdata][download][type] = "get"
+; libraries[zend_gdata][download][url]= "http://framework.zend.com/releases/ZendGdata-1.10.6/ZendGdata-1.10.6.tar.gz"
+; libraries[zend_gdata][destination] = "libraries"
 
 ; CKEditor
 libraries[ckeditor][download][type]= "get"
@@ -1749,10 +1749,10 @@ libraries[domwindow][directory_name] = "jquery.domwindow"
 libraries[domwindow][destination] = "libraries"
 
 ;twitter-rest-php
-libraries[twitter-rest-php][download][type] = "git"
-libraries[twitter-rest-php][download][url] = "https://github.com/downloads/juampy72/twitter-rest-php/twitter.lib.php"
-libraries[twitter-rest-php][directory_name] = "twitter"
-libraries[twitter-rest-php][destination] = "libraries"
+; libraries[twitter-rest-php][download][type] = "git"
+; libraries[twitter-rest-php][download][url] = "https://github.com/downloads/juampy72/twitter-rest-php/twitter.lib.php"
+; libraries[twitter-rest-php][directory_name] = "twitter"
+; libraries[twitter-rest-php][destination] = "libraries"
 
 ;BOOTstrap
 ; libraries[bootstrap][download][type] = "git"
