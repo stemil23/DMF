@@ -1460,8 +1460,8 @@ projects[workbench_profile][version] = 1.1
 projects[workbench_profile][type] = "module"
 projects[scheduler_workbench][version] = 1.0-alpha3
 projects[scheduler_workbench][type] = "module"
-projects[workbench_moderation][version] = 1.2
-projects[workbench_moderation] = "module"
+; projects[workbench_moderation][version] = 1.2
+; projects[workbench_moderation] = "module"
   
 
 ; Themes
@@ -1576,8 +1576,8 @@ projects[acquia_marina][type] = "theme"
 ; projects[company][type] = "theme"
 
 
-projects[fusion][version] = 2.0-beta2
-projects[fusion][type] = "theme"
+; projects[fusion][version] = 2.0-beta2
+; projects[fusion][type] = "theme"
 
 ; projects[html5_base][version] = "2.x-dev"
 ; projects[html5_base][type] = "theme"
