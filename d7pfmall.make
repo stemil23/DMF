@@ -662,7 +662,7 @@ projects[views_dataviz][type] = "module"
 projects[highcharts][version] = 1.0-alpha6
 projects[highcharts][type] = "module"
 
-projects[chart][version] = 1.3
+projects[chart][version] = 1.1
 projects[chart][type] = "module"
 
 projects[google_chart_tools][version] = 1.1
@@ -1576,7 +1576,7 @@ projects[acquia_marina][type] = "theme"
 ; projects[company][type] = "theme"
 
 
-projects[fusion][version] = 2.x-dev
+projects[fusion][version] = 2.0-beta2
 projects[fusion][type] = "theme"
 
 ; projects[html5_base][version] = "2.x-dev"
