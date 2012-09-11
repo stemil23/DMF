@@ -1519,8 +1519,8 @@ projects[storefront][type] = "theme"
 ; projects[ninesixty][type] = "theme"
 ; projects[nitobe][version] = "2.0-beta1"
 ; projects[nitobe][type] = "theme"
-projects[omega][version] = "3.1"
-projects[omega][type] = "theme"
+; projects[omega][version] = "3.1"
+; projects[omega][type] = "theme"
 ; projects[cm_theme][version] = 1.0-alpha1
 ; projects[cm_theme][type] = "theme"
 
@@ -1722,10 +1722,10 @@ libraries[itoggle][directory_name] = "itoggle"
 libraries[itoggle][destination] = "libraries"
 
 ; FlexSlider
-libraries[flexslider][download][type] = "git"
-libraries[flexslider][download][url] = "https://github.com/woothemes/FlexSlider.git"
-libraries[flexslider][directory_name] = "flexslider"
-libraries[flexslider][destination] = "libraries"
+; libraries[flexslider][download][type] = "git"
+; libraries[flexslider][download][url] = "https://github.com/woothemes/FlexSlider.git"
+; libraries[flexslider][directory_name] = "flexslider"
+; libraries[flexslider][destination] = "libraries"
 
 ;getLocationsMarkers
 ; libraries[glmarkers][download][type] = "get"
