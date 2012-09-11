@@ -1152,8 +1152,8 @@ projects[domwindow][type] = "module"
 projects[epsacrop][version] = 2.2
 projects[epsacrop][type] = "module"
 
-projects[file_entity][version] = 2.0-unstable6
-projects[file_entity][type] = "module"
+; projects[file_entity][version] = 2.0-unstable6
+; projects[file_entity][type] = "module"
 
 projects[filepicker][version] = 1.4
 projects[filepicker][type] = "module"
@@ -1175,22 +1175,20 @@ projects[follow][type] = "module"
 ; projects[facebook_rules][version] = 1.3
 ; projects[facebook_rules][type] = "module"
 
-
-
-projects[oauth][version] = 3.x-dev
-projects[oauth][type] = "module"
-projects[oauthconnector][version] = 1.x-dev	
-projects[oauthconnector][type] = "module"
-projects[fboauth][version] = 1.5
-projects[fboauth][type] = "module"
-projects[linkedin][version] = 1.x-dev
-projects[linkedin][type] = "module"
-projects[connector][version] = 1.x-dev
-projects[connector][type] = "module"
+; projects[oauth][version] = 3.x-dev
+; projects[oauth][type] = "module"
+; projects[oauthconnector][version] = 1.x-dev	
+; projects[oauthconnector][type] = "module"
+; projects[fboauth][version] = 1.5
+; projects[fboauth][type] = "module"
+; projects[linkedin][version] = 1.x-dev
+; projects[linkedin][type] = "module"
+; projects[connector][version] = 1.x-dev
+; projects[connector][type] = "module"
 ; projects[fbconnect][version] = 2.x-dev
 ; projects[fbconnect][type] = "module"
-projects[http_client][version] = 2.x-dev	
-projects[http_client][type] = "module"
+; projects[http_client][version] = 2.x-dev	
+; projects[http_client][type] = "module"
 
 ; projects[BookMadeSimple][version] = 3.6
 ; projects[BookMadeSimple][type] = "module"
