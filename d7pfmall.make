@@ -1187,8 +1187,8 @@ projects[linkedin][version] = 1.x-dev
 projects[linkedin][type] = "module"
 projects[connector][version] = 1.x-dev
 projects[connector][type] = "module"
-projects[fbconnect][version] = 2.x-dev
-projects[fbconnect][type] = "module"
+; projects[fbconnect][version] = 2.x-dev
+; projects[fbconnect][type] = "module"
 projects[http_client][version] = 2.x-dev	
 projects[http_client][type] = "module"
 
