@@ -786,7 +786,7 @@ projects[mollom][type] = "module"
 ; projects[newswire][type] = "module"
 projects[nice_menus][version] = 2.1
 projects[nice_menus][type] = "module"
-projects[node_clone][version] = 1.0-beta1
+projects[node_clone][version] = 1.0-rc1
 projects[node_clone][type] = "module"
 
 projects[notifications][version] = 1.0-alpha2
@@ -1542,10 +1542,10 @@ projects[omega][type] = "theme"
 ; projects[cube][type] = "theme"
 ; projects[rootcandy][version] = 1.0-alpha1  
 ; projects[rootcandy][type] = "theme"
-projects[corporateclean][version] = 1.5
-projects[corporateclean][type] = "theme"
-projects[skeletontheme][version] = 1.0
-projects[skeletontheme][type] = "theme"
+; projects[corporateclean][version] = 1.5
+; projects[corporateclean][type] = "theme"
+; projects[skeletontheme][version] = 1.0
+; projects[skeletontheme][type] = "theme"
 
 ; projects[blacksea][version] = 1.1
 ; projects[blacksea][type] = "theme"
