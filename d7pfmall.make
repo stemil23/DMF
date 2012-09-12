@@ -811,10 +811,10 @@ projects[subs][type] = "module"
 projects[openlayers][version] = 2.0-beta1
 projects[openlayers][type] = "module"
 
-; projects[leaflet_more_maps][version] = 1.0-beta1
-; projects[leaflet_more_maps][type] = "module"
-; projects[leaflet][version] = 1.0-beta1
-; projects[leaflet][type] = "module"
+projects[leaflet_more_maps][version] = 1.0
+projects[leaflet_more_maps][type] = "module"
+projects[leaflet][version] = 1.0-beta1
+projects[leaflet][type] = "module"
 
 ; ABANDONED PROJECT
 ; projects[wms][version] = 1.0
@@ -887,8 +887,8 @@ projects[realname][version] = 1.0
 projects[realname][type] = "module"
 projects[realname_registration][version] = 2.0-rc2
 projects[realname_registration][type] = "module"
-; projects[ajax_register][version] = 4.0-rc9
-; projects[ajax_register][type] = "module"
+projects[ajax_register][version] = 4.0-rc9
+projects[ajax_register][type] = "module"
 
 ; projects[resp_img][version] = 1.3
 ; projects[resp_img][type] = "module"
@@ -1479,18 +1479,18 @@ projects[xmlsitemap][type] = "module"
 ; projects[touchpro][type] = "theme"
 ; projects[selecta][version] = 1.1
 ; projects[selecta][type] = "theme"
-; projects[adaptivetheme][version] = 3.0
-; projects[adaptivetheme][type] = "theme"
-; projects[pixture_reloaded][version] = 3.0-rc1
-; projects[pixture_reloaded][type] = "theme"
-; projects[corolla][version] = 3.0-rc1
-; projects[corolla][type] = "theme"
-; projects[sky][version] = 3.0-rc1
-; projects[sky][type] = "theme"
-; projects[at-commerce][version] = 3.0-rc1
-; projects[at-commerce][type] = "theme"
-; projects[storefront][version] = 1.2
-; projects[storefront][type] = "theme"
+projects[adaptivetheme][version] = 3.0
+projects[adaptivetheme][type] = "theme"
+projects[pixture_reloaded][version] = 3.0-rc1
+projects[pixture_reloaded][type] = "theme"
+projects[corolla][version] = 3.0-rc1
+projects[corolla][type] = "theme"
+projects[sky][version] = 3.0-rc1
+projects[sky][type] = "theme"
+projects[at-commerce][version] = 3.0-rc1
+projects[at-commerce][type] = "theme"
+projects[storefront][version] = 1.2
+projects[storefront][type] = "theme"
 
 ; projects[nucleus][version] = 1.1-beta3
 ; projects[nucleus][type] = "theme"
@@ -1536,10 +1536,10 @@ projects[xmlsitemap][type] = "module"
 ; projects[cube][type] = "theme"
 ; projects[rootcandy][version] = 1.0-alpha1  
 ; projects[rootcandy][type] = "theme"
-; projects[corporateclean][version] = 1.5
-; projects[corporateclean][type] = "theme"
-; projects[skeletontheme][version] = 1.0
-; projects[skeletontheme][type] = "theme"
+projects[corporateclean][version] = 1.5
+projects[corporateclean][type] = "theme"
+projects[skeletontheme][version] = 1.0
+projects[skeletontheme][type] = "theme"
 
 ; projects[blacksea][version] = 1.1
 ; projects[blacksea][type] = "theme"
@@ -1572,8 +1572,8 @@ projects[xmlsitemap][type] = "module"
 ; projects[company][type] = "theme"
 
 
-; projects[fusion][version] = 2.0-beta2
-; projects[fusion][type] = "theme"
+projects[fusion][version] = 2.0-beta2
+projects[fusion][type] = "theme"
 
 ; projects[html5_base][version] = "2.x-dev"
 ; projects[html5_base][type] = "theme"
