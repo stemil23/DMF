@@ -64,8 +64,8 @@ projects[admin_menu][type] = "module"
 ; projects[fit_text][version] = 1.0
 ; projects[fit_text][type] = "module"
 
-projects[itoggle][version] = 2.3
-projects[itoggle][type] = "module"
+; projects[itoggle][version] = 2.3
+; projects[itoggle][type] = "module"
 
 projects[options_element][version] = 1.7
 projects[options_element][type] = "module"
@@ -128,14 +128,12 @@ projects[commerce_moa][type] = "module"
 projects[balance_tracker][version] = 1.x-dev
 projects[balance_tracker][type] = "module"
 
-projects[eck][version] = 2.0-beta1
-projects[eck][type] = "module"
+; projects[eck][version] = 2.0-beta1
+; projects[eck][type] = "module"
 
-projects[nodeownership][version] = 1.2
-projects[nodeownership][type] = "module"
+; projects[nodeownership][version] = 1.2
+; projects[nodeownership][type] = "module"
 
-; projects[contemplate][version] = 1.0-rc3
-; projects[contemplate][type] = "module"
 
 
 ; projects[dart][version] = 2.4
@@ -174,10 +172,10 @@ projects[date_popup_authored][version] = 1.1
 projects[date_popup_authored][type] = "module"
 projects[interval][version] = 1.0-rc1
 projects[interval][type] = "module"
-projects[opening_hours][version] = 1.x-dev
-projects[opening_hours][type] = "module"
-projects[tipsy][version] = 1.0-rc1
-projects[tipsy][type] = "module"
+; projects[opening_hours][version] = 1.x-dev
+; projects[opening_hours][type] = "module"
+; projects[tipsy][version] = 1.0-rc1
+; projects[tipsy][type] = "module"
 
 projects[registration][version] = 1.0-beta3
 projects[registration][type] = "module"
@@ -232,8 +230,8 @@ projects[link][version] = 1.0
 projects[link][type] = "module"
 projects[nodereference_url][version] = 1.12
 projects[nodereference_url][type] = "module"
-projects[autocreate][version] = 1.0
-projects[autocreate][type] = "module"
+; projects[autocreate][version] = 1.0
+; projects[autocreate][type] = "module"
 
 
 projects[node_embed][version] = 1.0-rc2
@@ -330,8 +328,8 @@ projects[colorbox_node][type] = "module"
 
 projects[easy_social][version] = 2.9
 projects[easy_social][type] = "module"
-projects[jasm][version] = 1.2
-projects[jasm][type] = "module"
+; projects[jasm][version] = 1.2
+; projects[jasm][type] = "module"
 
 projects[socialmedia][version] = 1.0-beta13
 projects[socialmedia][type] = "module"
@@ -399,8 +397,8 @@ projects[backup_migrate][type] = "module"
 ; projects[boxes][version] = 1.0
 ; projects[boxes][type] = "module"
 
-projects[borealis][version] = 1.0-beta8
-projects[borealis][type] = "module"
+; projects[borealis][version] = 1.0-beta8
+; projects[borealis][type] = "module"
 
 
 projects[cck][version] = 2.x-dev
@@ -450,8 +448,8 @@ projects[custom_formatters][type] = "module"
 projects[smart_trim][version] = 1.1
 projects[smart_trim][type] = "module"
 
-projects[delta][version] = 3.0-beta11
-projects[delta][type] = "module"
+; projects[delta][version] = 3.0-beta11
+; projects[delta][type] = "module"
 
 ; projects[dhtml_menu][version] = 1.0-beta1
 ; projects[dhtml_menu][type] = "module"
@@ -572,17 +570,16 @@ projects[hierarchical_select][type] = "module"
 
 projects[droptor][version] = 3.0-beta1
 projects[droptor][type] = "module"
-projects[drd][version] = 2.0-rc1
-projects[drd][type] = "module"
-projects[drd_server][version] = 2.0-rc2
-projects[drd_server][type] = "module"
+; projects[drd][version] = 2.0-rc1
+; projects[drd][type] = "module"
+; projects[drd_server][version] = 2.0-rc2
+; projects[drd_server][type] = "module"
 
 projects[flexslider][version] = 1.0-rc3
 projects[flexslider][type] = "module"
 
-projects[filefield_nginx_progress][version] = 1.x-dev
-projects[filefield_nginx_progress][type] = "module"
-
+; projects[filefield_nginx_progress][version] = 1.x-dev
+; projects[filefield_nginx_progress][type] = "module"
 
 
 projects[imagecrop][version] = 1.x-dev
