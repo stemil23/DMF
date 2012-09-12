@@ -1444,8 +1444,8 @@ projects[xmlsitemap][type] = "module"
 ; projects[google_image_sitemap][version] = 1.1
 ; projects[google_image_sitemap][type] = "module"
 
-projects[workbench][version] = 1.1
-projects[workbench][type] = "module"
+; projects[workbench][version] = 1.1
+; projects[workbench][type] = "module"
 ; projects[workbench_access][version] = 1.x-dev
 ; projects[workbench_access][type] = "module"
 ; projects[workbench_media][version] = 1.1
