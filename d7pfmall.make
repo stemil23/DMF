@@ -844,8 +844,8 @@ projects[trailing_slash][type] = "module"
 
 projects[profile2][version] = 1.2
 projects[profile2][type] = "module"
-; projects[profileplus][version] = 1.2
-; projects[profileplus][type] = "module"
+projects[profileplus][version] = 1.2
+projects[profileplus][type] = "module"
 
 projects[achievements][version] = 1.5
 projects[achievements][type] = "module"
@@ -895,8 +895,8 @@ projects[realname_registration][type] = "module"
 ; projects[responsive_images][version] = 1.0-beta3
 ; projects[responsive_images][type] = "module"
 
-; projects[adaptive_image][version] = 1.4
-; projects[adaptive_image][type] = "module" 
+projects[adaptive_image][version] = 1.4
+projects[adaptive_image][type] = "module" 
  
 ; projects[scheduler][version] = 1.0
 ; projects[scheduler][type] = "module"
@@ -1034,10 +1034,10 @@ projects[field_slideshow][type] = "module"
 projects[galerie][version] = 1.4
 projects[galerie][type] = "module"
 
-; projects[andromeda_slideshow][version] = 1.x-dev
-; projects[andromeda_slideshow][type] = "module"
-; projects[andromeda_slideshow_full_slider][version] = 1.1
-; projects[andromeda_slideshow_full_slider][type] = "module"
+projects[andromeda_slideshow][version] = 1.x-dev
+projects[andromeda_slideshow][type] = "module"
+projects[andromeda_slideshow_full_slider][version] = 1.1
+projects[andromeda_slideshow_full_slider][type] = "module"
 
 projects[panels][version] = 3.3
 projects[panels][type] = "module"
