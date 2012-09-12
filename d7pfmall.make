@@ -131,8 +131,8 @@ projects[balance_tracker][type] = "module"
 ; projects[eck][version] = 2.0-beta1
 ; projects[eck][type] = "module"
 
-; projects[nodeownership][version] = 1.2
-; projects[nodeownership][type] = "module"
+projects[nodeownership][version] = 1.2
+projects[nodeownership][type] = "module"
 
 
 
@@ -448,8 +448,8 @@ projects[custom_formatters][type] = "module"
 projects[smart_trim][version] = 1.1
 projects[smart_trim][type] = "module"
 
-; projects[delta][version] = 3.0-beta11
-; projects[delta][type] = "module"
+projects[delta][version] = 3.x-dev
+projects[delta][type] = "module"
 
 ; projects[dhtml_menu][version] = 1.0-beta1
 ; projects[dhtml_menu][type] = "module"
@@ -844,23 +844,23 @@ projects[trailing_slash][type] = "module"
 
 projects[profile2][version] = 1.2
 projects[profile2][type] = "module"
-projects[profileplus][version] = 1.2
+projects[profileplus][version] = 1.x-dev
 projects[profileplus][type] = "module"
 
 projects[achievements][version] = 1.5
 projects[achievements][type] = "module"
 
-; projects[pcp][version] = 1.3
-; projects[pcp][type] = "module"
-; projects[profile2_privacy][version] = 1.2
-; projects[profile2_privacy][type] = "module"
-; projects[profile2_regpath][version] = 1.9
-; projects[profile2_regpath][type] = "module"
+projects[pcp][version] = 1.x-dev
+projects[pcp][type] = "module"
+projects[profile2_privacy][version] = 1.2
+projects[profile2_privacy][type] = "module"
+projects[profile2_regpath][version] = 1.9
+projects[profile2_regpath][type] = "module"
 ; projects[profile_sync_email][version] = 1.3
 ; projects[profile_sync_email][type] = "module"
 
-; projects[email_confirm][version] = 1.0
-; projects[email_confirm][type] = "module"
+projects[email_confirm][version] = 1.x-dev
+projects[email_confirm][type] = "module"
 
 ; projects[profile2_apachesolr][version] = 1.2
 ; projects[profile2_apachesolr][type] = "module"
@@ -875,8 +875,8 @@ projects[achievements][type] = "module"
 ; projects[publishcontent][version] = 1.0
 ; projects[publishcontent][type] = "module"
 
-; projects[mostpopular][version] = 1.1
-; projects[mostpopular][type] = "module"
+projects[mostpopular][version] = 1.1
+projects[mostpopular][type] = "module"
 
 ; projects[field_slideshow][version] = 1.6
 ; projects[field_slideshow][type] = "module"
@@ -1171,20 +1171,20 @@ projects[follow][type] = "module"
 ; projects[facebook_rules][version] = 1.3
 ; projects[facebook_rules][type] = "module"
 
-; projects[oauth][version] = 3.x-dev
-; projects[oauth][type] = "module"
-; projects[oauthconnector][version] = 1.x-dev	
-; projects[oauthconnector][type] = "module"
-; projects[fboauth][version] = 1.5
-; projects[fboauth][type] = "module"
-; projects[linkedin][version] = 1.x-dev
-; projects[linkedin][type] = "module"
-; projects[connector][version] = 1.x-dev
-; projects[connector][type] = "module"
-; projects[fbconnect][version] = 2.x-dev
-; projects[fbconnect][type] = "module"
-; projects[http_client][version] = 2.x-dev	
-; projects[http_client][type] = "module"
+projects[oauth][version] = 3.x-dev
+projects[oauth][type] = "module"
+projects[oauthconnector][version] = 1.x-dev	
+projects[oauthconnector][type] = "module"
+projects[fboauth][version] = 1.5
+projects[fboauth][type] = "module"
+projects[linkedin][version] = 1.x-dev
+projects[linkedin][type] = "module"
+projects[connector][version] = 1.x-dev
+projects[connector][type] = "module"
+projects[fbconnect][version] = 2.x-dev
+projects[fbconnect][type] = "module"
+projects[http_client][version] = 2.x-dev	
+projects[http_client][type] = "module"
 
 ; projects[BookMadeSimple][version] = 3.6
 ; projects[BookMadeSimple][type] = "module"
@@ -1224,8 +1224,8 @@ projects[media_crop][type] = "module"
 ; projects[menu_force][type] = "module"
 ; projects[menu_token][version] = 1.x-dev
 ; projects[menu_token][type] = "module"
-; projects[path_alias_xt][version] = 1.x-dev
-; projects[path_alias_xt][type] = "module"
+projects[path_alias_xt][version] = 1.x-dev
+projects[path_alias_xt][type] = "module"
 
 ; projects[better_exposed_filters][version] = 3.x-dev
 ; projects[better_exposed_filters][type] = "module"menu
