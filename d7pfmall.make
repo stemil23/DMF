@@ -526,7 +526,7 @@ projects[globalredirect][version] = 1.5
 projects[globalredirect][type] = "module"
 projects[google_analytics][version] = "1.x-dev"
 projects[google_analytics][type] = "module"
-; projects[google_analytics_reports][version] = 1.2
+; projects[google_analytics_reports][version] = 1.3
 ; projects[google_analytics_reports][type] = "module"
 
 ; projects[google_plusone][version] = "1.x-dev"
@@ -954,7 +954,7 @@ projects[search404][type] = "module"
 ; projects[search_config][type] = "module"
 ; projects[custom_search][version] = 1.1
 ; projects[custom_search][type] = "module"
-projects[search_autocomplete][version] = 3.0-rc2
+projects[search_autocomplete][version] = 3.0-rc3
 projects[search_autocomplete][type] = "module"
 ; projects[search_api][version] = 1.2
 ; projects[search_api][type] = "module"
@@ -1110,7 +1110,7 @@ projects[taxonomy_menu_trails][type] = "module"
 projects[active_taxonomy_links][version] = 1.0
 projects[active_taxonomy_links][type] = "module"
 
-projects[taxonomy_edge][version] = 1.5
+projects[taxonomy_edge][version] = 1.6
 projects[taxonomy_edge][type] = "module"
 projects[vars][version] = 2.0-alpha10
 projects[vars][type] = "module"
@@ -1357,8 +1357,8 @@ projects[views_accordion][version] = 1.0-rc2
 projects[views_accordion][type] = "module"
 projects[global_filter][version] = 1.5
 projects[global_filter][type] = "module"
-projects[vntf][version] = 1.0-beta6
-projects[vntf][type] = "module"
+; projects[vntf][version] = 1.0-beta6
+; projects[vntf][type] = "module"
 
 projects[weight][version] = 2.1
 projects[weight][type] = "module"
@@ -1416,10 +1416,10 @@ projects[phone][version] = 1.x-dev
 projects[phone][type] = "module"
 
 
-projects[field_validation][version] = 2.0-beta2
-projects[field_validation][type] = "module"
-projects[double_field][version] = 2.0-rc1
-projects[double_field][type] = "module"
+; projects[field_validation][version] = 2.0-beta2
+; projects[field_validation][type] = "module"
+; projects[double_field][version] = 2.0-rc1
+; projects[double_field][type] = "module"
 
 ; projects[om_crew_connect][version] = 2.0-beta3
 ; projects[om_crew_connect][type] = "module"
@@ -1445,8 +1445,8 @@ projects[multiselect][type] = "module"
 
 projects[xmlsitemap][version] = 2.x-dev
 projects[xmlsitemap][type] = "module"
-projects[google_image_sitemap][version] = 1.1
-projects[google_image_sitemap][type] = "module"
+; projects[google_image_sitemap][version] = 1.1
+; projects[google_image_sitemap][type] = "module"
 
 projects[workbench][version] = 1.1
 projects[workbench][type] = "module"
@@ -1493,8 +1493,8 @@ projects[sky][version] = 3.0-rc1
 projects[sky][type] = "theme"
 projects[at-commerce][version] = 3.0-rc1
 projects[at-commerce][type] = "theme"
-projects[storefront][version] = 1.2
-projects[storefront][type] = "theme"
+; projects[storefront][version] = 1.2
+; projects[storefront][type] = "theme"
 
 ; projects[nucleus][version] = 1.1-beta3
 ; projects[nucleus][type] = "theme"
