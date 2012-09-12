@@ -40,11 +40,11 @@ projects[pressflow][download][url] = "git://github.com/pressflow/7.git"
 ; Modules
 ; --------
 
-; projects[module_filter][version] = 1.7
-; projects[module_filter][type] = "module"
+projects[module_filter][version] = 1.7
+projects[module_filter][type] = "module"
 
-; projects[javascript_libraries][version] = 1.0-rc6
-; projects[javascript_libraries][type] = "module"
+projects[javascript_libraries][version] = 1.0-rc6
+projects[javascript_libraries][type] = "module"
 
 projects[content_access][version] = 1.2-beta1
 projects[content_access][type] = "module"
@@ -56,16 +56,16 @@ projects[admin_views][version] = 1.0
 projects[admin_views][type] = "module"
 projects[admin_tools][version] = 1.1
 projects[admin_tools][type] = "module"
-; projects[wm][version] = 1.6
-; projects[wm][type] = "module"
+projects[wm][version] = 1.6
+projects[wm][type] = "module"
 projects[admin_menu][version] = 3.0-rc1
 projects[admin_menu][type] = "module"
 
 ; projects[fit_text][version] = 1.0
 ; projects[fit_text][type] = "module"
 
-; projects[itoggle][version] = 2.3
-; projects[itoggle][type] = "module"
+projects[itoggle][version] = 2.3
+projects[itoggle][type] = "module"
 
 projects[options_element][version] = 1.7
 projects[options_element][type] = "module"
@@ -230,8 +230,8 @@ projects[link][version] = 1.0
 projects[link][type] = "module"
 projects[nodereference_url][version] = 1.12
 projects[nodereference_url][type] = "module"
-; projects[autocreate][version] = 1.0
-; projects[autocreate][type] = "module"
+projects[autocreate][version] = 1.0
+projects[autocreate][type] = "module"
 
 
 projects[node_embed][version] = 1.0-rc2
@@ -285,12 +285,11 @@ projects[nodequeue][type] = "module"
 ; projects[og_role_field][type] = "module"
 ; projects[og_extras][version] = 1.1
 ; projects[og_extras][type] = "module"
+; projects[advanced_forum][version] = 2.0
+; projects[advanced_forum][type] = "module"
 
 projects[me][version] = 1.1
 projects[me][type] = "module"
-
-; projects[advanced_forum][version] = 2.0
-; projects[advanced_forum][type] = "module"
 
 projects[arrange_fields][version] = 1.9
 projects[arrange_fields][type] = "module"
@@ -417,8 +416,8 @@ projects[toc_filter][type] = "module"
 ; projects[comment_abuse][type] = "module"
 ; projects[queue_mail][version] = 1.0
 ; projects[queue_mail][type] = "module"
-; projects[bestreply][version] = 1.2
-; projects[bestreply][type] = "module"
+projects[bestreply][version] = 1.2
+projects[bestreply][type] = "module"
 projects[message][version] = 1.x-dev
 projects[message][type] = "module"
 projects[message_notify][version] = 2.2
@@ -813,6 +812,8 @@ projects[openlayers][type] = "module"
 
 projects[leaflet_more_maps][version] = 1.0
 projects[leaflet_more_maps][type] = "module"
+projects[leaflet_markercluster][version] = 1.x-dev
+projects[leaflet_markercluster][type] = "module"
 projects[leaflet][version] = 1.0-beta1
 projects[leaflet][type] = "module"
 
@@ -915,8 +916,8 @@ projects[schema][type] = "module"
 ; projects[boost_expire][type] = "module"
 ; projects[cdn][version] = 2.5
 ; projects[cdn][type] = "module"
-; projects[expire][version] = 1.0-alpha3
-; projects[expire][type] = "module"
+projects[expire][version] = 1.0-alpha3
+projects[expire][type] = "module"
 ; projects[purge][version] = 1.5-rc1
 ; projects[purge][type] = "module"
 
