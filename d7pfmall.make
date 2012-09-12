@@ -609,17 +609,17 @@ projects[imagecache_actions][version] = 1.x-dev
 projects[imagecache_actions][type] = "module"
 projects[imagecache_profiles][version] = 1.0
 projects[imagecache_profiles][type] = "module"
-projects[image_style_quality][version] = 1.1
-projects[image_style_quality][type] = "module"
+; projects[image_style_quality][version] = 1.1
+; projects[image_style_quality][type] = "module"
 ; projects[imagecache_external][version] = 2.0-beta1
 ; projects[imagecache_external][type] = "module"
 
-projects[insert][version] = 1.1
-projects[insert][type] = "module"
-projects[invite][version] = 2.1-beta2
-projects[invite][type] = "module"
-projects[job_scheduler][version] = 2.0-alpha2
-projects[job_scheduler][type] = "module"
+; projects[insert][version] = 1.1
+; projects[insert][type] = "module"
+; projects[invite][version] = 2.1-beta2
+; projects[invite][type] = "module"
+; projects[job_scheduler][version] = 2.0-alpha2
+; projects[job_scheduler][type] = "module"
 
 projects[jquery_ui][version] = 1.x-dev
 projects[jquery_ui][type] = "module"
@@ -629,14 +629,14 @@ projects[touch_icons][type] = "module"
 ; projects[jquerymobile][version] = 2.0-beta1
 ; projects[jquerymobile][type] = "module"
 
-projects[jquery_twitter_search][version] = 1.0
-projects[jquery_twitter_search][type] = "module"
-projects[twitter_pull][version] = 1.0-rc2
-projects[twitter_pull][type] = "module"
-projects[twitter_db][version] = 1.0-rc2
-projects[twitter_db][type] = "module"
-projects[twitter][version] = 3.2
-projects[twitter][type] = "module"
+; projects[jquery_twitter_search][version] = 1.0
+; projects[jquery_twitter_search][type] = "module"
+; projects[twitter_pull][version] = 1.0-rc2
+; projects[twitter_pull][type] = "module"
+; projects[twitter_db][version] = 1.0-rc2
+; projects[twitter_db][type] = "module"
+; projects[twitter][version] = 3.2
+; projects[twitter][type] = "module"
 
 
 ; projects[jquerymobile_ui][version] = 1.x-dev
@@ -645,10 +645,10 @@ projects[twitter][type] = "module"
 ; projects[ga_jquerymobile][version] = 1.0
 ; projects[ga_jquerymobile][type] = "module"
 
-projects[mobile_tools][version] = 2.x-dev
-projects[mobile_tools][type] = "module"
-projects[browscap][version] = 1.3
-projects[browscap][type] = "module"
+; projects[mobile_tools][version] = 2.x-dev
+; projects[mobile_tools][type] = "module"
+; projects[browscap][version] = 1.3
+; projects[browscap][type] = "module"
 
 ; projects[views_jqm][version] = 1.0
 ; projects[views_jqm][type] = "module"
@@ -656,15 +656,14 @@ projects[views_supertable][version] = 1.1
 projects[views_supertable][type] = "module"
 projects[views_dataviz][version] = 1.0-alpha3
 projects[views_dataviz][type] = "module"
-projects[highcharts][version] = 1.0-alpha6
-projects[highcharts][type] = "module"
+; projects[highcharts][version] = 1.0-alpha6
+; projects[highcharts][type] = "module"
 
 projects[chart][version] = 1.1
 projects[chart][type] = "module"
 
 projects[google_chart_tools][version] = 1.1
 projects[google_chart_tools][type] = "module"
-
 
 
 projects[legal][version] = 1.2
@@ -722,25 +721,25 @@ projects[masquerade][type] = "module"
 
 ; projects[hansel][version] = 1.3
 ; projects[hansel][type] = "module"
-projects[similar][version] = 2.0-beta5
-projects[similar][type] = "module"
+; projects[similar][version] = 2.0-beta5
+; projects[similar][type] = "module"
 
-projects[mediaelement][version] = 1.2
-projects[mediaelement][type] = "module"
-projects[html5_media][version] = 1.0
-projects[html5_media][type] = "module"
-projects[mediafront][version] = 2.x-dev
-projects[mediafront][type] = "module"
+; projects[mediaelement][version] = 1.2
+; projects[mediaelement][type] = "module"
+; projects[html5_media][version] = 1.0
+; projects[html5_media][type] = "module"
+; projects[mediafront][version] = 2.x-dev
+; projects[mediafront][type] = "module"
 
-projects[block_titlelink][version] = 1.3
-projects[block_titlelink][type] = "module"
-projects[floating_block][version] = 1.1
-projects[floating_block][type] = "module"
+; projects[block_titlelink][version] = 1.3
+; projects[block_titlelink][type] = "module"
+; projects[floating_block][version] = 1.1
+; projects[floating_block][type] = "module"
 
 projects[menu_block][version] = 2.3
 projects[menu_block][type] = "module"
-projects[jquerymenu][version] = 2.0-alpha5
-projects[jquerymenu][type] = "module"
+; projects[jquerymenu][version] = 2.0-alpha5
+; projects[jquerymenu][type] = "module"
 
 projects[accordion_menu][version] = 1.1
 projects[accordion_menu][type] = "module"
@@ -795,18 +794,18 @@ projects[subs][type] = "module"
 ; projects[omega_tools][version] = 3.0-rc4
 ; projects[omega_tools][type] = "module"
 
-projects[cm_slideshow][version] = 1.0-beta1
-projects[cm_slideshow][type] = "module"
+; projects[cm_slideshow][version] = 1.0-beta1
+; projects[cm_slideshow][type] = "module"
 
-projects[monster_menus][version] = 1.7
-projects[monster_menus][type] = "module"
-projects[om_maximenu][version] = 1.43
-projects[om_maximenu][type] = "module"
-projects[om_tools][version] = 2.13
-projects[om_tools][type] = "module"
+; projects[monster_menus][version] = 1.7
+; projects[monster_menus][type] = "module"
+; projects[om_maximenu][version] = 1.43
+; projects[om_maximenu][type] = "module"
+; projects[om_tools][version] = 2.13
+; projects[om_tools][type] = "module"
 
-projects[galleria][version] = 1.0-beta3
-projects[galleria][type] = "module"
+; projects[galleria][version] = 1.0-beta3
+; projects[galleria][type] = "module"
 
 
 projects[openlayers][version] = 2.0-beta1
@@ -888,8 +887,8 @@ projects[realname][version] = 1.0
 projects[realname][type] = "module"
 projects[realname_registration][version] = 2.0-rc2
 projects[realname_registration][type] = "module"
-projects[ajax_register][version] = 4.0-rc9
-projects[ajax_register][type] = "module"
+; projects[ajax_register][version] = 4.0-rc9
+; projects[ajax_register][type] = "module"
 
 ; projects[resp_img][version] = 1.3
 ; projects[resp_img][type] = "module"
@@ -967,17 +966,17 @@ projects[fast_404][type] = "module"
 
 projects[remember_me][version] = 1.0
 projects[remember_me][type] = "module"
-projects[securepages][version] = 1.x-dev
-projects[securepages][type] = "module"
-projects[security_review][version] = 1.0
-projects[security_review][type] = "module"
-projects[password_policy][version] = 1.2
-projects[password_policy][type] = "module"
+; projects[securepages][version] = 1.x-dev
+; projects[securepages][type] = "module"
+; projects[security_review][version] = 1.0
+; projects[security_review][type] = "module"
+; projects[password_policy][version] = 1.2
+; projects[password_policy][type] = "module"
 ; projects[encrypt_submissions][version] = 1.1
 ; projects[encrypt_submissions][type] = "module"
 
-projects[seckit][version] = 1.4
-projects[seckit][type] = "module"
+; projects[seckit][version] = 1.4
+; projects[seckit][type] = "module"
 projects[simplenews][version] = 1.0
 projects[simplenews][type] = "module"
 projects[site_map][version] = 1.x-dev
@@ -986,8 +985,8 @@ projects[shorten][version] = 1.x-dev
 projects[shorten][type] = "module"
 projects[site_verify][version] = 1.x-dev
 projects[site_verify][type] = "module"
-projects[skinr][version] = 2.0-beta1
-projects[skinr][type] = "module"
+; projects[skinr][version] = 2.0-beta1
+; projects[skinr][type] = "module"
 ; projects[fusion_accelerator][version] = 2.x-dev
 ; projects[fusion_accelerator][type] = "module"
 
