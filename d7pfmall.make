@@ -718,8 +718,8 @@ projects[masquerade][type] = "module"
 ; projects[similar][version] = 2.0-beta5
 ; projects[similar][type] = "module"
 
-; projects[mediaelement][version] = 1.2
-; projects[mediaelement][type] = "module"
+projects[mediaelement][version] = 1.x-dev
+projects[mediaelement][type] = "module"
 ; projects[html5_media][version] = 1.0
 ; projects[html5_media][type] = "module"
 ; projects[mediafront][version] = 2.x-dev
@@ -1143,8 +1143,8 @@ projects[domwindow][type] = "module"
 projects[epsacrop][version] = 2.2
 projects[epsacrop][type] = "module"
 
-; projects[file_entity][version] = 2.0-unstable6
-; projects[file_entity][type] = "module"
+projects[file_entity][version] = 2.0-unstable6
+projects[file_entity][type] = "module"
 
 projects[filepicker][version] = 1.4
 projects[filepicker][type] = "module"
@@ -1186,8 +1186,8 @@ projects[http_client][type] = "module"
 
 projects[media][version] = 1.2
 projects[media][type] = "module"
-projects[media_browser_plus][version] = 1.0-beta3
-projects[media_browser_plus][type] = "module"
+; projects[media_browser_plus][version] = 1.0-beta3
+; projects[media_browser_plus][type] = "module"
 projects[media_colorbox][version] = 1.0-rc2
 projects[media_colorbox][type] = "module"
 projects[media_youtube][version] = 1.0-beta3
