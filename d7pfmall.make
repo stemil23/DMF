@@ -1614,7 +1614,7 @@ libraries[colorbox][destination] = "libraries"
 ; BadBehaviour
 libraries[badbehavior][download][type]= "get"
 libraries[badbehavior][download][url] = "http://downloads.wordpress.org/plugin/bad-behavior.2.2.10.zip"
-libraries[badbehavior][directory_name] = "badbehavior"
+libraries[badbehavior][directory_name] = "bad-behavior"
 libraries[badbehavior][destination] = "libraries"
 
 
