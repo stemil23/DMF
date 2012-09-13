@@ -1,9 +1,4 @@
-; Generated makefile from http://drushmake.me
-; Permanent URL: http://drushmake.me/file.php?token=5564cbd6480e
-; ----------------
-;
-; This is a working makefile - try it! Any line starting with a `;` is a comment.
-  
+
 ; Core version
 ; ------------
 ; Each makefile should begin by declaring the core version of Drupal that all
@@ -410,10 +405,10 @@ projects[toc_filter][type] = "module"
 ; projects[drupal_ipsum][version] = 2.0
 ; projects[drupal_ipsum][type] = "module"
 
-; projects[comment_notify][version] = 1.1
-; projects[comment_notify][type] = "module"
-; projects[comment_abuse][version] = 2.0
-; projects[comment_abuse][type] = "module"
+projects[comment_notify][version] = 1.1
+projects[comment_notify][type] = "module"
+projects[comment_abuse][version] = 2.0
+projects[comment_abuse][type] = "module"
 ; projects[queue_mail][version] = 1.0
 ; projects[queue_mail][type] = "module"
 projects[bestreply][version] = 1.2
@@ -559,7 +554,7 @@ projects[captcha_after][version] = 1.1
 projects[captcha_after][type] = "module"
 projects[antispam][version] = 1.4
 projects[antispam][type] = "module"
-projects[badbehavior][version] = 2.227
+projects[badbehavior][version] = 2.2210
 projects[badbehavior][type] = "module"
 
 
@@ -608,17 +603,17 @@ projects[imagecache_actions][version] = 1.x-dev
 projects[imagecache_actions][type] = "module"
 projects[imagecache_profiles][version] = 1.0
 projects[imagecache_profiles][type] = "module"
-; projects[image_style_quality][version] = 1.1
-; projects[image_style_quality][type] = "module"
+projects[image_style_quality][version] = 1.1
+projects[image_style_quality][type] = "module"
 ; projects[imagecache_external][version] = 2.0-beta1
 ; projects[imagecache_external][type] = "module"
 
-; projects[insert][version] = 1.1
-; projects[insert][type] = "module"
-; projects[invite][version] = 2.1-beta2
-; projects[invite][type] = "module"
-; projects[job_scheduler][version] = 2.0-alpha2
-; projects[job_scheduler][type] = "module"
+projects[insert][version] = 1.1
+projects[insert][type] = "module"
+projects[invite][version] = 2.1-beta2
+projects[invite][type] = "module"
+projects[job_scheduler][version] = 2.0-alpha2
+projects[job_scheduler][type] = "module"
 
 projects[jquery_ui][version] = 1.x-dev
 projects[jquery_ui][type] = "module"
@@ -678,7 +673,7 @@ projects[lexicon][type] = "module"
 ; projects[locationmap][type] = "module"
 ; projects[gmap][version] = 1.x-dev
 ; projects[gmap][type] = "module"
-projects[ip_geoloc][version] = 1.16
+projects[ip_geoloc][version] = 1.17
 projects[ip_geoloc][type] = "module"
 
 
@@ -730,10 +725,10 @@ projects[masquerade][type] = "module"
 ; projects[mediafront][version] = 2.x-dev
 ; projects[mediafront][type] = "module"
 
-; projects[block_titlelink][version] = 1.3
-; projects[block_titlelink][type] = "module"
-; projects[floating_block][version] = 1.1
-; projects[floating_block][type] = "module"
+projects[block_titlelink][version] = 1.3
+projects[block_titlelink][type] = "module"
+projects[floating_block][version] = 1.1
+projects[floating_block][type] = "module"
 
 projects[menu_block][version] = 2.3
 projects[menu_block][type] = "module"
@@ -769,8 +764,7 @@ projects[tagging][type] = "module"
 ; projects[schemaorg][type] = "module"
 
 
-; projects[mix_and_match][version] = 1.x-dev
-; projects[mix_and_match][type] = "module"
+
 projects[modernizr][version] = 2.1
 projects[modernizr][type] = "module"
 ; projects[module_builder][version] = 2.x-dev
@@ -803,8 +797,8 @@ projects[subs][type] = "module"
 ; projects[om_tools][version] = 2.13
 ; projects[om_tools][type] = "module"
 
-; projects[galleria][version] = 1.0-beta3
-; projects[galleria][type] = "module"
+projects[galleria][version] = 1.0-beta3
+projects[galleria][type] = "module"
 
 
 projects[openlayers][version] = 2.0-beta1
@@ -832,7 +826,7 @@ projects[geofield][type] = "module"
 projects[geocoder][version] = 1.2
 projects[geocoder][type] = "module"
 
-projects[geophp][version] = 1.6
+projects[geophp][version] = 1.x-dev
 projects[geophp][type] = "module"
 
 projects[themekey][version] = 2.3
@@ -918,8 +912,8 @@ projects[schema][type] = "module"
 ; projects[cdn][type] = "module"
 projects[expire][version] = 1.0-alpha3
 projects[expire][type] = "module"
-; projects[purge][version] = 1.5-rc1
-; projects[purge][type] = "module"
+projects[purge][version] = 1.5-rc1
+projects[purge][type] = "module"
 
 
 ; projects[storage_api][version] = 1.2
@@ -951,7 +945,7 @@ projects[search404][type] = "module"
 ; projects[search_config][type] = "module"
 ; projects[custom_search][version] = 1.1
 ; projects[custom_search][type] = "module"
-projects[search_autocomplete][version] = 3.0-rc3
+projects[search_autocomplete][version] = 3.0-rc4
 projects[search_autocomplete][type] = "module"
 ; projects[search_api][version] = 1.2
 ; projects[search_api][type] = "module"
@@ -1005,7 +999,7 @@ projects[submenutree][type] = "module"
 projects[superfish][version] = 1.9-beta4
 projects[superfish][type] = "module"
 
-projects[token][version] = 1.2
+projects[token][version] = 1.3
 projects[token][type] = "module"
 projects[transliteration][version] = 3.1
 projects[transliteration][type] = "module"
@@ -1056,7 +1050,7 @@ projects[page_title][type] = "module"
 ; projects[tweet][version] = 4.4
 ; projects[tweet][type] = "module"
 
-projects[styles][version] = 2.x-dev
+projects[styles][version] = 2.0-alpha8
 projects[styles][type] = "module"
 projects[style_usage][version] = 1.0
 projects[style_usage][type] = "module"
@@ -1320,8 +1314,8 @@ projects[views_rss][version] = 2.0-rc1
 projects[views_rss][type] = "module"
 projects[views_bulk_operations][version] = 3.0-rc1
 projects[views_bulk_operations][type] = "module"
-projects[views_boxes][version] = 1.0-beta8
-projects[views_boxes][type] = "module"
+; projects[views_boxes][version] = 1.0-beta8
+; projects[views_boxes][type] = "module"
 projects[views_puc][version] = 3.0
 projects[views_puc][type] = "module"
 projects[views_table_highlighter][version] = 1.1
@@ -1516,8 +1510,8 @@ projects[storefront][type] = "theme"
 ; projects[ninesixty][type] = "theme"
 ; projects[nitobe][version] = "2.0-beta1"
 ; projects[nitobe][type] = "theme"
-; projects[omega][version] = "3.1"
-; projects[omega][type] = "theme"
+projects[omega][version] = "3.1"
+projects[omega][type] = "theme"
 ; projects[cm_theme][version] = 1.0-alpha1
 ; projects[cm_theme][type] = "theme"
 
@@ -1546,8 +1540,8 @@ projects[skeletontheme][type] = "theme"
 ; projects[blacksea][type] = "theme"
 ; projects[profolio][version] = 1.0
 ; projects[profolio][type] = "theme"
-; projects[business][version] = 1.8
-; projects[business][type] = "theme"
+projects[business][version] = 1.8
+projects[business][type] = "theme"
 ; projects[busy][version] = 1.5
 ; projects[busy][type] = "theme"
 ; projects[alloy][version] = 1.0
@@ -1621,7 +1615,7 @@ libraries[colorbox][destination] = "libraries"
 
 ; BadBehaviour
 libraries[badbehavior][download][type]= "get"
-libraries[badbehavior][download][url] = "http://downloads.wordpress.org/plugin/bad-behavior.2.2.5.zip"
+libraries[badbehavior][download][url] = "http://downloads.wordpress.org/plugin/bad-behavior.2.2.10.zip"
 libraries[badbehavior][directory_name] = "badbehavior"
 libraries[badbehavior][destination] = "libraries"
 
@@ -1645,10 +1639,10 @@ libraries[json2][directory_name] = "json2"
 libraries[json2][destination] = "libraries"
 
 ; Plupload
-; libraries[plupload][download][type] = "get"
-; libraries[plupload][download][url] = "https://github.com/downloads/moxiecode/plupload/plupload_1_5_2.zip"
-; libraries[plupload][directory_name] = "plupload"
-; libraries[plupload][destination] = "libraries"
+libraries[plupload][download][type] = "get"
+libraries[plupload][download][url] = "https://github.com/downloads/moxiecode/plupload/plupload_1_5_2.zip"
+libraries[plupload][directory_name] = "plupload"
+libraries[plupload][destination] = "libraries"
 
 ; TinyMCE
 ; libraries[tinymce][download][type] = "git"
@@ -1662,11 +1656,11 @@ libraries[openlayers][download][url] = "http://openlayers.org/download/OpenLayer
 libraries[openlayers][directory_name] = "openlayers"
 libraries[openlayers][destination] = "libraries"
 
-; geoPHP
-; libraries[geophp][download][type] = "git"
-; libraries[geophp][download][url] = "https://github.com/phayes/geoPHP.git"
-; libraries[geophp][directory_name] = "geoPHP"
-; libraries[geophp][destination] = "libraries"
+; leaflet_markercluster
+libraries[leaflet_markercluster][download][type] = "git"
+libraries[leaflet_markercluster][download][url] = "https://github.com/danzel/Leaflet.markercluster.git"
+libraries[leaflet_markercluster][directory_name] = "leaflet_markercluster"
+libraries[leaflet_markercluster][destination] = "libraries"
 
 ; Modernizr - prob create custom build and gork on my github if decide required
 libraries[modernizr][download][type] = "get"
@@ -1719,15 +1713,15 @@ libraries[itoggle][directory_name] = "itoggle"
 libraries[itoggle][destination] = "libraries"
 
 ; FlexSlider
-; libraries[flexslider][download][type] = "git"
-; libraries[flexslider][download][url] = "https://github.com/woothemes/FlexSlider.git"
-; libraries[flexslider][directory_name] = "flexslider"
-; libraries[flexslider][destination] = "libraries"
+libraries[flexslider][download][type] = "git"
+libraries[flexslider][download][url] = "https://github.com/woothemes/FlexSlider.git"
+libraries[flexslider][directory_name] = "flexslider"
+libraries[flexslider][destination] = "libraries"
 
 ;getLocationsMarkers
-; libraries[glmarkers][download][type] = "get"
-; libraries[glmarkers][download][url] = "http://dl.dropbox.com/u/41489105/Drupal/getlocations/getlocations-markers.zip"
-; libraries[glmarkers][destination] = "libraries"
+libraries[glmarkers][download][type] = "get"
+libraries[glmarkers][download][url] = "http://dl.dropbox.com/u/41489105/Drupal/getlocations/getlocations-markers.zip"
+libraries[glmarkers][destination] = "libraries"
 
 ;PoshyTip
 ; libraries[poshytip][download][type] = "get"
