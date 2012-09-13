@@ -53,7 +53,7 @@ projects[admin_tools][version] = 1.1
 projects[admin_tools][type] = "module"
 projects[wm][version] = 1.6
 projects[wm][type] = "module"
-projects[admin_menu][version] = 3.0-rc3
+projects[admin_menu][version] = 3.x-dev
 projects[admin_menu][type] = "module"
 
 ; projects[fit_text][version] = 1.0
@@ -203,8 +203,7 @@ projects[geo_filter][type] = "module"
 
 projects[field_group][version] = 1.x-dev
 projects[field_group][type] = "module"
-; projects[fieldgroup_menu][version] = 1.0-alpha1
-; projects[fieldgroup_menu][type] = "module"
+
 projects[field_permissions][version] = 1.0-beta2
 projects[field_permissions][type] = "module"
 projects[user_role_field][version] = 1.0
@@ -903,8 +902,8 @@ projects[schema][type] = "module"
 
 ; projects[core_library][version] = 2.0-beta2
 ; projects[core_library][type] = "module"
-; projects[boost][version] = 1.0-beta2
-; projects[boost][type] = "module"
+projects[boost][version] = 1.0-beta2
+projects[boost][type] = "module"
 ; projects[boost_expire][version] = 1.1
 ; projects[boost_expire][type] = "module"
 ; projects[cdn][version] = 2.5
@@ -1162,8 +1161,8 @@ projects[follow][type] = "module"
 
 ; projects[fblikebutton][version] = 2.0
 ; projects[fblikebutton][type] = "module"
-; projects[facebook_rules][version] = 1.3
-; projects[facebook_rules][type] = "module"
+projects[facebook_rules][version] = 1.3
+projects[facebook_rules][type] = "module"
 
 projects[oauth][version] = 3.x-dev
 projects[oauth][type] = "module"
