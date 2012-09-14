@@ -62,8 +62,8 @@ projects[admin_menu][type] = "module"
 projects[itoggle][version] = 2.3
 projects[itoggle][type] = "module"
 
-projects[options_element][version] = 1.8
-projects[options_element][type] = "module"
+; projects[options_element][version] = 1.8
+; projects[options_element][type] = "module"
 
 projects[commerce][version] = 1.x-dev
 projects[commerce][type] = "module"
