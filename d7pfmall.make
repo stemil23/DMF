@@ -525,12 +525,12 @@ projects[google_analytics][type] = "module"
 ; projects[google_plusone][version] = "1.x-dev"
 ; projects[google_plusone][type] = "module"
 
-projects[dfp][version] = 1.0-rc2
-projects[dfp][type] = "module"
-projects[exportable_scheduler][version] = 1.0
-projects[exportable_scheduler][type] = "module"
-projects[adsense][version] = 1.0
-projects[adsense][type] = "module"
+; projects[dfp][version] = 1.0-rc2
+; projects[dfp][type] = "module"
+; projects[exportable_scheduler][version] = 1.0
+; projects[exportable_scheduler][type] = "module"
+; projects[adsense][version] = 1.0
+; projects[adsense][type] = "module"
 
 
 
