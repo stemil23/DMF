@@ -1305,13 +1305,13 @@ projects[wysiwyg][type] = "module"
 
 ; projects[blockcache_alter][version] = 1.0
 ; projects[blockcache_alter][type] = "module"
-; projects[ajaxblocks][version] = 1.3
-; projects[ajaxblocks][type] = "module"
+projects[ajaxblocks][version] = 1.3
+projects[ajaxblocks][type] = "module"
 ; projects[peekaboo][version] = 2.0
 ; projects[peekaboo][type] = "module"
 
-; projects[unique_field][version] = 1.0-rc1
-; projects[unique_field][type] = "module"
+projects[unique_field][version] = 1.0-rc1
+projects[unique_field][type] = "module"
 
 projects[views][version] = 3.5
 projects[views][type] = "module"
@@ -1577,8 +1577,8 @@ projects[business][type] = "theme"
 ; projects[company][type] = "theme"
 
 
-projects[fusion][version] = 2.0-beta2
-projects[fusion][type] = "theme"
+; projects[fusion][version] = 2.0-beta2
+; projects[fusion][type] = "theme"
 
 ; projects[html5_base][version] = "2.x-dev"
 ; projects[html5_base][type] = "theme"
