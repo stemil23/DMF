@@ -408,8 +408,8 @@ projects[comment_notify][version] = 1.1
 projects[comment_notify][type] = "module"
 projects[comment_abuse][version] = 2.0
 projects[comment_abuse][type] = "module"
-projects[comment_easy_reply][version] = 1.3
-projects[comment_easy_reply][type] = "module"
+; projects[comment_easy_reply][version] = 1.3
+; projects[comment_easy_reply][type] = "module"
 ; projects[queue_mail][version] = 1.0
 ; projects[queue_mail][type] = "module"
 projects[bestreply][version] = 1.3
@@ -1336,8 +1336,8 @@ projects[views_tree][type] = "module"
 projects[draggableviews][version] = 2.0
 projects[draggableviews][type] = "module"
 
-projects[views_expost][version] = 1.0
-projects[views_expost][type] = "module"
+; projects[views_expost][version] = 1.0
+; projects[views_expost][type] = "module"
 
 projects[views_fluid_grid][version] = 3.0
 projects[views_fluid_grid][type] = "module"
