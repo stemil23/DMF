@@ -62,7 +62,7 @@ projects[admin_menu][type] = "module"
 projects[itoggle][version] = 2.3
 projects[itoggle][type] = "module"
 
-projects[options_element][version] = 1.7
+projects[options_element][version] = 1.8
 projects[options_element][type] = "module"
 
 projects[commerce][version] = 1.x-dev
@@ -408,6 +408,8 @@ projects[comment_notify][version] = 1.1
 projects[comment_notify][type] = "module"
 projects[comment_abuse][version] = 2.0
 projects[comment_abuse][type] = "module"
+projects[comment_easy_reply][version] = 1.3
+projects[comment_easy_reply][type] = "module"
 ; projects[queue_mail][version] = 1.0
 ; projects[queue_mail][type] = "module"
 projects[bestreply][version] = 1.3
@@ -522,8 +524,15 @@ projects[google_analytics][type] = "module"
 
 ; projects[google_plusone][version] = "1.x-dev"
 ; projects[google_plusone][type] = "module"
-; projects[adsense][version] = 1.0
-; projects[adsense][type] = "module"
+
+projects[dfp][version] = 1.0-rc2
+projects[dfp][type] = "module"
+projects[exportable_scheduler][version] = 1.0
+projects[exportable_scheduler][type] = "module"
+projects[adsense][version] = 1.0
+projects[adsense][type] = "module"
+
+
 
 ; projects[google_fonts][version] = 2.3
 ; projects[google_fonts][type] = "module"
@@ -1220,8 +1229,8 @@ projects[media_crop][type] = "module"
 projects[path_alias_xt][version] = 1.x-dev
 projects[path_alias_xt][type] = "module"
 
-; projects[better_exposed_filters][version] = 3.x-dev
-; projects[better_exposed_filters][type] = "module"menu
+projects[better_exposed_filters][version] = 3.0-beta2
+projects[better_exposed_filters][type] = "module"menu
 
 projects[plupload][version] = 1.x-dev
 projects[plupload][type] = "module"
@@ -1326,6 +1335,9 @@ projects[views_tree][version] = 2.0
 projects[views_tree][type] = "module"
 projects[draggableviews][version] = 2.0
 projects[draggableviews][type] = "module"
+
+projects[views_expost][version] = 1.0
+projects[views_expost][type] = "module"
 
 projects[views_fluid_grid][version] = 3.0
 projects[views_fluid_grid][type] = "module"
