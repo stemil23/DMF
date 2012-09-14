@@ -1229,8 +1229,8 @@ projects[media_crop][type] = "module"
 projects[path_alias_xt][version] = 1.x-dev
 projects[path_alias_xt][type] = "module"
 
-projects[better_exposed_filters][version] = 3.0-beta2
-projects[better_exposed_filters][type] = "module"menu
+; projects[better_exposed_filters][version] = 3.0-beta2
+; projects[better_exposed_filters][type] = "module"menu
 
 projects[plupload][version] = 1.x-dev
 projects[plupload][type] = "module"
