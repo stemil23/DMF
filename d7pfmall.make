@@ -834,6 +834,9 @@ projects[geocoder][type] = "module"
 projects[geophp][version] = 1.x-dev
 projects[geophp][type] = "module"
 
+projects[views_geojson][version] = 1.x-dev
+projects[views_geojson][type] = "module"
+
 projects[themekey][version] = 2.3
 projects[themekey][type] = "module"
 
@@ -1314,6 +1317,9 @@ projects[scroll_to_top][type] = "module"
 projects[wysiwyg][version] = 2.1
 projects[wysiwyg][type] = "module"
 
+projects[htmlpurifier][version] = 1.0-rc1
+projects[htmlpurifier][type] = "module"
+
 ; projects[ua_cache_bypass][version] = 1.0
 ; projects[ua_cache_bypass][type] = "module"
 
@@ -1333,7 +1339,7 @@ projects[views_hacks][version] = 1.0-alpha1
 projects[views_hacks][type] = "module"
 projects[views_rss][version] = 2.0-rc3
 projects[views_rss][type] = "module"
-projects[views_bulk_operations][version] = 3.0-rc1
+projects[views_bulk_operations][version] = 3.0
 projects[views_bulk_operations][type] = "module"
 ; projects[views_boxes][version] = 1.0-beta8
 ; projects[views_boxes][type] = "module"
@@ -1536,6 +1542,8 @@ projects[storefront][type] = "theme"
 ; projects[nitobe][type] = "theme"
 projects[omega][version] = "3.1"
 projects[omega][type] = "theme"
+projects[omega_kickstart][version] = "3.0-beta2"
+projects[omega_kickstart][type] = "theme"
 ; projects[cm_theme][version] = 1.0-alpha1
 ; projects[cm_theme][type] = "theme"
 
@@ -1545,7 +1553,7 @@ projects[omega][type] = "theme"
 ; projects[rubik][type] = "theme"
 ; projects[fubik][version] = 1.22
 ; projects[fubik][type] = "theme"
-; projects[bh_bootstrap][version] = 2.0
+; projects[bh_bootstrap][version] = 2.1
 ; projects[bh_bootstrap][type] = "theme"
 ; projects[sky][version] = "2.2"
 ; projects[sky][type] = "theme"
@@ -1754,6 +1762,13 @@ libraries[glmarkers][destination] = "libraries"
 ; libraries[poshytip][destination] = "libraries"
 
 
+;htmlpurifier
+libraries[htmlpurifier][download][type] = "get"
+libraries[htmlpurifier][download][url] = "http://htmlpurifier.org/releases/htmlpurifier-4.4.0.zip"
+libraries[htmlpurifier][directory_name] = "htmlpurifier"
+libraries[htmlpurifier][destination] = "libraries"
+
+
 ; BeforeAfter
 ; libraries[beforeafter][download][type] = "get"
 ; libraries[beforeafter][download][url] = "http://www.catchmyfame.com/jquery/beforeafter.zip"
@@ -1779,6 +1794,6 @@ libraries[domwindow][destination] = "libraries"
 
 ;BOOTstrap
 ; libraries[bootstrap][download][type] = "git"
-; libraries[bootstrap][download][url] = "https://github.com/twitter/bootstrap.git"
+; libraries[bootstrap][download][url] = "http://twitter.github.com/bootstrap/assets/bootstrap.zip"
 ; libraries[bootstrap][directory_name] = "bootstrap"
 ; libraries[bootstrap][destination] = "libraries"
