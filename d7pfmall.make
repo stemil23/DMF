@@ -635,7 +635,7 @@ projects[touch_icons][type] = "module"
 ; projects[twitter_pull][type] = "module"
 ; projects[twitter_db][version] = 1.0-rc2
 ; projects[twitter_db][type] = "module"
-projects[twitter][version] = 3.2
+projects[twitter][version] = 3.x-dev
 projects[twitter][type] = "module"
 
 
@@ -758,6 +758,8 @@ projects[menu_badges][type] = "module"
 projects[link_badges][version] = 1.1
 projects[link_badges][type] = "module"
 
+projects[skype_status][version] = 1.1
+projects[skype_status][type] = "module"
 
 projects[messaging][version] = 1.0-alpha2
 projects[messaging][type] = "module"
@@ -1071,7 +1073,7 @@ projects[linkit][type] = "module"
 projects[linkit_views][version] = 1.2
 projects[linkit_views][type] = "module"
 
-projects[pathologic][version] = 2.2
+projects[pathologic][version] = 2.3
 projects[pathologic][type] = "module"
 
 projects[textualizer][version] = 1.0
@@ -1411,7 +1413,7 @@ projects[best_answer][version] = 3.x-dev
 projects[best_answer][type] = "module"
 
 
-projects[webform][version] = 3.18
+projects[webform][version] = 3.x-dev
 projects[webform][type] = "module"
 projects[webform_ajax_page][version] = 1.2
 projects[webform_ajax_page][type] = "module"
