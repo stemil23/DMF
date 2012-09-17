@@ -111,7 +111,7 @@ projects[commerce_auction][version] = 1.x-dev
 projects[commerce_auction][type] = "module"
 projects[commerce_autosku][version] = 1.1
 projects[commerce_autosku][type] = "module"
-projects[commerce_features][version] = 1.0-beta1
+projects[commerce_features][version] = 1.0-rc1
 projects[commerce_features][type] = "module"
 projects[commerce_price_table][version] = 1.1
 projects[commerce_price_table][type] = "module"
@@ -471,7 +471,7 @@ projects[entity][version] = 1.x-dev
 projects[entity][type] = "module"
 projects[entity_autocomplete][version] = 1.0-beta2
 projects[entity_autocomplete][type] = "module"
-projects[inline_entity_form][version] = 1.0-beta4
+projects[inline_entity_form][version] = 1.0-rc1
 projects[inline_entity_form][type] = "module"
 projects[entityreference][version] = 1.x-dev
 projects[entityreference][type] = "module"
@@ -504,7 +504,7 @@ projects[filefield_role_limit][version] = 1.1
 projects[filefield_role_limit][type] = "module"
 
 
-projects[flag][version] = 2.0-beta9
+projects[flag][version] = 2.0
 projects[flag][type] = "module"
 projects[front][version] = 2.1
 projects[front][type] = "module"
@@ -550,7 +550,7 @@ projects[fontyourface][type] = "module"
 projects[httpbl][version] = 1.0-rc4
 projects[httpbl][type] = "module"
 
-projects[honeypot][version] = 1.12
+projects[honeypot][version] = 1.13
 projects[honeypot][type] = "module"
 projects[captcha][version] = 1.0-beta2
 projects[captcha][type] = "module"
@@ -1026,7 +1026,7 @@ projects[views_jqfx][version] = 1.0-alpha1
 projects[views_jqfx][type] = "module"
 projects[views_arg_parent_term][version] = 1.1
 projects[views_arg_parent_term][type] = "module"
-projects[views_field_view][version] = 1.0-rc3
+projects[views_field_view][version] = 1.0
 projects[views_field_view][type] = "module"
 projects[views_content_cache][version] = 3.x-dev
 projects[views_content_cache][type] = "module"
@@ -1057,6 +1057,9 @@ projects[rules][version] = 2.2
 projects[rules][type] = "module"
 projects[page_title][version] = 2.7
 projects[page_title][type] = "module"
+
+projects[pagerer][version] = 1.0-beta2
+projects[pagerer][type] = "module"
 
 ; projects[tweet][version] = 4.4
 ; projects[tweet][type] = "module"
@@ -1358,7 +1361,7 @@ projects[views_tree][type] = "module"
 projects[draggableviews][version] = 2.0
 projects[draggableviews][type] = "module"
 
-projects[views_expost][version] = 1.0
+projects[views_expost][version] = 1.1
 projects[views_expost][type] = "module"
 
 projects[views_fluid_grid][version] = 3.0
@@ -1378,8 +1381,8 @@ projects[oembed][type] = "module"
 
 projects[views_accordion][version] = 1.0-rc2
 projects[views_accordion][type] = "module"
-; projects[global_filter][version] = 1.5
-; projects[global_filter][type] = "module"
+projects[global_filter][version] = 1.8
+projects[global_filter][type] = "module"
 ; projects[vntf][version] = 1.0-beta6
 ; projects[vntf][type] = "module"
 
