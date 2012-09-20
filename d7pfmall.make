@@ -367,6 +367,10 @@ projects[purl][type] = "module"
 ; projects[spaces][version] = 3.0-alpha1
 ; projects[spaces][type] = "module"
 
+
+; projects[tac_lite][version] = 1.0-rc2
+; projects[tac_lite][type] = "module"
+
 projects[acl][version] = 1.0
 projects[acl][type] = "module"
 projects[premium_content][version] = 1.0-beta2
@@ -412,12 +416,16 @@ projects[comment_abuse][type] = "module"
 ; projects[queue_mail][type] = "module"
 projects[bestreply][version] = 1.3
 projects[bestreply][type] = "module"
+
 projects[message][version] = 1.x-dev
 projects[message][type] = "module"
 projects[message_notify][version] = 2.2
 projects[message_notify][type] = "module"
 projects[computed_field][version] = 1.0-beta1
 projects[computed_field][type] = "module"
+
+; projects[newsletter][version] = 1.0-beta9
+; projects[newsletter][type] = "module"
 
 
 ; TO DO SELECT FINAL BREADCRUMB MODULES
@@ -461,9 +469,9 @@ projects[domain_301_redirect][version] = 1.1
 projects[domain_301_redirect][type] = "module"
 
 
-projects[dynamic_background][version] = 1.9
+projects[dynamic_background][version] = 1.10
 projects[dynamic_background][type] = "module"
-projects[bg_image][version] = 1.0-rc3
+projects[bg_image][version] = 1.0-rc4
 projects[bg_image][type] = "module"
 
 
@@ -477,7 +485,7 @@ projects[entityreference][version] = 1.x-dev
 projects[entityreference][type] = "module"
 projects[entitycache][version] = 1.x-dev
 projects[entitycache][type] = "module"
-projects[entityreference_prepopulate][version] = 1.x-dev
+projects[entityreference_prepopulate][version] = 1.1
 projects[entityreference_prepopulate][type] = "module"
 projects[entityreference_view_widget][version] = 1.x-dev
 projects[entityreference_view_widget][type] = "module"
@@ -498,7 +506,7 @@ projects[fp][type] = "module"
 
 projects[filefield_paths][version] = 1.0-beta3
 projects[filefield_paths][type] = "module"
-projects[filefield_sources][version] = 1.5
+projects[filefield_sources][version] = 1.6
 projects[filefield_sources][type] = "module"
 projects[filefield_role_limit][version] = 1.1
 projects[filefield_role_limit][type] = "module"
@@ -511,7 +519,7 @@ projects[front][type] = "module"
 
 ; projects[getid3][version] = 1.0
 ; projects[getid3][type] = "module"
-projects[redirect][version] = 1.0-beta4
+projects[redirect][version] = 1.0-rc1
 projects[redirect][type] = "module"
 projects[globalredirect][version] = 1.5
 projects[globalredirect][type] = "module"
@@ -844,6 +852,8 @@ projects[themekey][type] = "module"
 
 projects[pathauto][version] = 1.2
 projects[pathauto][type] = "module"
+projects[subpathauto][version] = 1.3
+projects[subpathauto][type] = "module"
 projects[trailing_slash][version] = 1.0
 projects[trailing_slash][type] = "module"
 
@@ -1142,7 +1152,7 @@ projects[role_theme_switcher][type] = "module"
 projects[apply_for_role][version] = 1.0-beta9
 projects[apply_for_role][type] = "module"
 
-projects[typogrify][version] = 1.0-rc4
+projects[typogrify][version] = 1.0-rc5
 projects[typogrify][type] = "module"
 
 projects[video_filter][version] = 3.0
@@ -1519,6 +1529,9 @@ projects[sky][version] = 3.0-rc1
 projects[sky][type] = "theme"
 projects[at-commerce][version] = 3.0-rc1
 projects[at-commerce][type] = "theme"
+projects[footheme][version] = 3.0-rc1
+projects[footheme][type] = "theme"
+
 projects[storefront][version] = 1.2
 projects[storefront][type] = "theme"
 
