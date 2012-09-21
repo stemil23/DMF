@@ -189,6 +189,10 @@ projects[features][version] = 1.0
 projects[features][type] = "module"
 projects[feeds][version] = 2.x-dev
 projects[feeds][type] = "module"
+
+projects[feeds_tamper][version] = 7.x-1.x-dev
+projects[feeds_tamper][type] = "module"
+
 projects[feed_import][version] = 2.6
 projects[feed_import][type] = "module"
 
@@ -375,6 +379,10 @@ projects[acl][version] = 1.0
 projects[acl][type] = "module"
 projects[premium_content][version] = 1.0-beta2
 projects[premium_content][type] = "module"
+projects[nodetype_access][version] = 1.0-beta5
+projects[nodetype_access][type] = "module"
+projects[hidden_nodes][version] = 1.0
+projects[hidden_nodes][type] = "module"
 
 projects[addtoany][version] = 3.1
 projects[addtoany][type] = "module"
@@ -387,8 +395,11 @@ projects[auto_nodetitle][version] = 1.0
 projects[auto_nodetitle][type] = "module"
 projects[exclude_node_title][version] = 1.5
 projects[exclude_node_title][type] = "module"
+
 projects[backup_migrate][version] = 2.4
 projects[backup_migrate][type] = "module"
+projects[backup_migrate_prune][version] = 1.1
+projects[backup_migrate_prune][type] = "module"
 
 
 ; projects[boxes][version] = 1.0
@@ -514,6 +525,9 @@ projects[filefield_role_limit][type] = "module"
 
 projects[flag][version] = 2.0
 projects[flag][type] = "module"
+; projects[flag_expire][version] = 3.0-beta2
+; projects[flag_expire][type] = "module"
+
 projects[front][version] = 2.1
 projects[front][type] = "module"
 
@@ -744,6 +758,12 @@ projects[block_titlelink][type] = "module"
 projects[floating_block][version] = 1.1
 projects[floating_block][type] = "module"
 
+projects[advanced_menu][version] = 1.5
+projects[advanced_menu][type] = "module"
+projects[shortcutperrole][version] = 1.1
+projects[shortcutperrole][type] = "module"
+
+
 projects[menu_block][version] = 2.3
 projects[menu_block][type] = "module"
 ; projects[jquerymenu][version] = 2.0-alpha5
@@ -869,7 +889,7 @@ projects[pcp][version] = 1.x-dev
 projects[pcp][type] = "module"
 projects[profile2_privacy][version] = 1.3
 projects[profile2_privacy][type] = "module"
-projects[profile2_regpath][version] = 1.9
+projects[profile2_regpath][version] = 1.10
 projects[profile2_regpath][type] = "module"
 ; projects[profile_sync_email][version] = 1.3
 ; projects[profile_sync_email][type] = "module"
@@ -969,6 +989,10 @@ projects[search_autocomplete][version] = 3.0-rc4
 projects[search_autocomplete][type] = "module"
 ; projects[search_api][version] = 1.2
 ; projects[search_api][type] = "module"
+; projects[facetapi][version] = 1.2
+; projects[facetapi][type] = "module"
+; projects[facetapi_pretty_paths][version] = 1.0-alpha9
+; projects[facetapi_pretty_paths][type] = "module"
 
 ; projects[seo_checker][version] = 1.5
 ; projects[seo_checker][type] = "module"
