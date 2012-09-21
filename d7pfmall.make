@@ -190,7 +190,7 @@ projects[features][type] = "module"
 projects[feeds][version] = 2.x-dev
 projects[feeds][type] = "module"
 
-projects[feeds_tamper][version] = 7.x-1.x-dev
+projects[feeds_tamper][version] = 1.x-dev
 projects[feeds_tamper][type] = "module"
 
 projects[feed_import][version] = 2.6
