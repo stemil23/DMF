@@ -1524,20 +1524,20 @@ projects[xmlsitemap][type] = "module"
 ; projects[google_image_sitemap][version] = 1.1
 ; projects[google_image_sitemap][type] = "module"
 
-projects[workbench][version] = 1.1
-projects[workbench][type] = "module"
+; projects[workbench][version] = 1.1
+; projects[workbench][type] = "module"
 ; projects[workbench_access][version] = 1.x-dev
 ; projects[workbench_access][type] = "module"
-projects[workbench_media][version] = 1.1
-projects[workbench_media][type] = "module"
+; projects[workbench_media][version] = 1.1
+; projects[workbench_media][type] = "module"
 ; projects[workbench_files][version] = 1.0
 ; projects[workbench_files][type] = "module"
 ; projects[workbench_profile][version] = 1.1
 ; projects[workbench_profile][type] = "module"
 ; projects[scheduler_workbench][version] = 1.0-alpha3
 ; projects[scheduler_workbench][type] = "module"
-projects[workbench_moderation][version] = 1.2
-projects[workbench_moderation] = "module"
+; projects[workbench_moderation][version] = 1.2
+; projects[workbench_moderation] = "module"
   
 
 ; Themes
