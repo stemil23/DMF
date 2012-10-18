@@ -363,7 +363,7 @@ projects[widgets][type] = "module"
 ; projects[content_page][version] = 1.3
 ; projects[content_page][type] = "module"
 
-projects[normalize][version] = 1.3
+projects[normalize][version] = 1.4
 projects[normalize][type] = "module"
 projects[js_injector][version] = 2.x-dev
 projects[js_injector][type] = "module"
@@ -656,6 +656,10 @@ projects[imagecache_profiles][version] = 1.0
 projects[imagecache_profiles][type] = "module"
 projects[image_style_quality][version] = 1.1
 projects[image_style_quality][type] = "module"
+
+projects[cloud_zoom][version] = 1.1
+projects[cloud_zoom][type] = "module"
+
 ; projects[imagecache_external][version] = 2.0-beta1
 ; projects[imagecache_external][type] = "module"
 
@@ -739,7 +743,7 @@ projects[addressfield][version] = 1.0-beta3
 projects[addressfield][type] = "module"
 projects[addressfield_staticmap][version] = 1.0-beta5
 projects[addressfield_staticmap][type] = "module"
-projects[addressfield_tokens][version] = 1.2
+projects[addressfield_tokens][version] = 1.3
 projects[addressfield_tokens][type] = "module"
 
 projects[location_taxonomize][version] = 2.4
@@ -759,6 +763,9 @@ projects[logintoboggan][version] = 1.3
 projects[logintoboggan][type] = "module"
 projects[login_destination][version] = 1.0
 projects[login_destination][type] = "module"
+
+projects[eu-cookie-compliance][version] = 1.8
+projects[eu-cookie-compliance][type] = "module"
 
 projects[user_details][version] = 2.5
 projects[user_details][type] = "module"
@@ -966,8 +973,8 @@ projects[ajax_register][type] = "module"
 projects[adaptive_image][version] = 1.4
 projects[adaptive_image][type] = "module" 
  
-; projects[scheduler][version] = 1.0
-; projects[scheduler][type] = "module"
+projects[scheduler][version] = 1.x-dev
+projects[scheduler][type] = "module"
 
 projects[radioactivity][version] = 2.7
 projects[radioactivity][type] = "module"
@@ -1020,7 +1027,7 @@ projects[search404][type] = "module"
 ; projects[custom_search][type] = "module"
 projects[search_autocomplete][version] = 3.0-rc4
 projects[search_autocomplete][type] = "module"
-; projects[search_api][version] = 1.2
+; projects[search_api][version] = 1.3
 ; projects[search_api][type] = "module"
 ; projects[search_api_saved_searches][version] = 1.0
 ; projects[search_api_saved_searches][type] = "module"
@@ -1434,7 +1441,7 @@ projects[views_table_highlighter][version] = 1.1
 projects[views_table_highlighter][type] = "module"
 projects[datatables][version] = 1.1
 projects[datatables][type] = "module"
-projects[menu_views][version] = 1.4
+projects[menu_views][version] = 2.0-rc1
 projects[menu_views][type] = "module"
 projects[views_tree][version] = 2.0
 projects[views_tree][type] = "module"
@@ -1485,7 +1492,7 @@ projects[fivestar][type] = "module"
 projects[fivestar_smiley][version] = 1.0
 projects[fivestar_smiley][type] = "module"
 
-projects[votingapi][version] = 2.8
+projects[votingapi][version] = 2.9
 projects[votingapi][type] = "module"
 
 projects[userpoints][version] = 1.x-dev
@@ -1866,11 +1873,18 @@ libraries[htmlpurifier][directory_name] = "htmlpurifier"
 libraries[htmlpurifier][destination] = "libraries"
 
 
+Cloud_zoom
+libraries[beforeafter][download][type] = "get"
+libraries[beforeafter][download][url] = "http://www.professorcloud.com/downloads/cloud-zoom.1.0.3.zip"
+libraries[beforeafter][directory_name] = "cloud-zoom"
+libraries[beforeafter][destination] = "libraries"
+
 ; BeforeAfter
 ; libraries[beforeafter][download][type] = "get"
 ; libraries[beforeafter][download][url] = "http://www.catchmyfame.com/jquery/beforeafter.zip"
 ; libraries[beforeafter][directory_name] = "beforeafter"
 ; libraries[beforeafter][destination] = "libraries"
+
 
 ;HeadJS - too flakey, as is LABjs
 ; libraries[headjs][download][type] = git
