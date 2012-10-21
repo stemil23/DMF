@@ -331,7 +331,7 @@ projects[mimemail][type] = "module"
 ; projects[mailcheck][version] = 1.0
 ; projects[mailcheck][type] = "module"
 
-projects[colorbox][version] = 1.3
+projects[colorbox][version] = 1.4
 projects[colorbox][type] = "module"
 projects[colorbox_node][version] = 2.4
 projects[colorbox_node][type] = "module"
@@ -348,6 +348,9 @@ projects[sharethis][type] = "module"
 
 projects[socialmedia][version] = 1.0-beta13
 projects[socialmedia][type] = "module"
+
+projects[socialitejs][version] = 1.1
+projects[socialitejs][type] = "module"
 
 ; projects[pinit][version] = 1.1
 ; projects[pinit][type] = "module"
@@ -469,7 +472,7 @@ projects[computed_field][type] = "module"
 ; projects[path_breadcrumbs][version] = 2.0-beta16
 ; projects[path_breadcrumbs][type] = "module"
 
-projects[easy_breadcrumb][version] = 1.17
+projects[easy_breadcrumb][version] = 1.18
 projects[easy_breadcrumb][type] = "module"
 
 projects[custom_formatters][version] = 2.2
@@ -830,7 +833,7 @@ projects[skype_status][type] = "module"
 projects[messaging][version] = 1.0-alpha2
 projects[messaging][type] = "module"
 
-projects[metatag][version] = 1.0-alpha8
+projects[metatag][version] = 1.x-dev
 projects[metatag][type] = "module"
 
 ; projects[schemaorg][version] = 1.0-beta3
@@ -1200,7 +1203,7 @@ projects[active_taxonomy_links][type] = "module"
 projects[taxonomy_nco][version] = 1.3
 projects[taxonomy_nco][type] = "module"
 
-projects[taxonomy_edge][version] = 1.6
+projects[taxonomy_edge][version] = 1.7
 projects[taxonomy_edge][type] = "module"
 projects[vars][version] = 2.0-alpha10
 projects[vars][type] = "module"
@@ -1890,6 +1893,14 @@ libraries[beforeafter][destination] = "libraries"
 ; libraries[headjs][download][type] = git
 ; libraries[headjs][download][url] = https://github.com/headjs/headjs.git
 ; libraries[headjs][download][tag] = v0.96
+
+ SocialiteJS
+libraries[socialitejs][download][type] = git
+libraries[socialitejs][download][url] = git://github.com/dbushell/Socialite.git
+libraries[socialitejs][directory_name] = "socialitejs"
+libraries[socialitejs][destination] = "libraries"
+
+
 
 ;DOMWindow
 libraries[domwindow][download][type] = "get"
