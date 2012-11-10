@@ -163,7 +163,7 @@ projects[socialmedia][version] = 1.0-beta13
 projects[socialmedia][type] = "module"
 
 
-projects[widgets][version] = 1.0-beta5
+projects[widgets][version] = 1.0-rc1
 projects[widgets][type] = "module"
 
 projects[css_injector][version] = 1.7
@@ -601,7 +601,7 @@ projects[views_slideshow][version] = 3.x-dev
 projects[views_slideshow][type] = "module"
 projects[views_slideshow_slider][version] = 3.x-dev
 projects[views_slideshow_slider][type] = "module"
-projects[views_slideshow_xtra][version] = 3.6
+projects[views_slideshow_xtra][version] = 3.8
 projects[views_slideshow_xtra][type] = "module"
 projects[views_slideshow_galleria][version] = 3.0-alpha3
 projects[views_slideshow_galleria][type] = "module"
@@ -790,7 +790,7 @@ projects[jquery_update][type] = "module"
 projects[popup][version] = 1.0
 projects[popup][type] = "module"
 
-projects[wysiwyg][version] = 2.1
+projects[wysiwyg][version] = 2.2
 projects[wysiwyg][type] = "module"
 
 projects[blockcache_alter][version] = 1.0
@@ -860,7 +860,7 @@ projects[webform_html_textarea][version] = 1.3
 projects[webform_html_textarea][type] = "module"
 projects[webform_patched][version] = 3.18
 projects[webform_patched][type] = "module"
-projects[webform_phone][version] = 1.2
+projects[webform_phone][version] = 1.9
 projects[webform_phone][type] = "module"
 projects[phone][version] = 1.x-dev
 projects[phone][type] = "module"
