@@ -35,6 +35,41 @@ projects[pressflow][download][url] = "git://github.com/pressflow/7.git"
 ; Modules
 ; --------
 
+
+
+
+projects[node_export][version] = 3.0
+projects[node_export][type] = "module"
+projects[uuid][version] = 1.0-alpha3
+projects[uuid][type] = "module"
+projects[webform_ajax][version] = 1.0
+projects[webform_ajax][type] = "module"
+projects[colorbox_node][version] = 2.x-dev
+projects[colorbox_node][type] = "module"
+projects[delta][version] = 3.x-dev
+projects[delta][type] = "module"
+projects[double_field][version] = 2.0
+projects[double_field][type] = "module"
+projects[js_injector][version] = 2.x-dev
+projects[js_injector][type] = "module"
+projects[purge][version] = 1.x-dev
+projects[purge][type] = "module"
+projects[quicktabs][version] = 3.4
+projects[quicktabs][type] = "module"
+projects[slidebox][version] = 1.6
+projects[slidebox][type] = "module"
+projects[themekey][version] = 2.3
+projects[themekey][type] = "module"
+projects[webform_tokens][version] = 1.x-dev
+projects[webform_tokens][type] = "module"
+projects[weight][version] = 2.1
+projects[weight][type] = "module"
+projects[blockreference][version] = 1.13
+projects[blockreference][type] = "module"
+
+
+
+
 projects[javascript_libraries][version] = 1.0-rc6
 projects[javascript_libraries][type] = "module"
 
@@ -60,7 +95,7 @@ projects[elysia_cron][type] = "module"
 
 projects[ctools][version] = 1.2
 projects[ctools][type] = "module"
-projects[context][version] = 3.0-beta3
+projects[context][version] = 3.x-dev
 projects[context][type] = "module"
 ; projects[context_admin][version] = 1.1
 ; projects[context_admin][type] = "module"
@@ -81,7 +116,7 @@ projects[features][type] = "module"
 
 projects[content_taxonomy][version] = 1.0-beta1
 projects[content_taxonomy][type] = "module"
-projects[email][version] = 1.0
+projects[email][version] = 1.2
 projects[email][type] = "module"
 projects[field_group][version] = 1.1
 projects[field_group][type] = "module"
@@ -432,7 +467,7 @@ projects[newswire][version] = 1.x-dev
 projects[newswire][type] = "module"
 projects[nice_menus][version] = 2.1
 projects[nice_menus][type] = "module"
-projects[node_clone][version] = 1.0-beta1
+projects[node_clone][version] = 1.x-dev
 projects[node_clone][type] = "module"
 projects[notifications][version] = 1.0-alpha2
 projects[notifications][type] = "module"
