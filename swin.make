@@ -58,7 +58,7 @@ projects[elysia_cron][version] = 2.1
 projects[elysia_cron][type] = "module"
 
 
-projects[ctools][version] = 1.0
+projects[ctools][version] = 1.2
 projects[ctools][type] = "module"
 projects[context][version] = 3.0-beta3
 projects[context][type] = "module"
@@ -74,16 +74,16 @@ projects[devel][type] = "module"
 projects[prod_check][version] = 1.3
 projects[prod_check][type] = "module"
 
-projects[ds][version] = 1.5
+projects[ds][version] = 1.6
 projects[ds][type] = "module"
-projects[features][version] = 1.0-rc2
+projects[features][version] = 1.x-dev
 projects[features][type] = "module"
 
 projects[content_taxonomy][version] = 1.0-beta1
 projects[content_taxonomy][type] = "module"
 projects[email][version] = 1.0
 projects[email][type] = "module"
-projects[field_group][version] = 1.x-dev
+projects[field_group][version] = 1.1
 projects[field_group][type] = "module"
 
 projects[field_collection][version] = 1.x-dev
@@ -154,12 +154,12 @@ projects[htmlmail][type] = "module"
 projects[colorbox][version] = 1.2
 projects[colorbox][type] = "module"
 
-projects[easy_social][version] = 2.8
+projects[easy_social][version] = 2.9
 projects[easy_social][type] = "module"
 projects[jasm][version] = 1.2
 projects[jasm][type] = "module"
 
-projects[socialmedia][version] = 1.0-beta11
+projects[socialmedia][version] = 1.0-beta13
 projects[socialmedia][type] = "module"
 
 
@@ -266,9 +266,9 @@ projects[front][type] = "module"
 
 projects[redirect][version] = 1.0-beta4
 projects[redirect][type] = "module"
-projects[globalredirect][version] = 1.4
+projects[globalredirect][version] = 1.5
 projects[globalredirect][type] = "module"
-projects[google_analytics][version] = 1.x-dev
+projects[google_analytics][version] = 1.3
 projects[google_analytics][type] = "module"
 ; projects[google_plusone][version] = "1.x-dev"
 ; projects[google_plusone][type] = "module"
@@ -279,7 +279,7 @@ projects[google_analytics][type] = "module"
 projects[google_webfont_loader_api][version] = 1.9
 projects[google_webfont_loader_api][type] = "module"
 
-projects[fontyourface][version] = 2.3
+projects[fontyourface][version] = 2.5
 projects[fontyourface][type] = "module"
 
 projects[cufon][version] = 2.1
@@ -412,7 +412,7 @@ projects[special_menu_items][type] = "module"
 projects[messaging][version] = 1.0-alpha2
 projects[messaging][type] = "module"
 
-projects[metatag][version] = 1.0-alpha6
+projects[metatag][version] = 1.0-beta2
 projects[metatag][type] = "module"
 projects[tagging][version] = 3.3
 projects[tagging][type] = "module"
@@ -470,7 +470,7 @@ projects[geophp][type] = "module"
 projects[themekey][version] = 2.x-dev
 projects[themekey][type] = "module"
 
-projects[pathauto][version] = 1.1
+projects[pathauto][version] = 1.2
 projects[pathauto][type] = "module"
 
 projects[profile2][version] = 1.2
@@ -541,7 +541,7 @@ projects[fpa][version] = 2.x-dev
 projects[fpa][type] = "module"
 
 
-projects[search404][version] = 1.1
+projects[search404][version] = 1.2
 projects[search404][type] = "module"
 projects[search_config][version] = 1.0
 projects[search_config][type] = "module"
@@ -588,9 +588,11 @@ projects[submenutree][type] = "module"
 projects[superfish][version] = 1.9-beta4
 projects[superfish][type] = "module"
 
-projects[token][version] = 1.1
-; projects[token][version] = 1.x-dev
+projects[token][version] = 1.4
 projects[token][type] = "module"
+
+projects[tracking_code][version] = 1.x-dev
+projects[tracking_code][type] = "module"
 
 projects[transliteration][version] = 3.1
 projects[transliteration][type] = "module"
@@ -610,17 +612,17 @@ projects[field_slideshow][version] = 1.6
 projects[field_slideshow][type] = "module"
 
 
-projects[panels][version] = 3.2
+projects[panels][version] = 3.3
 projects[panels][type] = "module"
 projects[panels_extra_layouts][version] = 1.5
 projects[panels_extra_layouts][type] = "module"
 projects[panels_breadcrumbs][version] = 1.6
 projects[panels_breadcrumbs][type] = "module"
-projects[print][version] = 1.1
+projects[print][version] = 1.2
 projects[print][type] = "module"
 projects[rules][version] = 2.1
 projects[rules][type] = "module"
-projects[page_title][version] = 2.5
+projects[page_title][version] = 2.7
 projects[page_title][type] = "module"
 
 projects[tweet][version] = 4.4
@@ -801,12 +803,12 @@ projects[peekaboo][type] = "module"
 projects[unique_field][version] = 1.0-rc1
 projects[unique_field][type] = "module"
 
-projects[views][version] = 3.x-dev
+projects[views][version] = 3.5
 projects[views][type] = "module"
 
 projects[views_rss][version] = 2.0-rc1
 projects[views_rss][type] = "module"
-projects[views_bulk_operations][version] = 3.0-rc1
+projects[views_bulk_operations][version] = 3.0
 projects[views_bulk_operations][type] = "module"
 projects[views_boxes][version] = 1.0-beta8
 projects[views_boxes][type] = "module"
@@ -821,7 +823,7 @@ projects[menu_views][type] = "module"
 projects[views_tree][version] = 2.0
 projects[views_tree][type] = "module"
 
-projects[views_accordion][version] = 1.x-dev
+projects[views_accordion][version] = 1.0-rc2
 projects[views_accordion][type] = "module"
 projects[global_filter][version] = 1.2
 projects[global_filter][type] = "module"
@@ -831,11 +833,6 @@ projects[vntf][type] = "module"
 projects[weight][version] = 2.0-beta3
 projects[weight][type] = "module"
 
-projects[slidebox][type] = "module"
-
-
-projects[variable][version] = 1.2
-projects[variable][type] = "module"
 projects[variable][version] = 1.1
 projects[variable][type] = "module"
 
@@ -855,7 +852,7 @@ projects[webform_template][version] = 1.1
 projects[webform_template][type] = "module"
 projects[webform_validation][version] = 1.1
 projects[webform_validation][type] = "module"
-projects[clientside_validation][version] = 1.32
+projects[clientside_validation][version] = 1.35
 projects[clientside_validation][type] = "module"
 projects[webform_conditional_confirmation][version] = 1.0
 projects[webform_conditional_confirmation][type] = "module"
@@ -865,6 +862,8 @@ projects[webform_patched][version] = 3.18
 projects[webform_patched][type] = "module"
 projects[webform_phone][version] = 1.2
 projects[webform_phone][type] = "module"
+projects[phone][version] = 1.x-dev
+projects[phone][type] = "module"
 
 projects[field_validation][version] = 1.0-beta5
 projects[field_validation][type] = "module"

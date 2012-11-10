@@ -128,6 +128,12 @@ projects[commerce_saleprice][type] = "module"
 projects[commerce_backoffice][version] = 1.0-rc1
 projects[commerce_backoffice][type] = "module"
 
+projects[commerce_coupon_fixed_amount][version] = 1.x-dev
+projects[commerce_coupon_fixed_amount][type] = "module"
+projects[commerce_couponprodref][version] = 1.x-dev
+projects[commerce_couponprodref][type] = "module"
+
+
 projects[payment][version] = 1.0
 projects[payment][type] = "module"
 projects[payment_commerce][version] = 1.0
