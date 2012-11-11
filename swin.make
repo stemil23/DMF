@@ -66,6 +66,8 @@ projects[weight][version] = 2.1
 projects[weight][type] = "module"
 projects[blockreference][version] = 1.13
 projects[blockreference][type] = "module"
+projects[uuid_features][version] = 1.0-alpha1
+projects[uuid_features][type] = "module"
 
 
 
@@ -152,7 +154,7 @@ projects[privatemsg][type] = "module"
 ; projects[html5_tools][type] = "module"
 
 
-projects[imce][version] = 1.5
+projects[imce][version] = 1.6
 projects[imce][type] = "module"
 projects[imce_crop][version] = 1.0
 projects[imce_crop][type] = "module"
@@ -524,8 +526,6 @@ projects[publishcontent][type] = "module"
 projects[mostpopular][version] = 1.1
 projects[mostpopular][type] = "module"
 
-projects[quicktabs][version] = 3.3
-projects[quicktabs][type] = "module"
 projects[realname][version] = 1.0-rc2
 projects[realname][type] = "module"
 projects[realname_registration][version] = 2.0-rc2
@@ -705,7 +705,7 @@ projects[term_permissions][type] = "module"
 projects[jstimer][version] = 1.3
 projects[jstimer][type] = "module"
 
-projects[themekey][version] = 1.5
+projects[themekey][version] = 2.3
 projects[themekey][type] = "module"
 
 projects[typogrify][version] = 1.0-rc2
@@ -902,9 +902,6 @@ projects[phone][type] = "module"
 
 projects[field_validation][version] = 1.0-beta5
 projects[field_validation][type] = "module"
-projects[double_field][version] = 1.1
-projects[double_field][type] = "module"
-
 projects[multiform][version] = 1.0
 projects[multiform][type] = "module"
 projects[select_or_other][version] = 2.8

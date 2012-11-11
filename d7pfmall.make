@@ -119,7 +119,7 @@ projects[commerce_vbo_views][version] = 1.2
 projects[commerce_vbo_views][type] = "module"
 projects[commerce_moa][version] = 1.4
 projects[commerce_moa][type] = "module"
-projects[commerce_auto_product_display][version] = 1.2
+projects[commerce_auto_product_display][version] = 1.3
 projects[commerce_auto_product_display][type] = "module"
 ; projects[commerce_delivery][version] = 1.0-alpha5
 ; projects[commerce_delivery][type] = "module"
@@ -288,7 +288,7 @@ projects[privatemsg][type] = "module"
 ; projects[html5_tools][type] = "module"
 
 
-projects[imce][version] = 1.5
+projects[imce][version] = 1.6
 projects[imce][type] = "module"
 projects[imce_crop][version] = 1.0
 projects[imce_crop][type] = "module"
