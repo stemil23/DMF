@@ -1986,10 +1986,10 @@ libraries[domwindow][directory_name] = "jquery.domwindow"
 libraries[domwindow][destination] = "libraries"
 
 ;twitter-rest-php
-libraries[twitter-rest-php][download][type] = "git"
-libraries[twitter-rest-php][download][url] = "https://github.com/downloads/juampy72/twitter-rest-php/twitter.lib.php"
-libraries[twitter-rest-php][directory_name] = "twitter"
-libraries[twitter-rest-php][destination] = "libraries"
+; libraries[twitter-rest-php][download][type] = "git"
+; libraries[twitter-rest-php][download][url] = "https://github.com/downloads/juampy72/twitter-rest-php/twitter.lib.php"
+; libraries[twitter-rest-php][directory_name] = "twitter"
+; libraries[twitter-rest-php][destination] = "libraries"
 
 ;BOOTstrap
 ; libraries[bootstrap][download][type] = "git"
