@@ -535,7 +535,7 @@ projects[domain_301_redirect][version] = 1.1
 projects[domain_301_redirect][type] = "module"
 projects[domain_views][version] = 1.5
 projects[domain_views][type] = "module"
-projects[domains_metatag][version] = 1.2
+projects[domains_metatag][version] = 1.1
 projects[domains_metatag][type] = "module"
 
 
