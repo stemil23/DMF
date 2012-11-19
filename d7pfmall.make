@@ -69,6 +69,8 @@ projects[commerce][version] = 1.4
 projects[commerce][type] = "module"
 projects[commerce_checkout_progress][version] = 1.2
 projects[commerce_checkout_progress][type] = "module"
+projects[commerce_shipping][version] = 2.0
+projects[commerce_shipping][type] = "module"
 projects[commerce_coupon][version] = 1.x-dev
 projects[commerce_coupon][type] = "module"
 projects[commerce_file][version] = 1.0-beta4
@@ -127,6 +129,8 @@ projects[commerce_saleprice][version] = 1.0-beta4
 projects[commerce_saleprice][type] = "module"
 projects[commerce_backoffice][version] = 1.0-rc1
 projects[commerce_backoffice][type] = "module"
+projects[commerce_flat_rate][version] = 1.0-beta2
+projects[commerce_flat_rate][type] = "module"
 
 projects[commerce_coupon_fixed_amount][version] = 1.x-dev
 projects[commerce_coupon_fixed_amount][type] = "module"
@@ -134,7 +138,7 @@ projects[commerce_couponprodref][version] = 1.x-dev
 projects[commerce_couponprodref][type] = "module"
 
 
-projects[payment][version] = 1.0
+projects[payment][version] = 1.1
 projects[payment][type] = "module"
 projects[payment_commerce][version] = 1.0
 projects[payment_commerce][type] = "module"
@@ -311,12 +315,12 @@ projects[countries][type] = "module"
 
 projects[nodequeue][version] = 2.0-beta1
 projects[nodequeue][type] = "module"
-; projects[og][version] = 1.5
-; projects[og][type] = "module"
+projects[og][version] = 2.0-beta3
+projects[og][type] = "module"
 ; projects[og_role_field][version] = 1.0
 ; projects[og_role_field][type] = "module"
-; projects[og_extras][version] = 1.1
-; projects[og_extras][type] = "module"
+projects[og_extras][version] = 1.x-dev
+projects[og_extras][type] = "module"
 ; projects[advanced_forum][version] = 2.0
 ; projects[advanced_forum][type] = "module"
 
@@ -458,6 +462,8 @@ projects[toc_filter][type] = "module"
 ; projects[drupal_ipsum][version] = 2.0
 ; projects[drupal_ipsum][type] = "module"
 
+projects[talk][version] = 1.0
+projects[talk][type] = "module"
 projects[comment_notify][version] = 1.1
 projects[comment_notify][type] = "module"
 projects[comment_abuse][version] = 2.0
@@ -471,7 +477,7 @@ projects[bestreply][type] = "module"
 
 projects[message][version] = 1.x-dev
 projects[message][type] = "module"
-projects[message_notify][version] = 2.2
+projects[message_notify][version] = 2.3
 projects[message_notify][type] = "module"
 projects[computed_field][version] = 1.0-beta1
 projects[computed_field][type] = "module"
@@ -503,6 +509,9 @@ projects[easy_breadcrumb][type] = "module"
 projects[custom_formatters][version] = 2.2
 projects[custom_formatters][type] = "module"
 
+projects[field_formatter_css_class][version] = 1.1
+projects[field_formatter_css_class][type] = "module"
+
 projects[smart_trim][version] = 1.3
 projects[smart_trim][type] = "module"
 
@@ -511,8 +520,8 @@ projects[delta][type] = "module"
 
 ; projects[dhtml_menu][version] = 1.0-beta1
 ; projects[dhtml_menu][type] = "module"
-; projects[diff][version] = 2.0
-; projects[diff][type] = "module"
+projects[diff][version] = 3.2
+projects[diff][type] = "module"
 
 projects[domain][version] = 3.4
 projects[domain][type] = "module"
@@ -542,7 +551,7 @@ projects[entity_autocomplete][version] = 1.0-beta2
 projects[entity_autocomplete][type] = "module"
 projects[inline_entity_form][version] = 1.0-rc1
 projects[inline_entity_form][type] = "module"
-projects[entityreference][version] = 1.0-rc5
+projects[entityreference][version] = 1.0
 projects[entityreference][type] = "module"
 projects[entitycache][version] = 1.x-dev
 projects[entitycache][type] = "module"
@@ -610,7 +619,7 @@ projects[adsense][type] = "module"
 projects[google_webfont_loader_api][version] = 1.10
 projects[google_webfont_loader_api][type] = "module"
 
-projects[fontyourface][version] = 2.5
+projects[fontyourface][version] = 2.6
 projects[fontyourface][type] = "module"
 
 ; projects[cufon][version] = 2.1
@@ -619,7 +628,7 @@ projects[fontyourface][type] = "module"
 ; projects[homebox][version] = 2.0-beta6
 ; projects[homebox][type] = "module"
 
-projects[httpbl][version] = 1.0-rc4
+projects[httpbl][version] = 1.0-rc5
 projects[httpbl][type] = "module"
 
 projects[honeypot][version] = 1.13
@@ -714,7 +723,7 @@ projects[touch_icons][type] = "module"
 ; projects[twitter_pull][type] = "module"
 ; projects[twitter_db][version] = 1.0-rc3
 ; projects[twitter_db][type] = "module"
-projects[twitter][version] = 3.3
+projects[twitter][version] = 4.0
 projects[twitter][type] = "module"
 
 
@@ -860,7 +869,7 @@ projects[skype_status][type] = "module"
 projects[messaging][version] = 1.0-alpha2
 projects[messaging][type] = "module"
 
-projects[metatag][version] = 1.x-dev
+projects[metatag][version] = 1.0-beta4
 projects[metatag][type] = "module"
 
 ; projects[schemaorg][version] = 1.0-beta3
@@ -868,7 +877,7 @@ projects[metatag][type] = "module"
 
 
 
-projects[modernizr][version] = 2.1
+projects[modernizr][version] = 3.0-beta3
 projects[modernizr][type] = "module"
 ; projects[module_builder][version] = 2.x-dev
 ; projects[module_builder][type] = "module"
@@ -997,10 +1006,8 @@ projects[realname_registration][type] = "module"
 projects[ajax_register][version] = 4.0-rc10
 projects[ajax_register][type] = "module"
 
-; projects[resp_img][version] = 1.3
-; projects[resp_img][type] = "module"
-; projects[responsive_images][version] = 1.0-beta3
-; projects[responsive_images][type] = "module"
+projects[resp_img][version] = 2.x-dev
+projects[resp_img][type] = "module"
 
 ; Kill this module in favour of AIS
 projects[adaptive_image][version] = 1.4
@@ -1164,6 +1171,8 @@ projects[galerie][type] = "module"
 
 projects[panels][version] = 3.3
 projects[panels][type] = "module"
+projects[panelizer][version] = 2.x-dev
+projects[panelizer][type] = "module"
 projects[panels_extra_layouts][version] = 1.5
 projects[panels_extra_layouts][type] = "module"
 projects[panels_breadcrumbs][version] = 1.6
@@ -1218,6 +1227,8 @@ projects[flood_control][type] = "module"
 projects[speedy][version] = 1.2
 projects[speedy][type] = "module"
 
+projects[similarterms][version] = 2.3
+projects[similarterms][type] = "module"
 
 projects[taxonomy_manager][version] = 1.0-rc1
 projects[taxonomy_manager][type] = "module"
@@ -1283,7 +1294,7 @@ projects[domwindow][type] = "module"
 projects[epsacrop][version] = 2.2
 projects[epsacrop][type] = "module"
 
-projects[file_entity][version] = 2.0-unstable6
+projects[file_entity][version] = 2.0-unstable7
 projects[file_entity][type] = "module"
 
 projects[filepicker][version] = 1.4
@@ -1345,6 +1356,9 @@ projects[remote_stream_wrapper][type] = "module"
 projects[media_crop][version] = 1.4
 projects[media_crop][type] = "module"
 
+projects[node_gallery][version] = 1.0-beta1
+projects[node_gallery][type] = "module"
+
 ; projects[soundcloudfield][version] = 1.3
 ; projects[soundcloudfield][type] = "module"
 ; projects[soundcloud_filter][version] = 2.2
@@ -1354,8 +1368,8 @@ projects[media_crop][type] = "module"
 ; projects[nivo_slider][type] = "module"
 
 
-; projects[menu_minipanels][version] = 1.0-rc8
-; projects[menu_minipanels][type] = "module"
+projects[menu_minipanels][version] = 1.0-rc9
+projects[menu_minipanels][type] = "module"
 
 ; projects[menu_force][version] = 1.2
 ; projects[menu_force][type] = "module"
@@ -1431,7 +1445,7 @@ projects[jcarousel][type] = "module"
 ; projects[jquery_plugin][version] = 1.0
 ; projects[jquery_plugin][type] = "module"
 
-projects[jquery_update][version] = 2.2
+projects[jquery_update][version] = 2.x-dev
 projects[jquery_update][type] = "module"
 ; projects[poshy_tip][version] = 1.0-beta1
 ; projects[poshy_tip][type] = "module"
@@ -1543,6 +1557,8 @@ projects[answers][type] = "module"
 projects[best_answer][version] = 3.x-dev
 projects[best_answer][type] = "module"
 
+projects[entityform][version] = 1.0
+projects[entityform][type] = "module"
 
 projects[webform][version] = 3.x-dev
 projects[webform][type] = "module"
@@ -1570,8 +1586,8 @@ projects[phone][version] = 1.x-dev
 projects[phone][type] = "module"
 
 
-; projects[field_validation][version] = 2.0-beta2
-; projects[field_validation][type] = "module"
+projects[field_validation][version] = 2.2
+projects[field_validation][type] = "module"
 ; projects[double_field][version] = 2.0-rc1
 ; projects[double_field][type] = "module"
 
@@ -1663,6 +1679,9 @@ libraries[phpsass][destination] = "libraries"
 
 
 
+
+projects[tweme][version] = 1.0-beta2
+projects[tweme][type] = "theme"
 
 projects[adaptivetheme][version] = 3.1
 projects[adaptivetheme][type] = "theme"
@@ -1967,10 +1986,10 @@ libraries[domwindow][directory_name] = "jquery.domwindow"
 libraries[domwindow][destination] = "libraries"
 
 ;twitter-rest-php
-; libraries[twitter-rest-php][download][type] = "git"
-; libraries[twitter-rest-php][download][url] = "https://github.com/downloads/juampy72/twitter-rest-php/twitter.lib.php"
-; libraries[twitter-rest-php][directory_name] = "twitter"
-; libraries[twitter-rest-php][destination] = "libraries"
+libraries[twitter-rest-php][download][type] = "git"
+libraries[twitter-rest-php][download][url] = "https://github.com/downloads/juampy72/twitter-rest-php/twitter.lib.php"
+libraries[twitter-rest-php][directory_name] = "twitter"
+libraries[twitter-rest-php][destination] = "libraries"
 
 ;BOOTstrap
 ; libraries[bootstrap][download][type] = "git"
