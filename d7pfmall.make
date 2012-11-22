@@ -132,6 +132,8 @@ projects[commerce_backoffice][type] = "module"
 projects[commerce_flat_rate][version] = 1.0-beta2
 projects[commerce_flat_rate][type] = "module"
 
+projects[commerce_coupon_pct][version] = 1.x-dev
+projects[commerce_coupon_pct][type] = "module"
 projects[commerce_coupon_fixed_amount][version] = 1.x-dev
 projects[commerce_coupon_fixed_amount][type] = "module"
 projects[commerce_couponprodref][version] = 1.x-dev
@@ -353,7 +355,7 @@ projects[mimemail][type] = "module"
 ; projects[mailcheck][version] = 1.0
 ; projects[mailcheck][type] = "module"
 
-projects[colorbox][version] = 1.4
+projects[colorbox][version] = 2.0
 projects[colorbox][type] = "module"
 projects[colorbox_node][version] = 2.4
 projects[colorbox_node][type] = "module"
@@ -503,7 +505,7 @@ projects[computed_field][type] = "module"
 ; projects[path_breadcrumbs][version] = 2.0-beta16
 ; projects[path_breadcrumbs][type] = "module"
 
-projects[easy_breadcrumb][version] = 1.18
+projects[easy_breadcrumb][version] = 1.19
 projects[easy_breadcrumb][type] = "module"
 
 projects[custom_formatters][version] = 2.2
@@ -628,7 +630,7 @@ projects[fontyourface][type] = "module"
 ; projects[homebox][version] = 2.0-beta6
 ; projects[homebox][type] = "module"
 
-projects[httpbl][version] = 1.0-rc5
+projects[httpbl][version] = 1.0
 projects[httpbl][type] = "module"
 
 projects[honeypot][version] = 1.13
@@ -711,6 +713,9 @@ projects[job_scheduler][type] = "module"
 
 projects[jquery_ui][version] = 1.x-dev
 projects[jquery_ui][type] = "module"
+
+projects[jquery_expander][version] = 1.0
+projects[jquery_expander][type] = "module"
 
 projects[touch_icons][version] = 1.0-beta2
 projects[touch_icons][type] = "module"
@@ -976,8 +981,8 @@ projects[email_confirm][type] = "module"
 
 projects[apachesolr][version] = 1.1
 projects[apachesolr][type] = "module"
-; projects[apachesolr_panels][version] = 1.1
-; projects[apachesolr_panels][type] = "module"
+projects[apachesolr_panels][version] = 1.1
+projects[apachesolr_panels][type] = "module"
 ; projects[profile2_apachesolr][version] = 1.4
 ; projects[profile2_apachesolr][type] = "module"
 
@@ -1066,8 +1071,8 @@ projects[search404][version] = 1.2
 projects[search404][type] = "module"
 ; projects[search_config][version] = 1.x-dev
 ; projects[search_config][type] = "module"
-; projects[custom_search][version] = 1.1
-; projects[custom_search][type] = "module"
+projects[custom_search][version] = 1.1
+projects[custom_search][type] = "module"
 projects[search_autocomplete][version] = 3.0
 projects[search_autocomplete][type] = "module"
 projects[search_api][version] = 1.3
@@ -1163,12 +1168,6 @@ projects[field_slideshow][type] = "module"
 projects[galerie][version] = 1.8
 projects[galerie][type] = "module"
 
-; CANCELLLED
-; projects[andromeda_slideshow][version] = 1.x-dev
-; projects[andromeda_slideshow][type] = "module"
-; projects[andromeda_slideshow_full_slider][version] = 1.1
-; projects[andromeda_slideshow_full_slider][type] = "module"
-
 projects[panels][version] = 3.3
 projects[panels][type] = "module"
 projects[panelizer][version] = 2.x-dev
@@ -1211,10 +1210,6 @@ projects[textualizer][type] = "module"
 projects[service_links][version] = 2.x-dev
 projects[service_links][type] = "module"
 
-
-; projects[rpx][version] = 2.2
-; projects[rpx][type] = "module"
-
 ; projects[nagios][version] = 1.2
 ; projects[nagios][type] = "module"
 
@@ -1254,10 +1249,10 @@ projects[taxonomy_edge][type] = "module"
 projects[vars][version] = 2.0-alpha10
 projects[vars][type] = "module"
 
-; projects[private_taxonomy][version] = 1.0
-; projects[private_taxonomy][type] = "module"
-; projects[term_permissions][version] = 1.0-beta1
-; projects[term_permissions][type] = "module"
+projects[private_taxonomy][version] = 1.2
+projects[private_taxonomy][type] = "module"
+projects[term_permissions][version] = 1.0-beta2
+projects[term_permissions][type] = "module"
 
 projects[edit_limit][version] = 1.1
 projects[edit_limit][type] = "module"
@@ -1319,6 +1314,9 @@ projects[facebook_rules][type] = "module"
 ; projects[fb][version] = 3.3-beta4
 ; projects[fb][type] = "module"
 
+projects[hybridauth][version] = 2.5
+projects[hybridauth][type] = "module"
+
 projects[oauth][version] = 3.x-dev
 projects[oauth][type] = "module"
 projects[oauthconnector][version] = 1.x-dev	
@@ -1359,10 +1357,10 @@ projects[media_crop][type] = "module"
 projects[node_gallery][version] = 1.0-beta1
 projects[node_gallery][type] = "module"
 
-; projects[soundcloudfield][version] = 1.3
-; projects[soundcloudfield][type] = "module"
-; projects[soundcloud_filter][version] = 2.2
-; projects[soundcloud_filter][type] = "module"
+projects[soundcloudfield][version] = 1.x-dev
+projects[soundcloudfield][type] = "module"
+projects[soundcloud_filter][version] = 2.2
+projects[soundcloud_filter][type] = "module"
 
 ; projects[nivo_slider][version] = 1.6
 ; projects[nivo_slider][type] = "module"
@@ -1568,7 +1566,7 @@ projects[webform_template][version] = 1.2
 projects[webform_template][type] = "module"
 projects[webform_validation][version] = 1.1
 projects[webform_validation][type] = "module"
-projects[clientside_validation][version] = 1.35
+projects[clientside_validation][version] = 1.36
 projects[clientside_validation][type] = "module"
 projects[webform_conditional_confirmation][version] = 1.0
 projects[webform_conditional_confirmation][type] = "module"
@@ -1953,11 +1951,11 @@ libraries[htmlpurifier][directory_name] = "htmlpurifier"
 libraries[htmlpurifier][destination] = "libraries"
 
 
-Cloud_zoom
-libraries[beforeafter][download][type] = "get"
-libraries[beforeafter][download][url] = "http://www.professorcloud.com/downloads/cloud-zoom.1.0.3.zip"
-libraries[beforeafter][directory_name] = "cloud-zoom"
-libraries[beforeafter][destination] = "libraries"
+;Cloud_zoom
+libraries[cloudzoom][download][type] = "get"
+libraries[cloudzoom][download][url] = "http://www.professorcloud.com/downloads/cloud-zoom.1.0.3.zip"
+libraries[cloudzoom][directory_name] = "cloud-zoom"
+libraries[cloudzoom][destination] = "libraries"
 
 ; BeforeAfter
 ; libraries[beforeafter][download][type] = "get"
