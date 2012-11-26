@@ -288,6 +288,8 @@ projects[node_reference_view_formatter][version] = 1.0-beta3
 projects[node_reference_view_formatter][type] = "module"
 
 
+projects[user_details][version] = 3.0
+projects[user_details][type] = "module"
 projects[privatemsg][version] = 1.3
 projects[privatemsg][type] = "module"
 ; projects[html5_tools][version] = 1.2
@@ -561,6 +563,8 @@ projects[entityreference_prepopulate][version] = 1.1
 projects[entityreference_prepopulate][type] = "module"
 projects[entityreference_view_widget][version] = 1.x-dev
 projects[entityreference_view_widget][type] = "module"
+projects[entityreference_multiple][version] = 1.0
+projects[entityreference_multiple][type] = "module"
 projects[eva][version] = 1.x-dev
 projects[eva][type] = "module"
 
@@ -983,6 +987,8 @@ projects[apachesolr][version] = 1.1
 projects[apachesolr][type] = "module"
 projects[apachesolr_panels][version] = 1.1
 projects[apachesolr_panels][type] = "module"
+projects[apachesolr_proximity][version] = 1.0-rc1
+projects[apachesolr_proximity][type] = "module"
 ; projects[profile2_apachesolr][version] = 1.4
 ; projects[profile2_apachesolr][type] = "module"
 
@@ -1063,8 +1069,8 @@ projects[scriptjs][type] = "module"
 
 projects[httprl][version] = 1.7
 projects[httprl][type] = "module"
-; projects[fpa][version] = 2.x-dev
-; projects[fpa][type] = "module"
+projects[fpa][version] = 2.x-dev
+projects[fpa][type] = "module"
 
 
 projects[search404][version] = 1.2
@@ -1201,7 +1207,7 @@ projects[linkit][type] = "module"
 projects[linkit_views][version] = 1.2
 projects[linkit_views][type] = "module"
 
-projects[pathologic][version] = 2.6
+projects[pathologic][version] = 2.9
 projects[pathologic][type] = "module"
 
 projects[textualizer][version] = 1.0
@@ -1366,7 +1372,7 @@ projects[soundcloud_filter][type] = "module"
 ; projects[nivo_slider][type] = "module"
 
 
-projects[menu_minipanels][version] = 1.0-rc9
+projects[menu_minipanels][version] = 1.0
 projects[menu_minipanels][type] = "module"
 
 ; projects[menu_force][version] = 1.2
@@ -1574,7 +1580,7 @@ projects[webform_html_textarea][version] = 1.4
 projects[webform_html_textarea][type] = "module"
 projects[webform_patched][version] = 3.18
 projects[webform_patched][type] = "module"
-projects[webform_phone][version] = 1.8
+projects[webform_phone][version] = 1.11
 projects[webform_phone][type] = "module"
 projects[webform_tokens][version] = 1.1
 projects[webform_tokens][type] = "module"
@@ -1640,6 +1646,9 @@ projects[google_image_sitemap][type] = "module"
 ; projects[scheduler_workbench][type] = "module"
 ; projects[workbench_moderation][version] = 1.2
 ; projects[workbench_moderation] = "module"
+; projects[workbench_email][version] = 1.1
+; projects[workbench_email] = "module"
+    
   
 
 ; Themes
@@ -1697,8 +1706,8 @@ projects[footheme][type] = "theme"
 projects[storefront][version] = 1.2
 projects[storefront][type] = "theme"
 
-; projects[nucleus][version] = 1.1-beta3
-; projects[nucleus][type] = "theme"
+projects[nucleus][version] = 1.2
+projects[nucleus][type] = "theme"
 ; projects[tb_purity][version] = 1.0-beta1
 ; projects[tb_purity][type] = "theme"
 ; projects[tb_sirate][version] = 1.0-beta1
@@ -1957,6 +1966,13 @@ libraries[cloudzoom][download][url] = "http://www.professorcloud.com/downloads/c
 libraries[cloudzoom][directory_name] = "cloud-zoom"
 libraries[cloudzoom][destination] = "libraries"
 
+;Cloud_zoom
+libraries[cloudzoom][download][type] = "get"
+libraries[cloudzoom][download][url] = "http://www.professorcloud.com/downloads/cloud-zoom.1.0.3.zip"
+libraries[cloudzoom][directory_name] = "cloud-zoom"
+libraries[cloudzoom][destination] = "libraries"
+
+
 ; BeforeAfter
 ; libraries[beforeafter][download][type] = "get"
 ; libraries[beforeafter][download][url] = "http://www.catchmyfame.com/jquery/beforeafter.zip"
@@ -1990,7 +2006,7 @@ libraries[domwindow][destination] = "libraries"
 ; libraries[twitter-rest-php][destination] = "libraries"
 
 ;BOOTstrap
-; libraries[bootstrap][download][type] = "git"
-; libraries[bootstrap][download][url] = "http://twitter.github.com/bootstrap/assets/bootstrap.zip"
-; libraries[bootstrap][directory_name] = "bootstrap"
-; libraries[bootstrap][destination] = "libraries"
+libraries[bootstrap][download][type] = "git"
+libraries[bootstrap][download][url] = "http://twitter.github.com/bootstrap/assets/bootstrap.zip"
+libraries[bootstrap][directory_name] = "bootstrap"
+libraries[bootstrap][destination] = "libraries"
