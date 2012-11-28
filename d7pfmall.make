@@ -359,7 +359,7 @@ projects[mimemail][type] = "module"
 
 projects[colorbox][version] = 2.0
 projects[colorbox][type] = "module"
-projects[colorbox_node][version] = 2.4
+projects[colorbox_node][version] = 2.5
 projects[colorbox_node][type] = "module"
 
 ; projects[roadblock][version] = 1.0-rc1
@@ -734,6 +734,9 @@ projects[touch_icons][type] = "module"
 ; projects[twitter_db][type] = "module"
 projects[twitter][version] = 4.0
 projects[twitter][type] = "module"
+
+projects[drupagram][version] = 1.2
+projects[drupagram][type] = "module"
 
 
 ; projects[jquerymobile_ui][version] = 1.x-dev
@@ -1207,7 +1210,7 @@ projects[linkit][type] = "module"
 projects[linkit_views][version] = 1.2
 projects[linkit_views][type] = "module"
 
-projects[pathologic][version] = 2.9
+projects[pathologic][version] = 2.10
 projects[pathologic][type] = "module"
 
 projects[textualizer][version] = 1.0
@@ -1317,8 +1320,8 @@ projects[follow][type] = "module"
 ; projects[fblikebutton][type] = "module"
 projects[facebook_rules][version] = 1.3
 projects[facebook_rules][type] = "module"
-; projects[fb][version] = 3.3-beta4
-; projects[fb][type] = "module"
+projects[fb][version] = 3.x-dev
+projects[fb][type] = "module"
 
 projects[hybridauth][version] = 2.5
 projects[hybridauth][type] = "module"
