@@ -1380,9 +1380,10 @@ projects[soundcloud_filter][type] = "module"
 ; projects[nivo_slider][version] = 1.6
 ; projects[nivo_slider][type] = "module"
 
+; Qtip Download breaks Make File so if required have to add manually December 2012
+; projects[menu_minipanels][version] = 1.1
+; projects[menu_minipanels][type] = "module"
 
-projects[menu_minipanels][version] = 1.1
-projects[menu_minipanels][type] = "module"
 
 ; projects[menu_force][version] = 1.2
 ; projects[menu_force][type] = "module"
@@ -1926,11 +1927,11 @@ libraries[jquerycycle][download][url] = "https://github.com/malsup/cycle.git"
 libraries[jquerycycle][directory_name] = "jquery.cycle"
 libraries[jquerycycle][destination] = "libraries"
 
-;qTip
-libraries[qtip][download][type] = "git"
-libraries[qtip][download][url] = "https://github.com/Craga89/qTip2.git"
-libraries[qtip][directory_name] = "qtip"
-libraries[qtip][destination] = "libraries"
+; qTip
+; libraries[qtip][download][type] = "git"
+; libraries[qtip][download][url] = "https://github.com/Craga89/qTip2.git"
+; libraries[qtip][directory_name] = "qtip"
+; libraries[qtip][destination] = "libraries"
 
 ;PlusSlider
 libraries[pluslider][download][type] = "git"
@@ -2021,7 +2022,7 @@ libraries[domwindow][destination] = "libraries"
 ; libraries[twitter-rest-php][destination] = "libraries"
 
 ;BOOTstrap
-libraries[bootstrap][download][type] = "git"
+libraries[bootstrap][download][type] = "get"
 libraries[bootstrap][download][url] = "http://twitter.github.com/bootstrap/assets/bootstrap.zip"
 libraries[bootstrap][directory_name] = "bootstrap"
 libraries[bootstrap][destination] = "libraries"
