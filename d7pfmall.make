@@ -172,10 +172,12 @@ projects[nodeownership][type] = "module"
 ; projects[elysia_cron][version] = 2.1
 ; projects[elysia_cron][type] = "module"
 
+projects[splashify][version] = 1.0-rc2
+projects[splashify][type] = "module"
 
 projects[ctools][version] = 1.2
 projects[ctools][type] = "module"
-projects[context][version] = 3.0-beta4
+projects[context][version] = 3.0-beta5
 projects[context][type] = "module"
 projects[context_disable_context][version] = 3.0
 projects[context_disable_context][type] = "module"
@@ -306,6 +308,8 @@ projects[imce_mkdir][version] = 1.0
 projects[imce_mkdir][type] = "module"
 projects[imce_tools][version] = 1.1
 projects[imce_tools][type] = "module"
+projects[imce_plupload][version] = 1.1
+projects[imce_plupload][type] = "module"
 
 
 projects[i18n][version] = 1.7
@@ -529,7 +533,7 @@ projects[delta][type] = "module"
 projects[diff][version] = 3.2
 projects[diff][type] = "module"
 
-projects[domain][version] = 3.5
+projects[domain][version] = 3.6
 projects[domain][type] = "module"
 projects[domain_blocks][version] = 3.0-alpha1
 projects[domain_blocks][type] = "module"
@@ -652,7 +656,7 @@ projects[recaptcha][type] = "module"
 
 projects[antispam][version] = 1.5
 projects[antispam][type] = "module"
-projects[badbehavior][version] = 2.2211
+projects[badbehavior][version] = 2.2212
 projects[badbehavior][type] = "module"
 
 
@@ -697,7 +701,7 @@ projects[imageapi_optimize][type] = "module"
 ; projects[pdfpreview][version] = 2.1
 ; projects[pdfpreview][type] = "module"
 
-projects[imagecache_actions][version] = 1.x-dev
+projects[imagecache_actions][version] = 1.1
 projects[imagecache_actions][type] = "module"
 projects[imagecache_profiles][version] = 1.0
 projects[imagecache_profiles][type] = "module"
@@ -788,12 +792,14 @@ projects[lexicon][type] = "module"
 ; projects[locationmap][type] = "module"
 ; projects[gmap][version] = 1.x-dev
 ; projects[gmap][type] = "module"
-projects[ip_geoloc][version] = 1.17
+projects[ip_geoloc][version] = 1.18
 projects[ip_geoloc][type] = "module"
 
 
 projects[addressfield][version] = 1.0-beta3
 projects[addressfield][type] = "module"
+projects[addressfield_phone][version] = 1.0
+projects[addressfield_phone][type] = "module"
 projects[addressfield_staticmap][version] = 1.0-beta5
 projects[addressfield_staticmap][type] = "module"
 projects[addressfield_tokens][version] = 1.3
@@ -801,7 +807,7 @@ projects[addressfield_tokens][type] = "module"
 
 projects[location_taxonomize][version] = 2.4
 projects[location_taxonomize][type] = "module"
-projects[getlocations][version] = 1.4
+projects[getlocations][version] = 1.5
 projects[getlocations][type] = "module"
 
 projects[contactinfo][version] = 1.0-rc1
@@ -810,7 +816,7 @@ projects[invisimail][version] = 1.1
 projects[invisimail][type] = "module"
 
 
-projects[getdirections][version] = 2.2
+projects[getdirections][version] = 2.3
 projects[getdirections][type] = "module"
 projects[logintoboggan][version] = 1.3
 projects[logintoboggan][type] = "module"
@@ -904,6 +910,9 @@ projects[nice_menus][type] = "module"
 projects[node_clone][version] = 1.0-rc1
 projects[node_clone][type] = "module"
 
+projects[node_convert][version] = 1.1
+projects[node_convert][type] = "module"
+
 projects[notifications][version] = 1.0-alpha2
 projects[notifications][type] = "module"
 
@@ -936,7 +945,7 @@ projects[leaflet_more_maps][version] = 1.0
 projects[leaflet_more_maps][type] = "module"
 projects[leaflet_markercluster][version] = 1.x-dev
 projects[leaflet_markercluster][type] = "module"
-projects[leaflet_geojson][version] = 1.0-alpha2
+projects[leaflet_geojson][version] = 1.0-alpha3
 projects[leaflet_geojson][type] = "module"
 
 ; ABANDONED PROJECT
@@ -1308,7 +1317,7 @@ projects[file_entity][type] = "module"
 projects[filepicker][version] = 1.4
 projects[filepicker][type] = "module"
 
-projects[imagepicker][version] = 1.6
+projects[imagepicker][version] = 1.7
 projects[imagepicker][type] = "module"
 
 ; projects[imagezoom][version] = 1.2
@@ -1369,8 +1378,8 @@ projects[remote_stream_wrapper][type] = "module"
 projects[media_crop][version] = 1.4
 projects[media_crop][type] = "module"
 
-projects[node_gallery][version] = 1.0-beta1
-projects[node_gallery][type] = "module"
+; projects[node_gallery][version] = 1.0-beta1
+; projects[node_gallery][type] = "module"
 
 projects[soundcloudfield][version] = 1.x-dev
 projects[soundcloudfield][type] = "module"
@@ -1500,7 +1509,7 @@ projects[views_hacks][version] = 1.0-alpha1
 projects[views_hacks][type] = "module"
 projects[views_rss][version] = 2.0-rc3
 projects[views_rss][type] = "module"
-projects[views_bulk_operations][version] = 3.0
+projects[views_bulk_operations][version] = 3.1
 projects[views_bulk_operations][type] = "module"
 ; projects[views_boxes][version] = 1.0-beta8
 ; projects[views_boxes][type] = "module"
@@ -1537,13 +1546,10 @@ projects[oembed][type] = "module"
 
 projects[views_accordion][version] = 1.0-rc2
 projects[views_accordion][type] = "module"
-projects[global_filter][version] = 1.8
+projects[global_filter][version] = 1.9
 projects[global_filter][type] = "module"
 ; projects[vntf][version] = 1.0-beta6
 ; projects[vntf][type] = "module"
-
-projects[weight][version] = 2.1
-projects[weight][type] = "module"
 
 projects[slidebox][version] = 1.6
 projects[slidebox][type] = "module"
@@ -1637,7 +1643,7 @@ projects[jquery_ui_multiselect_widget][type] = "module"
 projects[footermap][version] = 1.1
 projects[footermap][type] = "module"
 
-projects[xmlsitemap][version] = 2.x-dev
+projects[xmlsitemap][version] = 2.0-rc2
 projects[xmlsitemap][type] = "module"
 projects[google_image_sitemap][version] = 1.2
 projects[google_image_sitemap][type] = "module"
@@ -1656,7 +1662,7 @@ projects[google_image_sitemap][type] = "module"
 ; projects[scheduler_workbench][type] = "module"
 ; projects[workbench_moderation][version] = 1.2
 ; projects[workbench_moderation] = "module"
-; projects[workbench_email][version] = 1.1
+; projects[workbench_email][version] = 1.2
 ; projects[workbench_email] = "module"
     
   
@@ -1844,6 +1850,12 @@ libraries[colorbox][download][type]= "get"
 libraries[colorbox][download][url] = "http://jacklmoore.com/colorbox/colorbox.zip"
 libraries[colorbox][directory_name] = "colorbox"
 libraries[colorbox][destination] = "libraries"
+
+; jStorage
+libraries[jstorage][download][type]= "git"
+libraries[jstorage][download][url] = "https://github.com/andris9/jStorage.git"
+libraries[jstorage][directory_name] = "jstorage"
+libraries[jstorage][destination] = "libraries"
 
 
 ; BadBehaviour
