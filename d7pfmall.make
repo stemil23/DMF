@@ -95,7 +95,7 @@ projects[commerce_registration][version] = 2.0-beta3
 projects[commerce_registration][type] = "module"
 projects[commerce_reorder][version] = 1.x-dev
 projects[commerce_reorder][type] = "module"
-projects[commerce_paypal][version] = 1.0-rc1
+projects[commerce_paypal][version] = 1.0
 projects[commerce_paypal][type] = "module"
 projects[commerce_product_attributes][version] = 1.x-dev
 projects[commerce_product_attributes][type] = "module"
@@ -133,6 +133,8 @@ projects[commerce_flat_rate][version] = 1.0-beta2
 projects[commerce_flat_rate][type] = "module"
 projects[commerce_reports][version] = 3.0-beta2
 projects[commerce_reports][type] = "module"
+projects[commerce_cart_view_override][version] = 1.1
+projects[commerce_cart_view_override][type] = "module"
 
 projects[commerce_coupon_pct][version] = 1.x-dev
 projects[commerce_coupon_pct][type] = "module"
@@ -144,7 +146,7 @@ projects[commerce_couponprodref][type] = "module"
 
 projects[payment][version] = 1.1
 projects[payment][type] = "module"
-projects[payment_commerce][version] = 1.0
+projects[payment_commerce][version] = 1.1
 projects[payment_commerce][type] = "module"
 
 
@@ -325,7 +327,7 @@ projects[countries][type] = "module"
 
 projects[nodequeue][version] = 2.0-beta1
 projects[nodequeue][type] = "module"
-projects[og][version] = 2.0-beta3
+projects[og][version] = 2.0-beta4
 projects[og][type] = "module"
 ; projects[og_role_field][version] = 1.0
 ; projects[og_role_field][type] = "module"
@@ -513,7 +515,7 @@ projects[computed_field][type] = "module"
 ; projects[path_breadcrumbs][version] = 2.0-beta16
 ; projects[path_breadcrumbs][type] = "module"
 
-projects[easy_breadcrumb][version] = 1.19
+projects[easy_breadcrumb][version] = 2.1
 projects[easy_breadcrumb][type] = "module"
 
 projects[custom_formatters][version] = 2.2
@@ -559,9 +561,9 @@ projects[entity][version] = 1.x-dev
 projects[entity][type] = "module"
 projects[entity_autocomplete][version] = 1.0-beta2
 projects[entity_autocomplete][type] = "module"
-projects[inline_entity_form][version] = 1.0-rc1
+projects[inline_entity_form][version] = 1.x-dev
 projects[inline_entity_form][type] = "module"
-projects[entityreference][version] = 1.0
+projects[entityreference][version] = 1.x-dev
 projects[entityreference][type] = "module"
 projects[entitycache][version] = 1.x-dev
 projects[entitycache][type] = "module"
@@ -1030,7 +1032,7 @@ projects[realname][version] = 1.0
 projects[realname][type] = "module"
 projects[realname_registration][version] = 2.0-rc2
 projects[realname_registration][type] = "module"
-projects[ajax_register][version] = 4.0-rc10
+projects[ajax_register][version] = 4.0-rc13
 projects[ajax_register][type] = "module"
 
 projects[resp_img][version] = 2.x-dev
@@ -1435,7 +1437,7 @@ projects[user_alert][type] = "module"
 
 projects[autocomplete_deluxe][version] = 2.0-beta2
 projects[autocomplete_deluxe][type] = "module"
-projects[ckeditor][version] = 1.9
+projects[ckeditor][version] = 1.11
 projects[ckeditor][type] = "module"
 projects[pasteformat][version] = 1.4
 projects[pasteformat][type] = "module"
@@ -1560,7 +1562,7 @@ projects[variable][type] = "module"
 projects[variable_clean][version] = 1.x-dev
 projects[variable_clean][type] = "module"
 
-projects[rate][version] = 1.5
+projects[rate][version] = 1.6
 projects[rate][type] = "module"
 projects[fivestar][version] = 2.0-alpha2
 projects[fivestar][type] = "module"
