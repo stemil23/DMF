@@ -4,7 +4,7 @@
 ; Each makefile should begin by declaring the core version of Drupal that all
 ; projects should be compatible with.
   
-core = 7.x
+; core = 7.x
   
 ; API version
 ; ------------
@@ -20,17 +20,17 @@ api = 2
 ; alternative core projects like Pressflow. Note that makefiles included with
 ; install profiles *should not* include a core project.
 
-; Use Pressflow instead of Drupal core:
-projects[pressflow][type] = "core"
-projects[pressflow][download][type] = "git"
-projects[pressflow][download][url] = "git://github.com/pressflow/7.git"
+; Use Pressflow instead of Drupal core
+; projects[pressflow][type] = "core"
+; projects[pressflow][download][type] = "git"
+; projects[pressflow][download][url] = "git://github.com/pressflow/7.git"
 
-; projects[drupal][version] = 7.14
+; projects[drupal][version] = 7.18
 ; projects[drupal][type] = "core"
 ; projects[drupal][download][type] = "git"
 ; projects[drupal][download][url] = "git://git.drupal.org/project/drupal.git"
 
-  
+core = 7.18
   
 ; Modules
 ; --------
@@ -127,7 +127,7 @@ projects[commerce_auto_product_display][type] = "module"
 ; projects[commerce_delivery][type] = "module"
 projects[commerce_saleprice][version] = 1.0-beta4
 projects[commerce_saleprice][type] = "module"
-projects[commerce_backoffice][version] = 1.0-rc1
+projects[commerce_backoffice][version] = 1.x-dev
 projects[commerce_backoffice][type] = "module"
 projects[commerce_flat_rate][version] = 1.0-beta2
 projects[commerce_flat_rate][type] = "module"
@@ -136,6 +136,9 @@ projects[commerce_reports][type] = "module"
 projects[commerce_cart_view_override][version] = 1.1
 projects[commerce_cart_view_override][type] = "module"
 
+projects[commerce_message][version] = 1.0-beta1
+projects[commerce_message][type] = "module"
+
 projects[commerce_coupon_pct][version] = 1.x-dev
 projects[commerce_coupon_pct][type] = "module"
 projects[commerce_coupon_fixed_amount][version] = 1.x-dev
@@ -143,6 +146,8 @@ projects[commerce_coupon_fixed_amount][type] = "module"
 projects[commerce_couponprodref][version] = 1.x-dev
 projects[commerce_couponprodref][type] = "module"
 
+projects[commerce_checkout_redirect][version] = 1.0-beta1
+projects[commerce_checkout_redirect][type] = "module"
 
 projects[payment][version] = 1.1
 projects[payment][type] = "module"
@@ -179,7 +184,7 @@ projects[splashify][type] = "module"
 
 projects[ctools][version] = 1.2
 projects[ctools][type] = "module"
-projects[context][version] = 3.0-beta5
+projects[context][version] = 3.0-beta6
 projects[context][type] = "module"
 projects[context_disable_context][version] = 3.0
 projects[context_disable_context][type] = "module"
@@ -320,7 +325,7 @@ projects[languageicons][version] = 1.0
 projects[languageicons][type] = "module"
 projects[lang_dropdown][version] = 1.5
 projects[lang_dropdown][type] = "module"
-projects[countryicons][version] = 1.0-beta1
+projects[countryicons][version] = 2.x-dev
 projects[countryicons][type] = "module"
 projects[countries][version] = 2.1
 projects[countries][type] = "module"
@@ -400,7 +405,7 @@ projects[widgets][type] = "module"
 ; projects[content_page][version] = 1.3
 ; projects[content_page][type] = "module"
 
-projects[normalize][version] = 1.4
+projects[normalize][version] = 1.5
 projects[normalize][type] = "module"
 projects[js_injector][version] = 2.x-dev
 projects[js_injector][type] = "module"
@@ -563,7 +568,7 @@ projects[entity_autocomplete][version] = 1.0-beta2
 projects[entity_autocomplete][type] = "module"
 projects[inline_entity_form][version] = 1.x-dev
 projects[inline_entity_form][type] = "module"
-projects[entityreference][version] = 1.x-dev
+projects[entityreference][version] = 1.0
 projects[entityreference][type] = "module"
 projects[entitycache][version] = 1.x-dev
 projects[entitycache][type] = "module"
@@ -703,7 +708,7 @@ projects[imageapi_optimize][type] = "module"
 ; projects[pdfpreview][version] = 2.1
 ; projects[pdfpreview][type] = "module"
 
-projects[imagecache_actions][version] = 1.1
+projects[imagecache_actions][version] = 1.0
 projects[imagecache_actions][type] = "module"
 projects[imagecache_profiles][version] = 1.0
 projects[imagecache_profiles][type] = "module"
@@ -797,6 +802,8 @@ projects[lexicon][type] = "module"
 projects[ip_geoloc][version] = 1.18
 projects[ip_geoloc][type] = "module"
 
+projects[state][version] = 1.2
+projects[state][type] = "module"
 
 projects[addressfield][version] = 1.0-beta3
 projects[addressfield][type] = "module"
@@ -1358,7 +1365,7 @@ projects[http_client][type] = "module"
 
 ; projects[BookMadeSimple][version] = 3.6
 ; projects[BookMadeSimple][type] = "module"
-; projects[favorites][version] = 1.0-alpha2
+; projects[favorites][version] = 1.0-alpha3
 ; projects[favorites][type] = "module"
 
 projects[media][version] = 1.2
