@@ -30,7 +30,9 @@ api = 2
 ; projects[drupal][download][type] = "git"
 ; projects[drupal][download][url] = "git://git.drupal.org/project/drupal.git"
 
-core = 7.18
+core = 7.x
+  
+projects[] = drupal
   
 ; Modules
 ; --------
