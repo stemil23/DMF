@@ -329,6 +329,8 @@ projects[lang_dropdown][version] = 1.5
 projects[lang_dropdown][type] = "module"
 projects[countryicons][version] = 2.x-dev
 projects[countryicons][type] = "module"
+projects[countryicons_shiny][version] = 2.x-dev
+projects[countryicons_shiny][type] = "module"
 projects[countries][version] = 2.1
 projects[countries][type] = "module"
 
@@ -683,8 +685,8 @@ projects[droptor][type] = "module"
 projects[flexslider][version] = 1.0-rc3
 projects[flexslider][type] = "module"
 
-; projects[filefield_nginx_progress][version] = 1.x-dev
-; projects[filefield_nginx_progress][type] = "module"
+projects[filefield_nginx_progress][version] = 2.3
+projects[filefield_nginx_progress][type] = "module"
 
 
 projects[imagecrop][version] = 1.x-dev
@@ -1391,6 +1393,9 @@ projects[media_crop][type] = "module"
 
 ; projects[node_gallery][version] = 1.0-beta1
 ; projects[node_gallery][type] = "module"
+
+projects[galleryformatter][version] = 1.3
+projects[galleryformatter][type] = "module"
 
 projects[soundcloudfield][version] = 1.x-dev
 projects[soundcloudfield][type] = "module"
