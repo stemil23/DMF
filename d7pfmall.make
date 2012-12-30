@@ -352,7 +352,7 @@ projects[arrange_fields][version] = 1.9
 projects[arrange_fields][type] = "module"
 projects[conditional_fields][version] = 3.x-dev
 projects[conditional_fields][type] = "module"
-projects[field_collection][version] = 1.0-beta4
+projects[field_collection][version] = 1.0-beta5
 projects[field_collection][type] = "module"
 projects[field_collection_views][version] = 1.0-beta3
 projects[field_collection_views][type] = "module"
@@ -560,6 +560,11 @@ projects[domains_metatag][version] = 1.1
 projects[domains_metatag][type] = "module"
 
 
+projects[prelaunch][version] = 1.0
+projects[prelaunch][type] = "module"
+projects[invitation][version] = 1.1
+projects[invitation][type] = "module"
+
 projects[dynamic_background][version] = 1.10
 projects[dynamic_background][type] = "module"
 projects[bg_image][version] = 1.0-rc4
@@ -658,7 +663,7 @@ projects[honeypot][version] = 1.13
 projects[honeypot][type] = "module"
 projects[captcha][version] = 1.0-beta2
 projects[captcha][type] = "module"
-projects[captcha-free][version] = 1.4
+projects[captcha-free][version] = 1.5
 projects[captcha-free][type] = "module"
 projects[captcha_after][version] = 1.1
 projects[captcha_after][type] = "module"
@@ -749,7 +754,7 @@ projects[touch_icons][type] = "module"
 ; projects[twitter_pull][type] = "module"
 ; projects[twitter_db][version] = 1.0-rc3
 ; projects[twitter_db][type] = "module"
-projects[twitter][version] = 4.1
+projects[twitter][version] = 5.1
 projects[twitter][type] = "module"
 
 projects[drupagram][version] = 1.2
@@ -992,7 +997,7 @@ projects[subpathauto][type] = "module"
 projects[trailing_slash][version] = 1.0
 projects[trailing_slash][type] = "module"
 
-projects[profile2][version] = 1.2
+projects[profile2][version] = 1.3
 projects[profile2][type] = "module"
 projects[profileplus][version] = 1.x-dev
 projects[profileplus][type] = "module"
@@ -1356,7 +1361,7 @@ projects[oauth][version] = 3.x-dev
 projects[oauth][type] = "module"
 projects[oauthconnector][version] = 1.x-dev	
 projects[oauthconnector][type] = "module"
-projects[fboauth][version] = 1.5
+projects[fboauth][version] = 1.6
 projects[fboauth][type] = "module"
 projects[linkedin][version] = 1.x-dev
 projects[linkedin][type] = "module"
@@ -1511,6 +1516,8 @@ projects[htmlpurifier][type] = "module"
 
 ; projects[blockcache_alter][version] = 1.0
 ; projects[blockcache_alter][type] = "module"
+projects[ajax_links_api][version] = 1.7
+projects[ajax_links_api][type] = "module"
 projects[ajaxblocks][version] = 1.3
 projects[ajaxblocks][type] = "module"
 ; projects[peekaboo][version] = 2.0
@@ -1678,7 +1685,7 @@ projects[google_image_sitemap][type] = "module"
 ; projects[scheduler_workbench][type] = "module"
 ; projects[workbench_moderation][version] = 1.2
 ; projects[workbench_moderation] = "module"
-; projects[workbench_email][version] = 1.2
+; projects[workbench_email][version] = 2.0
 ; projects[workbench_email] = "module"
     
   
@@ -1947,6 +1954,15 @@ libraries[superfish][download][type] = "git"
 libraries[superfish][download][url] = "https://github.com/mehrpadin/Superfish-for-Drupal.git"
 libraries[superfish][directory_name] = "superfish"
 libraries[superfish][destination] = "libraries"
+
+
+;hybridauth
+libraries[hybridauth][download][type] = "get"
+libraries[hybridauth][download][url] = "http://sourceforge.net/projects/hybridauth/files/hybridauth-2.1.0.zip"
+libraries[hybridauth][directory_name] = "hybridauth"
+libraries[hybridauth][destination] = "libraries"
+
+
 
 
 ;jQuery Cycle Plugin
