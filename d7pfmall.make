@@ -562,7 +562,7 @@ projects[domains_metatag][type] = "module"
 
 projects[prelaunch][version] = 1.0
 projects[prelaunch][type] = "module"
-projects[invitation][version] = 1.1
+projects[invitation][version] = 1.0
 projects[invitation][type] = "module"
 
 projects[dynamic_background][version] = 1.10
@@ -748,8 +748,8 @@ projects[touch_icons][type] = "module"
 ; projects[jquerymobile][version] = 2.0-beta1
 ; projects[jquerymobile][type] = "module"
 
-; projects[jquery_twitter_search][version] = 1.0
-; projects[jquery_twitter_search][type] = "module"
+projects[jquery_twitter_search][version] = 2.2
+projects[jquery_twitter_search][type] = "module"
 ; projects[twitter_pull][version] = 1.0-rc4
 ; projects[twitter_pull][type] = "module"
 ; projects[twitter_db][version] = 1.0-rc3
