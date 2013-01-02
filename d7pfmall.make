@@ -828,7 +828,7 @@ projects[addressfield_tokens][type] = "module"
 
 projects[location_taxonomize][version] = 2.4
 projects[location_taxonomize][type] = "module"
-projects[getlocations][version] = 1.5
+projects[getlocations][version] = 1.x-dev
 projects[getlocations][type] = "module"
 
 projects[contactinfo][version] = 1.0-rc1
