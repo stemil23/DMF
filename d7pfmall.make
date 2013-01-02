@@ -544,7 +544,7 @@ projects[delta][type] = "module"
 projects[diff][version] = 3.2
 projects[diff][type] = "module"
 
-projects[domain][version] = 3.6
+projects[domain][version] = 3.7
 projects[domain][type] = "module"
 projects[domain_blocks][version] = 3.0-alpha1
 projects[domain_blocks][type] = "module"
@@ -694,10 +694,13 @@ projects[filefield_nginx_progress][version] = 2.3
 projects[filefield_nginx_progress][type] = "module"
 
 
-projects[imagecrop][version] = 1.x-dev
-projects[imagecrop][type] = "module"
-projects[imagefield_crop][version] = 2.x-dev
-projects[imagefield_crop][type] = "module"
+projects[manual-crop][version] = 1.4
+projects[manual-crop][type] = "module"
+
+; projects[imagecrop][version] = 1.x-dev
+; projects[imagecrop][type] = "module"
+; projects[imagefield_crop][version] = 2.x-dev
+; projects[imagefield_crop][type] = "module"
 
 projects[image_resize_filter][version] = 1.13
 projects[image_resize_filter][type] = "module"
@@ -754,7 +757,7 @@ projects[jquery_twitter_search][type] = "module"
 ; projects[twitter_pull][type] = "module"
 ; projects[twitter_db][version] = 1.0-rc3
 ; projects[twitter_db][type] = "module"
-projects[twitter][version] = 5.1
+projects[twitter][version] = 5.2
 projects[twitter][type] = "module"
 
 projects[drupagram][version] = 1.2
@@ -884,7 +887,7 @@ projects[menu_block][type] = "module"
 ; projects[jquerymenu][version] = 2.0-alpha5
 ; projects[jquerymenu][type] = "module"
 
-projects[accordion_menu][version] = 1.1
+projects[accordion_menu][version] = 1.2
 projects[accordion_menu][type] = "module"
 projects[menu_position][version] = 1.1
 projects[menu_position][type] = "module"
@@ -954,7 +957,7 @@ projects[galleria][version] = 1.0-beta3
 projects[galleria][type] = "module"
 
 
-projects[openlayers][version] = 2.0-beta1
+projects[openlayers][version] = 2.0-beta3
 projects[openlayers][type] = "module"
 
 projects[leaflet][version] = 1.0-beta1
@@ -1326,8 +1329,8 @@ projects[video_embed_field_overlay][type] = "module"
 projects[domwindow][version] = 1.x-dev
 projects[domwindow][type] = "module"
 
-projects[epsacrop][version] = 2.2
-projects[epsacrop][type] = "module"
+; projects[epsacrop][version] = 2.2
+; projects[epsacrop][type] = "module"
 
 projects[file_entity][version] = 2.0-unstable7
 projects[file_entity][type] = "module"
