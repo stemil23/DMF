@@ -123,7 +123,7 @@ projects[commerce_vbo_views][version] = 1.2
 projects[commerce_vbo_views][type] = "module"
 projects[commerce_moa][version] = 1.4
 projects[commerce_moa][type] = "module"
-projects[commerce_auto_product_display][version] = 1.3
+projects[commerce_auto_product_display][version] = 1.4
 projects[commerce_auto_product_display][type] = "module"
 ; projects[commerce_delivery][version] = 1.0-alpha5
 ; projects[commerce_delivery][type] = "module"
@@ -217,7 +217,7 @@ projects[interval][type] = "module"
 projects[timeago][version] = 2.1
 projects[timeago][type] = "module"
 
-; projects[opening_hours][version] = 1.x-dev
+; projects[opening_hours][version] = 1.3
 ; projects[opening_hours][type] = "module"
 ; projects[tipsy][version] = 1.0-rc1
 ; projects[tipsy][type] = "module"
@@ -277,6 +277,9 @@ projects[robotstxt][type] = "module"
 ; projects[textile][version] = 2.0-rc11
 ; projects[textile][type] = "module"
 
+projects[linked_field][version] = 1.6
+projects[linked_field][type] = "module"
+
 projects[link][version] = 1.0
 projects[link][type] = "module"
 projects[nodereference_url][version] = 1.12
@@ -289,8 +292,8 @@ projects[node_embed][version] = 1.1
 projects[node_embed][type] = "module"
 projects[viewreference][version] = 3.4
 projects[viewreference][type] = "module"
-projects[references][version] = 2.x-dev
-projects[references][type] = "module"
+; projects[references][version] = 2.x-dev
+; projects[references][type] = "module"
 
 
 projects[cnr][version] = 4.x-dev
@@ -457,7 +460,7 @@ projects[author_pane][version] = 2.0-beta1
 projects[author_pane][type] = "module"
 projects[auto_nodetitle][version] = 1.0
 projects[auto_nodetitle][type] = "module"
-projects[exclude_node_title][version] = 1.5
+projects[exclude_node_title][version] = 1.6
 projects[exclude_node_title][type] = "module"
 
 projects[backup_migrate][version] = 2.4
@@ -577,8 +580,10 @@ projects[entity_autocomplete][version] = 1.0-beta2
 projects[entity_autocomplete][type] = "module"
 projects[inline_entity_form][version] = 1.x-dev
 projects[inline_entity_form][type] = "module"
+
 projects[entityreference][version] = 1.0
 projects[entityreference][type] = "module"
+
 projects[entitycache][version] = 1.x-dev
 projects[entitycache][type] = "module"
 projects[entityreference_prepopulate][version] = 1.1
@@ -589,6 +594,11 @@ projects[entityreference_multiple][version] = 1.0
 projects[entityreference_multiple][type] = "module"
 projects[eva][version] = 1.x-dev
 projects[eva][type] = "module"
+
+projects[blockreference][version] = 1.15
+projects[blockreference][type] = "module"
+projects[multiple_selects][version] = 1.2
+projects[multiple_selects][type] = "module"
 
 
 projects[elements][version] = 1.2
@@ -913,6 +923,9 @@ projects[messaging][type] = "module"
 projects[metatag][version] = 1.0-beta4
 projects[metatag][type] = "module"
 
+projects[opengraph_filter][version] = 1.0-beta1
+projects[opengraph_filter][type] = "module"
+
 ; projects[schemaorg][version] = 1.0-beta3
 ; projects[schemaorg][type] = "module"
 
@@ -975,7 +988,7 @@ projects[leaflet_geojson][type] = "module"
 
 ; projects[weather][version] = 1.2
 ; projects[weather][type] = "module"
-projects[smart_ip][version] = 1.7
+projects[smart_ip][version] = 1.8
 projects[smart_ip][type] = "module"
 
 projects[geofield][version] = 1.1
@@ -1022,6 +1035,8 @@ projects[email_confirm][type] = "module"
 
 projects[apachesolr][version] = 1.1
 projects[apachesolr][type] = "module"
+projects[apachesolr_autocomplete][version] = 1.3
+projects[apachesolr_autocomplete][type] = "module"
 projects[apachesolr_panels][version] = 1.1
 projects[apachesolr_panels][type] = "module"
 projects[apachesolr_proximity][version] = 1.0-rc1
@@ -1126,6 +1141,8 @@ projects[commerce_search_api][type] = "module"
 ; projects[search_api_saved_searches][type] = "module"
 projects[facetapi][version] = 1.2
 projects[facetapi][type] = "module"
+projects[facetapi_bonus][version] = 1.1
+projects[facetapi_bonus][type] = "module"
 projects[facetapi_pretty_paths][version] = 1.0-alpha9
 projects[facetapi_pretty_paths][type] = "module"
 
@@ -1388,6 +1405,9 @@ projects[media_colorbox][version] = 1.0-rc3
 projects[media_colorbox][type] = "module"
 projects[media_youtube][version] = 2.0-rc1
 projects[media_youtube][type] = "module"
+projects[media_vimeo][version] = 2.0-rc1
+projects[media_vimeo][type] = "module"
+
 projects[media_flickr][version] = 1.0-alpha3
 projects[media_flickr][type] = "module"
 projects[media_gallery][version] = 1.0-beta8
@@ -1614,7 +1634,7 @@ projects[webform_template][version] = 1.2
 projects[webform_template][type] = "module"
 projects[webform_validation][version] = 1.1
 projects[webform_validation][type] = "module"
-projects[clientside_validation][version] = 1.36
+projects[clientside_validation][version] = 1.37
 projects[clientside_validation][type] = "module"
 projects[webform_conditional_confirmation][version] = 1.0
 projects[webform_conditional_confirmation][type] = "module"
@@ -1646,7 +1666,7 @@ projects[select_or_other][version] = 2.15
 projects[select_or_other][type] = "module"
 projects[improved_multi_select][version] = 1.2
 projects[improved_multi_select][type] = "module"
-projects[select_with_style][version] = 1.4
+projects[select_with_style][version] = 1.5
 projects[select_with_style][type] = "module"
 
 
