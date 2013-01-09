@@ -677,6 +677,9 @@ projects[captcha-free][version] = 1.5
 projects[captcha-free][type] = "module"
 projects[captcha_after][version] = 1.1
 projects[captcha_after][type] = "module"
+projects[botcha][version] = 1.9
+projects[botcha][type] = "module"
+
 projects[recaptcha][version] = 1.8
 projects[recaptcha][type] = "module"
 
@@ -1772,8 +1775,8 @@ projects[nucleus][version] = 1.2
 projects[nucleus][type] = "theme"
 ; projects[tb_purity][version] = 1.0-beta1
 ; projects[tb_purity][type] = "theme"
-; projects[tb_sirate][version] = 1.0-beta1
-; projects[tb_sirate][type] = "theme"
+projects[tb_sirate][version] = 1.0
+projects[tb_sirate][type] = "theme"
 ; projects[tb_blog][version] = 1.0-beta1
 ; projects[tb_blog][type] = "theme"
 
