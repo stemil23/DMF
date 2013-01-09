@@ -677,7 +677,7 @@ projects[captcha-free][version] = 1.5
 projects[captcha-free][type] = "module"
 projects[captcha_after][version] = 1.1
 projects[captcha_after][type] = "module"
-projects[botcha][version] = 1.9
+projects[botcha][version] = 1.4
 projects[botcha][type] = "module"
 
 projects[recaptcha][version] = 1.8
