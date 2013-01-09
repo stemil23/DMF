@@ -1408,7 +1408,7 @@ projects[media_colorbox][version] = 1.0-rc3
 projects[media_colorbox][type] = "module"
 projects[media_youtube][version] = 2.0-rc1
 projects[media_youtube][type] = "module"
-projects[media_vimeo][version] = 2.0-rc1
+projects[media_vimeo][version] = 1.0-beta5
 projects[media_vimeo][type] = "module"
 
 projects[media_flickr][version] = 1.0-alpha3
