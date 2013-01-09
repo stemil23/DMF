@@ -2041,7 +2041,7 @@ libraries[glmarkers][destination] = "libraries"
 
 ;htmlpurifier
 libraries[htmlpurifier][download][type] = "get"
-libraries[htmlpurifier][download][url] = "http://htmlpurifier.org/releases/htmlpurifier-4.4.0.zip"
+libraries[htmlpurifier][download][url] = "http://htmlpurifier.org/releases/htmlpurifier-4.4.0.tar.gz"
 libraries[htmlpurifier][directory_name] = "htmlpurifier"
 libraries[htmlpurifier][destination] = "libraries"
 
