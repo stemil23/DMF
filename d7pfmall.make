@@ -151,7 +151,7 @@ projects[commerce_couponprodref][type] = "module"
 projects[commerce_checkout_redirect][version] = 1.0-beta1
 projects[commerce_checkout_redirect][type] = "module"
 
-projects[payment][version] = 1.1
+projects[payment][version] = 1.3
 projects[payment][type] = "module"
 projects[payment_commerce][version] = 1.1
 projects[payment_commerce][type] = "module"
@@ -677,7 +677,7 @@ projects[captcha-free][version] = 1.5
 projects[captcha-free][type] = "module"
 projects[captcha_after][version] = 1.1
 projects[captcha_after][type] = "module"
-projects[botcha][version] = 1.4
+projects[botcha][version] = 1.5
 projects[botcha][type] = "module"
 
 projects[recaptcha][version] = 1.8
@@ -1136,7 +1136,7 @@ projects[custom_search][version] = 1.11
 projects[custom_search][type] = "module"
 projects[search_autocomplete][version] = 3.0
 projects[search_autocomplete][type] = "module"
-projects[search_api][version] = 1.3
+projects[search_api][version] = 1.4
 projects[search_api][type] = "module"
 projects[commerce_search_api][version] = 1.0-rc1
 projects[commerce_search_api][type] = "module"
@@ -1379,6 +1379,9 @@ projects[fb][type] = "module"
 
 projects[hybridauth][version] = 2.5
 projects[hybridauth][type] = "module"
+
+projects[social-login][version] = 1.3
+projects[social-login][type] = "module"
 
 projects[oauth][version] = 3.x-dev
 projects[oauth][type] = "module"
