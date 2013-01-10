@@ -194,6 +194,11 @@ projects[context_list][version] = 1.1
 projects[context_list][type] = "module"
 projects[context_admin][version] = 1.x-dev
 projects[context_admin][type] = "module"
+
+projects[contextual_view_modes][version] = 1.2
+projects[contextual_view_modes][type] = "module"
+
+
 ; projects[context_metadata][version] = 1.2
 ; projects[context_metadata][type] = "module"
 ; projects[context_mobile_detect][version] = 1.1
