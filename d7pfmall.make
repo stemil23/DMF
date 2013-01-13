@@ -83,6 +83,8 @@ projects[commerce_price_savings_formatter][version] = 1.3
 projects[commerce_price_savings_formatter][type] = "module"
 projects[commerce_extra_price_formatters][version] = 1.1
 projects[commerce_extra_price_formatters][type] = "module"
+projects[commerce_extra_panes][version] = 1.1
+projects[commerce_extra_panes][type] = "module"
 projects[commerce_stock][version] = 1.x-dev
 projects[commerce_stock][type] = "module"
 projects[commerce_product_bundle][version] = 1.0-alpha6
@@ -329,7 +331,7 @@ projects[imce_plupload][version] = 1.1
 projects[imce_plupload][type] = "module"
 
 
-projects[i18n][version] = 1.7
+projects[i18n][version] = 1.8
 projects[i18n][type] = "module"
 projects[languageicons][version] = 1.0
 projects[languageicons][type] = "module"
@@ -738,6 +740,8 @@ projects[imageapi_optimize][type] = "module"
 ; projects[pdfpreview][version] = 2.1
 ; projects[pdfpreview][type] = "module"
 
+projects[imagecache_defaults][version] = 1.0-beta4
+projects[imagecache_defaults][type] = "module"
 projects[imagecache_actions][version] = 1.0
 projects[imagecache_actions][type] = "module"
 projects[imagecache_profiles][version] = 1.0
@@ -832,6 +836,9 @@ projects[lexicon][type] = "module"
 projects[ip_geoloc][version] = 1.18
 projects[ip_geoloc][type] = "module"
 
+projects[visitors][version] = 1.4
+projects[visitors][type] = "module"
+
 projects[state][version] = 1.2
 projects[state][type] = "module"
 
@@ -900,7 +907,7 @@ projects[shortcutperrole][version] = 1.1
 projects[shortcutperrole][type] = "module"
 
 
-projects[menu_block][version] = 2.3
+projects[menu_block][version] = 2.x-dev
 projects[menu_block][type] = "module"
 ; projects[jquerymenu][version] = 2.0-alpha5
 ; projects[jquerymenu][type] = "module"
@@ -1303,6 +1310,9 @@ projects[taxonomy_menu][type] = "module"
 projects[taxonomy_access][version] = 1.x-dev
 projects[taxonomy_access][type] = "module"
 
+projects[taxonomy_title][version] = 1.x-dev
+projects[taxonomy_title][type] = "module"
+
 projects[taxonomy_menu_trails][version] = 2.5
 projects[taxonomy_menu_trails][type] = "module"
 
@@ -1479,7 +1489,7 @@ projects[plupload][type] = "module"
 
 projects[mandrill][version] = 1.2
 projects[mandrill][type] = "module"
-projects[mailchimp][version] = 2.7
+projects[mailchimp][version] = 2.9
 projects[mailchimp][type] = "module"
 
 projects[user_alert][version] = 1.8
@@ -1612,7 +1622,7 @@ projects[slidebox][version] = 1.6
 projects[slidebox][type] = "module"
 
 
-projects[variable][version] = 2.1
+projects[variable][version] = 2.2
 projects[variable][type] = "module"
 projects[variable_clean][version] = 1.x-dev
 projects[variable_clean][type] = "module"
