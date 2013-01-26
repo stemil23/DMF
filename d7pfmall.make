@@ -1007,7 +1007,7 @@ projects[leaflet_more_maps][version] = 1.0
 projects[leaflet_more_maps][type] = "module"
 projects[leaflet_markercluster][version] = 1.x-dev
 projects[leaflet_markercluster][type] = "module"
-projects[leaflet_geojson][version] = 1.0-beta6
+projects[leaflet_geojson][version] = 1.0-alpha3
 projects[leaflet_geojson][type] = "module"
 
 ; ABANDONED PROJECT
@@ -1777,8 +1777,8 @@ projects[workbench][type] = "module"
 ; projects[workbench_profile][type] = "module"
 ; projects[scheduler_workbench][version] = 1.0-alpha3
 ; projects[scheduler_workbench][type] = "module"
-projects[workbench_moderation][version] = 1.3
-projects[workbench_moderation] = "module"
+; projects[workbench_moderation][version] = 1.3
+; projects[workbench_moderation] = "module"
 ; projects[workbench_email][version] = 2.0
 ; projects[workbench_email] = "module"
     
