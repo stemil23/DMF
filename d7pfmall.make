@@ -312,8 +312,8 @@ projects[node_embed][type] = "module"
 projects[viewreference][version] = 3.4
 projects[viewreference][type] = "module"
 
-; keeping references open for mademoiselles Feb 2013
-projects[references][version] = 2.x-dev
+
+projects[references][version] = 2.1
 projects[references][type] = "module"
 
 
@@ -703,7 +703,7 @@ projects[fontyourface][type] = "module"
 ; projects[homebox][version] = 2.0-beta6
 ; projects[homebox][type] = "module"
 
-projects[httpbl][version] = 1.0
+projects[httpbl][version] = 1.10
 projects[httpbl][type] = "module"
 
 projects[honeypot][version] = 1.14
