@@ -564,8 +564,8 @@ projects[custom_formatters][type] = "module"
 projects[field_formatter_css_class][version] = 1.2
 projects[field_formatter_css_class][type] = "module"
 
-projects[field_extractor][version] = 1.2
-projects[field_extractor	][type] = "module"
+projects[field_extractor][version] = 1.3
+projects[field_extractor][type] = "module"
 
 projects[smart_trim][version] = 1.4
 projects[smart_trim][type] = "module"
