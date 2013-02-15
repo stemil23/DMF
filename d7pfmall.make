@@ -3,16 +3,16 @@
 ; ------------
 ; Each makefile should begin by declaring the core version of Drupal that all
 ; projects should be compatible with.
-  
+
 ; core = 7.x
-  
+
 ; API version
 ; ------------
 ; Every makefile needs to declare its Drush Make API version. This version of
 ; drush make uses API version `2`.
-  
+
 api = 2
-  
+
 ; Core project
 ; ------------
 ; In order for your makefile to generate a full Drupal site, you must include
@@ -31,9 +31,9 @@ api = 2
 ; projects[drupal][download][url] = "git://git.drupal.org/project/drupal.git"
 
 core = 7.x
-  
+
 projects[] = drupal
-  
+
 ; Modules
 ; --------
 
@@ -71,7 +71,7 @@ projects[itoggle][type] = "module"
 projects[options_element][version] = 1.8
 projects[options_element][type] = "module"
 
-projects[commerce][version] = 1.4
+projects[commerce][version] = 1.5
 projects[commerce][type] = "module"
 projects[commerce_checkout_progress][version] = 1.2
 projects[commerce_checkout_progress][type] = "module"
@@ -134,7 +134,7 @@ projects[commerce_auto_product_display][type] = "module"
 ; projects[commerce_delivery][type] = "module"
 projects[commerce_saleprice][version] = 1.0-beta4
 projects[commerce_saleprice][type] = "module"
-projects[commerce_backoffice][version] = 1.x-dev
+projects[commerce_backoffice][version] = 1.1
 projects[commerce_backoffice][type] = "module"
 projects[commerce_flat_rate][version] = 1.0-beta2
 projects[commerce_flat_rate][type] = "module"
@@ -142,6 +142,8 @@ projects[commerce_reports][version] = 3.0-beta2
 projects[commerce_reports][type] = "module"
 projects[commerce_cart_view_override][version] = 1.1
 projects[commerce_cart_view_override][type] = "module"
+projects[commerce_add_to_cart_confirmation][version] = 1.0-rc2
+projects[commerce_add_to_cart_confirmation][type] = "module"
 
 projects[commerce_product_attributes][version] = 1.x-dev
 projects[commerce_product_attributes][type] = "module"
@@ -163,9 +165,9 @@ projects[commerce_couponprodref][type] = "module"
 projects[commerce_checkout_redirect][version] = 1.0-beta1
 projects[commerce_checkout_redirect][type] = "module"
 
-projects[payment][version] = 1.3
+projects[payment][version] = 1.4
 projects[payment][type] = "module"
-projects[payment_commerce][version] = 1.1
+projects[payment_commerce][version] = 1.2
 projects[payment_commerce][type] = "module"
 
 
@@ -266,7 +268,7 @@ projects[feeds_node_helper][type] = "module"
 ; projects[feeds_imagegrabber][version] = 1.0-alpha2
 ; projects[feeds_imagegrabber][type] = "module"
 
-projects[content_taxonomy][version] = 1.0-beta1
+projects[content_taxonomy][version] = 1.0-beta2
 projects[content_taxonomy][type] = "module"
 
 projects[email][version] = 1.2
@@ -297,7 +299,7 @@ projects[robotstxt][type] = "module"
 projects[linked_field][version] = 1.8
 projects[linked_field][type] = "module"
 
-projects[link][version] = 1.0
+projects[link][version] = 1.1
 projects[link][type] = "module"
 projects[nodereference_url][version] = 1.12
 projects[nodereference_url][type] = "module"
@@ -309,8 +311,10 @@ projects[node_embed][version] = 1.1
 projects[node_embed][type] = "module"
 projects[viewreference][version] = 3.4
 projects[viewreference][type] = "module"
-; projects[references][version] = 2.x-dev
-; projects[references][type] = "module"
+
+; keeping references open for mademoiselles Feb 2013
+projects[references][version] = 2.x-dev
+projects[references][type] = "module"
 
 
 projects[cnr][version] = 4.x-dev
@@ -359,8 +363,10 @@ projects[countries][type] = "module"
 
 projects[nodequeue][version] = 2.0-beta1
 projects[nodequeue][type] = "module"
-projects[og][version] = 2.0-rc3
+projects[og][version] = 2.0-rc4
 projects[og][type] = "module"
+projects[og_vocab][version] = 1.0
+projects[og_vocab][type] = "module"
 ; projects[og_role_field][version] = 1.0
 ; projects[og_role_field][type] = "module"
 projects[og_extras][version] = 1.x-dev
@@ -558,6 +564,9 @@ projects[custom_formatters][type] = "module"
 projects[field_formatter_css_class][version] = 1.2
 projects[field_formatter_css_class][type] = "module"
 
+projects[field_extractor][version] = 1.2
+projects[field_extractor	][type] = "module"
+
 projects[smart_trim][version] = 1.4
 projects[smart_trim][type] = "module"
 
@@ -653,7 +662,7 @@ projects[flag][type] = "module"
 ; projects[flag_expire][version] = 3.0-beta2
 ; projects[flag_expire][type] = "module"
 
-projects[front][version] = 2.1
+projects[front][version] = 2.2
 projects[front][type] = "module"
 
 ; projects[getid3][version] = 1.0
@@ -865,7 +874,7 @@ projects[ip_geoloc][type] = "module"
 projects[visitors][version] = 1.4
 projects[visitors][type] = "module"
 
-projects[state][version] = 1.2
+projects[state][version] = 1.3
 projects[state][type] = "module"
 
 projects[addressfield][version] = 1.0-beta3
@@ -972,7 +981,7 @@ projects[opengraph_filter][type] = "module"
 
 
 
-projects[modernizr][version] = 3.0-beta3
+projects[modernizr][version] = 3.0
 projects[modernizr][type] = "module"
 ; projects[module_builder][version] = 2.x-dev
 ; projects[module_builder][type] = "module"
@@ -1133,7 +1142,7 @@ projects[adaptive_image][type] = "module"
 
 projects[ais][version] = 1.x-dev
 projects[ais][type] = "module" 
- 
+
 projects[scheduler][version] = 1.x-dev
 projects[scheduler][type] = "module"
 
@@ -1299,8 +1308,10 @@ projects[fences][type] = "module"
 
 projects[panels][version] = 3.3
 projects[panels][type] = "module"
-projects[panelizer][version] = 2.x-dev
+projects[panelizer][version] = 3.1
 projects[panelizer][type] = "module"
+projects[panel_variant_page_title][version] = 1.1
+projects[panel_variant_page_title][type] = "module"
 projects[panels_extra_layouts][version] = 1.5
 projects[panels_extra_layouts][type] = "module"
 projects[panels_breadcrumbs][version] = 1.6
@@ -1645,7 +1656,7 @@ projects[unique_field][version] = 1.0-rc1
 projects[unique_field][type] = "module"
 
 projects[views][version] = 3.5
-projects[views][type] = "module"
+projects[type] = "module"
 projects[views_hacks][version] = 1.0-alpha1
 projects[views_hacks][type] = "module"
 projects[insert_view][version] = 2.0
@@ -1654,6 +1665,8 @@ projects[masonry][version] = 1.1
 projects[masonry][type] = "module"
 projects[field_formatter_settings][version] = 1.0
 projects[field_formatter_settings][type] = "module"
+projects[views_fieldsets][version] = 1.1
+projects[views_fieldsets][type] = "module"
 
 projects[views_rss][version] = 2.0-rc3
 projects[views_rss][type] = "module"
@@ -1823,8 +1836,8 @@ projects[workbench][type] = "module"
 ; projects[workbench_moderation] = "module"
 ; projects[workbench_email][version] = 2.0
 ; projects[workbench_email] = "module"
-    
-  
+
+
 
 ; Themes
 ; --------
@@ -1975,7 +1988,7 @@ projects[business][type] = "theme"
 ; projects[nivo_slider][type] = "module"
 ; projects[nivo_slider][download][type] = "git"
 ; projects[nivo_slider][download][url]="https://stemil23@github.com/stemil23/nivo_slider.git"
-  
+
 ; Libraries
 ; ---------
 
@@ -2187,7 +2200,7 @@ libraries[cloudzoom][destination] = "libraries"
 ; libraries[headjs][download][url] = https://github.com/headjs/headjs.git
 ; libraries[headjs][download][tag] = v0.96
 
- SocialiteJS
+SocialiteJS
 libraries[socialitejs][download][type] = git
 libraries[socialitejs][download][url] = git://github.com/dbushell/Socialite.git
 libraries[socialitejs][directory_name] = "socialitejs"
