@@ -705,7 +705,7 @@ projects[fontyourface][type] = "module"
 ; projects[homebox][version] = 2.0-beta6
 ; projects[homebox][type] = "module"
 
-projects[httpbl][version] = 1.10
+projects[httpbl][version] = 1.0
 projects[httpbl][type] = "module"
 
 projects[honeypot][version] = 1.14
