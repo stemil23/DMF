@@ -659,6 +659,8 @@ projects[filefield_role_limit][type] = "module"
 
 projects[flag][version] = 2.0
 projects[flag][type] = "module"
+projects[bookmarkorganizer][version] = 1.1
+projects[bookmarkorganizer][type] = "module"
 ; projects[flag_expire][version] = 3.0-beta2
 ; projects[flag_expire][type] = "module"
 
@@ -1300,7 +1302,7 @@ projects[views_showcase][type] = "module"
 
 projects[field_slideshow][version] = 1.6
 projects[field_slideshow][type] = "module"
-projects[galerie][version] = 1.8
+projects[galerie][version] = 1.10
 projects[galerie][type] = "module"
 
 projects[fences][version] = 1.0
@@ -1656,7 +1658,7 @@ projects[unique_field][version] = 1.0-rc1
 projects[unique_field][type] = "module"
 
 projects[views][version] = 3.5
-projects[type] = "module"
+projects[views][type] = "module"
 projects[views_hacks][version] = 1.0-alpha1
 projects[views_hacks][type] = "module"
 projects[insert_view][version] = 2.0
