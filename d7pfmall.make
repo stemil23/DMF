@@ -2084,7 +2084,7 @@ libraries[ckeditor][destination] = "libraries"
 
 ; Colorbox
 libraries[colorbox][download][type]= "git"
-libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox/archive/master.zip"
+libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox.git"
 libraries[colorbox][directory_name] = "colorbox"
 libraries[colorbox][destination] = "libraries"
 
