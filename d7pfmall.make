@@ -1350,7 +1350,7 @@ projects[term_reference_tree][type] = "module"
 projects[submenutree][version] = 2.3
 projects[submenutree][type] = "module"
 
-projects[superfish][version] = 1.1.x-dev
+projects[superfish][version] = 1.x-dev
 projects[superfish][type] = "module"
 
 projects[token][version] = 1.5
