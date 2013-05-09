@@ -955,7 +955,7 @@ projects[visitors][type] = "module"
 projects[state][version] = 1.3
 projects[state][type] = "module"
 
-projects[addressfield][version] = 1.0-beta5
+projects[addressfield][version] = 1.0-beta4
 projects[addressfield][type] = "module"
 projects[addressfield_phone][version] = 1.1
 projects[addressfield_phone][type] = "module"
