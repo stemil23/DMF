@@ -2270,10 +2270,10 @@ libraries[jquerycycle][directory_name] = "jquery.cycle"
 libraries[jquerycycle][destination] = "libraries"
 
 ;Superfish
-libraries[superfish][download][type] = "git"
-libraries[superfish][download][url] = "https://github.com/mehrpadin/Superfish-for-Drupal.git"
-libraries[superfish][directory_name] = "superfish"
-libraries[superfish][destination] = "libraries"
+; libraries[superfish][download][type] = "git"
+; libraries[superfish][download][url] = "https://github.com/mehrpadin/Superfish-for-Drupal.git"
+; libraries[superfish][directory_name] = "superfish"
+; libraries[superfish][destination] = "libraries"
 
 
 ;hybridauth
