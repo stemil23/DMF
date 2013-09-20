@@ -472,7 +472,7 @@ projects[mimemail][type] = "module"
 
 projects[colorbox][version] = 2.4
 projects[colorbox][type] = "module"
-projects[colorbox_node][version] = 3.0
+projects[colorbox_node][version] = 3.1
 projects[colorbox_node][type] = "module"
 
 ; projects[roadblock][version] = 1.0-rc1
@@ -520,7 +520,7 @@ projects[css_emimage][type] = "module"
 projects[browserclass][version] = 1.5
 projects[browserclass][type] = "module"
 
-projects[chosen][version] = 2.0-alpha3
+projects[chosen][version] = 2.0-alpha4
 projects[chosen][type] = "module"
 projects[chain_menu_access][version] = 1.0
 projects[chain_menu_access][type] = "module"
@@ -1578,7 +1578,7 @@ projects[taxonomy_edge][type] = "module"
 projects[vars][version] = 2.0-alpha10
 projects[vars][type] = "module"
 
-projects[private_taxonomy][version] = 1.4
+projects[private_taxonomy][version] = 1.5
 projects[private_taxonomy][type] = "module"
 projects[term_permissions][version] = 1.0-beta2
 projects[term_permissions][type] = "module"
@@ -1867,8 +1867,8 @@ projects[field_formatter_settings][version] = 1.1
 projects[field_formatter_settings][type] = "module"
 projects[views_fieldsets][version] = 1.1
 projects[views_fieldsets][type] = "module"
-projects[views_quicksand][version] = 1.0-beta8
-projects[views_quicksand][type] = "module"
+; projects[views_quicksand][version] = 1.0-beta8
+; projects[views_quicksand][type] = "module"
 projects[views_autocomplete_filters][version] = 1.0
 projects[views_autocomplete_filters][type] = "module"
 
@@ -2334,10 +2334,10 @@ libraries[leaflet_markercluster][directory_name] = "leaflet_markercluster"
 libraries[leaflet_markercluster][destination] = "libraries"
 
 ; Masonry
-libraries[masonry][download][type] = "get"
-libraries[masonry][download][url] = "http://masonry.desandro.com/jquery.masonry.min.js"
-libraries[masonry][download][target_name] = "jquery.masonry.min.js"
-libraries[masonry][directory_name] = "masonry"
+; libraries[masonry][download][type] = "get"
+; libraries[masonry][download][url] = "http://masonry.desandro.com/jquery.masonry.min.js"
+; libraries[masonry][download][target_name] = "jquery.masonry.min.js"
+; libraries[masonry][directory_name] = "masonry"
 
 ; Modernizr - prob create custom build and fork on my github if decide required
 libraries[modernizr][download][type] = "get"
@@ -2347,10 +2347,10 @@ libraries[modernizr][directory_name] = "modernizr"
 libraries[modernizr][destination] = "modules/modernizr"
 
 ;jQuery Cycle Plugin
-libraries[jquerycycle][download][type] = "git"
-libraries[jquerycycle][download][url] = "https://github.com/malsup/cycle.git"
-libraries[jquerycycle][directory_name] = "jquery.cycle"
-libraries[jquerycycle][destination] = "libraries"
+; libraries[jquerycycle][download][type] = "git"
+; libraries[jquerycycle][download][url] = "https://github.com/malsup/cycle.git"
+; libraries[jquerycycle][directory_name] = "jquery.cycle"
+; libraries[jquerycycle][destination] = "libraries"
 
 ;Superfish
 ; libraries[superfish][download][type] = "git"
@@ -2360,19 +2360,11 @@ libraries[jquerycycle][destination] = "libraries"
 
 
 ;hybridauth
-libraries[hybridauth][download][type] = "get"
-libraries[hybridauth][download][url] = "http://sourceforge.net/projects/hybridauth/files/hybridauth-2.1.0.zip"
-libraries[hybridauth][directory_name] = "hybridauth"
-libraries[hybridauth][destination] = "libraries"
+; libraries[hybridauth][download][type] = "get"
+; libraries[hybridauth][download][url] = "http://sourceforge.net/projects/hybridauth/files/hybridauth-2.1.0.zip"
+; libraries[hybridauth][directory_name] = "hybridauth"
+; libraries[hybridauth][destination] = "libraries"
 
-
-
-
-;jQuery Cycle Plugin
-libraries[jquerycycle][download][type] = "git"
-libraries[jquerycycle][download][url] = "https://github.com/malsup/cycle.git"
-libraries[jquerycycle][directory_name] = "jquery.cycle"
-libraries[jquerycycle][destination] = "libraries"
 
 ; qTip
 ; libraries[qtip][download][type] = "git"
