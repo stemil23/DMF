@@ -2032,8 +2032,8 @@ projects[select_with_style][type] = "module"
 projects[multiselect][version] = 1.9
 projects[multiselect][type] = "module"
 
-projects[jquery_ui_multiselect_widget][version] = 1.6
-projects[jquery_ui_multiselect_widget][type] = "module"
+; projects[jquery_ui_multiselect_widget][version] = 1.6
+; projects[jquery_ui_multiselect_widget][type] = "module"
 
 
 
@@ -2247,10 +2247,10 @@ libraries[html5bp][download][url] = "http://github.com/paulirish/html5-boilerpla
 libraries[jquery][download][type] = "file"
 libraries[jquery][download][url] = "https://ajax.googleapis.com/ajax/libs/jquery/1.6.0/jquery.min.js"
 
-libraries[jquery_ui][download][type] = "get"
-libraries[jquery_ui][download][url] = "http://jquery-ui.googlecode.com/files/jquery-ui-1.7.3.zip"
-libraries[jquery_ui][directory_name] = "jquery.ui"
-libraries[jquery_ui][destination] = "modules/jquery_ui"
+; libraries[jquery_ui][download][type] = "get"
+; libraries[jquery_ui][download][url] = "http://jquery-ui.googlecode.com/files/jquery-ui-1.7.3.zip"
+; libraries[jquery_ui][directory_name] = "jquery.ui"
+; libraries[jquery_ui][destination] = "modules/jquery_ui"
 
 ; libraries[zend_gdata][download][type] = "get"
 ; libraries[zend_gdata][download][url]= "http://framework.zend.com/releases/ZendGdata-1.10.6/ZendGdata-1.10.6.tar.gz"
