@@ -37,6 +37,20 @@ projects[] = drupal
 ; Modules
 ; --------
 
+
+projects[zurb-foundation][version] = 4.0-beta2
+projects[zurb-foundation][theme] = "module"
+projects[zurb_clearing][version] = 1.0-beta1
+projects[zurb_clearing][type] = "module"
+projects[zurb_interchange][version] = 1.0-beta3
+projects[zurb_interchange][type] = "module"
+projects[foundation_group][version] = 2.2
+projects[foundation_group][type] = "module"
+projects[zurb_twentytwenty][version] = 1.01
+projects[zurb_twentytwenty][type] = "module"
+
+
+
 projects[module_filter][version] = 1.7
 projects[module_filter][type] = "module"
 
@@ -54,6 +68,11 @@ projects[navbar][version] = 1.0-alpha10
 projects[navbar][type] = "module"
 projects[context_breakpoint][version] = 1.0-beta3
 projects[context_breakpoint][type] = "module"
+
+projects[breakpoints][version] = 1.1
+projects[breakpoints][type] = "module"
+projects[imagefield_css][version] = 1.3
+projects[imagefield_css][type] = "module"
 
 projects[coffee][version] = 2.0
 projects[coffee][type] = "module"
@@ -82,7 +101,7 @@ projects[options_element][type] = "module"
 
 projects[commerce][version] = 1.8
 projects[commerce][type] = "module"
-projects[commerce_checkout_progress][version] = 1.2
+projects[commerce_checkout_progress][version] = 1.3
 projects[commerce_checkout_progress][type] = "module"
 
 projects[commerce_line_item_cart_form][version] = 1.2
@@ -227,12 +246,12 @@ projects[nodeownership][type] = "module"
 ; projects[elysia_cron][version] = 2.1
 ; projects[elysia_cron][type] = "module"
 
-projects[splashify][version] = 1.0
+projects[splashify][version] = 1.1
 projects[splashify][type] = "module"
 
 projects[ctools][version] = 1.3
 projects[ctools][type] = "module"
-projects[context][version] = 3.0-beta7
+projects[context][version] = 3.1
 projects[context][type] = "module"
 projects[context_disable_context][version] = 3.0
 projects[context_disable_context][type] = "module"
@@ -261,7 +280,7 @@ projects[date_ical][version] = 2.4
 projects[date_ical][type] = "module"
 projects[date_popup_authored][version] = 1.1
 projects[date_popup_authored][type] = "module"
-projects[datereminder][version] = 1.1
+projects[datereminder][version] = 1.5
 projects[datereminder][type] = "module"
 projects[interval][version] = 1.0-rc1
 projects[interval][type] = "module"
@@ -294,7 +313,7 @@ projects[node_page_disable][type] = "module"
 projects[going_down][version] = 1.0
 projects[going_down][type] = "module"
 
-projects[prod_check][version] = 1.6
+projects[prod_check][version] = 1.8
 projects[prod_check][type] = "module"
 projects[performance][version] = 2.0-beta1
 projects[performance][type] = "module"
@@ -305,8 +324,10 @@ projects[ds_bootstrap_layouts][version] = 1.1
 projects[ds_bootstrap_layouts][type] = "module"
 
 
-projects[features][version] = 2.0-rc3
+projects[features][version] = 2.0
 projects[features][type] = "module"
+projects[features_override][version] = 2.0-rc1
+projects[features_override][type] = "module"
 
 projects[uuid][version] = 1.0-alpha5
 projects[uuid][type] = "module"
@@ -320,7 +341,7 @@ projects[features_extra][type] = "module"
 
 projects[feeds][version] = 2.0-alpha8
 projects[feeds][type] = "module"
-projects[feeds_tamper][version] = 1.x-dev
+projects[feeds_tamper][version] = 1.0-beta5
 projects[feeds_tamper][type] = "module"
 projects[feed_import][version] = 2.6
 projects[feed_import][type] = "module"
@@ -338,7 +359,7 @@ projects[geo_filter][version] = 1.1
 projects[geo_filter][type] = "module"
 
 
-projects[field_group][version] = 1.2
+projects[field_group][version] = 1.3
 projects[field_group][type] = "module"
 projects[bootstrap_fieldgroup][version] = 1.0
 projects[bootstrap_fieldgroup][type] = "module"
@@ -362,7 +383,7 @@ projects[robotstxt][type] = "module"
 projects[linked_field][version] = 1.8
 projects[linked_field][type] = "module"
 
-projects[link][version] = 1.1
+projects[link][version] = 1.2
 projects[link][type] = "module"
 projects[linktitle][version] = 1.3
 projects[linktitle][type] = "module"
@@ -406,12 +427,15 @@ projects[imce_mkdir][version] = 1.0
 projects[imce_mkdir][type] = "module"
 projects[imce_tools][version] = 1.1
 projects[imce_tools][type] = "module"
-projects[imce_plupload][version] = 1.2
+projects[imce_plupload][version] = 1.4
 projects[imce_plupload][type] = "module"
 
 
 projects[gtranslate][version] = 1.9
 projects[gtranslate][type] = "module"
+
+projects[enrycher][version] = 1.0-beta1
+projects[enrycher][type] = "module"
 
 projects[i18n][version] = 1.8
 projects[i18n][type] = "module"
@@ -425,10 +449,12 @@ projects[countryicons_shiny][version] = 2.x-dev
 projects[countryicons_shiny][type] = "module"
 projects[countries][version] = 2.1
 projects[countries][type] = "module"
+projects[better_countries][version] = 1.0-beta3
+projects[better_countries][type] = "module"
 
 projects[nodequeue][version] = 2.0-beta1
 projects[nodequeue][type] = "module"
-projects[og][version] = 2.1
+projects[og][version] = 2.4
 projects[og][type] = "module"
 projects[og_vocab][version] = 1.0
 projects[og_vocab][type] = "module"
@@ -464,7 +490,7 @@ projects[mailsystem][version] = 2.34
 projects[mailsystem][type] = "module"
 projects[htmlmail][version] = 2.65
 projects[htmlmail][type] = "module"
-projects[mimemail][version] = 1.0-alpha2
+projects[mimemail][version] = 1.0-beta1
 projects[mimemail][type] = "module"
 
 ; projects[mailcheck][version] = 1.0
@@ -472,7 +498,7 @@ projects[mimemail][type] = "module"
 
 projects[colorbox][version] = 2.4
 projects[colorbox][type] = "module"
-projects[colorbox_node][version] = 3.1
+projects[colorbox_node][version] = 3.2
 projects[colorbox_node][type] = "module"
 
 ; projects[roadblock][version] = 1.0-rc1
@@ -520,6 +546,8 @@ projects[css_emimage][type] = "module"
 projects[browserclass][version] = 1.5
 projects[browserclass][type] = "module"
 
+projects[selectize][version] = 1.0-alpha1
+projects[selectize][type] = "module"
 projects[chosen][version] = 2.0-alpha4
 projects[chosen][type] = "module"
 projects[chain_menu_access][version] = 1.0
@@ -619,7 +647,7 @@ projects[computed_field][type] = "module"
 ; projects[custom_breadcrumbs][version] = 2.x-dev
 ; projects[custom_breadcrumbs][type] = "module"
 
-projects[path_breadcrumbs][version] = 3.0-beta4
+projects[path_breadcrumbs][version] = 3.0-beta6
 projects[path_breadcrumbs][type] = "module"
 
 projects[easy_breadcrumb][version] = 2.3
@@ -628,8 +656,8 @@ projects[easy_breadcrumb][type] = "module"
 projects[custom_formatters][version] = 2.2
 projects[custom_formatters][type] = "module"
 
-projects[link_favicon_formatter][version] = 1.2
-projects[link_favicon_formatter][type] = "module"
+; projects[link_favicon_formatter][version] = 1.2
+; projects[link_favicon_formatter][type] = "module"
 
 projects[field_formatter_css_class][version] = 1.x-dev
 projects[field_formatter_css_class][type] = "module"
@@ -666,6 +694,8 @@ projects[domains_metatag][version] = 1.1
 projects[domains_metatag][type] = "module"
 projects[domain_rules][version] = 1.6
 projects[domain_rules][type] = "module"
+projects[domain_entity][version] = 1.3
+projects[domain_entity][type] = "module"
 
 
 projects[prelaunch][version] = 1.0
@@ -675,9 +705,11 @@ projects[invitation][type] = "module"
 
 projects[dynamic_background][version] = 1.11
 projects[dynamic_background][type] = "module"
-projects[bg_image][version] = 1.1
+projects[bg_image][version] = 1.2
 projects[bg_image][type] = "module"
 
+projects[create_and_reg][version] = 1.1
+projects[create_and_reg][type] = "module"
 
 projects[entity][version] = 1.2
 projects[entity][type] = "module"
@@ -695,14 +727,16 @@ projects[entity_operations][type] = "module"
 projects[content_dependency][version] = 2.0
 projects[content_dependency][type] = "module"
 
-projects[entityreference][version] = 1.0
+projects[entityreference][version] = 1.1
 projects[entityreference][type] = "module"
-projects[entityreference_autocomplete][version] = 1.0
+projects[entityreference_autocomplete][version] = 1.3
 projects[entityreference_autocomplete][type] = "module"
 projects[entityreference_prepopulate][version] = 1.3
 projects[entityreference_prepopulate][type] = "module"
 projects[entityreference_view_widget][version] = 1.x-dev
 projects[entityreference_view_widget][type] = "module"
+projects[entityreference_plus][version] = 1.0
+projects[entityreference_plus][type] = "module"
 
 projects[session_cache][version] = 1.1
 projects[session_cache][type] = "module"
@@ -741,7 +775,7 @@ projects[fp][type] = "module"
 
 projects[filefield_paths][version] = 1.0-beta4
 projects[filefield_paths][type] = "module"
-projects[filefield_sources][version] = 1.8
+projects[filefield_sources][version] = 1.9
 projects[filefield_sources][type] = "module"
 projects[filefield_role_limit][version] = 1.1
 projects[filefield_role_limit][type] = "module"
@@ -766,7 +800,7 @@ projects[redirect][version] = 1.0-rc1
 projects[redirect][type] = "module"
 projects[globalredirect][version] = 1.5
 projects[globalredirect][type] = "module"
-projects[google_analytics][version] = "1.x-dev"
+projects[google_analytics][version] = 1.4
 projects[google_analytics][type] = "module"
 projects[contact_google_analytics][version] = 1.4
 projects[contact_google_analytics][type] = "module"
@@ -940,7 +974,7 @@ projects[drupagram][type] = "module"
 
 ; projects[mobile_tools][version] = 2.x-dev
 ; projects[mobile_tools][type] = "module"
-; projects[browscap][version] = 1.3
+; projects[browscap][version] = 2.1
 ; projects[browscap][type] = "module"
 
 ; projects[views_jqm][version] = 1.0
@@ -975,11 +1009,11 @@ projects[library_attach][type] = "module"
 projects[lexicon][version] = 1.10
 projects[lexicon][type] = "module"
 
-; projects[location][version] = 3.0-rc5
+; projects[location][version] = 3.1
 ; projects[location][type] = "module"
 ; projects[locationmap][version] = 2.1
 ; projects[locationmap][type] = "module"
-; projects[gmap][version] = 2.6
+; projects[gmap][version] = 2.8
 ; projects[gmap][type] = "module"
 
 projects[ip_geoloc][version] = 1.23
@@ -1006,7 +1040,7 @@ projects[addressfield_tokens][type] = "module"
 
 projects[location_taxonomize][version] = 2.4
 projects[location_taxonomize][type] = "module"
-projects[getlocations][version] = 1.7
+projects[getlocations][version] = 1.10
 projects[getlocations][type] = "module"
 
 projects[contactinfo][version] = 1.0-rc1
@@ -1096,7 +1130,7 @@ projects[agls][type] = "module"
 projects[opengraph_filter][version] = 1.0-beta1
 projects[opengraph_filter][type] = "module"
 
-; projects[schemaorg][version] = 1.0-beta3
+; projects[schemaorg][version] = 1.0-beta4
 ; projects[schemaorg][type] = "module"
 
 
@@ -1129,7 +1163,7 @@ projects[subs][type] = "module"
 ; projects[cm_slideshow][version] = 1.0-beta1
 ; projects[cm_slideshow][type] = "module"
 
-projects[monster_menus][version] = 1.10
+projects[monster_menus][version] = 1.14
 projects[monster_menus][type] = "module"
 ; projects[om_maximenu][version] = 1.43
 ; projects[om_maximenu][type] = "module"
@@ -1147,12 +1181,14 @@ projects[proj4js][type] = "module"
 
 projects[leaflet][version] = 1.0-beta3
 projects[leaflet][type] = "module"
-projects[leaflet_more_maps][version] = 1.6
+projects[leaflet_more_maps][version] = 1.7
 projects[leaflet_more_maps][type] = "module"
 projects[leaflet_markercluster][version] = 1.x-dev
 projects[leaflet_markercluster][type] = "module"
 projects[leaflet_geojson][version] = 1.0
 projects[leaflet_geojson][type] = "module"
+projects[leaflet_popup_outside][version] = 1.1
+projects[leaflet_popup_outside][type] = "module"
 
 ; ABANDONED PROJECT
 ; projects[wms][version] = 1.0
@@ -1163,7 +1199,7 @@ projects[leaflet_geojson][type] = "module"
 projects[smart_ip][version] = 2.2
 projects[smart_ip][type] = "module"
 
-projects[geofield][version] = 2.0-beta1
+projects[geofield][version] = 2.1
 projects[geofield][type] = "module"
 
 projects[geocluster][version] = 1.0-beta1
@@ -1171,6 +1207,8 @@ projects[geocluster][type] = "module"
 
 projects[geocoder][version] = 1.2
 projects[geocoder][type] = "module"
+projects[geocoder_autocomplete][version] = 1.x-dev
+projects[geocoder_autocomplete][type] = "module"
 
 projects[geophp][version] = 1.7
 projects[geophp][type] = "module"
@@ -1181,13 +1219,13 @@ projects[views_geojson][type] = "module"
 projects[geonames_field][version] = 1.0-beta1
 projects[geonames_field][type] = "module"
 
-projects[contextual_range_filter][version] = 1.2
+projects[contextual_range_filter][version] = 1.3
 projects[contextual_range_filter][type] = "module"
 
 projects[themekey][version] = 3.x-dev
 projects[themekey][type] = "module"
 
-projects[theme_utils][version] = 1.0
+projects[theme_utils][version] = 1.2
 projects[theme_utils][type] = "module"
 
 projects[pathauto][version] = 1.2
@@ -1229,7 +1267,7 @@ projects[email_confirm][type] = "module"
 projects[vcardfield][version] = 1.5
 projects[vcardfield][type] = "module"
 
-projects[apachesolr][version] = 1.4
+projects[apachesolr][version] = 1.6
 projects[apachesolr][type] = "module"
 projects[apachesolr_asset][version] = 1.0-beta1
 projects[apachesolr_asset][type] = "module"
@@ -1260,7 +1298,7 @@ projects[mostpopular][type] = "module"
 ; projects[field_slideshow][version] = 1.8
 ; projects[field_slideshow][type] = "module"
 
-projects[quicktabs][version] = 3.4
+projects[quicktabs][version] = 3.6
 projects[quicktabs][type] = "module"
 projects[realname][version] = 1.1
 projects[realname][type] = "module"
@@ -1316,7 +1354,7 @@ projects[purge][type] = "module"
 ; projects[nodehierarchy][type] = "module"
 
 
-projects[httprl][version] = 1.x-dev
+projects[httprl][version] = 1.13
 projects[httprl][type] = "module"
 projects[fpa][version] = 2.x-dev
 projects[fpa][type] = "module"
@@ -1328,7 +1366,7 @@ projects[search404][type] = "module"
 ; projects[search_config][type] = "module"
 projects[custom_search][version] = 1.11
 projects[custom_search][type] = "module"
-projects[search_autocomplete][version] = 3.0
+projects[search_autocomplete][version] = 3.3
 projects[search_autocomplete][type] = "module"
 projects[search_api][version] = 1.8
 projects[search_api][type] = "module"
@@ -1338,8 +1376,10 @@ projects[search_api_autocomplete][version] = 1.0-rc1
 projects[search_api_autocomplete][type] = "module"
 projects[search_api_location][version] = 2.0-beta1
 projects[search_api_location][type] = "module"
+projects[search_api_stats][version] = 1.2
+projects[search_api_stats][type] = "module"
 
-projects[ajax_facets][version] = 2.0
+projects[ajax_facets][version] = 2.1
 projects[ajax_facets][type] = "module"
 projects[commerce_search_api][version] = 1.3
 projects[commerce_search_api][type] = "module"
@@ -1389,7 +1429,7 @@ projects[encrypt_submissions][type] = "module"
 
 projects[seckit][version] = 1.6
 projects[seckit][type] = "module"
-projects[simplenews][version] = 1.0
+projects[simplenews][version] = 1.1
 projects[simplenews][type] = "module"
 projects[simplenews_content_selection][version] = 2.0
 projects[simplenews_content_selection][type] = "module"
@@ -1420,6 +1460,8 @@ projects[superfish][type] = "module"
 
 projects[token][version] = 1.5
 projects[token][type] = "module"
+projects[imagefield_tokens][version] = 1.x-dev
+projects[imagefield_tokens][type] = "module"
 projects[image_token_attributes][version] = 1.0
 projects[image_token_attributes][type] = "module"
 projects[token_formatters][version] = 1.1
@@ -1473,6 +1515,9 @@ projects[panelizer][type] = "module"
 projects[panels_content_cache][version] = 1.0
 projects[panels_content_cache][type] = "module"
 
+projects[panels_bootstrap_styles][version] = 1.0-alpha1
+projects[panels_bootstrap_styles][type] = "module"
+
 projects[panel_variant_page_title][version] = 1.1
 projects[panel_variant_page_title][type] = "module"
 projects[panels_extra_layouts][version] = 1.5
@@ -1481,7 +1526,7 @@ projects[panels_breadcrumbs][version] = 2.1
 projects[panels_breadcrumbs][type] = "module"
 projects[print][version] = 1.2
 projects[print][type] = "module"
-projects[rules][version] = 2.4
+projects[rules][version] = 2.6
 projects[rules][type] = "module"
 projects[views_rules][version] = 1.0
 projects[views_rules][type] = "module"
@@ -1501,7 +1546,7 @@ projects[style_usage][type] = "module"
 
 projects[back_to_top][version] = 1.3
 projects[back_to_top][type] = "module"
-projects[linkit][version] = 2.6
+projects[linkit][version] = 3.1
 projects[linkit][type] = "module"
 projects[linkit_views][version] = 1.2
 projects[linkit_views][type] = "module"
@@ -1532,7 +1577,7 @@ projects[flood_control][type] = "module"
 projects[speedy][version] = 1.8
 projects[speedy][type] = "module"
 
-projects[advagg][version] = 2.0-rc3
+projects[advagg][version] = 2.3
 projects[advagg][type] = "module"
 
 projects[similarterms][version] = 2.3
@@ -1598,7 +1643,7 @@ projects[jquery_countdown_timer][type] = "module"
 projects[jstimer][version] = 1.3
 projects[jstimer][type] = "module"
 
-projects[themekey][version] = 2.3
+projects[themekey][version] = 2.5
 projects[themekey][type] = "module"
 projects[role_theme_switcher][version] = 1.1
 projects[role_theme_switcher][type] = "module"
@@ -1608,7 +1653,7 @@ projects[apply_for_role][type] = "module"
 projects[autoassignrole][version] = 1.0-beta1
 projects[autoassignrole][type] = "module"
 
-projects[typogrify][version] = 1.0-rc7
+projects[typogrify][version] = 1.0-rc8
 projects[typogrify][type] = "module"
 
 ; projects[videojs][version] = 2.2
@@ -1632,7 +1677,10 @@ projects[domwindow][type] = "module"
 ; projects[epsacrop][version] = 2.2
 ; projects[epsacrop][type] = "module"
 
-projects[file_entity][version] = 2.0-alpha1
+projects[unveil][version] = 1.1
+projects[unveil][type] = "module"
+
+projects[file_entity][version] = 2.0-alpha2
 projects[file_entity][type] = "module"
 
 projects[filepicker][version] = 1.4
@@ -1654,11 +1702,16 @@ projects[imagepicker][type] = "module"
 ; projects[fblikebutton][type] = "module"
 projects[facebook_rules][version] = 1.4
 projects[facebook_rules][type] = "module"
-projects[fb][version] = 3.3-beta6
+projects[fb][version] = 3.4
 projects[fb][type] = "module"
 
-projects[hybridauth][version] = 2.7
+projects[hybridauth][version] = 2.8
 projects[hybridauth][type] = "module"
+
+projects[real_estate][version] = 1.x-dev
+projects[real_estate][type] = "module"
+projects[mortgage_calculator][version] = 1.1
+projects[mortgage_calculator][type] = "module"
 
 projects[social-login][version] = 1.3
 projects[social-login][type] = "module"
@@ -1694,13 +1747,22 @@ projects[vimeo_link_formatter][version] = 1.1
 projects[vimeo_link_formatter][type] = "module"
 
 
-projects[media][version] = 1.3
+projects[angularjs][version] = 1.3
+projects[angularjs][type] = "module"
+projects[restws][version] = 2.1
+projects[restws][type] = "module"
+projects[restws_search_api][version] = 1.1
+projects[restws_search_api][type] = "module"
+projects[feeds_jsonpath_parser][version] = 1.1
+projects[feeds_jsonpath_parser][type] = "module"
+
+projects[media][version] = 2.0-alpha3
 projects[media][type] = "module"
 ; projects[media_browser_plus][version] = 1.0-beta3
 ; projects[media_browser_plus][type] = "module"
 projects[media_colorbox][version] = 1.0-rc3
 projects[media_colorbox][type] = "module"
-projects[media_youtube][version] = 2.0-rc3
+projects[media_youtube][version] = 2.0-rc4
 projects[media_youtube][type] = "module"
 projects[media_vimeo][version] = 1.0-beta5
 projects[media_vimeo][type] = "module"
@@ -1739,7 +1801,7 @@ projects[soundcloud_filter][type] = "module"
 ; projects[menu_force][type] = "module"
 projects[menu_token][version] = 1.0-beta5
 projects[menu_token][type] = "module"
-projects[path_alias_xt][version] = 1.x-dev
+projects[path_alias_xt][version] = 1.1
 projects[path_alias_xt][type] = "module"
 
 
@@ -1763,7 +1825,7 @@ projects[path_alias_xt][type] = "module"
 projects[plupload][version] = 1.1
 projects[plupload][type] = "module"
 
-projects[mandrill][version] = 1.4
+projects[mandrill][version] = 1.5
 projects[mandrill][type] = "module"
 projects[mailchimp][version] = 2.12
 projects[mailchimp][type] = "module"
@@ -1782,8 +1844,8 @@ projects[pasteformat][version] = 1.4
 projects[pasteformat][type] = "module"
 ; projects[ckeditor_link][version] = 2.3
 ; projects[ckeditor_link][type] = "module"
-projects[ckeditor_link_user][version] = 1.0
-projects[ckeditor_link_user][type] = "module"
+; projects[ckeditor_link_user][version] = 1.0
+; projects[ckeditor_link_user][type] = "module"
 projects[extlink][version] = 1.13
 projects[extlink][type] = "module"
 projects[intlinks][version] = 1.3
@@ -1879,10 +1941,15 @@ projects[filter_harmonizer][type] = "module"
 projects[views_between_dates_filter][version] = 1.0
 projects[views_between_dates_filter][type] = "module"
 
-projects[views_aggregator][version] = 1.0-beta4
+projects[views_aggregator][version] = 1.0
 projects[views_aggregator][type] = "module"
 projects[views_megarow][version] = 1.x-dev
 projects[views_megarow][type] = "module"
+
+
+projects[views_crosstab][version] = 1.0-alpha2
+projects[views_crosstab][type] = "module"
+
 
 projects[exposed_filter_data][version] = 1.1
 projects[exposed_filter_data][type] = "module"
@@ -1961,6 +2028,9 @@ projects[fivestar_smiley][type] = "module"
 projects[votingapi][version] = 2.11
 projects[votingapi][type] = "module"
 
+projects[likedislike][version] = 1.0
+projects[likedislike][type] = "module"
+
 projects[reviews][version] = 1.15
 projects[reviews][type] = "module"
 
@@ -1999,7 +2069,7 @@ projects[webform_html_textarea][version] = 1.4
 projects[webform_html_textarea][type] = "module"
 projects[webform_patched][version] = 3.18
 projects[webform_patched][type] = "module"
-projects[webform_phone][version] = 1.11
+projects[webform_phone][version] = 1.14
 projects[webform_phone][type] = "module"
 projects[webform_tokens][version] = 1.2
 projects[webform_tokens][type] = "module"
@@ -2025,15 +2095,15 @@ projects[selectmenu][version] = 2.0
 projects[selectmenu][type] = "module"
 projects[improved_multi_select][version] = 1.2
 projects[improved_multi_select][type] = "module"
-projects[select_with_style][version] = 1.9
+projects[select_with_style][version] = 1.10
 projects[select_with_style][type] = "module"
 
 
 projects[multiselect][version] = 1.9
 projects[multiselect][type] = "module"
 
-; projects[jquery_ui_multiselect_widget][version] = 1.6
-; projects[jquery_ui_multiselect_widget][type] = "module"
+projects[jquery_ui_multiselect_widget][version] = 1.7
+projects[jquery_ui_multiselect_widget][type] = "module"
 
 
 
@@ -2131,8 +2201,12 @@ projects[responsive_blog][type] = "theme"
 projects[kalatheme][version] = 1.0-rc3
 projects[kalatheme][type] = "theme"
 
-projects[bootstrap][version] = 2.1
+projects[bootstrap][version] = 3.0-rc2
 projects[bootstrap][type] = "theme"
+projects[views_bootstrap][version] = 2.0
+projects[views_bootstrap][type] = "module"
+projects[panels_bootstrap_layouts][version] = 3.x-dev
+projects[panels_bootstrap_layouts][type] = "module"
 
 projects[footheme][version] = 3.0-rc1
 projects[footheme][type] = "theme"
