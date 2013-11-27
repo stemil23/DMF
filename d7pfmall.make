@@ -38,8 +38,8 @@ projects[] = drupal
 ; --------
 
 
-projects[zurb-foundation][version] = 4.0-beta2
-projects[zurb-foundation][theme] = "module"
+projects[zurb-foundation][version] = 4.0-beta1
+projects[zurb-foundation][type] = "theme"
 projects[zurb_clearing][version] = 1.0-beta1
 projects[zurb_clearing][type] = "module"
 projects[zurb_interchange][version] = 1.0-beta3
@@ -164,7 +164,7 @@ projects[commerce_auction][version] = 1.x-dev
 projects[commerce_auction][type] = "module"
 projects[commerce_autosku][version] = 1.1
 projects[commerce_autosku][type] = "module"
-projects[commerce_features][version] = 1.0-rc1
+projects[commerce_features][version] = 1.0
 projects[commerce_features][type] = "module"
 projects[commerce_price_table][version] = 1.1
 projects[commerce_price_table][type] = "module"
@@ -445,8 +445,10 @@ projects[lang_dropdown][version] = 1.5
 projects[lang_dropdown][type] = "module"
 projects[countryicons][version] = 2.x-dev
 projects[countryicons][type] = "module"
-projects[countryicons_shiny][version] = 2.x-dev
+projects[countryicons_shiny][version] = 1.0
 projects[countryicons_shiny][type] = "module"
+projects[countryicons_gosquared][version] = 2.x-dev
+projects[countryicons_gosquared][type] = "module"
 projects[countries][version] = 2.1
 projects[countries][type] = "module"
 projects[better_countries][version] = 1.0-beta3
